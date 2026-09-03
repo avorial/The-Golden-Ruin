@@ -27,52 +27,6 @@
     "excerpt": "This page is a quick tour of CampaignRepo — delete it whenever you're ready. ## Writing pages Pages are Markdown files with YAML frontmatter. You can edit them here or open the `wiki/pages/` folder directly in any text editor. Use **wiki links** to connect pages: `[[Character Name]]` or `[[Character"
   },
   {
-    "id": "11:gideon-marsh",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "gideon-marsh",
-    "title": "Gideon Marsh",
-    "category": "npc",
-    "summary": "Haunted playwright. Adapted the forbidden script and now can't stop hearing the applause.",
-    "tags": [
-      "demo",
-      "npc"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "The Audience of the Sign",
-      "The Thespian Theatre",
-      "The Second Act",
-      "The Audience of the Sign",
-      "The Second Act",
-      "Cora Ellison",
-      "The Yellow Manuscript",
-      "The Second Act",
-      "The Yellow Manuscript",
-      "The Audience of the Sign"
-    ],
-    "backlinks": [
-      "cora-ellison",
-      "cora-ellison",
-      "the-audience-of-the-sign",
-      "the-audience-of-the-sign",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-second-act",
-      "the-thespian-theatre",
-      "the-thespian-theatre",
-      "the-thespian-theatre",
-      "the-yellow-manuscript"
-    ],
-    "keyLinks": [],
-    "excerpt": "# Gideon Marsh > Haunted playwright ## Public Face Adapted the forbidden script and now can't stop hearing the applause. ## Ties - Aligned with [[The Audience of the Sign]]. - Usually found at [[The Thespian Theatre]]. ## Wants - To survive the next move by [[The Audience of the Sign]]. - To keep [["
-  },
-  {
     "id": "11:the-audience-of-the-sign",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
