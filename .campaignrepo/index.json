@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T01:31:38.997Z",
+  "generatedAt": "2026-09-03T01:31:51.061Z",
   "pages": [
     {
       "id": "lore-getting-started",
@@ -34,7 +34,7 @@
         "gm"
       ],
       "links": [
-        "location-the-thespian-theatre",
+        "unresolved:the-thespian-theatre",
         "unresolved:gideon-marsh",
         "unresolved:the-audience-of-the-sign",
         "item-the-yellow-manuscript",
@@ -43,7 +43,7 @@
         "unresolved:gideon-marsh",
         "unresolved:the-audience-of-the-sign",
         "lore-the-second-act",
-        "location-the-thespian-theatre",
+        "unresolved:the-thespian-theatre",
         "unresolved:gideon-marsh",
         "unresolved:the-audience-of-the-sign",
         "item-the-yellow-manuscript",
@@ -66,7 +66,7 @@
       ],
       "links": [
         "event-the-king-in-yellow-rpg-opening-situation",
-        "location-the-thespian-theatre",
+        "unresolved:the-thespian-theatre",
         "unresolved:the-audience-of-the-sign",
         "unresolved:cora-ellison"
       ],
@@ -86,10 +86,10 @@
         "threat"
       ],
       "links": [
-        "location-the-thespian-theatre",
+        "unresolved:the-thespian-theatre",
         "unresolved:the-audience-of-the-sign",
         "item-the-yellow-manuscript",
-        "location-the-thespian-theatre",
+        "unresolved:the-thespian-theatre",
         "unresolved:the-audience-of-the-sign",
         "unresolved:gideon-marsh",
         "item-the-yellow-manuscript",
@@ -98,36 +98,6 @@
       "aliases": [],
       "summary": "The point in the play past which nothing is ever the same.",
       "visibility": "gm",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "location-the-thespian-theatre",
-      "title": "The Thespian Theatre",
-      "path": "wiki/pages/the-thespian-theatre.md",
-      "type": "location",
-      "tags": [
-        "demo",
-        "location"
-      ],
-      "links": [
-        "unresolved:gideon-marsh",
-        "unresolved:the-audience-of-the-sign",
-        "lore-the-second-act",
-        "item-the-yellow-manuscript",
-        "unresolved:gideon-marsh",
-        "location-the-thespian-theatre",
-        "unresolved:the-audience-of-the-sign",
-        "lore-the-second-act",
-        "unresolved:gideon-marsh",
-        "unresolved:cora-ellison",
-        "unresolved:the-audience-of-the-sign",
-        "location-the-thespian-theatre",
-        "item-the-yellow-manuscript"
-      ],
-      "aliases": [],
-      "summary": "A cursed play spreads madness through those who read too far.",
-      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
     },
@@ -142,11 +112,11 @@
       ],
       "links": [
         "unresolved:the-audience-of-the-sign",
-        "location-the-thespian-theatre",
+        "unresolved:the-thespian-theatre",
         "item-the-yellow-manuscript",
         "unresolved:the-audience-of-the-sign",
         "unresolved:gideon-marsh",
-        "location-the-thespian-theatre",
+        "unresolved:the-thespian-theatre",
         "item-the-yellow-manuscript",
         "lore-the-second-act"
       ],
