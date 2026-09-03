@@ -1,7 +1,30 @@
 {
   "name": "Paris Arrondissements",
   "image": "Paris-Map.webp",
-  "pins": [],
+  "pins": [
+    {
+      "x": 0.37959376685264173,
+      "y": 0.15689034346476985,
+      "label": "House of the North Star",
+      "pageSlug": "House-of-the-North-Star",
+      "mapSlug": "",
+      "layer": "default",
+      "icon": "🏰",
+      "discovered": true,
+      "image": ""
+    },
+    {
+      "x": 0.41647478349028255,
+      "y": 0.2218366289087073,
+      "label": "Chez le Père Lathuile",
+      "pageSlug": "Chez-le-P-re-Lathuile",
+      "mapSlug": "",
+      "layer": "default",
+      "icon": "⭐",
+      "discovered": true,
+      "image": ""
+    }
+  ],
   "layers": [
     {
       "id": "default",
