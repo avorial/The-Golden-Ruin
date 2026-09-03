@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T01:32:01.673Z",
+  "generatedAt": "2026-09-03T01:32:14.784Z",
   "pages": [
     {
       "id": "lore-getting-started",
@@ -24,38 +24,6 @@
       "keyLinks": []
     },
     {
-      "id": "event-the-king-in-yellow-rpg-opening-situation",
-      "title": "The King in Yellow RPG Opening Situation",
-      "path": "wiki/pages/the-king-in-yellow-rpg-opening-situation.md",
-      "type": "event",
-      "tags": [
-        "demo",
-        "opening",
-        "gm"
-      ],
-      "links": [
-        "unresolved:the-thespian-theatre",
-        "unresolved:gideon-marsh",
-        "unresolved:the-audience-of-the-sign",
-        "unresolved:the-yellow-manuscript",
-        "lore-the-second-act",
-        "unresolved:cora-ellison",
-        "unresolved:gideon-marsh",
-        "unresolved:the-audience-of-the-sign",
-        "lore-the-second-act",
-        "unresolved:the-thespian-theatre",
-        "unresolved:gideon-marsh",
-        "unresolved:the-audience-of-the-sign",
-        "unresolved:the-yellow-manuscript",
-        "lore-the-second-act"
-      ],
-      "aliases": [],
-      "summary": "A ready-to-run first situation for the The King in Yellow RPG demo.",
-      "visibility": "gm",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "lore-the-king-in-yellow-rpg-primer",
       "title": "The King in Yellow RPG — GM Primer & Checklist",
       "path": "wiki/pages/the-king-in-yellow-rpg-primer.md",
@@ -65,7 +33,7 @@
         "reference"
       ],
       "links": [
-        "event-the-king-in-yellow-rpg-opening-situation",
+        "unresolved:the-king-in-yellow-rpg-opening-situation",
         "unresolved:the-thespian-theatre",
         "unresolved:the-audience-of-the-sign",
         "unresolved:cora-ellison"
