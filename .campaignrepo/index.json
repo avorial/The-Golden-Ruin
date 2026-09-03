@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T03:41:23.770Z",
+  "generatedAt": "2026-09-03T03:48:17.226Z",
   "pages": [
     {
       "id": "location-House-of-the-North-Star",
@@ -10,7 +10,10 @@
       "tags": [
         "location"
       ],
-      "links": [],
+      "links": [
+        "unresolved:17th-arrondissement",
+        "unresolved:silas-burke-head-butler"
+      ],
       "aliases": [],
       "summary": "A secluded artists' retreat opened to the children of America's aristocracy by an heir whose family grief became a legend of guidance.",
       "visibility": "players",

@@ -15,12 +15,15 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
+    "links": [
+      "17th arrondissement",
+      "Silas Burke, Head Butler"
+    ],
     "backlinks": [],
     "keyLinks": [
       "House of the North Star"
     ],
-    "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's 17th arrondissement. It is cl"
+    "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's [[17th arrondissement]]. It i"
   },
   {
     "id": "11:media:wiki/media/HotN-Floorplan.png",
