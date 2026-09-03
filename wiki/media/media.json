@@ -34,5 +34,15 @@
       "chez-le-pere-lathuile",
       "floorplan"
     ]
+  },
+  "wiki/media/CLPL-Manet-Garden.jpg": {
+    "alt": "Édouard Manet's 1879 painting Chez le Père Lathuile, en plein air",
+    "caption": "Édouard Manet's Chez le Père Lathuile, en plein air, painted in the restaurant garden in 1879.",
+    "tags": [
+      "location",
+      "chez-le-pere-lathuile",
+      "manet",
+      "painting"
+    ]
   }
 }

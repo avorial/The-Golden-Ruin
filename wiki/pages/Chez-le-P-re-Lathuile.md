@@ -111,6 +111,8 @@ One ate at Lathuile.
 
 In 1879, [[Édouard Manet]] painted **[[Chez le Père Lathuile, en plein air]]** in the restaurant's garden.
 
+![Édouard Manet's Chez le Père Lathuile, en plein air, painted in the restaurant garden in 1879.](/wiki/media/CLPL-Manet-Garden.jpg)
+
 The painting shows a young man leaning eagerly toward a fashionable woman seated beneath the trees.
 
 The young man was [[Louis Gauthier-Lathuile]], a member of the family who worked at the restaurant.
