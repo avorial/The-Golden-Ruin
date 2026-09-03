@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "11:House-of-the-North-Star",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "House-of-the-North-Star",
+    "title": "House of the North Star",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# House of the North Star ## Overview ## Notable Sites"
+  }
+]
