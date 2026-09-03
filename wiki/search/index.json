@@ -27,48 +27,6 @@
     "excerpt": "This page is a quick tour of CampaignRepo — delete it whenever you're ready. ## Writing pages Pages are Markdown files with YAML frontmatter. You can edit them here or open the `wiki/pages/` folder directly in any text editor. Use **wiki links** to connect pages: `[[Character Name]]` or `[[Character"
   },
   {
-    "id": "11:the-audience-of-the-sign",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "the-audience-of-the-sign",
-    "title": "The Audience of the Sign",
-    "category": "organization",
-    "summary": "Devotees who have seen the second act and smile too much.",
-    "tags": [
-      "demo",
-      "faction"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "The Thespian Theatre",
-      "The Yellow Manuscript",
-      "Gideon Marsh",
-      "The Second Act",
-      "Gideon Marsh",
-      "The Thespian Theatre",
-      "The Second Act"
-    ],
-    "backlinks": [
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-primer",
-      "the-second-act",
-      "the-second-act",
-      "the-thespian-theatre",
-      "the-thespian-theatre",
-      "the-thespian-theatre",
-      "the-yellow-manuscript",
-      "the-yellow-manuscript"
-    ],
-    "keyLinks": [],
-    "excerpt": "# The Audience of the Sign > Devotees who have seen the second act and smile too much. ## Goals - Secure influence over [[The Thespian Theatre]] before rivals realize what is at stake. - Control access to the [[The Yellow Manuscript]] without being blamed for the fallout. - Use [[Gideon Marsh]] as a"
-  },
-  {
     "id": "11:the-king-in-yellow-rpg-opening-situation",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
