@@ -1,5 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T01:32:49.289Z",
-  "pages": []
+  "generatedAt": "2026-09-03T01:32:55.491Z",
+  "pages": [
+    {
+      "id": "lore-Campaign",
+      "title": "Campaign",
+      "path": "wiki/pages/Campaign.md",
+      "type": "lore",
+      "tags": [
+        "lore"
+      ],
+      "links": [
+        "unresolved:Character",
+        "unresolved:NPC"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    }
+  ]
 }
