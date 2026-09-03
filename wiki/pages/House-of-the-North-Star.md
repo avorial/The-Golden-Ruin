@@ -22,7 +22,7 @@ cover: /wiki/media/HotN-Street-View.png
 
 ## Location
 
-The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's 17th arrondissement. It is close enough to the Étoile and Place des Ternes for wealthy patrons to arrive without inconvenience, but removed from the grand hotels and public theatres where every arrival might be noticed.
+The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's [[17th arrondissement]]. It is close enough to the Étoile and Place des Ternes for wealthy patrons to arrive without inconvenience, but removed from the grand hotels and public theatres where every arrival might be noticed.
 
 The retreat occupies the principal floors of an imposing corner residence. Its elevation above the street muffles much of the noise from Wagram, though the sound of horses and carriage wheels still rises from the avenue at busy hours.
 
@@ -223,7 +223,7 @@ They know when to appear with tea, coal, towels, fresh paper, or another lamp.
 
 They also know when a student should not be left alone with a locked door, a mirror, or an open window after dusk.
 
-- **Silas Burke, Head Butler:** Burke governs the household with such quiet exactness that argument with him quickly feels childish. He receives visitors, controls the keys, assigns servants, and always seems to know which room a guest has entered before anyone tells him. He is unfailingly courteous to the students but rarely affectionate.
+- **[[Silas Burke, Head Butler]]:** Burke governs the household with such quiet exactness that argument with him quickly feels childish. He receives visitors, controls the keys, assigns servants, and always seems to know which room a guest has entered before anyone tells him. He is unfailingly courteous to the students but rarely affectionate.
 
 - **Élise Marceau, Maid:** Élise tends the bedrooms, gallery, linens, and the thousand minor domestic disasters produced by nervous young artists. She is young enough that students underestimate her and experienced enough to know exactly what they hide beneath mattresses, behind canvases, and inside folded letters.
 
