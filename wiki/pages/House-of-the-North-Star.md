@@ -14,6 +14,7 @@ keyLinks:
 aliases: []
 lastEditedBy: patricthomas
 cover: /wiki/media/HotN-Street-View.png
+parent: 17th-Arrondissement
 ---
 
 # House of the North Star
