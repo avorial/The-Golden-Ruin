@@ -14,7 +14,7 @@ keyLinks:
   - House of the North Star
 aliases:
   - Burke
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 cover: /wiki/media/Silas-Burke.png
 ---
 
@@ -88,14 +88,6 @@ cover: /wiki/media/Silas-Burke.png
 </aside>
 </div>
 
-## Scene Use
-
-| If the characters... | Burke... |
-| --- | --- |
-| ask about Armand's death | becomes professionally still and asks what prompted the question. |
-| try to leave after curfew | already has a lamp lit in the corridor they meant to use. |
-| frighten a student | steps between them and the child without any visible anger. |
-| mention the North Star symbol | asks where they saw it, not what they think it means. |
 
 ## Relationships
 
@@ -135,4 +127,14 @@ He has sent at least three letters to other Caretakers since the first American 
 - Burke intercepts a letter and returns it opened but resealed.
 - Burke refuses Lucien an order in private, then resumes perfect service in public.
 - Burke asks a character to trust him without explaining why.
+
+## Scene Use
+
+| If the characters... | Burke... |
+| --- | --- |
+| ask about Armand's death | becomes professionally still and asks what prompted the question. |
+| try to leave after curfew | already has a lamp lit in the corridor they meant to use. |
+| frighten a student | steps between them and the child without any visible anger. |
+| mention the North Star symbol | asks where they saw it, not what they think it means. |
+
 :::
