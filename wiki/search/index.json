@@ -1,5 +1,29 @@
 [
   {
+    "id": "11:17th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "17th-Arrondissement",
+    "title": "17th Arrondissement",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Chez-le-P-re-Lathuile",
+      "House-of-the-North-Star"
+    ],
+    "keyLinks": [],
+    "excerpt": "# 17th Arrondissement ## Public Face ## Relationships ## Secrets"
+  },
+  {
     "id": "11:Chez-le-P-re-Lathuile",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
