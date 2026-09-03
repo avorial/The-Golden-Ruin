@@ -6,7 +6,7 @@
     "slug": "House-of-the-North-Star",
     "title": "House of the North Star",
     "category": "location",
-    "summary": "",
+    "summary": "A secluded artists' retreat opened to the children of America's aristocracy by an heir whose family grief became a legend of guidance.",
     "tags": [
       "location"
     ],
@@ -17,7 +17,59 @@
     "playerText": "",
     "links": [],
     "backlinks": [],
+    "keyLinks": [
+      "House of the North Star"
+    ],
+    "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Theodule Ribot and Avenue de Wagram, in the Plaine-de-Monceaux edge of the 17th arrondissement. It is close "
+  },
+  {
+    "id": "11:media:wiki/media/HotN-Floorplan.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/HotN-Floorplan.png",
+    "title": "Ground floor plan of the House of the North Star showing salons, galleries, bedrooms, kitchens, and courtyards",
+    "category": "media",
+    "summary": "Ground floor plan used by staff, tutors, and invited guests.",
+    "tags": [
+      "location",
+      "house-of-the-north-star",
+      "floorplan"
+    ],
+    "aliases": [
+      "HotN-Floorplan.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
     "keyLinks": [],
-    "excerpt": "# House of the North Star ## Overview ## Notable Sites"
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/HotN-Street-View.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/HotN-Street-View.png",
+    "title": "Sepia street view of the House of the North Star on Rue Theodule Ribot",
+    "category": "media",
+    "summary": "The discreet street frontage of the House of the North Star.",
+    "tags": [
+      "location",
+      "house-of-the-north-star",
+      "street-view"
+    ],
+    "aliases": [
+      "HotN-Street-View.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T02:37:57.003Z",
+  "generatedAt": "2026-09-03T03:06:49.372Z",
   "pages": [
     {
       "id": "location-House-of-the-North-Star",
@@ -12,10 +12,12 @@
       ],
       "links": [],
       "aliases": [],
-      "summary": "",
+      "summary": "A secluded artists' retreat opened to the children of America's aristocracy by an heir whose family grief became a legend of guidance.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [
+        "House of the North Star"
+      ]
     }
   ]
 }
