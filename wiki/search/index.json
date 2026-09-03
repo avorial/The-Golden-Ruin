@@ -133,46 +133,5 @@
     ],
     "keyLinks": [],
     "excerpt": "# The Second Act > The looming danger of this demo. ## What It Is The point in the play past which nothing is ever the same. ## Signs & Portents - Felt most strongly at [[The Thespian Theatre]]. ## The Stakes - [[The Audience of the Sign]] may be complicit. - The [[The Yellow Manuscript]] is somehow"
-  },
-  {
-    "id": "11:the-yellow-manuscript",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "the-yellow-manuscript",
-    "title": "The Yellow Manuscript",
-    "category": "item",
-    "summary": "A slim script bound in pale leather — reading it is the whole danger.",
-    "tags": [
-      "demo",
-      "item"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "The Audience of the Sign",
-      "The Thespian Theatre",
-      "The Yellow Manuscript",
-      "The Audience of the Sign",
-      "Gideon Marsh",
-      "The Thespian Theatre",
-      "The Yellow Manuscript",
-      "The Second Act"
-    ],
-    "backlinks": [
-      "the-audience-of-the-sign",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-second-act",
-      "the-second-act",
-      "the-thespian-theatre",
-      "the-thespian-theatre",
-      "the-yellow-manuscript",
-      "the-yellow-manuscript"
-    ],
-    "keyLinks": [],
-    "excerpt": "# The Yellow Manuscript > A slim script bound in pale leather — reading it is the whole danger. ## Description A slim script bound in pale leather — reading it is the whole danger. ## Provenance - Coveted by [[The Audience of the Sign]]. - Last seen near [[The Thespian Theatre]]. _Demo content — edi"
   }
 ]
