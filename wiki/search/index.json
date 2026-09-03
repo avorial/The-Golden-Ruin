@@ -102,7 +102,10 @@
       "17th arrondissement",
       "Silas Burke, Head Butler"
     ],
-    "backlinks": [],
+    "backlinks": [
+      "Silas-Burke-Head-Butler",
+      "Silas-Burke-Head-Butler"
+    ],
     "keyLinks": [
       "House of the North Star"
     ],
@@ -116,21 +119,32 @@
     "slug": "Silas-Burke-Head-Butler",
     "title": "Silas Burke, Head Butler",
     "category": "npc",
-    "summary": "A ready-to-run Yellow King NPC with portrait, motives, tells, Paris abilities, and scene notes.",
+    "summary": "The controlled, long-serving head butler of the House of the North Star.",
     "tags": [
-      "npc"
+      "npc",
+      "house-of-the-north-star",
+      "staff"
     ],
-    "aliases": [],
+    "aliases": [
+      "Burke"
+    ],
     "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
+    "links": [
+      "House of the North Star",
+      "Lucien de Vauclair",
+      "House of the North Star",
+      "Lucien de Vauclair"
+    ],
     "backlinks": [
       "House-of-the-North-Star"
     ],
-    "keyLinks": [],
-    "excerpt": "# Silas Burke, Head Butler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Give the NPC a first impression players can act on: posture, voice, clothes, smell of tobacco or turpentine, the way they hesitate before a particular name. Keep this "
+    "keyLinks": [
+      "House of the North Star"
+    ],
+    "excerpt": "# Silas Burke, Head Butler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Silas Burke is the man who appears before anyone has quite decided to ring. He is broad-shouldered, severe without being theatrical, and dressed with the immaculate re"
   },
   {
     "id": "11:media:wiki/media/CLPL-Floorplan.png",
@@ -269,6 +283,32 @@
     "tags": [],
     "aliases": [
       "Paris-Map.webp"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Silas-Burke.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Silas-Burke.png",
+    "title": "Portrait of Silas Burke in formal butler's dress",
+    "category": "media",
+    "summary": "Silas Burke, head butler of the House of the North Star.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff",
+      "portrait"
+    ],
+    "aliases": [
+      "Silas-Burke.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",

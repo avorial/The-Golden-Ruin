@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T16:31:46.785Z",
+  "generatedAt": "2026-09-03T16:40:36.636Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -95,14 +95,25 @@
       "path": "wiki/pages/Silas-Burke-Head-Butler.md",
       "type": "npc",
       "tags": [
-        "npc"
+        "npc",
+        "house-of-the-north-star",
+        "staff"
       ],
-      "links": [],
-      "aliases": [],
-      "summary": "A ready-to-run Yellow King NPC with portrait, motives, tells, Paris abilities, and scene notes.",
+      "links": [
+        "location-House-of-the-North-Star",
+        "unresolved:lucien-de-vauclair",
+        "location-House-of-the-North-Star",
+        "unresolved:lucien-de-vauclair"
+      ],
+      "aliases": [
+        "Burke"
+      ],
+      "summary": "The controlled, long-serving head butler of the House of the North Star.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [
+        "House of the North Star"
+      ]
     }
   ]
 }
