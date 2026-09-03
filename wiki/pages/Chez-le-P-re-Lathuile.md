@@ -2,7 +2,8 @@
 category: location
 type: location
 name: Chez le Père Lathuile
-summary: "An old Avenue de Clichy restaurant and garden café where artists, patrons, lovers, and the dead keep overlapping reservations."
+summary: An old Avenue de Clichy restaurant and garden café where artists,
+  patrons, lovers, and the dead keep overlapping reservations.
 tags:
   - location
 visibility: players
@@ -10,8 +11,9 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 cover: /wiki/media/CLPL-Setting.png
+parent: 17th-Arrondissement
 ---
 
 # Chez le Père Lathuile
