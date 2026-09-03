@@ -27,46 +27,6 @@
     "excerpt": "This page is a quick tour of CampaignRepo — delete it whenever you're ready. ## Writing pages Pages are Markdown files with YAML frontmatter. You can edit them here or open the `wiki/pages/` folder directly in any text editor. Use **wiki links** to connect pages: `[[Character Name]]` or `[[Character"
   },
   {
-    "id": "11:the-king-in-yellow-rpg-opening-situation",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "the-king-in-yellow-rpg-opening-situation",
-    "title": "The King in Yellow RPG Opening Situation",
-    "category": "event",
-    "summary": "A ready-to-run first situation for the The King in Yellow RPG demo.",
-    "tags": [
-      "demo",
-      "opening",
-      "gm"
-    ],
-    "aliases": [],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "The Thespian Theatre",
-      "Gideon Marsh",
-      "The Audience of the Sign",
-      "The Yellow Manuscript",
-      "The Second Act",
-      "Cora Ellison",
-      "Gideon Marsh",
-      "The Audience of the Sign",
-      "The Second Act",
-      "The Thespian Theatre",
-      "Gideon Marsh",
-      "The Audience of the Sign",
-      "The Yellow Manuscript",
-      "The Second Act"
-    ],
-    "backlinks": [
-      "the-king-in-yellow-rpg-primer"
-    ],
-    "keyLinks": [],
-    "excerpt": "# The King in Yellow RPG Opening Situation > A first playable scene tying the sample pages together. ## Start Here The party arrives at [[The Thespian Theatre]] because [[Gideon Marsh]] sent a warning, a job offer, a confession, or a plea for help. [[The Audience of the Sign]] is already moving, the"
-  },
-  {
     "id": "11:the-king-in-yellow-rpg-primer",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
