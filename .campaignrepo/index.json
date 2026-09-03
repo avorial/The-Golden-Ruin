@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T16:18:43.747Z",
+  "generatedAt": "2026-09-03T16:19:02.015Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -78,7 +78,7 @@
       ],
       "links": [
         "location-17th-Arrondissement",
-        "unresolved:silas-burke-head-butler"
+        "npc-Silas-Burke-Head-Butler"
       ],
       "aliases": [],
       "summary": "A secluded artists' retreat opened to the children of America's aristocracy by an heir whose family grief became a legend of guidance.",
