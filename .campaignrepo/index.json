@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T01:32:14.784Z",
+  "generatedAt": "2026-09-03T01:32:23.872Z",
   "pages": [
     {
       "id": "lore-getting-started",
@@ -19,27 +19,6 @@
       ],
       "aliases": [],
       "summary": "Getting started guide for CampaignRepo.",
-      "visibility": "gm",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "lore-the-king-in-yellow-rpg-primer",
-      "title": "The King in Yellow RPG — GM Primer & Checklist",
-      "path": "wiki/pages/the-king-in-yellow-rpg-primer.md",
-      "type": "lore",
-      "tags": [
-        "demo",
-        "reference"
-      ],
-      "links": [
-        "unresolved:the-king-in-yellow-rpg-opening-situation",
-        "unresolved:the-thespian-theatre",
-        "unresolved:the-audience-of-the-sign",
-        "unresolved:cora-ellison"
-      ],
-      "aliases": [],
-      "summary": "The King in Yellow RPG demos should be structured around contamination by art, altered timelines, and obsessive clues.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": []
