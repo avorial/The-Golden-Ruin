@@ -1,35 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T01:01:22.978Z",
+  "generatedAt": "2026-09-03T01:30:50.907Z",
   "pages": [
-    {
-      "id": "character-cora-ellison",
-      "title": "Cora Ellison",
-      "path": "wiki/pages/cora-ellison.md",
-      "type": "character",
-      "tags": [
-        "demo",
-        "pc"
-      ],
-      "links": [
-        "organization-the-audience-of-the-sign",
-        "item-the-yellow-manuscript",
-        "npc-gideon-marsh",
-        "character-cora-ellison",
-        "location-the-thespian-theatre",
-        "organization-the-audience-of-the-sign",
-        "character-cora-ellison",
-        "npc-gideon-marsh",
-        "character-cora-ellison",
-        "item-the-yellow-manuscript",
-        "character-cora-ellison"
-      ],
-      "aliases": [],
-      "summary": "Theatre critic. A sample player character.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
     {
       "id": "lore-getting-started",
       "title": "Welcome to The Golden Ruin",
@@ -66,7 +38,7 @@
         "lore-the-second-act",
         "organization-the-audience-of-the-sign",
         "lore-the-second-act",
-        "character-cora-ellison",
+        "unresolved:cora-ellison",
         "item-the-yellow-manuscript",
         "lore-the-second-act",
         "item-the-yellow-manuscript",
@@ -118,7 +90,7 @@
         "organization-the-audience-of-the-sign",
         "item-the-yellow-manuscript",
         "lore-the-second-act",
-        "character-cora-ellison",
+        "unresolved:cora-ellison",
         "npc-gideon-marsh",
         "organization-the-audience-of-the-sign",
         "lore-the-second-act",
@@ -147,7 +119,7 @@
         "event-the-king-in-yellow-rpg-opening-situation",
         "location-the-thespian-theatre",
         "organization-the-audience-of-the-sign",
-        "character-cora-ellison"
+        "unresolved:cora-ellison"
       ],
       "aliases": [],
       "summary": "The King in Yellow RPG demos should be structured around contamination by art, altered timelines, and obsessive clues.",
@@ -199,7 +171,7 @@
         "organization-the-audience-of-the-sign",
         "lore-the-second-act",
         "npc-gideon-marsh",
-        "character-cora-ellison",
+        "unresolved:cora-ellison",
         "organization-the-audience-of-the-sign",
         "location-the-thespian-theatre",
         "item-the-yellow-manuscript"
