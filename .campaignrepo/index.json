@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T01:30:50.907Z",
+  "generatedAt": "2026-09-03T01:31:01.424Z",
   "pages": [
     {
       "id": "lore-getting-started",
@@ -24,33 +24,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-gideon-marsh",
-      "title": "Gideon Marsh",
-      "path": "wiki/pages/gideon-marsh.md",
-      "type": "npc",
-      "tags": [
-        "demo",
-        "npc"
-      ],
-      "links": [
-        "organization-the-audience-of-the-sign",
-        "location-the-thespian-theatre",
-        "lore-the-second-act",
-        "organization-the-audience-of-the-sign",
-        "lore-the-second-act",
-        "unresolved:cora-ellison",
-        "item-the-yellow-manuscript",
-        "lore-the-second-act",
-        "item-the-yellow-manuscript",
-        "organization-the-audience-of-the-sign"
-      ],
-      "aliases": [],
-      "summary": "Haunted playwright. Adapted the forbidden script and now can't stop hearing the applause.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "organization-the-audience-of-the-sign",
       "title": "The Audience of the Sign",
       "path": "wiki/pages/the-audience-of-the-sign.md",
@@ -62,9 +35,9 @@
       "links": [
         "location-the-thespian-theatre",
         "item-the-yellow-manuscript",
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "lore-the-second-act",
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "location-the-thespian-theatre",
         "lore-the-second-act"
       ],
@@ -86,16 +59,16 @@
       ],
       "links": [
         "location-the-thespian-theatre",
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "organization-the-audience-of-the-sign",
         "item-the-yellow-manuscript",
         "lore-the-second-act",
         "unresolved:cora-ellison",
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "organization-the-audience-of-the-sign",
         "lore-the-second-act",
         "location-the-thespian-theatre",
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "organization-the-audience-of-the-sign",
         "item-the-yellow-manuscript",
         "lore-the-second-act"
@@ -142,7 +115,7 @@
         "item-the-yellow-manuscript",
         "location-the-thespian-theatre",
         "organization-the-audience-of-the-sign",
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "item-the-yellow-manuscript",
         "lore-the-second-act"
       ],
@@ -162,15 +135,15 @@
         "location"
       ],
       "links": [
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "organization-the-audience-of-the-sign",
         "lore-the-second-act",
         "item-the-yellow-manuscript",
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "location-the-thespian-theatre",
         "organization-the-audience-of-the-sign",
         "lore-the-second-act",
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "unresolved:cora-ellison",
         "organization-the-audience-of-the-sign",
         "location-the-thespian-theatre",
@@ -196,7 +169,7 @@
         "location-the-thespian-theatre",
         "item-the-yellow-manuscript",
         "organization-the-audience-of-the-sign",
-        "npc-gideon-marsh",
+        "unresolved:gideon-marsh",
         "location-the-thespian-theatre",
         "item-the-yellow-manuscript",
         "lore-the-second-act"
