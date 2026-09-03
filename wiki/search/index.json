@@ -6,7 +6,7 @@
     "slug": "Chez-le-P-re-Lathuile",
     "title": "Chez le Père Lathuile",
     "category": "location",
-    "summary": "",
+    "summary": "An old Avenue de Clichy restaurant and garden café where artists, patrons, lovers, and the dead keep overlapping reservations.",
     "tags": [
       "location"
     ],
@@ -16,12 +16,10 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Chez le Père Lathuile",
       "7 Avenue de Clichy",
       "Place de Clichy",
       "17th Arrondissement",
-      "Chez le Père Lathuile",
-      "Place de Clichy",
-      "Avenue de Clichy",
       "Lathuile Family",
       "Marshal Bon-Adrien Jeannot de Moncey",
       "Barrière de Clichy",
@@ -34,6 +32,7 @@
       "Édouard Manet",
       "Chez le Père Lathuile, en plein air",
       "Louis Gauthier-Lathuile",
+      "Barrière de Clichy",
       "Poulet Père Lathuile",
       "Louis Gauthier-Lathuile",
       "Baptiste Renaud",
@@ -54,7 +53,7 @@
       "Chez-le-P-re-Lathuile"
     ],
     "keyLinks": [],
-    "excerpt": "# Chez le Père Lathuile **Type:** Restaurant, garden café, former guinguette **Location:** [[7 Avenue de Clichy]], near [[Place de Clichy]] **District:** [[17th Arrondissement]] ## Overview [[Chez le Père Lathuile]] is one of those Paris establishments whose reputation is older than many of its cust"
+    "excerpt": "# Chez le Père Lathuile ![Chez le Père Lathuile at the edge of Place de Clichy.](/wiki/media/CLPL-Setting.png) ## Overview [[Chez le Père Lathuile]] is an old restaurant and garden café at [[7 Avenue de Clichy]], close to [[Place de Clichy]] in the [[17th Arrondissement]]. Its reputation is older th"
   },
   {
     "id": "11:House-of-the-North-Star",
@@ -81,6 +80,82 @@
       "House of the North Star"
     ],
     "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's [[17th arrondissement]]. It i"
+  },
+  {
+    "id": "11:media:wiki/media/CLPL-Floorplan.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/CLPL-Floorplan.png",
+    "title": "Ground floor plan of Chez le Père Lathuile showing the garden, main dining room, private rooms, café room, kitchen, and service areas",
+    "category": "media",
+    "summary": "Ground floor plan of Chez le Père Lathuile, Avenue de Clichy, circa 1890.",
+    "tags": [
+      "location",
+      "chez-le-pere-lathuile",
+      "floorplan"
+    ],
+    "aliases": [
+      "CLPL-Floorplan.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/CLPL-Manet-Garden.jpg",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/CLPL-Manet-Garden.jpg",
+    "title": "Édouard Manet's 1879 painting Chez le Père Lathuile, en plein air",
+    "category": "media",
+    "summary": "Édouard Manet's Chez le Père Lathuile, en plein air, painted in the restaurant garden in 1879.",
+    "tags": [
+      "location",
+      "chez-le-pere-lathuile",
+      "manet",
+      "painting"
+    ],
+    "aliases": [
+      "CLPL-Manet-Garden.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/CLPL-Setting.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/CLPL-Setting.png",
+    "title": "Evening street scene outside Chez le Père Lathuile near Place de Clichy",
+    "category": "media",
+    "summary": "Chez le Père Lathuile at the edge of Place de Clichy.",
+    "tags": [
+      "location",
+      "chez-le-pere-lathuile",
+      "setting"
+    ],
+    "aliases": [
+      "CLPL-Setting.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   },
   {
     "id": "11:media:wiki/media/HotN-Floorplan.png",
