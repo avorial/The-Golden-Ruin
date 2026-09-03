@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T01:32:23.872Z",
+  "generatedAt": "2026-09-03T01:32:32.753Z",
   "pages": [
     {
       "id": "lore-getting-started",
@@ -19,31 +19,6 @@
       ],
       "aliases": [],
       "summary": "Getting started guide for CampaignRepo.",
-      "visibility": "gm",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "lore-the-second-act",
-      "title": "The Second Act",
-      "path": "wiki/pages/the-second-act.md",
-      "type": "lore",
-      "tags": [
-        "demo",
-        "threat"
-      ],
-      "links": [
-        "unresolved:the-thespian-theatre",
-        "unresolved:the-audience-of-the-sign",
-        "unresolved:the-yellow-manuscript",
-        "unresolved:the-thespian-theatre",
-        "unresolved:the-audience-of-the-sign",
-        "unresolved:gideon-marsh",
-        "unresolved:the-yellow-manuscript",
-        "lore-the-second-act"
-      ],
-      "aliases": [],
-      "summary": "The point in the play past which nothing is ever the same.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": []
