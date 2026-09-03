@@ -1,48 +1,5 @@
 [
   {
-    "id": "11:cora-ellison",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "cora-ellison",
-    "title": "Cora Ellison",
-    "category": "character",
-    "summary": "Theatre critic. A sample player character.",
-    "tags": [
-      "demo",
-      "pc"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "The Audience of the Sign",
-      "The Yellow Manuscript",
-      "Gideon Marsh",
-      "Cora Ellison",
-      "The Thespian Theatre",
-      "The Audience of the Sign",
-      "Cora Ellison",
-      "Gideon Marsh",
-      "Cora Ellison",
-      "The Yellow Manuscript",
-      "Cora Ellison"
-    ],
-    "backlinks": [
-      "cora-ellison",
-      "cora-ellison",
-      "cora-ellison",
-      "cora-ellison",
-      "gideon-marsh",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-primer",
-      "the-thespian-theatre"
-    ],
-    "keyLinks": [],
-    "excerpt": "# Cora Ellison > Theatre critic — a sample player character. ## Concept Investigating a rash of 'suicides' among the play's cast and crew. ## Hooks - Has unfinished business with [[The Audience of the Sign]]. - Is chasing the [[The Yellow Manuscript]]. - Crossed paths once with [[Gideon Marsh]]. ## "
-  },
-  {
     "id": "11:getting-started",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
