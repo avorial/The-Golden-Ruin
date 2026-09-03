@@ -27,33 +27,6 @@
     "excerpt": "This page is a quick tour of CampaignRepo — delete it whenever you're ready. ## Writing pages Pages are Markdown files with YAML frontmatter. You can edit them here or open the `wiki/pages/` folder directly in any text editor. Use **wiki links** to connect pages: `[[Character Name]]` or `[[Character"
   },
   {
-    "id": "11:the-king-in-yellow-rpg-primer",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "the-king-in-yellow-rpg-primer",
-    "title": "The King in Yellow RPG — GM Primer & Checklist",
-    "category": "lore",
-    "summary": "The King in Yellow RPG demos should be structured around contamination by art, altered timelines, and obsessive clues.",
-    "tags": [
-      "demo",
-      "reference"
-    ],
-    "aliases": [],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "The King in Yellow RPG Opening Situation",
-      "The Thespian Theatre",
-      "The Audience of the Sign",
-      "Cora Ellison"
-    ],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": "# The King in Yellow RPG — GM Primer & Checklist > GM-side reference for this system: the concept, the reformatting checklist, and the lists you'll reach for most. ## Concept The King in Yellow RPG demos should be structured around contamination by art, altered timelines, and obsessive clues. The sh"
-  },
-  {
     "id": "11:the-second-act",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
