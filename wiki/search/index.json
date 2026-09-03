@@ -234,5 +234,26 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Paris-Map.webp",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Paris-Map.webp",
+    "title": "Paris City Map",
+    "category": "media",
+    "summary": "Paris Arrondissements",
+    "tags": [],
+    "aliases": [
+      "Paris-Map.webp"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]
