@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T01:31:17.895Z",
+  "generatedAt": "2026-09-03T01:31:38.997Z",
   "pages": [
     {
       "id": "lore-getting-started",
@@ -24,30 +24,6 @@
       "keyLinks": []
     },
     {
-      "id": "organization-the-audience-of-the-sign",
-      "title": "The Audience of the Sign",
-      "path": "wiki/pages/the-audience-of-the-sign.md",
-      "type": "organization",
-      "tags": [
-        "demo",
-        "faction"
-      ],
-      "links": [
-        "location-the-thespian-theatre",
-        "item-the-yellow-manuscript",
-        "unresolved:gideon-marsh",
-        "lore-the-second-act",
-        "unresolved:gideon-marsh",
-        "location-the-thespian-theatre",
-        "lore-the-second-act"
-      ],
-      "aliases": [],
-      "summary": "Devotees who have seen the second act and smile too much.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
       "id": "event-the-king-in-yellow-rpg-opening-situation",
       "title": "The King in Yellow RPG Opening Situation",
       "path": "wiki/pages/the-king-in-yellow-rpg-opening-situation.md",
@@ -60,16 +36,16 @@
       "links": [
         "location-the-thespian-theatre",
         "unresolved:gideon-marsh",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "item-the-yellow-manuscript",
         "lore-the-second-act",
         "unresolved:cora-ellison",
         "unresolved:gideon-marsh",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "lore-the-second-act",
         "location-the-thespian-theatre",
         "unresolved:gideon-marsh",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "item-the-yellow-manuscript",
         "lore-the-second-act"
       ],
@@ -91,7 +67,7 @@
       "links": [
         "event-the-king-in-yellow-rpg-opening-situation",
         "location-the-thespian-theatre",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "unresolved:cora-ellison"
       ],
       "aliases": [],
@@ -111,10 +87,10 @@
       ],
       "links": [
         "location-the-thespian-theatre",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "item-the-yellow-manuscript",
         "location-the-thespian-theatre",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "unresolved:gideon-marsh",
         "item-the-yellow-manuscript",
         "lore-the-second-act"
@@ -136,16 +112,16 @@
       ],
       "links": [
         "unresolved:gideon-marsh",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "lore-the-second-act",
         "item-the-yellow-manuscript",
         "unresolved:gideon-marsh",
         "location-the-thespian-theatre",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "lore-the-second-act",
         "unresolved:gideon-marsh",
         "unresolved:cora-ellison",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "location-the-thespian-theatre",
         "item-the-yellow-manuscript"
       ],
@@ -165,10 +141,10 @@
         "item"
       ],
       "links": [
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "location-the-thespian-theatre",
         "item-the-yellow-manuscript",
-        "organization-the-audience-of-the-sign",
+        "unresolved:the-audience-of-the-sign",
         "unresolved:gideon-marsh",
         "location-the-thespian-theatre",
         "item-the-yellow-manuscript",
