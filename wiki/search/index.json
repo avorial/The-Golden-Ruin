@@ -135,54 +135,6 @@
     "excerpt": "# The Second Act > The looming danger of this demo. ## What It Is The point in the play past which nothing is ever the same. ## Signs & Portents - Felt most strongly at [[The Thespian Theatre]]. ## The Stakes - [[The Audience of the Sign]] may be complicit. - The [[The Yellow Manuscript]] is somehow"
   },
   {
-    "id": "11:the-thespian-theatre",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "the-thespian-theatre",
-    "title": "The Thespian Theatre",
-    "category": "location",
-    "summary": "A cursed play spreads madness through those who read too far.",
-    "tags": [
-      "demo",
-      "location"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "Gideon Marsh",
-      "The Audience of the Sign",
-      "The Second Act",
-      "The Yellow Manuscript",
-      "Gideon Marsh",
-      "The Thespian Theatre",
-      "The Audience of the Sign",
-      "The Second Act",
-      "Gideon Marsh",
-      "Cora Ellison",
-      "The Audience of the Sign",
-      "The Thespian Theatre",
-      "The Yellow Manuscript"
-    ],
-    "backlinks": [
-      "the-audience-of-the-sign",
-      "the-audience-of-the-sign",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-primer",
-      "the-second-act",
-      "the-second-act",
-      "the-thespian-theatre",
-      "the-thespian-theatre",
-      "the-yellow-manuscript",
-      "the-yellow-manuscript"
-    ],
-    "keyLinks": [],
-    "excerpt": "# The Thespian Theatre > A cursed play spreads madness through those who read too far. ## Overview A gilded, rotting playhouse whose final production was never officially staged. ## Who You'll Meet Here - [[Gideon Marsh]] — Haunted playwright - [[The Audience of the Sign]] ## Threads - Rumors circle"
-  },
-  {
     "id": "11:the-yellow-manuscript",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
