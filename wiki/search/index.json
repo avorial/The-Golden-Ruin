@@ -25,46 +25,5 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "This page is a quick tour of CampaignRepo — delete it whenever you're ready. ## Writing pages Pages are Markdown files with YAML frontmatter. You can edit them here or open the `wiki/pages/` folder directly in any text editor. Use **wiki links** to connect pages: `[[Character Name]]` or `[[Character"
-  },
-  {
-    "id": "11:the-second-act",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "the-second-act",
-    "title": "The Second Act",
-    "category": "lore",
-    "summary": "The point in the play past which nothing is ever the same.",
-    "tags": [
-      "demo",
-      "threat"
-    ],
-    "aliases": [],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [
-      "The Thespian Theatre",
-      "The Audience of the Sign",
-      "The Yellow Manuscript",
-      "The Thespian Theatre",
-      "The Audience of the Sign",
-      "Gideon Marsh",
-      "The Yellow Manuscript",
-      "The Second Act"
-    ],
-    "backlinks": [
-      "the-audience-of-the-sign",
-      "the-audience-of-the-sign",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-king-in-yellow-rpg-opening-situation",
-      "the-second-act",
-      "the-thespian-theatre",
-      "the-thespian-theatre",
-      "the-yellow-manuscript"
-    ],
-    "keyLinks": [],
-    "excerpt": "# The Second Act > The looming danger of this demo. ## What It Is The point in the play past which nothing is ever the same. ## Signs & Portents - Felt most strongly at [[The Thespian Theatre]]. ## The Stakes - [[The Audience of the Sign]] may be complicit. - The [[The Yellow Manuscript]] is somehow"
   }
 ]
