@@ -1,1 +1,20 @@
-{}
+{
+  "wiki/media/HotN-Street-View.png": {
+    "alt": "Sepia street view of the House of the North Star on Rue Theodule Ribot",
+    "caption": "The discreet street frontage of the House of the North Star.",
+    "tags": [
+      "location",
+      "house-of-the-north-star",
+      "street-view"
+    ]
+  },
+  "wiki/media/HotN-Floorplan.png": {
+    "alt": "Ground floor plan of the House of the North Star showing salons, galleries, bedrooms, kitchens, and courtyards",
+    "caption": "Ground floor plan used by staff, tutors, and invited guests.",
+    "tags": [
+      "location",
+      "house-of-the-north-star",
+      "floorplan"
+    ]
+  }
+}
