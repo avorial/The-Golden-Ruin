@@ -1,27 +1,5 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T01:32:32.753Z",
-  "pages": [
-    {
-      "id": "lore-getting-started",
-      "title": "Welcome to The Golden Ruin",
-      "path": "wiki/pages/getting-started.md",
-      "type": "lore",
-      "tags": [
-        "meta"
-      ],
-      "links": [
-        "unresolved:character-name",
-        "unresolved:character-name",
-        "unresolved:characters",
-        "unresolved:locations",
-        "unresolved:factions"
-      ],
-      "aliases": [],
-      "summary": "Getting started guide for CampaignRepo.",
-      "visibility": "gm",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    }
-  ]
+  "generatedAt": "2026-09-03T01:32:49.289Z",
+  "pages": []
 }
