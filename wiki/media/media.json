@@ -16,5 +16,23 @@
       "house-of-the-north-star",
       "floorplan"
     ]
+  },
+  "wiki/media/CLPL-Setting.png": {
+    "alt": "Evening street scene outside Chez le Père Lathuile near Place de Clichy",
+    "caption": "Chez le Père Lathuile at the edge of Place de Clichy.",
+    "tags": [
+      "location",
+      "chez-le-pere-lathuile",
+      "setting"
+    ]
+  },
+  "wiki/media/CLPL-Floorplan.png": {
+    "alt": "Ground floor plan of Chez le Père Lathuile showing the garden, main dining room, private rooms, café room, kitchen, and service areas",
+    "caption": "Ground floor plan of Chez le Père Lathuile, Avenue de Clichy, circa 1890.",
+    "tags": [
+      "location",
+      "chez-le-pere-lathuile",
+      "floorplan"
+    ]
   }
 }

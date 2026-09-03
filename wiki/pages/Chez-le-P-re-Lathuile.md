@@ -11,9 +11,12 @@ knownToPlayers: true
 keyLinks: []
 aliases: []
 lastEditedBy: patricthomas
+cover: /wiki/media/CLPL-Setting.png
 ---
 
 # Chez le Père Lathuile
+
+![Chez le Père Lathuile at the edge of Place de Clichy.](/wiki/media/CLPL-Setting.png)
 
 **Type:** Restaurant, garden café, former guinguette  
 **Location:** [[7 Avenue de Clichy]], near [[Place de Clichy]]  
@@ -35,6 +38,14 @@ It is an institution.
 Respectable families know it. Artists know it. Journalists know it. Actors know it. Men conducting affairs know which tables to request. The waiters know which guests should never be seated where they can see one another.
 
 The food is good, the wine is better, and the staff have been watching Paris misbehave for longer than most of their customers have been alive.
+
+## Floor Plan
+
+![Ground floor plan of Chez le Père Lathuile, Avenue de Clichy, circa 1890.](/wiki/media/CLPL-Floorplan.png)
+
+The ground floor is arranged around a public rhythm and a private one. Guests see the garden, terrace, main dining room, café room, vestibule, and private dining cabinets. Staff move through the service entrance, kitchen, scullery, pantry, cellar stair, cashier's office, and service passage.
+
+This makes the restaurant useful for discreet meetings. A patron can dine visibly in the café room, withdraw to a private cabinet, or step into the garden without seeming to leave the establishment. Meanwhile, waiters and kitchen staff can cross the building by routes customers barely notice.
 
 
 ## History
