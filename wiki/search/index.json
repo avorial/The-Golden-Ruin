@@ -1,5 +1,26 @@
 [
   {
+    "id": "11:Chez-le-P-re-Lathuile",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Chez-le-P-re-Lathuile",
+    "title": "Chez le Père Lathuile",
+    "category": "location",
+    "summary": "",
+    "tags": [
+      "location"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Chez le Père Lathuile ## Overview ## Notable Sites"
+  },
+  {
     "id": "11:House-of-the-North-Star",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
