@@ -110,6 +110,29 @@
     "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's [[17th arrondissement]]. It i"
   },
   {
+    "id": "11:Silas-Burke-Head-Butler",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Silas-Burke-Head-Butler",
+    "title": "Silas Burke, Head Butler",
+    "category": "npc",
+    "summary": "A ready-to-run Yellow King NPC with portrait, motives, tells, Paris abilities, and scene notes.",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "House-of-the-North-Star"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Silas Burke, Head Butler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Give the NPC a first impression players can act on: posture, voice, clothes, smell of tobacco or turpentine, the way they hesitate before a particular name. Keep this "
+  },
+  {
     "id": "11:media:wiki/media/CLPL-Floorplan.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
