@@ -5,12 +5,14 @@
     "campaignName": "The Golden Ruin",
     "slug": "17th-Arrondissement",
     "title": "17th Arrondissement",
-    "category": "npc",
+    "category": "location",
     "summary": "",
     "tags": [
-      "npc"
+      "Location"
     ],
-    "aliases": [],
+    "aliases": [
+      "17"
+    ],
     "visibility": "gm",
     "approvalStatus": "approved",
     "text": "",
@@ -21,7 +23,7 @@
       "House-of-the-North-Star"
     ],
     "keyLinks": [],
-    "excerpt": "# 17th Arrondissement ## Public Face ## Relationships ## Secrets"
+    "excerpt": "# 17th Arrondissement ## Public Face In the 1890s, Paris’s 17th arrondissement was a district of sharp contrasts. Around Plaine-de-Monceaux, Ternes, and Avenue de Wagram, broad avenues, new apartment houses, private mansions, fashionable restaurants, and respectable bourgeois households gave the are"
   },
   {
     "id": "11:Chez-le-P-re-Lathuile",
