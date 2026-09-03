@@ -19,9 +19,17 @@ cover: /wiki/media/HotN-Street-View.png
 
 ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png)
 
+## Location
+
+The House of the North Star stands at the corner of Rue Theodule Ribot and Avenue de Wagram, in the Plaine-de-Monceaux edge of the 17th arrondissement. It is close enough to the Etoile and Place des Ternes for wealthy patrons to arrive without inconvenience, but far enough from the grand hotels and public theatres that a carriage can stop at the door without inviting gossip.
+
+The neighborhood suits the house perfectly: expensive, orderly, and watchful. Parc Monceau is near enough for supervised walks, Courcelles station gives tutors and servants a discreet way in and out, and the great radial avenues carry visitors toward the Arc de Triomphe, the Champs-Elysees, private clubs, salons, and American expatriate circles.
+
+For play, this makes the house feel central without being exposed. A student can be taken to a gallery opening, a patron's dinner, or a concert and returned before midnight. Someone trying to flee can reach the traffic of Wagram or Ternes quickly, but the household has many chances to notice them before they get that far.
+
 ## Overview
 
-The House of the North Star is a private artists' retreat set behind a discreet Parisian frontage on Rue Theodule Ribot, near Avenue de Wagram. From the street it looks like another respectable residence of carved stone, wrought iron, shut shutters, and correct silence. Inside, it is a deep courtyard house arranged for instruction, separation, and observation.
+The House of the North Star is a private artists' retreat set behind a discreet Parisian frontage. From the street it looks like another respectable residence of carved stone, wrought iron, shut shutters, and correct silence. Inside, it is a deep courtyard house arranged for instruction, separation, and observation.
 
 Among old families, the house is known as a place where young talent can be disciplined, refined, and protected from vulgar attention. Its owner inherited the property after his father's suicide and later transformed it from a mourning household into a sanctuary for painters, musicians, poets, and difficult children with inconvenient brilliance.
 
