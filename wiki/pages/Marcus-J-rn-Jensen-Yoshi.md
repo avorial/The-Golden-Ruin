@@ -53,7 +53,7 @@ general:
   Sneaking: 3
 relyOn: Jay (David) For his money and Antiestablishmentarianism 
 seekToProtect: Laurie (Richard) Because he was a miliatry goon
-peculiarBusiness: Since reading “The Raven” I was inspired to sculpt a 3 eyed raven. It took me years to finish, but the day I did, my father died. A week later my sister Athens. I destroyed the sculpt but since then I have recurrent dreams of torture and sometimes hears ravens calling his name only to find his sculpture staring at him.
+peculiarBusiness: Since reading “The Raven” I was inspired to sculpt a 3 eyed raven. It took me years to finish, but the day I did, my father died. A week later my sister died as well. I destroyed the sculpt but since then I have recurrent dreams of torture and sometimes hears ravens calling his name only to find his sculpture staring at him.
 ```
 
 :::gm
