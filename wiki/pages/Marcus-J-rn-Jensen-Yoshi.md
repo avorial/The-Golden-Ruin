@@ -18,10 +18,21 @@ cover: /wiki/media/REPLACE.jpg
 
 # Marcus "Járn" Jensen (Yoshi)
 
+## History 
+Born and raised in the Midwest, Marcus was named after the Roman god Mars by his parents, who always wanted him to become someone strong and successful. He eventually rejected the name, adopting Járn, norse for 'iron', showing his unwillingness to bend and affinity towards nordic themes.
+
+His parents insisted he travel to Paris to grow his art and become more cultured. he considers much of the Parisian art world pretentious, elitist, and far too concerned with explaining art rather than actually making it.
+
+Small, thin, and somewhat meek. He doesn't look particularly intimidating or physically capable.
+
+quiet and withdrawn, especially around strangers. He is stubborn and becomes surprisingly outspoken when discussing things he cares about. He dislikes authority, pretension, and being told what he is supposed to think.
+
+Járn creates sculptures from iron and steel, using welding, forging, and controlled heat. His sculptures draw heavily from norse mythology and Nordic imagery, often incorporating symbolism about repression, resistance, and the desire for freedom.
+
 ```yellow-king-paris-sheet
-name:
-player:
-field:
+name: Marcus "Járn" Jensen
+player: Yoshi
+field:  Sculptor "Metalworker" 
 drive:
 pushes: 2
 investigative:
