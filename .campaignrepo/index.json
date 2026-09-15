@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T15:39:13.902Z",
+  "generatedAt": "2026-09-15T15:39:31.850Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -142,6 +142,23 @@
       "parent": "17th-Arrondissement"
     },
     {
+      "id": "character-Marcus-J-rn-Jensen-Yoshi",
+      "title": "Marcus \"Járn\" Jensen (Yoshi)",
+      "path": "wiki/pages/Marcus-J-rn-Jensen-Yoshi.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
       "id": "npc-Silas-Burke-Head-Butler",
       "title": "Silas Burke, Head Butler",
       "path": "wiki/pages/Silas-Burke-Head-Butler.md",
@@ -166,24 +183,6 @@
       "keyLinks": [
         "House of the North Star"
       ]
-    },
-    {
-      "id": "character-Marcus-J-rn-Jensen-Yoshi",
-      "title": "Marcus \"Járn\" Jensen (Yoshi)",
-      "path": "wiki/pages/Marcus-J-rn-Jensen-Yoshi.md",
-      "type": "character",
-      "tags": [
-        "pc",
-        "character",
-        "sheet"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": [],
-      "cover": "/wiki/media/REPLACE.jpg"
     }
   ]
 }
