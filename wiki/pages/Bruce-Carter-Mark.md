@@ -2,7 +2,7 @@
 category: character
 type: character
 name: Bruce Carter (Mark)
-summary: "Paris-era Yellow King character sheet for Bruce Carter."
+summary: Paris-era Yellow King character sheet for Bruce Carter.
 tags:
   - pc
   - character
@@ -12,11 +12,17 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 cover: /wiki/media/REPLACE.jpg
 ---
 
 # Bruce Carter
+
+## History
+
+---
+
+Character Picture
 
 ```yellow-king-paris-sheet
 name: Bruce Carter
