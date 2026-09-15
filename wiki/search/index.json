@@ -106,6 +106,29 @@
     "excerpt": "# Chez le Père Lathuile ![Chez le Père Lathuile at the edge of Place de Clichy.](/wiki/media/CLPL-Setting.png) ## Overview [[Chez le Père Lathuile]] is an old restaurant and garden café at [[7 Avenue de Clichy]], close to [[Place de Clichy]] in the [[17th Arrondissement]]. Its reputation is older th"
   },
   {
+    "id": "11:Henry-Pirece-Laura",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Henry-Pirece-Laura",
+    "title": "Henry Pirece (Laura)",
+    "category": "character",
+    "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+    "tags": [
+      "pc",
+      "character",
+      "sheet"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Henry Pirece (Laura) ```yellow-king-paris-sheet name: player: field: drive: pushes: 2 investigative: - - - - general: Athletics: Composure: Fighting: First Aid: Health: Mechanics: Preparedness: Riding: Sense Trouble: Sneaking: relyOn: seekToProtect: peculiarBusiness: ```"
+  },
+  {
     "id": "11:House-of-the-North-Star",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
