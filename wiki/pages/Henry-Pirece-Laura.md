@@ -47,7 +47,7 @@ general:
   Sneaking: 2
 relyOn: Laurie Shelby
 seekToProtect: Jarn Jensen
-peculiarBusiness: Notre-Dame Gargoyles follow her around the city
+peculiarBusiness: Notre-Dame Gargoyles follow them around the city
 ```
 
 :::gm
