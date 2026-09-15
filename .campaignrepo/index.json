@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T15:30:39.970Z",
+  "generatedAt": "2026-09-15T15:30:51.467Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -148,6 +148,24 @@
       "keyLinks": [
         "House of the North Star"
       ]
+    },
+    {
+      "id": "lore-Campaign",
+      "title": "Campaign",
+      "path": "wiki/pages/Campaign.md",
+      "type": "lore",
+      "tags": [
+        "lore"
+      ],
+      "links": [
+        "unresolved:Character",
+        "unresolved:NPC"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": []
     }
   ]
 }
