@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T15:25:24.097Z",
+  "generatedAt": "2026-09-15T15:26:13.144Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -131,6 +131,24 @@
       "keyLinks": [
         "House of the North Star"
       ]
+    },
+    {
+      "id": "character-Henry-Pirece-Laura",
+      "title": "Henry Pirece (Laura)",
+      "path": "wiki/pages/Henry-Pirece-Laura.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     }
   ]
 }
