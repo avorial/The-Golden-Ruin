@@ -16,60 +16,34 @@ lastEditedBy: Codex
 cover: /wiki/media/REPLACE.jpg
 ---
 
-# Paris
+# Character Sheet
 
-## Character Sheet
-
-| Field | Entry |
-| --- | --- |
-| **Name** |  |
-| **Player** |  |
-| **Field** |  |
-| **Drive** |  |
-
----
-
-## Investigative Abilities
-
-| Ability | Notes |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-**Pushes:** ○ ○
-
----
-
-## General Abilities
-
-| Ability | Rating |
-| --- | ---: |
-| Athletics (Physical) |  |
-| Composure (Presence) |  |
-| Fighting (Physical) |  |
-| First Aid (Focus) |  |
-| Health (Physical) |  |
-| Mechanics (Focus) |  |
-| Preparedness (Presence) |  |
-| Riding (Physical) |  |
-| Sense Trouble (Presence) |  |
-| Sneaking (Focus) |  |
-
----
-
-## Anchors
-
-| Prompt | Answer |
-| --- | --- |
-| **I Rely On** |  |
-| **I Seek To Protect** |  |
-
-## That Deuced Peculiar Business
-
-> 
+```yellow-king-paris-sheet
+name:
+player:
+field:
+drive:
+pushes: 2
+investigative:
+  -
+  -
+  -
+  -
+general:
+  Athletics:
+  Composure:
+  Fighting:
+  First Aid:
+  Health:
+  Mechanics:
+  Preparedness:
+  Riding:
+  Sense Trouble:
+  Sneaking:
+relyOn:
+seekToProtect:
+peculiarBusiness:
+```
 
 :::gm
 ## GM Notes
