@@ -17,32 +17,37 @@ cover: /wiki/media/REPLACE.jpg
 ---
 
 # Henry Pirece (Laura)
+## History
+
+---
+
+Character Picture
 
 ```yellow-king-paris-sheet
-name:
-player:
-field:
-drive:
+name: Henry Pirece
+player: Laura Bee
+field: Belle-Lettrist / Tinker
+drive: Curiostity
 pushes: 2
 investigative:
-  -
-  -
-  -
-  -
+  - Bella Lettrist
+  - History
+  - Reassurance
+  - Resarch
 general:
-  Athletics:
-  Composure:
-  Fighting:
-  First Aid:
-  Health:
-  Mechanics:
-  Preparedness:
-  Riding:
-  Sense Trouble:
-  Sneaking:
-relyOn:
-seekToProtect:
-peculiarBusiness:
+  Athletics: 3
+  Composure: 6
+  Fighting: 5 
+  First Aid: 0
+  Health: 3
+  Mechanics: 6 
+  Preparedness: 5
+  Riding: 1
+  Sense Trouble: 2
+  Sneaking: 2
+relyOn: Laurie Shelby
+seekToProtect: Jarn Jensen
+peculiarBusiness: Notre-Dame Gargoyles follow her around the city
 ```
 
 :::gm
