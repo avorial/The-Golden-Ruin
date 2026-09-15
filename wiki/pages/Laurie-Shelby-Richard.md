@@ -18,31 +18,33 @@ cover: /wiki/media/REPLACE.jpg
 
 # Laurie Shelby (Richard)
 
+## History
+
 ```yellow-king-paris-sheet
-name:
-player:
-field:
-drive:
+name: Richard
+player: Laurie Shelby
+field: Landscape Painter / Ex Military
+drive: 
 pushes: 2
 investigative:
-  -
-  -
-  -
-  -
+  - Art History
+  - Natural History
+  - Negotation
+  - Painting
 general:
-  Athletics:
-  Composure:
-  Fighting:
-  First Aid:
-  Health:
-  Mechanics:
-  Preparedness:
-  Riding:
-  Sense Trouble:
-  Sneaking:
-relyOn:
-seekToProtect:
-peculiarBusiness:
+  Athletics: 6
+  Composure: 6
+  Fighting: 7
+  First Aid: 2
+  Health: 3 
+  Mechanics: 0
+  Preparedness: 2
+  Riding: 3
+  Sense Trouble: 2 
+  Sneaking: 2
+relyOn: 
+seekToProtect: 
+peculiarBusiness: While hunting native americans, in Dakota Terrtory, He came across a village, he spoke to the people there and left in peace. Later when he returned with troops to destroy it it was gone, and gone ot the point It was never there. 
 ```
 
 :::gm
