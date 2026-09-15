@@ -32,28 +32,28 @@ Járn creates sculptures from iron and steel, using welding, forging, and contro
 ```yellow-king-paris-sheet
 name: Marcus "Járn" Jensen
 player: Yoshi
-field:  Sculptor "Metalworker" 
-drive:
+field:  Sculptor "Metalworker"  / Spent Time in a Factory
+drive: Gothic Sensibility
 pushes: 2
 investigative:
-  -
-  -
-  -
-  -
+  - Art History
+  - Military History
+  - Sculpture
+  - Steel
 general:
-  Athletics:
-  Composure:
-  Fighting:
-  First Aid:
-  Health:
-  Mechanics:
-  Preparedness:
-  Riding:
-  Sense Trouble:
-  Sneaking:
-relyOn:
-seekToProtect:
-peculiarBusiness:
+  Athletics: 5
+  Composure: 7 
+  Fighting: 6
+  First Aid: 1 
+  Health: 2
+  Mechanics: 7
+  Preparedness: 2 
+  Riding: 0
+  Sense Trouble: 2
+  Sneaking: 3
+relyOn: Jay (David) For his money and Antiestablishmentarianism 
+seekToProtect: Laurie (Richard) Because he was a miliatry goon
+peculiarBusiness: Since reading “The Raven” I was inspired to sculpt a 3 eyed raven. It took me years to finish, but the day I did, my father died. A week later my sister Athens. I destroyed the sculpt but since then I have recurrent dreams of torture and sometimes hears ravens calling his name only to find his sculpture staring at him.
 ```
 
 :::gm
