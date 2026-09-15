@@ -2,7 +2,7 @@
 category: character
 type: character
 name: Character Sheet
-summary: "A ready-to-fill Yellow King Paris character sheet with portrait, sheet fields, investigative abilities, pushes, general abilities, and anchors."
+summary: "A Paris-era Yellow King character sheet with ruled fields, investigative abilities, pushes, general abilities, and anchors."
 tags:
   - pc
   - character
@@ -16,102 +16,174 @@ lastEditedBy: Codex
 cover: /wiki/media/REPLACE.jpg
 ---
 
-# Character Sheet
+<style>
+.paris-sheet {
+  max-width: 920px;
+  margin: 0 auto 2rem;
+  padding: 38px 52px 46px;
+  color: #2d2725;
+  background: #eee7dc;
+  border: 18px solid #f8c8bd;
+  outline: 1px solid #f5b2a3;
+  outline-offset: -30px;
+  font-family: Georgia, "Times New Roman", serif;
+}
+.paris-sheet * { box-sizing: border-box; }
+.paris-title {
+  margin: 0;
+  color: rgba(244, 119, 98, .28);
+  font-size: 72px;
+  font-weight: 700;
+  line-height: .95;
+  text-align: center;
+}
+.paris-rule {
+  margin: 14px 70px 22px;
+  border-top: 3px double #f5b2a3;
+}
+.paris-sheet h2 {
+  margin: 0 0 28px;
+  text-align: center;
+  font-size: 20px;
+}
+.paris-field {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: 12px;
+  align-items: end;
+  min-height: 34px;
+  margin-bottom: 8px;
+  padding: 0 12px 6px;
+  background: rgba(255,255,255,.55);
+  border-bottom: 2px solid #f5b2a3;
+}
+.paris-label,
+.paris-section-title {
+  font-weight: 700;
+  font-variant: small-caps;
+}
+.paris-value {
+  min-height: 24px;
+}
+.paris-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+  margin-top: 26px;
+}
+.paris-section-title {
+  margin: 0 0 12px;
+  font-size: 18px;
+}
+.paris-ruled,
+.paris-small-box,
+.paris-business {
+  background: rgba(255,255,255,.55);
+  background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #f5b2a3 32px);
+}
+.paris-ruled {
+  min-height: 166px;
+  padding: 6px 10px;
+  line-height: 32px;
+}
+.paris-small-box {
+  min-height: 72px;
+  margin-bottom: 20px;
+  padding: 7px 10px;
+  line-height: 32px;
+}
+.paris-small-box .paris-label,
+.paris-business .paris-label {
+  display: block;
+  font-style: italic;
+  font-weight: 400;
+  font-variant: normal;
+}
+.paris-pushes {
+  margin: 22px 0 30px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.paris-circle {
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  margin-left: 8px;
+  vertical-align: middle;
+  border: 3px solid #f5b2a3;
+  border-radius: 50%;
+}
+.paris-abilities {
+  display: grid;
+  gap: 8px;
+}
+.paris-ability {
+  display: grid;
+  grid-template-columns: 1fr 52px;
+  gap: 12px;
+  align-items: end;
+  font-size: 20px;
+}
+.paris-rating {
+  min-height: 24px;
+  text-align: center;
+  border-bottom: 2px solid #f5b2a3;
+}
+.paris-business {
+  min-height: 430px;
+  padding: 7px 10px;
+  line-height: 32px;
+}
+@media (max-width: 760px) {
+  .paris-sheet { padding: 30px 24px 34px; }
+  .paris-title { font-size: 48px; }
+  .paris-grid { grid-template-columns: 1fr; }
+}
+</style>
 
-<div class="wiki-layout">
-<div class="wiki-main">
+<div class="paris-sheet">
+  <h1 class="paris-title">PARIS</h1>
+  <div class="paris-rule"></div>
+  <h2>CHARACTER SHEET</h2>
 
-<section class="wiki-section">
-<h2>Identity</h2>
-<p><strong>Field:</strong> The character's social, professional, or artistic territory.</p>
-<p><strong>Drive:</strong> The reason this character keeps going when the play turns ugly.</p>
-<p><strong>Pushes:</strong> 2</p>
-</section>
+  <div class="paris-field"><span class="paris-label">Name</span><span class="paris-value"></span></div>
+  <div class="paris-field"><span class="paris-label">Player</span><span class="paris-value"></span></div>
+  <div class="paris-field"><span class="paris-label">Field</span><span class="paris-value"></span></div>
+  <div class="paris-field"><span class="paris-label">Drive</span><span class="paris-value"></span></div>
 
-<section class="wiki-section">
-<h2>Investigative Abilities</h2>
+  <div class="paris-grid">
+    <section>
+      <div class="paris-section-title">Investigative Abilities</div>
+      <div class="paris-ruled">
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
 
-<table class="wiki-stat-table">
-<thead>
-<tr><th>Ability</th><th>Notes</th></tr>
-</thead>
-<tbody>
-<tr><td>Art History</td><td>Paintings, schools, provenance, fashionable names.</td></tr>
-<tr><td>Charm</td><td>Drawing-room warmth, flirtation, patronage.</td></tr>
-<tr><td>Inspiration</td><td>Reading the emotional charge of art or performance.</td></tr>
-<tr><td>Occult Studies</td><td>Symbols, rites, forbidden books, old rumors.</td></tr>
-<tr><td>Reassurance</td><td>Calming witnesses, students, servants, or friends.</td></tr>
-<tr><td>Research</td><td>Archives, newspapers, letters, catalogues.</td></tr>
-<tr><td></td><td></td></tr>
-<tr><td></td><td></td></tr>
-</tbody>
-</table>
-</section>
+      <div class="paris-pushes">PUSHES (2): <span class="paris-circle"></span><span class="paris-circle"></span></div>
 
-<section class="wiki-section">
-<h2>Anchors</h2>
+      <div class="paris-section-title">General Abilities</div>
+      <div class="paris-abilities">
+        <div class="paris-ability"><span>Athletics (Physical)</span><span class="paris-rating"></span></div>
+        <div class="paris-ability"><span>Composure (Presence)</span><span class="paris-rating"></span></div>
+        <div class="paris-ability"><span>Fighting (Physical)</span><span class="paris-rating"></span></div>
+        <div class="paris-ability"><span>First Aid (Focus)</span><span class="paris-rating"></span></div>
+        <div class="paris-ability"><span>Health (Physical)</span><span class="paris-rating"></span></div>
+        <div class="paris-ability"><span>Mechanics (Focus)</span><span class="paris-rating"></span></div>
+        <div class="paris-ability"><span>Preparedness (Presence)</span><span class="paris-rating"></span></div>
+        <div class="paris-ability"><span>Riding (Physical)</span><span class="paris-rating"></span></div>
+        <div class="paris-ability"><span>Sense Trouble (Presence)</span><span class="paris-rating"></span></div>
+        <div class="paris-ability"><span>Sneaking (Focus)</span><span class="paris-rating"></span></div>
+      </div>
+    </section>
 
-<table class="wiki-stat-table">
-<thead>
-<tr><th>Prompt</th><th>Answer</th></tr>
-</thead>
-<tbody>
-<tr><td>I Rely On</td><td></td></tr>
-<tr><td>I Seek To Protect</td><td></td></tr>
-<tr><td>That Deuced Peculiar Business</td><td></td></tr>
-</tbody>
-</table>
-</section>
-
-<section class="wiki-section">
-<h2>Possessions</h2>
-
-<table class="wiki-stat-table">
-<thead>
-<tr><th>Item</th><th>Notes</th></tr>
-</thead>
-<tbody>
-<tr><td>Sketchbook / notebook</td><td></td></tr>
-<tr><td>Calling cards</td><td></td></tr>
-<tr><td>Unsettling keepsake</td><td></td></tr>
-</tbody>
-</table>
-</section>
-
-</div>
-
-<aside class="wiki-infobox">
-<figure>
-<img src="/wiki/media/REPLACE.jpg" alt="Character portrait" />
-<figcaption>Character portrait</figcaption>
-</figure>
-
-<table>
-<tbody>
-<tr><th>Player</th><td></td></tr>
-<tr><th>Pronouns</th><td></td></tr>
-<tr><th>Field</th><td></td></tr>
-<tr><th>Drive</th><td></td></tr>
-<tr><th>Pushes</th><td>2</td></tr>
-</tbody>
-</table>
-
-<table>
-<caption>General Abilities</caption>
-<tbody>
-<tr><th>Athletics (Physical)</th><td></td></tr>
-<tr><th>Composure (Presence)</th><td></td></tr>
-<tr><th>Fighting (Physical)</th><td></td></tr>
-<tr><th>First Aid (Focus)</th><td></td></tr>
-<tr><th>Health (Physical)</th><td></td></tr>
-<tr><th>Mechanics (Focus)</th><td></td></tr>
-<tr><th>Preparedness (Presence)</th><td></td></tr>
-<tr><th>Riding (Physical)</th><td></td></tr>
-<tr><th>Sense Trouble (Presence)</th><td></td></tr>
-<tr><th>Sneaking (Focus)</th><td></td></tr>
-</tbody>
-</table>
-</aside>
+    <section>
+      <div class="paris-small-box"><span class="paris-label">I Rely On</span></div>
+      <div class="paris-small-box"><span class="paris-label">I Seek To Protect</span></div>
+      <div class="paris-business"><span class="paris-label">That Deuced Peculiar Business</span></div>
+    </section>
+  </div>
 </div>
 
 :::gm
