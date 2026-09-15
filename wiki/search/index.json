@@ -32,7 +32,7 @@
     "slug": "Bruce-Carter-Mark",
     "title": "Bruce Carter (Mark)",
     "category": "character",
-    "summary": "A Paris-era Yellow King character sheet with ruled fields, investigative abilities, pushes, general abilities, and anchors.",
+    "summary": "Paris-era Yellow King character sheet for Bruce Carter.",
     "tags": [
       "pc",
       "character",
@@ -46,7 +46,7 @@
     "links": [],
     "backlinks": [],
     "keyLinks": [],
-    "excerpt": "<style> .paris-sheet { max-width: 920px; margin: 0 auto 2rem; padding: 38px 52px 46px; color: #2d2725; background: #eee7dc; border: 18px solid #f8c8bd; outline: 1px solid #f5b2a3; outline-offset: -30px; font-family: Georgia, \"Times New Roman\", serif; } .paris-sheet * { box-sizing: border-box; } .par"
+    "excerpt": "# Paris ## Character Sheet | Field | Entry | | --- | --- | | **Name** | Bruce Carter | | **Player** | Mark | | **Field** | Architect - Tinkerer | | **Drive** | Rationalism | --- ## Investigative Abilities | Ability | Notes | | --- | --- | | Architecture | | | Art History | | | Officialdom | | | Tech"
   },
   {
     "id": "11:Chez-le-P-re-Lathuile",
