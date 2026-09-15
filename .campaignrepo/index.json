@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T16:43:56.281Z",
+  "generatedAt": "2026-09-15T15:09:28.190Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -114,6 +114,24 @@
       "keyLinks": [
         "House of the North Star"
       ]
+    },
+    {
+      "id": "character-Bruce-Carter-Mark",
+      "title": "Bruce Carter (Mark)",
+      "path": "wiki/pages/Bruce-Carter-Mark.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A Paris-era Yellow King character sheet with ruled fields, investigative abilities, pushes, general abilities, and anchors.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     }
   ]
 }
