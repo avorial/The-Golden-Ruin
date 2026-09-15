@@ -1,7 +1,7 @@
 ---
 category: character
 type: character
-name: Henry Pirece (Laura)
+name: Henry Pierce (Laura)
 summary: A ready-to-fill Paris character sheet for The Yellow King RPG.
 tags:
   - pc
