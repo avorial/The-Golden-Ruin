@@ -26,6 +26,29 @@
     "excerpt": "# 17th Arrondissement ## Public Face In the 1890s, Paris’s 17th arrondissement was a district of sharp contrasts. Around Plaine-de-Monceaux, Ternes, and Avenue de Wagram, broad avenues, new apartment houses, private mansions, fashionable restaurants, and respectable bourgeois households gave the are"
   },
   {
+    "id": "11:Bruce-Carter-Mark",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Bruce-Carter-Mark",
+    "title": "Bruce Carter (Mark)",
+    "category": "character",
+    "summary": "A Paris-era Yellow King character sheet with ruled fields, investigative abilities, pushes, general abilities, and anchors.",
+    "tags": [
+      "pc",
+      "character",
+      "sheet"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "<style> .paris-sheet { max-width: 920px; margin: 0 auto 2rem; padding: 38px 52px 46px; color: #2d2725; background: #eee7dc; border: 18px solid #f8c8bd; outline: 1px solid #f5b2a3; outline-offset: -30px; font-family: Georgia, \"Times New Roman\", serif; } .paris-sheet * { box-sizing: border-box; } .par"
+  },
+  {
     "id": "11:Chez-le-P-re-Lathuile",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
