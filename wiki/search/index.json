@@ -49,6 +49,30 @@
     "excerpt": "# Bruce Carter ## History --- Character Picture ```yellow-king-paris-sheet name: Bruce Carter player: Mark field: Architect - Tinkerer drive: Rationalism pushes: 2 investigative: - Architecture - Art History - Officialdom - Technology general: Athletics: 3 Composure: 7 Fighting: 6 First Aid: 0 Healt"
   },
   {
+    "id": "11:Campaign",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Campaign",
+    "title": "Campaign",
+    "category": "lore",
+    "summary": "",
+    "tags": [
+      "lore"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Character",
+      "NPC"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# The Golden Ruin The home page for this campaign — who's playing, what it's about, and how to plug in. Edit it like any other page. ## The Concept _A paragraph on the setting, the premise, the stakes, and where the story stands right now._ ## System & Tone - **Game system:** The King in Yellow RPG "
+  },
+  {
     "id": "11:Chez-le-P-re-Lathuile",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",

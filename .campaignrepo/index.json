@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T15:30:51.467Z",
+  "generatedAt": "2026-09-15T15:31:09.055Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -33,6 +33,24 @@
       "aliases": [],
       "summary": "Paris-era Yellow King character sheet for Bruce Carter.",
       "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "lore-Campaign",
+      "title": "Campaign",
+      "path": "wiki/pages/Campaign.md",
+      "type": "lore",
+      "tags": [
+        "lore"
+      ],
+      "links": [
+        "unresolved:character",
+        "unresolved:npc"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": []
     },
@@ -148,24 +166,6 @@
       "keyLinks": [
         "House of the North Star"
       ]
-    },
-    {
-      "id": "lore-Campaign",
-      "title": "Campaign",
-      "path": "wiki/pages/Campaign.md",
-      "type": "lore",
-      "tags": [
-        "lore"
-      ],
-      "links": [
-        "unresolved:Character",
-        "unresolved:NPC"
-      ],
-      "aliases": [],
-      "summary": "",
-      "visibility": "gm",
-      "approvalStatus": "approved",
-      "keyLinks": []
     }
   ]
 }
