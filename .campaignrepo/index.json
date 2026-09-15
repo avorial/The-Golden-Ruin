@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T15:41:03.675Z",
+  "generatedAt": "2026-09-15T15:41:58.475Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -183,6 +183,24 @@
       "keyLinks": [
         "House of the North Star"
       ]
+    },
+    {
+      "id": "character-Laurie-Shelby-Richard",
+      "title": "Laurie Shelby (Richard)",
+      "path": "wiki/pages/Laurie-Shelby-Richard.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     }
   ]
 }
