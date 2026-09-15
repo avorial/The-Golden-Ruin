@@ -16,7 +16,7 @@ lastEditedBy: patricthomas
 cover: /wiki/media/REPLACE.jpg
 ---
 
-# Henry Pirece (Laura)
+# Henry Pierce (Laura)
 ## History
 
 ---
@@ -24,7 +24,7 @@ cover: /wiki/media/REPLACE.jpg
 Character Picture
 
 ```yellow-king-paris-sheet
-name: Henry Pirece
+name: Henry Pierce
 player: Laura Bee
 field: Belle-Lettrist / Tinker
 drive: Curiostity
