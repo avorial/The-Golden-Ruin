@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T14:25:38.487Z",
+  "generatedAt": "2026-09-16T14:57:49.562Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -187,8 +187,7 @@
       "summary": "Paris-era Yellow King character sheet for Bruce Carter.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": [],
-      "cover": "/wiki/media/REPLACE.jpg"
+      "keyLinks": []
     },
     {
       "id": "npc-Camille-Flammarion",
@@ -292,8 +291,7 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "17th-Arrondissement",
-      "cover": "/wiki/media/CLPL-Setting.png"
+      "parent": "17th-Arrondissement"
     },
     {
       "id": "npc-Claude-Debussy",
@@ -401,8 +399,7 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff",
-      "cover": "/wiki/media/Elise-Marceau-Maid.png"
+      "parent": "House-Staff"
     },
     {
       "id": "npc-Ely-Star",
@@ -490,8 +487,7 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff",
-      "cover": "/wiki/media/Etienne-Renaud-Valet.png"
+      "parent": "House-Staff"
     },
     {
       "id": "npc-Gail-Loveless",
@@ -554,6 +550,25 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Henri-Matisse",
+      "title": "Henri Matisse",
+      "path": "wiki/pages/Henri-Matisse.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "people",
+        "artists-and-bohemians",
+        "painter",
+        "student"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": []
+    },
+    {
       "id": "npc-Henri-de-Toulouse-Lautrec",
       "title": "Henri de Toulouse-Lautrec",
       "path": "wiki/pages/Henri-de-Toulouse-Lautrec.md",
@@ -575,25 +590,6 @@
       "keyLinks": []
     },
     {
-      "id": "npc-Henri-Matisse",
-      "title": "Henri Matisse",
-      "path": "wiki/pages/Henri-Matisse.md",
-      "type": "npc",
-      "tags": [
-        "npc",
-        "people",
-        "artists-and-bohemians",
-        "painter",
-        "student"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
-      "visibility": "gm",
-      "approvalStatus": "unapproved",
-      "keyLinks": []
-    },
-    {
       "id": "character-Henry-Pirece-Laura",
       "title": "Henry Pierce (Laura)",
       "path": "wiki/pages/Henry-Pirece-Laura.md",
@@ -608,8 +604,22 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": [],
-      "cover": "/wiki/media/REPLACE.jpg"
+      "keyLinks": []
+    },
+    {
+      "id": "npc-House-Staff",
+      "title": "House Staff",
+      "path": "wiki/pages/House-Staff.md",
+      "type": "npc",
+      "tags": [
+        "npc"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
     },
     {
       "id": "location-House-of-the-North-Star",
@@ -633,23 +643,7 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "17th-Arrondissement",
-      "cover": "/wiki/media/HotN-Street-View.png"
-    },
-    {
-      "id": "npc-House-Staff",
-      "title": "House Staff",
-      "path": "wiki/pages/House-Staff.md",
-      "type": "npc",
-      "tags": [
-        "npc"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
+      "parent": "17th-Arrondissement"
     },
     {
       "id": "npc-James-McNeill-Whistler",
@@ -821,24 +815,6 @@
       "keyLinks": []
     },
     {
-      "id": "character-Laurie-Shelby-Richard",
-      "title": "Laurie Shelby (Richard)",
-      "path": "wiki/pages/Laurie-Shelby-Richard.md",
-      "type": "character",
-      "tags": [
-        "pc",
-        "character",
-        "sheet"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": [],
-      "cover": "/wiki/media/REPLACE.jpg"
-    },
-    {
       "id": "character-Laurie-Shelby",
       "title": "Laurie Shelby (Richard)",
       "path": "wiki/pages/Laurie-Shelby.md",
@@ -853,8 +829,24 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": [],
-      "cover": "/wiki/media/REPLACE.jpg"
+      "keyLinks": []
+    },
+    {
+      "id": "character-Laurie-Shelby-Richard",
+      "title": "Laurie Shelby (Richard)",
+      "path": "wiki/pages/Laurie-Shelby-Richard.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
     },
     {
       "id": "npc-Leo-Taxil",
@@ -962,8 +954,7 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff",
-      "cover": "/wiki/media/Madame-Eugenie-Voclain-Head-Cook.png"
+      "parent": "House-Staff"
     },
     {
       "id": "npc-Marcel-Proust",
@@ -1000,8 +991,7 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": [],
-      "cover": "/wiki/media/REPLACE.jpg"
+      "keyLinks": []
     },
     {
       "id": "npc-Marie-Curie",
@@ -1368,8 +1358,7 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff",
-      "cover": "/wiki/media/Silas-Burke.png"
+      "parent": "House-Staff"
     },
     {
       "id": "npc-Stanislas-de-Guaita",
