@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Élise Marceau, Maid
-summary: A quick, observant maid at the House of the North Star who knows where students hide things.
+summary: A quick, observant maid at the House of the North Star who knows where
+  students hide things.
 tags:
   - npc
   - house-of-the-north-star
@@ -15,7 +16,8 @@ keyLinks:
 aliases:
   - Élise Marceau
   - Elise Marceau
-lastEditedBy: Codex
+lastEditedBy: patricthomas
+parent: House-Staff
 ---
 
 # Élise Marceau, Maid
