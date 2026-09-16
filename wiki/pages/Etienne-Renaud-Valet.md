@@ -15,8 +15,9 @@ keyLinks:
 aliases:
   - Étienne Renaud
   - Renaud
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 cover: /wiki/media/Etienne-Renaud-Valet.png
+parent: House-Staff
 ---
 
 # Étienne Renaud, Valet
