@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T15:01:04.464Z",
+  "generatedAt": "2026-09-16T15:03:08.949Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -1200,7 +1200,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Scientists-and-Inventors"
     },
     {
       "id": "npc-Occultists",
