@@ -1,7 +1,7 @@
 ---
 category: character
 type: character
-name: Edward Vine (Jarod)
+name: Edward Vine (Jared)
 summary: A ready-to-fill Paris character sheet for The Yellow King RPG.
 tags:
   - pc
@@ -20,7 +20,7 @@ cover: /wiki/media/REPLACE.jpg
 
 ```yellow-king-paris-sheet
 name: Edward Vine
-player: Jarod
+player: Jared
 field: Sculptor / Raised on the Strets
 drive:  Inspiration
 pushes: 2
