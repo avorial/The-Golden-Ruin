@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T13:15:21.834Z",
+  "generatedAt": "2026-09-16T13:16:46.774Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -34,7 +34,8 @@
       "summary": "Paris-era Yellow King character sheet for Bruce Carter.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "lore-Campaign",
@@ -101,7 +102,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "17th-Arrondissement"
+      "parent": "17th-Arrondissement",
+      "cover": "/wiki/media/CLPL-Setting.png"
     },
     {
       "id": "npc-Elise-Marceau-Maid",
@@ -173,7 +175,8 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "location-House-of-the-North-Star",
@@ -197,24 +200,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "17th-Arrondissement"
-    },
-    {
-      "id": "character-Laurie-Shelby",
-      "title": "Laurie Shelby (Richard)",
-      "path": "wiki/pages/Laurie-Shelby.md",
-      "type": "character",
-      "tags": [
-        "pc",
-        "character",
-        "sheet"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
+      "parent": "17th-Arrondissement",
+      "cover": "/wiki/media/HotN-Street-View.png"
     },
     {
       "id": "character-Laurie-Shelby-Richard",
@@ -231,7 +218,26 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
+    },
+    {
+      "id": "character-Laurie-Shelby",
+      "title": "Laurie Shelby (Richard)",
+      "path": "wiki/pages/Laurie-Shelby.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Madame-Eugenie-Voclain-Head-Cook",
@@ -275,7 +281,8 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Silas-Burke-Head-Butler",
@@ -301,7 +308,8 @@
       "approvalStatus": "approved",
       "keyLinks": [
         "House of the North Star"
-      ]
+      ],
+      "cover": "/wiki/media/Silas-Burke.png"
     }
   ]
 }
