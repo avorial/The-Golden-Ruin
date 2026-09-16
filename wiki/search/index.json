@@ -187,7 +187,7 @@
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
     "slug": "Laurie-Shelby",
-    "title": "Laurie Shelby",
+    "title": "Laurie Shelby (Richard)",
     "category": "character",
     "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
     "tags": [
@@ -203,7 +203,7 @@
     "links": [],
     "backlinks": [],
     "keyLinks": [],
-    "excerpt": "# Laurie Shelby ```yellow-king-paris-sheet name: player: field: drive: pushes: 2 investigative: - - - - general: Athletics: Composure: Fighting: First Aid: Health: Mechanics: Preparedness: Riding: Sense Trouble: Sneaking: relyOn: seekToProtect: peculiarBusiness: ```"
+    "excerpt": "# Laurie Shelby ```yellow-king-paris-sheet name: Laurie Shelby player: Richard field: Landscape Painter / Former Cadet drive: Curiosity pushes: 2 investigative: - Negotiation - Painting - Art History - Natural History general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mechanics: 0"
   },
   {
     "id": "11:Laurie-Shelby-Richard",
