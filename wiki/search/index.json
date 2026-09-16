@@ -200,6 +200,7 @@
     "keyLinks": [
       "House of the North Star"
     ],
+    "parent": "House-Staff",
     "excerpt": "# Étienne Renaud, Valet <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Étienne Renaud is elegant in the way a blade is elegant: narrow, exact, and easy to underestimate until it is already too close. He dresses Lucien de Vauclair, maintains "
   },
   {
@@ -365,6 +366,7 @@
     "keyLinks": [
       "House of the North Star"
     ],
+    "parent": "House-Staff",
     "excerpt": "# Madame Eugénie Voclain, Head Cook <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Madame Voclain rules the kitchen as if it were a principality under siege. She is stout, practical, sharp-eyed, and capable of reducing a visiting aristocrat "
   },
   {
@@ -425,6 +427,7 @@
     "keyLinks": [
       "House of the North Star"
     ],
+    "parent": "House-Staff",
     "excerpt": "# Silas Burke, Head Butler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Silas Burke is the man who appears before anyone has quite decided to ring. He is broad-shouldered, severe without being theatrical, and dressed with the immaculate re"
   },
   {
