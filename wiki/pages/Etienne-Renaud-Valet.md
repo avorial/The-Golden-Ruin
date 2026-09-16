@@ -16,6 +16,7 @@ aliases:
   - Étienne Renaud
   - Renaud
 lastEditedBy: Codex
+cover: /wiki/media/Etienne-Renaud-Valet.png
 ---
 
 # Étienne Renaud, Valet
@@ -47,6 +48,11 @@ lastEditedBy: Codex
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Etienne-Renaud-Valet.png" alt="Étienne Renaud in formal valet's dress" />
+<figcaption>Étienne Renaud</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Valet</td></tr>

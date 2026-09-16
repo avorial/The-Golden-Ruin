@@ -482,6 +482,32 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Etienne-Renaud-Valet.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Etienne-Renaud-Valet.png",
+    "title": "Portrait of Étienne Renaud in formal valet's dress",
+    "category": "media",
+    "summary": "Étienne Renaud, valet at the House of the North Star.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff",
+      "portrait"
+    ],
+    "aliases": [
+      "Etienne-Renaud-Valet.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/HotN-Floorplan.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
