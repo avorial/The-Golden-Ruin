@@ -582,6 +582,29 @@
     "excerpt": "# Edmond Bailly <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Edmond Bailly talks like a man sorting books and souls onto the same shelves. He is charming, intense, musical, and delighted by customers who know enough to ask dangerous questi"
   },
   {
+    "id": "11:Edward-Vine-Jarod",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Edward-Vine-Jarod",
+    "title": "Edward Vine (Jarod)",
+    "category": "character",
+    "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+    "tags": [
+      "pc",
+      "character",
+      "sheet"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Edward Vine (Jarod) ```yellow-king-paris-sheet name: player: field: drive: pushes: 2 investigative: - - - - general: Athletics: Composure: Fighting: First Aid: Health: Mechanics: Preparedness: Riding: Sense Trouble: Sneaking: relyOn: seekToProtect: peculiarBusiness: ```"
+  },
+  {
     "id": "11:Elise-Marceau-Maid",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
