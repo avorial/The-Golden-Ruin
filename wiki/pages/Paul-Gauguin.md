@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Paul Gauguin
-summary: Hard-living Symbolist painter carrying Brittany folklore, anger, and the shadow of van Gogh.
+summary: >-
+  Hard-living Symbolist painter carrying Brittany folklore, anger, and the
+  shadow of van Gogh.
 tags:
   - npc
   - people
@@ -14,8 +16,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Paul Gauguin
 
 <div class="wiki-layout">

@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Jules Doinel
-summary: Neo-Cathar visionary and Gnostic bishop on the edge of a terrifying renunciation.
+summary: >-
+  Neo-Cathar visionary and Gnostic bishop on the edge of a terrifying
+  renunciation.
 tags:
   - npc
   - people
@@ -16,8 +18,8 @@ aliases:
   - Jules-Benoît Stanislas Doinel du Val-Michel
   - Jean Kostka
 lastEditedBy: Codex
+parent: Occultists
 ---
-
 # Jules Doinel
 
 <div class="wiki-layout">

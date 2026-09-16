@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Marie Curie
-summary: Brilliant young physicist whose discipline and ferocious concentration make her a rare ally against impossible phenomena.
+summary: >-
+  Brilliant young physicist whose discipline and ferocious concentration make
+  her a rare ally against impossible phenomena.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ keyLinks: []
 aliases:
   - Maria Skłodowska-Curie
 lastEditedBy: Codex
+parent: Scientists-and-Inventors
 ---
-
 # Marie Curie
 
 <div class="wiki-layout">

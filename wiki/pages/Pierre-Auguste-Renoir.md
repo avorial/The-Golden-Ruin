@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Pierre-Auguste Renoir
-summary: Esteemed Impressionist painter whose desire for respectability makes him resistant to strangeness.
+summary: >-
+  Esteemed Impressionist painter whose desire for respectability makes him
+  resistant to strangeness.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ keyLinks: []
 aliases:
   - Auguste Renoir
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Pierre-Auguste Renoir
 
 <div class="wiki-layout">

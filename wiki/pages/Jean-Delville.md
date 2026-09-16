@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Jean Delville
-summary: Young Belgian Symbolist painter and occult initiate whose art stands dangerously near Carcosa.
+summary: >-
+  Young Belgian Symbolist painter and occult initiate whose art stands
+  dangerously near Carcosa.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Jean Delville
 
 <div class="wiki-layout">

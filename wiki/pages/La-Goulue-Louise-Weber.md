@@ -16,8 +16,8 @@ aliases:
   - Louise Weber
   - La Goulue
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # La Goulue (Louise Weber)
 
 <div class="wiki-layout">

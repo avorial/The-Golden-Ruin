@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Antonio Herrera
-summary: Elegant Mexican seer visiting grand hotels, and perhaps not a real person at all.
+summary: >-
+  Elegant Mexican seer visiting grand hotels, and perhaps not a real person at
+  all.
 tags:
   - npc
   - people
@@ -14,8 +16,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Occultists
 ---
-
 # Antonio Herrera
 
 <div class="wiki-layout">

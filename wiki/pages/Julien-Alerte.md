@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Julien Alerte
-summary: Young tracer of lost persons whose private detective work keeps pulling him toward disappearances too strange for police ledgers.
+summary: >-
+  Young tracer of lost persons whose private detective work keeps pulling him
+  toward disappearances too strange for police ledgers.
 tags:
   - npc
   - people
@@ -14,8 +16,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Police-and-Thieves
 ---
-
 # Julien Alerte
 
 <div class="wiki-layout">

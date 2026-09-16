@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Alphonse Mucha
-summary: Newly famous Czech artist whose Art Nouveau linework and salon connections attract seekers.
+summary: >-
+  Newly famous Czech artist whose Art Nouveau linework and salon connections
+  attract seekers.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Alphonse Mucha
 
 <div class="wiki-layout">

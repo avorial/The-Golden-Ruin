@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Émile Zola
-summary: Celebrated Naturalist novelist whose unflinching eye may still miss supernatural rot.
+summary: >-
+  Celebrated Naturalist novelist whose unflinching eye may still miss
+  supernatural rot.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ keyLinks: []
 aliases:
   - Emile Zola
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Émile Zola
 
 <div class="wiki-layout">

@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Henri de Toulouse-Lautrec
-summary: Montmartre painter and printmaker who sees through performance because he lives inside it.
+summary: >-
+  Montmartre painter and printmaker who sees through performance because he
+  lives inside it.
 tags:
   - npc
   - people
@@ -16,8 +18,8 @@ keyLinks: []
 aliases:
   - Toulouse-Lautrec
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Henri de Toulouse-Lautrec
 
 <div class="wiki-layout">

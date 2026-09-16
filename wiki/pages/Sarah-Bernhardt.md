@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Sarah Bernhardt
-summary: The most famous actress in the world, grand enough to be impossible and frightened enough to hire help.
+summary: >-
+  The most famous actress in the world, grand enough to be impossible and
+  frightened enough to hire help.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ keyLinks: []
 aliases:
   - The Divine Sarah
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Sarah Bernhardt
 
 <div class="wiki-layout">

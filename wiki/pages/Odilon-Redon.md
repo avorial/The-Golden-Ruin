@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Odilon Redon
-summary: Symbolist painter whose grotesque visions can look uncomfortably like reports from Carcosa.
+summary: >-
+  Symbolist painter whose grotesque visions can look uncomfortably like reports
+  from Carcosa.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Odilon Redon
 
 <div class="wiki-layout">

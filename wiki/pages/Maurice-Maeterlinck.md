@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Maurice Maeterlinck
-summary: Belgian Symbolist playwright newly arrived in Paris with melancholy mysticism and dangerous dramatic instincts.
+summary: >-
+  Belgian Symbolist playwright newly arrived in Paris with melancholy mysticism
+  and dangerous dramatic instincts.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Maurice Maeterlinck
 
 <div class="wiki-layout">

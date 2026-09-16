@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Joséphin Péladan
-summary: Flamboyant Rosicrucian novelist and impresario who turns mysticism into theater, scandal, and social leverage.
+summary: >-
+  Flamboyant Rosicrucian novelist and impresario who turns mysticism into
+  theater, scandal, and social leverage.
 tags:
   - npc
   - people
@@ -16,8 +18,8 @@ aliases:
   - Sar Merodack
   - Sar Péladan
 lastEditedBy: Codex
+parent: Occultists
 ---
-
 # Joséphin Péladan
 
 <div class="wiki-layout">

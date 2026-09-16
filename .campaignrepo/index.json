@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T14:57:49.562Z",
+  "generatedAt": "2026-09-16T14:59:25.965Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -39,7 +39,8 @@
       "summary": "Military engineer, historian, and occult investigator who approaches magnetism and past lives like problems of artillery.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Alexandre-Saint-Yves",
@@ -59,7 +60,8 @@
       "summary": "Esoteric political thinker whose grand theories promise hidden order beneath civilization's apparent chaos.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Alphonse-Bertillon",
@@ -77,7 +79,8 @@
       "summary": "Forensic pioneer whose measurement system turns bodies, criminals, and clues into sortable facts.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Alphonse-Mucha",
@@ -96,7 +99,8 @@
       "summary": "Newly famous Czech artist whose Art Nouveau linework and salon connections attract seekers.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Anatole-France",
@@ -114,7 +118,8 @@
       "summary": "Elegant skeptic and author whose public disbelief may be a shield against the Yellow Sign.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Antonio-Herrera",
@@ -132,7 +137,8 @@
       "summary": "Elegant Mexican seer visiting grand hotels, and perhaps not a real person at all.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Aristide-Bruant",
@@ -150,6 +156,56 @@
       ],
       "aliases": [],
       "summary": "Montmartre performer, impresario, and poet of the gutter with a citywide ear for rumor.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
+    },
+    {
+      "id": "npc-Artists-and-Bohemians",
+      "title": "Artists and Bohemians",
+      "path": "wiki/pages/Artists-and-Bohemians.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "artists-and-bohemians"
+      ],
+      "links": [
+        "npc-Alphonse-Mucha",
+        "npc-Anatole-France",
+        "npc-Aristide-Bruant",
+        "npc-Auguste-Rodin",
+        "npc-Claude-Debussy",
+        "npc-Edgar-Degas",
+        "npc-Emile-Zola",
+        "npc-Erik-Satie",
+        "npc-Gail-Loveless",
+        "npc-Gustave-Moreau",
+        "npc-Henri-de-Toulouse-Lautrec",
+        "npc-Henri-Matisse",
+        "npc-James-McNeill-Whistler",
+        "npc-Jean-Delville",
+        "npc-Jean-Leon-Gerome",
+        "npc-Joris-Karl-Huysmans",
+        "npc-La-Goulue-Louise-Weber",
+        "npc-Loie-Fuller",
+        "npc-Marcel-Proust",
+        "npc-Mary-Cassatt",
+        "npc-Maurice-Maeterlinck",
+        "npc-Nadar",
+        "npc-Odilon-Redon",
+        "npc-Paul-Cezanne",
+        "npc-Paul-Gauguin",
+        "npc-Paul-Verlaine",
+        "npc-Pierre-Auguste-Renoir",
+        "npc-Sarah-Bernhardt",
+        "npc-Sarah-Brown",
+        "npc-Stephane-Mallarme"
+      ],
+      "aliases": [
+        "Artists"
+      ],
+      "summary": "Painters, writers, performers, composers, and salon figures who shape the visible culture of Paris.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": []
@@ -170,7 +226,8 @@
       "summary": "Controversial sculptor whose forceful work and temper make him a dangerous witness to embodied horror.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "character-Bruce-Carter-Mark",
@@ -187,7 +244,8 @@
       "summary": "Paris-era Yellow King character sheet for Bruce Carter.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Camille-Flammarion",
@@ -206,7 +264,8 @@
       "summary": "Astronomer, science fiction writer, and spiritist whose cosmic theories can mislead as much as illuminate.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "lore-Campaign",
@@ -242,7 +301,8 @@
       "summary": "Physiologist and psychical researcher who tries to measure the impossible without admitting how badly it has shaken him.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "location-Chez-le-P-re-Lathuile",
@@ -291,7 +351,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "17th-Arrondissement"
+      "parent": "17th-Arrondissement",
+      "cover": "/wiki/media/CLPL-Setting.png"
     },
     {
       "id": "npc-Claude-Debussy",
@@ -311,7 +372,8 @@
       "summary": "Brilliant young composer whose Symbolist connections and mystical interests may draw him toward dangerous music.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Colonel-Caoutchouc",
@@ -331,7 +393,8 @@
       "summary": "Master criminal and rubbery alias-maker whose disguises let him pass through class, border, and identity.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Edgar-Degas",
@@ -349,7 +412,8 @@
       "summary": "Prickly painter and sculptor whose precision makes him a harsh but valuable witness.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Edmond-Bailly",
@@ -371,7 +435,8 @@
       "summary": "Occult bookseller and publisher whose shop links Parisian artists, Symbolists, and ritual magicians.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Elise-Marceau-Maid",
@@ -399,7 +464,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Elise-Marceau-Maid.png"
     },
     {
       "id": "npc-Ely-Star",
@@ -417,7 +483,8 @@
       "summary": "Astrologer, magnetizer, and occult adviser whose predictions are half performance and half unnerving accuracy.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Emile-Zola",
@@ -437,7 +504,8 @@
       "summary": "Celebrated Naturalist novelist whose unflinching eye may still miss supernatural rot.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Erik-Satie",
@@ -458,7 +526,8 @@
       "summary": "Wry young composer and Rosicrucian chapel master whose poise hides a grief-shaped hunger for the next wave.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Etienne-Renaud-Valet",
@@ -487,7 +556,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Etienne-Renaud-Valet.png"
     },
     {
       "id": "npc-Gail-Loveless",
@@ -510,7 +580,8 @@
       "summary": "American spy novelist in Paris who may be hiding real Pinkerton experience inside melodrama.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Georges-Grison",
@@ -528,7 +599,8 @@
       "summary": "Crime journalist who turns Parisian horrors into copy while quietly chasing the pattern underneath them.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Gustave-Moreau",
@@ -547,26 +619,8 @@
       "summary": "Symbolist master and teacher whose mythic paintings make him a natural guide to dangerous images.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-Henri-Matisse",
-      "title": "Henri Matisse",
-      "path": "wiki/pages/Henri-Matisse.md",
-      "type": "npc",
-      "tags": [
-        "npc",
-        "people",
-        "artists-and-bohemians",
-        "painter",
-        "student"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
-      "visibility": "gm",
-      "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Henri-de-Toulouse-Lautrec",
@@ -587,7 +641,28 @@
       "summary": "Montmartre painter and printmaker who sees through performance because he lives inside it.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
+    },
+    {
+      "id": "npc-Henri-Matisse",
+      "title": "Henri Matisse",
+      "path": "wiki/pages/Henri-Matisse.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "people",
+        "artists-and-bohemians",
+        "painter",
+        "student"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "character-Henry-Pirece-Laura",
@@ -604,22 +679,8 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-House-Staff",
-      "title": "House Staff",
-      "path": "wiki/pages/House-Staff.md",
-      "type": "npc",
-      "tags": [
-        "npc"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "location-House-of-the-North-Star",
@@ -643,7 +704,23 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "17th-Arrondissement"
+      "parent": "17th-Arrondissement",
+      "cover": "/wiki/media/HotN-Street-View.png"
+    },
+    {
+      "id": "npc-House-Staff",
+      "title": "House Staff",
+      "path": "wiki/pages/House-Staff.md",
+      "type": "npc",
+      "tags": [
+        "npc"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
     },
     {
       "id": "npc-James-McNeill-Whistler",
@@ -666,7 +743,8 @@
       "summary": "Prickly American painter in Paris, self-mythologizing and experimenting with color photography.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Jean-Delville",
@@ -685,7 +763,8 @@
       "summary": "Young Belgian Symbolist painter and occult initiate whose art stands dangerously near Carcosa.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Jean-Leon-Gerome",
@@ -708,7 +787,8 @@
       "summary": "Stern academic painter and teacher whose taste for myth may have already led him too close to the book.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Joris-Karl-Huysmans",
@@ -729,7 +809,8 @@
       "summary": "Decadent novelist drifting toward Catholicism after looking too long into occult Paris.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Josephin-Peladan",
@@ -750,7 +831,8 @@
       "summary": "Flamboyant Rosicrucian novelist and impresario who turns mysticism into theater, scandal, and social leverage.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Jules-Doinel",
@@ -771,7 +853,8 @@
       "summary": "Neo-Cathar visionary and Gnostic bishop on the edge of a terrifying renunciation.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Julien-Alerte",
@@ -791,7 +874,8 @@
       "summary": "Young tracer of lost persons whose private detective work keeps pulling him toward disappearances too strange for police ledgers.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-La-Goulue-Louise-Weber",
@@ -812,24 +896,8 @@
       "summary": "Star can-can dancer whose public gaiety hides the first edge of a long fall.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
-    },
-    {
-      "id": "character-Laurie-Shelby",
-      "title": "Laurie Shelby (Richard)",
-      "path": "wiki/pages/Laurie-Shelby.md",
-      "type": "character",
-      "tags": [
-        "pc",
-        "character",
-        "sheet"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "character-Laurie-Shelby-Richard",
@@ -846,7 +914,26 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
+    },
+    {
+      "id": "character-Laurie-Shelby",
+      "title": "Laurie Shelby (Richard)",
+      "path": "wiki/pages/Laurie-Shelby.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Leo-Taxil",
@@ -866,7 +953,8 @@
       "summary": "Hoaxer, anti-clerical provocateur, and professional scandal-maker whose lies sometimes shelter worse truths.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Loie-Fuller",
@@ -886,7 +974,8 @@
       "summary": "American dancer and lighting innovator whose stage effects brush against visions of black stars.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Louis-Lepine",
@@ -906,7 +995,8 @@
       "summary": "Prefect of Police and modernizer whose calm authority hides a city constantly on the edge of disorder.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Luigi-Parmeggiani",
@@ -926,7 +1016,8 @@
       "summary": "Anarchist, smuggler, and dealer in forged antiquities whose criminal charm can make lies look beautifully old.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Madame-Eugenie-Voclain-Head-Cook",
@@ -954,7 +1045,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Madame-Eugenie-Voclain-Head-Cook.png"
     },
     {
       "id": "npc-Marcel-Proust",
@@ -974,7 +1066,8 @@
       "summary": "Young society columnist with a gift for gossip and a future too large for one book.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "character-Marcus-J-rn-Jensen-Yoshi",
@@ -991,7 +1084,8 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Marie-Curie",
@@ -1011,7 +1105,8 @@
       "summary": "Brilliant young physicist whose discipline and ferocious concentration make her a rare ally against impossible phenomena.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Scientists-and-Inventors"
     },
     {
       "id": "npc-Marie-Francois-Goron",
@@ -1031,7 +1126,8 @@
       "summary": "Former Sûreté chief and detective writer whose appetite for crime stories may become dangerously literal.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Mary-Cassatt",
@@ -1051,7 +1147,8 @@
       "summary": "American Impressionist painter whose social independence and cool eye make her a useful ally for art-world investigations.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Maurice-Maeterlinck",
@@ -1070,7 +1167,8 @@
       "summary": "Belgian Symbolist playwright newly arrived in Paris with melancholy mysticism and dangerous dramatic instincts.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Moina-Mathers",
@@ -1090,7 +1188,8 @@
       "summary": "Artist, ritualist, and Golden Dawn co-founder whose charisma outshines her husband's gray reserve.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Nadar",
@@ -1108,6 +1207,41 @@
         "Gaspard-Félix Tournachon"
       ],
       "summary": "Photographer, aeronaut, and living legend of Paris who knows how to turn danger into an image.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
+    },
+    {
+      "id": "npc-Occultists",
+      "title": "Occultists",
+      "path": "wiki/pages/Occultists.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "occultists"
+      ],
+      "links": [
+        "npc-Albert-de-Rochas",
+        "npc-Alexandre-Saint-Yves",
+        "npc-Antonio-Herrera",
+        "npc-Camille-Flammarion",
+        "npc-Charles-Richet",
+        "npc-Edmond-Bailly",
+        "npc-Ely-Star",
+        "npc-Josephin-Peladan",
+        "npc-Jules-Doinel",
+        "npc-Leo-Taxil",
+        "npc-Moina-Mathers",
+        "npc-Oswald-Wirth",
+        "npc-Papus-Gerard-Encausse",
+        "npc-Samuel-Liddell-MacGregor-Mathers",
+        "npc-Stanislas-de-Guaita"
+      ],
+      "aliases": [
+        "Occult Circle"
+      ],
+      "summary": "Esoteric writers, ritualists, astrologers, psychical researchers, and magical organizers in Paris.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": []
@@ -1129,7 +1263,8 @@
       "summary": "Symbolist painter whose grotesque visions can look uncomfortably like reports from Carcosa.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Oswald-Wirth",
@@ -1149,7 +1284,8 @@
       "summary": "Cartomancer and occult illustrator whose tarot images can become clues, keys, or traps.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Papus-Gerard-Encausse",
@@ -1171,7 +1307,8 @@
       "summary": "Martinist organizer and occult networker trying to unify a scene built from schism.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Paul-Cezanne",
@@ -1191,7 +1328,8 @@
       "summary": "Difficult, intense painter from Provence whose late work may be turning toward skulls for reasons beyond style.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Paul-Gauguin",
@@ -1209,7 +1347,8 @@
       "summary": "Hard-living Symbolist painter carrying Brittany folklore, anger, and the shadow of van Gogh.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Paul-Verlaine",
@@ -1228,7 +1367,8 @@
       "summary": "Revered Symbolist poet in ruin, still treated as holy by those who drink beside him.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Pierre-Auguste-Renoir",
@@ -1246,6 +1386,35 @@
         "Auguste Renoir"
       ],
       "summary": "Esteemed Impressionist painter whose desire for respectability makes him resistant to strangeness.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
+    },
+    {
+      "id": "npc-Police-and-Thieves",
+      "title": "Police and Thieves",
+      "path": "wiki/pages/Police-and-Thieves.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "police-and-thieves"
+      ],
+      "links": [
+        "npc-Alphonse-Bertillon",
+        "npc-Colonel-Caoutchouc",
+        "npc-Georges-Grison",
+        "npc-Julien-Alerte",
+        "npc-Louis-Lepine",
+        "npc-Luigi-Parmeggiani",
+        "npc-Marie-Francois-Goron",
+        "npc-Pyotr-Rachkovsky"
+      ],
+      "aliases": [
+        "Police",
+        "Thieves"
+      ],
+      "summary": "Detectives, police officials, criminals, spies, forgers, and crime writers who know the machinery beneath Paris.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": []
@@ -1268,7 +1437,8 @@
       "summary": "Russian secret police operative whose conspiracies are so useful that truth becomes merely one more material.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Samuel-Liddell-MacGregor-Mathers",
@@ -1289,7 +1459,8 @@
       "summary": "Golden Dawn founder in Paris, struggling to hold authority over occult ambitions larger than his reach.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Sarah-Bernhardt",
@@ -1311,7 +1482,8 @@
       "summary": "The most famous actress in the world, grand enough to be impossible and frightened enough to hire help.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Sarah-Brown",
@@ -1329,6 +1501,27 @@
         "Marie-Florentine Royer"
       ],
       "summary": "Paris's most sought-after artist's model, dazzling enough to command a room and reckless enough to burn out young.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
+    },
+    {
+      "id": "npc-Scientists-and-Inventors",
+      "title": "Scientists and Inventors",
+      "path": "wiki/pages/Scientists-and-Inventors.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "scientists"
+      ],
+      "links": [
+        "npc-Marie-Curie"
+      ],
+      "aliases": [
+        "Scientists"
+      ],
+      "summary": "Researchers, experimenters, photographers, and technical minds who can measure what others only fear.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": []
@@ -1358,7 +1551,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Silas-Burke.png"
     },
     {
       "id": "npc-Stanislas-de-Guaita",
@@ -1376,7 +1570,8 @@
       "summary": "Aristocratic Rosicrucian crusader against black magic, romantic enough to be brave and wrong.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Occultists"
     },
     {
       "id": "npc-Stephane-Mallarme",
@@ -1397,7 +1592,8 @@
       "summary": "Symbolist poet and salon figure whose words approach meaning by moonlight rather than direct road.",
       "visibility": "gm",
       "approvalStatus": "unapproved",
-      "keyLinks": []
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians"
     }
   ]
 }

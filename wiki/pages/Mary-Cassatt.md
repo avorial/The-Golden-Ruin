@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Mary Cassatt
-summary: American Impressionist painter whose social independence and cool eye make her a useful ally for art-world investigations.
+summary: >-
+  American Impressionist painter whose social independence and cool eye make her
+  a useful ally for art-world investigations.
 tags:
   - npc
   - people
@@ -14,8 +16,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Mary Cassatt
 
 <div class="wiki-layout">

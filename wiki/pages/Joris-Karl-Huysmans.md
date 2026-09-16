@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Joris-Karl Huysmans
-summary: Decadent novelist drifting toward Catholicism after looking too long into occult Paris.
+summary: >-
+  Decadent novelist drifting toward Catholicism after looking too long into
+  occult Paris.
 tags:
   - npc
   - people
@@ -16,8 +18,8 @@ keyLinks: []
 aliases:
   - Charles-Marie-Georges Huysmans
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Joris-Karl Huysmans
 
 <div class="wiki-layout">

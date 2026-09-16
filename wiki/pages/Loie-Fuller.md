@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Loie Fuller
-summary: American dancer and lighting innovator whose stage effects brush against visions of black stars.
+summary: >-
+  American dancer and lighting innovator whose stage effects brush against
+  visions of black stars.
 tags:
   - npc
   - people
@@ -14,8 +16,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Loie Fuller
 
 <div class="wiki-layout">

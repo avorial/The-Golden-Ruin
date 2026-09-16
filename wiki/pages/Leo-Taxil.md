@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Léo Taxil
-summary: Hoaxer, anti-clerical provocateur, and professional scandal-maker whose lies sometimes shelter worse truths.
+summary: >-
+  Hoaxer, anti-clerical provocateur, and professional scandal-maker whose lies
+  sometimes shelter worse truths.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ keyLinks: []
 aliases:
   - Gabriel Jogand-Pagès
 lastEditedBy: Codex
+parent: Occultists
 ---
-
 # Léo Taxil
 
 <div class="wiki-layout">

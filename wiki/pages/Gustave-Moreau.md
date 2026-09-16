@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Gustave Moreau
-summary: Symbolist master and teacher whose mythic paintings make him a natural guide to dangerous images.
+summary: >-
+  Symbolist master and teacher whose mythic paintings make him a natural guide
+  to dangerous images.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Gustave Moreau
 
 <div class="wiki-layout">

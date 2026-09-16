@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Henri Matisse
-summary: Young art student still painting conventionally, useful as a peer rather than a legend.
+summary: >-
+  Young art student still painting conventionally, useful as a peer rather than
+  a legend.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Henri Matisse
 
 <div class="wiki-layout">

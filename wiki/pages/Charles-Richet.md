@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Charles Richet
-summary: Physiologist and psychical researcher who tries to measure the impossible without admitting how badly it has shaken him.
+summary: >-
+  Physiologist and psychical researcher who tries to measure the impossible
+  without admitting how badly it has shaken him.
 tags:
   - npc
   - people
@@ -14,8 +16,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Occultists
 ---
-
 # Charles Richet
 
 <div class="wiki-layout">

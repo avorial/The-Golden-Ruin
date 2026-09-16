@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Edmond Bailly
-summary: Occult bookseller and publisher whose shop links Parisian artists, Symbolists, and ritual magicians.
+summary: >-
+  Occult bookseller and publisher whose shop links Parisian artists, Symbolists,
+  and ritual magicians.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ keyLinks: []
 aliases:
   - Henri-Edmond Limet
 lastEditedBy: Codex
+parent: Occultists
 ---
-
 # Edmond Bailly
 
 <div class="wiki-layout">

@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Gail Loveless
-summary: American spy novelist in Paris who may be hiding real Pinkerton experience inside melodrama.
+summary: >-
+  American spy novelist in Paris who may be hiding real Pinkerton experience
+  inside melodrama.
 tags:
   - npc
   - people
@@ -16,8 +18,8 @@ keyLinks: []
 aliases:
   - Mrs. Loveless
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Gail Loveless
 
 <div class="wiki-layout">

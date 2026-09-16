@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Oswald Wirth
-summary: Cartomancer and occult illustrator whose tarot images can become clues, keys, or traps.
+summary: >-
+  Cartomancer and occult illustrator whose tarot images can become clues, keys,
+  or traps.
 tags:
   - npc
   - people
@@ -14,8 +16,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Occultists
 ---
-
 # Oswald Wirth
 
 <div class="wiki-layout">

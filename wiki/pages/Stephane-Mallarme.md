@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Stéphane Mallarmé
-summary: Symbolist poet and salon figure whose words approach meaning by moonlight rather than direct road.
+summary: >-
+  Symbolist poet and salon figure whose words approach meaning by moonlight
+  rather than direct road.
 tags:
   - npc
   - people
@@ -16,8 +18,8 @@ keyLinks: []
 aliases:
   - Stephane Mallarme
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Stéphane Mallarmé
 
 <div class="wiki-layout">

@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Paul Verlaine
-summary: Revered Symbolist poet in ruin, still treated as holy by those who drink beside him.
+summary: >-
+  Revered Symbolist poet in ruin, still treated as holy by those who drink
+  beside him.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Paul Verlaine
 
 <div class="wiki-layout">

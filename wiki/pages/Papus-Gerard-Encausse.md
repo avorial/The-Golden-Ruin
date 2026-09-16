@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Papus (Gérard Encausse)
-summary: Martinist organizer and occult networker trying to unify a scene built from schism.
+summary: >-
+  Martinist organizer and occult networker trying to unify a scene built from
+  schism.
 tags:
   - npc
   - people
@@ -17,8 +19,8 @@ aliases:
   - Gerard Encausse
   - Papus
 lastEditedBy: Codex
+parent: Occultists
 ---
-
 # Papus (Gérard Encausse)
 
 <div class="wiki-layout">

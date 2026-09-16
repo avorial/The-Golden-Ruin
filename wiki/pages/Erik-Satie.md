@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Erik Satie
-summary: Wry young composer and Rosicrucian chapel master whose poise hides a grief-shaped hunger for the next wave.
+summary: >-
+  Wry young composer and Rosicrucian chapel master whose poise hides a
+  grief-shaped hunger for the next wave.
 tags:
   - npc
   - people
@@ -15,8 +17,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Erik Satie
 
 <div class="wiki-layout">

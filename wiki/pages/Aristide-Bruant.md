@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Aristide Bruant
-summary: Montmartre performer, impresario, and poet of the gutter with a citywide ear for rumor.
+summary: >-
+  Montmartre performer, impresario, and poet of the gutter with a citywide ear
+  for rumor.
 tags:
   - npc
   - people
@@ -14,8 +16,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Artists-and-Bohemians
 ---
-
 # Aristide Bruant
 
 <div class="wiki-layout">

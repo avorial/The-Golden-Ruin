@@ -2,7 +2,9 @@
 category: npc
 type: npc
 name: Georges Grison
-summary: Crime journalist who turns Parisian horrors into copy while quietly chasing the pattern underneath them.
+summary: >-
+  Crime journalist who turns Parisian horrors into copy while quietly chasing
+  the pattern underneath them.
 tags:
   - npc
   - people
@@ -14,8 +16,8 @@ knownToPlayers: false
 keyLinks: []
 aliases: []
 lastEditedBy: Codex
+parent: Police-and-Thieves
 ---
-
 # Georges Grison
 
 <div class="wiki-layout">
