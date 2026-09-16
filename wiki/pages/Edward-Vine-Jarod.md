@@ -16,7 +16,7 @@ lastEditedBy: patricthomas
 cover: /wiki/media/REPLACE.jpg
 ---
 
-# Edward Vine (Jarod)
+# Edward Vine (Jared)
 
 ```yellow-king-paris-sheet
 name: Edward Vine
