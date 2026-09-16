@@ -10,18 +10,12 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: CampaignRepo
+lastEditedBy: patricthomas
 ---
 
 # House Staff
 
-## Public Face
-
-
-## Relationships
-
-
-## Secrets
+The House staff of the House of the North Star, have all been there for years. 
 
 :::gm
 What they really want, know, or fear.
