@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | show him a Carcosan still life | points out the impossible structure, then denies caring. |
 | need access to a difficult exhibition | grudgingly names who controls the wall space. |
 
+## Sources
+
+- [Wikipedia: Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
+
 :::gm
 ## Hidden Truth
 

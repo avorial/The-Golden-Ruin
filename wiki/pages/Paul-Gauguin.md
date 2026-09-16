@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | mention van Gogh | becomes dangerous in a quieter way. |
 | need a Symbolist contact | names one, then insults them. |
 
+## Sources
+
+- [Wikipedia: Paul Gauguin](https://en.wikipedia.org/wiki/Paul_Gauguin)
+
 :::gm
 ## Hidden Truth
 

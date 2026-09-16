@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | mention supernatural causes | calls them lazy until the evidence persists. |
 | fake an identity | may spot the deception from one photograph. |
 
+## Sources
+
+- [Wikipedia: Alphonse Bertillon](https://en.wikipedia.org/wiki/Alphonse_Bertillon)
+
 :::gm
 ## Hidden Truth
 

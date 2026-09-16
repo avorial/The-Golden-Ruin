@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | need occult bookshop gossip | remembers names from before his withdrawal. |
 | ask for certainty | gives them an image, not an answer. |
 
+## Sources
+
+- [Wikipedia: Odilon Redon](https://en.wikipedia.org/wiki/Odilon_Redon)
+
 :::gm
 ## Hidden Truth
 

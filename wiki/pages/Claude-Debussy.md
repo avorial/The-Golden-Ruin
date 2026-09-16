@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | show him occult notation | tries to hear it before he tries to read it. |
 | need an entrée to a salon | gives a name, then regrets helping. |
 
+## Sources
+
+- [Wikipedia: Claude Debussy](https://en.wikipedia.org/wiki/Claude_Debussy)
+
 :::gm
 ## Hidden Truth
 

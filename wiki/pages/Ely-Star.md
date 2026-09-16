@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | threaten exposure | offers another client's secret. |
 | seek healing | can calm symptoms, not remove the cause. |
 
+## Sources
+
+- [Wikipedia: Ely Star](https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B8_%D0%A1%D1%82%D0%B0%D1%80)
+
 :::gm
 ## Hidden Truth
 

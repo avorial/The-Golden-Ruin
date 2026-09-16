@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | bring up Carcosa | stops performing for one breath too long. |
 | need influence | can provide introductions, publicity, or scandalous cover. |
 
+## Sources
+
+- [Wikipedia: Sarah Bernhardt](https://en.wikipedia.org/wiki/Sarah_Bernhardt)
+
 :::gm
 ## Hidden Truth
 

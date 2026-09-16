@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | move in elevated company | notices who ignores them and who pretends to. |
 | mention a strange memory | becomes more interested than is safe. |
 
+## Sources
+
+- [Wikipedia: Marcel Proust](https://en.wikipedia.org/wiki/Marcel_Proust)
+
 :::gm
 ## Hidden Truth
 

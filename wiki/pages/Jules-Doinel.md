@@ -79,6 +79,10 @@ lastEditedBy: Codex
 | mention Carcosa | tries to fit it into Gnostic cosmology. |
 | need Cathar lore | provides useful fragments and invented certainty. |
 
+## Sources
+
+- [Wikipedia: Jules Doinel](https://en.wikipedia.org/wiki/Jules_Doinel)
+
 :::gm
 ## Hidden Truth
 

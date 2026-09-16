@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | show him Carcosan art | recognizes the temptation before the threat. |
 | need an introduction to Joséphin Péladan | may provide one for a symbolic favor. |
 
+## Sources
+
+- [Wikipedia: Jean Delville](https://en.wikipedia.org/wiki/Jean_Delville)
+
 :::gm
 ## Hidden Truth
 

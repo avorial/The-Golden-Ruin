@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | mention Alexandrine | grows gentler and less guarded. |
 | show him Carcosan imagery | recognizes the mythic grammar but not the source. |
 
+## Sources
+
+- [Wikipedia: Gustave Moreau](https://en.wikipedia.org/wiki/Gustave_Moreau)
+
 :::gm
 ## Hidden Truth
 

@@ -33,6 +33,11 @@ lastEditedBy: Codex
 </section>
 
 <section class="wiki-section">
+<h2>Historical Notes</h2>
+<p>Historically, Gaspard-Félix Tournachon (1820-1910), known as Nadar, was a French photographer, caricaturist, journalist, novelist, and balloonist. His portrait studio, experiments with aerial photography, and wide artistic network make him a natural contact for evidence, introductions, and impossible images.</p>
+</section>
+
+<section class="wiki-section">
 <h2>Campaign Use</h2>
 <p>Nadar can provide photographs, introductions, aerial perspective, and old stories of Paris. He is also useful when an investigation needs a public excuse to be somewhere private.</p>
 </section>
@@ -77,6 +82,10 @@ lastEditedBy: Codex
 | ask about famous people | has a story and a debt attached. |
 | need access | arrives loudly enough to distract everyone. |
 | mention aerial observation | becomes twenty years younger for an hour. |
+
+## Sources
+
+- [Wikipedia: Nadar](https://en.wikipedia.org/wiki/Nadar)
 
 :::gm
 ## Hidden Truth

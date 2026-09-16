@@ -79,6 +79,10 @@ lastEditedBy: Codex
 | need an academic introduction | demands proof of discipline first. |
 | show him Carcosan art | identifies its power before condemning it. |
 
+## Sources
+
+- [Wikipedia: Jean-Léon Gérôme](https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me)
+
 :::gm
 ## Hidden Truth
 

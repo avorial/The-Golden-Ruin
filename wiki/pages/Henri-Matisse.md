@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | show him Carcosan color | tries to mix it and cannot. |
 | need someone overlooked | can move where famous artists cannot. |
 
+## Sources
+
+- [Wikipedia: Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse)
+
 :::gm
 ## Hidden Truth
 

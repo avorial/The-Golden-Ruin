@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | threaten him | threatens to make them famous. |
 | expose a hoax | applauds, then asks what they missed. |
 
+## Sources
+
+- [Wikipedia: Léo Taxil](https://en.wikipedia.org/wiki/L%C3%A9o_Taxil)
+
 :::gm
 ## Hidden Truth
 

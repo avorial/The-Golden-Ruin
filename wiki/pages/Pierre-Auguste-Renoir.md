@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | need a patron connection | knows collectors who prefer cheerful walls. |
 | show him corrupted art | calls it ugly before calling it evil. |
 
+## Sources
+
+- [Wikipedia: Pierre-Auguste Renoir](https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir)
+
 :::gm
 ## Hidden Truth
 

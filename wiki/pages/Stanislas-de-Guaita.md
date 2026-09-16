@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | ask about Boullan | gives too much detail and too little mercy. |
 | bring Carcosan evidence | calls it black magic and prepares a counter-ritual. |
 
+## Sources
+
+- [Wikipedia: Stanislas de Guaita](https://en.wikipedia.org/wiki/Stanislas_de_Guaita)
+
 :::gm
 ## Hidden Truth
 

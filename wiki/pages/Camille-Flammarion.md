@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | need occult contacts | knows almost everyone and believes most of them partly. |
 | bring mediumistic evidence | attributes it to human powers before spirits. |
 
+## Sources
+
+- [Wikipedia: Camille Flammarion](https://en.wikipedia.org/wiki/Camille_Flammarion)
+
 :::gm
 ## Hidden Truth
 

@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | need Symbolist introductions | can reach Mucha, Huysmans, or theatre people. |
 | demand clarity | gives them a metaphor that proves useful later. |
 
+## Sources
+
+- [Wikipedia: Maurice Maeterlinck](https://en.wikipedia.org/wiki/Maurice_Maeterlinck)
+
 :::gm
 ## Hidden Truth
 

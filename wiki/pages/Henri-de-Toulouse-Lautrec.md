@@ -79,6 +79,10 @@ lastEditedBy: Codex
 | ask about La Goulue or Bruant | draws the answer before speaking it. |
 | show him a poster with hidden symbols | checks the printer's hand. |
 
+## Sources
+
+- [Wikipedia: Henri de Toulouse-Lautrec](https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec)
+
 :::gm
 ## Hidden Truth
 

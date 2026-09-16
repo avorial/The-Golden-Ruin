@@ -79,6 +79,10 @@ lastEditedBy: Codex
 | need English occult visitors | can summon or identify them. |
 | bring Carcosan ritual evidence | tries to place it in Golden Dawn terms. |
 
+## Sources
+
+- [Wikipedia: S. L. MacGregor Mathers](https://en.wikipedia.org/wiki/Samuel_Liddell_MacGregor_Mathers)
+
 :::gm
 ## Hidden Truth
 

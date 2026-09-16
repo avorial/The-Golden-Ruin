@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | need access to elites | writes a letter with heavy implications. |
 | challenge his theories | treats dissent as a failure of initiation. |
 
+## Sources
+
+- [Wikipedia: Alexandre Saint-Yves d’Alveydre](https://en.wikipedia.org/wiki/Alexandre_Saint-Yves_d%27Alveydre)
+
 :::gm
 ## Hidden Truth
 

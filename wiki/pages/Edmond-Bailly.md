@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | mention a cloaked visitor | shuts the shop door before answering. |
 | need an occult introduction | names three rivals and the insult each requires. |
 
+## Sources
+
+- [Wikipedia: Edmond Bailly](https://en.wikipedia.org/wiki/Edmond_Bailly_%28composer%29)
+
 :::gm
 ## Hidden Truth
 

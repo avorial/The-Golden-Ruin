@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | bring news of black stars | checks her astronomical notes. |
 | need a distraction | can make an entire audience look the wrong way. |
 
+## Sources
+
+- [Wikipedia: Loie Fuller](https://en.wikipedia.org/wiki/Loie_Fuller)
+
 :::gm
 ## Hidden Truth
 

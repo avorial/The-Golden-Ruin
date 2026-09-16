@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | show her a disturbing image | studies the hand that made it before the horror it depicts. |
 | need a sober witness | gives them one precise observation. |
 
+## Sources
+
+- [Wikipedia: Mary Cassatt](https://en.wikipedia.org/wiki/Mary_Cassatt)
+
 :::gm
 ## Hidden Truth
 

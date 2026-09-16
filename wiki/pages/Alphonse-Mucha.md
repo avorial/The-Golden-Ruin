@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | bring a poster with a hidden sign | checks the printer's stone before blaming the artist. |
 | need a studio gathering | provides one full of useful eavesdropping. |
 
+## Sources
+
+- [Wikipedia: Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha)
+
 :::gm
 ## Hidden Truth
 

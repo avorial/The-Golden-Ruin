@@ -79,6 +79,10 @@ lastEditedBy: Codex
 | notice her sadness | gives them one honest answer. |
 | ask about Toulouse-Lautrec | knows where he was drinking last. |
 
+## Sources
+
+- [Wikipedia: La Goulue](https://en.wikipedia.org/wiki/La_Goulue)
+
 :::gm
 ## Hidden Truth
 

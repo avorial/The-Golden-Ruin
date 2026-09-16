@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | threaten police action | names three policemen already compromised. |
 | ask about authenticity | answers with philosophy before evidence. |
 
+## Sources
+
+- [Wikipedia: Luigi Parmeggiani](https://it.wikipedia.org/wiki/Luigi_Parmeggiani)
+
 :::gm
 ## Hidden Truth
 

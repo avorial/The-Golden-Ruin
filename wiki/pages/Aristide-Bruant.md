@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | mention the Yellow Sign | lowers his voice and names a dead singer. |
 | cross him | makes them famous in the worst possible song. |
 
+## Sources
+
+- [Wikipedia: Aristide Bruant](https://en.wikipedia.org/wiki/Aristide_Bruant)
+
 :::gm
 ## Hidden Truth
 

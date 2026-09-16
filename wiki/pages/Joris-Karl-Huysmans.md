@@ -79,6 +79,10 @@ lastEditedBy: Codex
 | bring a copy of the play | refuses to touch it without gloves and prayer. |
 | need occult context | gives it, then denies responsibility for what they do with it. |
 
+## Sources
+
+- [Wikipedia: Joris-Karl Huysmans](https://en.wikipedia.org/wiki/Joris-Karl_Huysmans)
+
 :::gm
 ## Hidden Truth
 

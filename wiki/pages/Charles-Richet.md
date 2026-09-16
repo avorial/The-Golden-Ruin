@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | describe supernatural events | asks what changed temperature, pulse, and light. |
 | falsify evidence | becomes a cold and lasting enemy. |
 
+## Sources
+
+- [Wikipedia: Charles Richet](https://en.wikipedia.org/wiki/Charles_Richet)
+
 :::gm
 ## Hidden Truth
 

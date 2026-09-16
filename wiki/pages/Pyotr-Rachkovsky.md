@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | reveal supernatural evidence | asks how it can be weaponized politically. |
 | confront him | offers a calmer explanation than the truth. |
 
+## Sources
+
+- [Wikipedia: Pyotr Rachkovsky](https://en.wikipedia.org/wiki/Pyotr_Rachkovsky)
+
 :::gm
 ## Hidden Truth
 

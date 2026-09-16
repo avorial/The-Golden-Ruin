@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | bring Cassatt's name | becomes marginally less impossible. |
 | waste his time | remembers and retaliates socially. |
 
+## Sources
+
+- [Wikipedia: Edgar Degas](https://en.wikipedia.org/wiki/Edgar_Degas)
+
 :::gm
 ## Hidden Truth
 

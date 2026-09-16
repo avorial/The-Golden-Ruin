@@ -33,6 +33,11 @@ lastEditedBy: Codex
 </section>
 
 <section class="wiki-section">
+<h2>Historical Notes</h2>
+<p>Historically, Marie Curie (1867-1934) was a Polish-French physicist and chemist whose research on radioactivity reshaped modern science. In the 1890s she is still building the work and reputation that will later make her famous, which makes her best used as brilliant, under-resourced, and absolutely serious.</p>
+</section>
+
+<section class="wiki-section">
 <h2>Campaign Use</h2>
 <p>Curie is useful when the supernatural leaves measurable traces. She can test materials, detect unusual emissions, or tell the characters that their impossible sample is dangerously real.</p>
 </section>
@@ -77,6 +82,10 @@ lastEditedBy: Codex
 | overstate a theory | strips it back to evidence. |
 | need a laboratory contact | helps only if the question is real. |
 | ask about occultism | treats it as a claim requiring proof. |
+
+## Sources
+
+- [Wikipedia: Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie)
 
 :::gm
 ## Hidden Truth

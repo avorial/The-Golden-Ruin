@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | bring proof of the Yellow Sign | becomes very still and asks who else has seen it. |
 | need a literary contact | gives a name with a warning attached. |
 
+## Sources
+
+- [Wikipedia: Anatole France](https://en.wikipedia.org/wiki/Anatole_France)
+
 :::gm
 ## Hidden Truth
 

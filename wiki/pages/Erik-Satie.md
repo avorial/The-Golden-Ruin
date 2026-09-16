@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | need occult bookshop access | knows who lingers there and who buys secretly. |
 | mention grief | stops joking for one sentence. |
 
+## Sources
+
+- [Wikipedia: Erik Satie](https://en.wikipedia.org/wiki/Erik_Satie)
+
 :::gm
 ## Hidden Truth
 

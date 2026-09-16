@@ -79,6 +79,10 @@ lastEditedBy: Codex
 | need money | sympathizes without being able to help much. |
 | mention Carcosa | says the name should not be made too clear. |
 
+## Sources
+
+- [Wikipedia: Stéphane Mallarmé](https://en.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9)
+
 :::gm
 ## Hidden Truth
 

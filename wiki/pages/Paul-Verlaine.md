@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | need a demimonde introduction | points to Bibi-la-Purée. |
 | mention the King | recites a line he insists he never wrote. |
 
+## Sources
+
+- [Wikipedia: Paul Verlaine](https://en.wikipedia.org/wiki/Paul_Verlaine)
+
 :::gm
 ## Hidden Truth
 

@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | mention Carcosa | asks for maps, dates, and physical symptoms. |
 | need protection | brings discipline, not bravado. |
 
+## Sources
+
+- [Wikipedia: Albert de Rochas](https://en.wikipedia.org/wiki/Albert_de_Rochas)
+
 :::gm
 ## Hidden Truth
 

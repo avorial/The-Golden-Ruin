@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | uncover a bizarre crime | becomes immediately invested. |
 | seem incompetent | takes over and calls it kindness. |
 
+## Sources
+
+- [Wikipedia: Marie-François Goron](https://en.wikipedia.org/wiki/Marie-Fran%C3%A7ois_Goron)
+
 :::gm
 ## Hidden Truth
 

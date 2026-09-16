@@ -79,6 +79,10 @@ lastEditedBy: Codex
 | ask about photography | grows technical and possessive. |
 | challenge his origin story | turns hostile immediately. |
 
+## Sources
+
+- [Wikipedia: James McNeill Whistler](https://en.wikipedia.org/wiki/James_Abbott_McNeill_Whistler)
+
 :::gm
 ## Hidden Truth
 

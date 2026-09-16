@@ -79,6 +79,10 @@ lastEditedBy: Codex
 | bring art to him | judges the soul before the brushwork. |
 | embarrass him | makes the insult famous by morning. |
 
+## Sources
+
+- [Wikipedia: Joséphin Péladan](https://en.wikipedia.org/wiki/Jos%C3%A9phin_P%C3%A9ladan)
+
 :::gm
 ## Hidden Truth
 

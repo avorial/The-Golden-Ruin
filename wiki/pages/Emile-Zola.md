@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | bring supernatural evidence | tries three social explanations first. |
 | need a scandal understood | sees who profits and who pays. |
 
+## Sources
+
+- [Wikipedia: Émile Zola](https://en.wikipedia.org/wiki/%C3%89mile_Zola)
+
 :::gm
 ## Hidden Truth
 

@@ -80,6 +80,10 @@ lastEditedBy: Codex
 | need medical respectability | reminds them he has a conventional degree. |
 | bring Carcosan chaos | tries to make it part of a teachable system. |
 
+## Sources
+
+- [Wikipedia: Papus](https://en.wikipedia.org/wiki/Papus)
+
 :::gm
 ## Hidden Truth
 

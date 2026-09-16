@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | feed him a lead | publishes only after extracting a second one. |
 | anger powerful people | admires them professionally. |
 
+## Sources
+
+- [Wikipedia: Georges Grison](https://fr.wikipedia.org/wiki/Georges_Grison)
+
 :::gm
 ## Hidden Truth
 

@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | insult his work | ends the meeting. |
 | bring a fragment of statue | handles it like a wound. |
 
+## Sources
+
+- [Wikipedia: Auguste Rodin](https://en.wikipedia.org/wiki/Auguste_Rodin)
+
 :::gm
 ## Hidden Truth
 

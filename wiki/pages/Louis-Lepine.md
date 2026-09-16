@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | need official cover | grants it only with accountability. |
 | accuse elites | demands evidence that can survive politics. |
 
+## Sources
+
+- [Wikipedia: Louis Lépine](https://en.wikipedia.org/wiki/Louis_L%C3%A9pine)
+
 :::gm
 ## Hidden Truth
 

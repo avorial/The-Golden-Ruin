@@ -78,6 +78,10 @@ lastEditedBy: Codex
 | mention Isis | asks what they think a goddess wants from staging. |
 | underestimate her | lets them reveal what they came to take. |
 
+## Sources
+
+- [Wikipedia: Moina Mathers](https://en.wikipedia.org/wiki/Moina_Mathers)
+
 :::gm
 ## Hidden Truth
 

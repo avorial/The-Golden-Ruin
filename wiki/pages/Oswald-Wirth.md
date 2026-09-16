@@ -77,6 +77,10 @@ lastEditedBy: Codex
 | need a forgery made | refuses unless it prevents something worse. |
 | mention the Yellow Sign | stops drawing and turns the paper over. |
 
+## Sources
+
+- [Wikipedia: Oswald Wirth](https://en.wikipedia.org/wiki/Oswald_Wirth)
+
 :::gm
 ## Hidden Truth
 
