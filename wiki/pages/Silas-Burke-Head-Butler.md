@@ -16,6 +16,7 @@ aliases:
   - Burke
 lastEditedBy: patricthomas
 cover: /wiki/media/Silas-Burke.png
+parent: House-Staff
 ---
 
 # Silas Burke, Head Butler
