@@ -830,6 +830,34 @@
     "excerpt": "# Gustave Moreau <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Gustave Moreau carries melancholy with the composure of a man who has turned grief into gold leaf, myth, and impossible architecture. He can be generous to students while seemin"
   },
   {
+    "id": "11:Henri-Matisse",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Henri-Matisse",
+    "title": "Henri Matisse",
+    "category": "npc",
+    "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "student"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Artists-and-Bohemians"
+    ],
+    "keyLinks": [],
+    "parent": "Artists-and-Bohemians",
+    "excerpt": "# Henri Matisse <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Henri Matisse is not yet a monument. He is a struggling student with talent, uncertainty, a father's disappointment behind him, and enough ambition to make failure feel like a mo"
+  },
+  {
     "id": "11:Henri-de-Toulouse-Lautrec",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -860,34 +888,6 @@
     "excerpt": "# Henri de Toulouse-Lautrec <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Toulouse-Lautrec sees the room from below its self-importance. He drinks hard, observes harder, and catches people at the moment when the pose begins to fail.</p> </s"
   },
   {
-    "id": "11:Henri-Matisse",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "Henri-Matisse",
-    "title": "Henri Matisse",
-    "category": "npc",
-    "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
-    "tags": [
-      "npc",
-      "people",
-      "artists-and-bohemians",
-      "painter",
-      "student"
-    ],
-    "aliases": [],
-    "visibility": "gm",
-    "approvalStatus": "unapproved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [
-      "Artists-and-Bohemians"
-    ],
-    "keyLinks": [],
-    "parent": "Artists-and-Bohemians",
-    "excerpt": "# Henri Matisse <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Henri Matisse is not yet a monument. He is a struggling student with talent, uncertainty, a father's disappointment behind him, and enough ambition to make failure feel like a mo"
-  },
-  {
     "id": "11:Henry-Pirece-Laura",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -909,6 +909,27 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Henry Pierce (Laura) ## History --- Character Picture ```yellow-king-paris-sheet name: Henry Pierce player: Laura Bee field: Belle-Lettrist / Tinker drive: Curiostity pushes: 2 investigative: - Bella Lettrist - History - Reassurance - Resarch general: Athletics: 3 Composure: 6 Fighting: 5 First Ai"
+  },
+  {
+    "id": "11:House-Staff",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "House-Staff",
+    "title": "House Staff",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# House Staff The House staff of the House of the North Star, have all been there for years."
   },
   {
     "id": "11:House-of-the-North-Star",
@@ -962,27 +983,6 @@
     ],
     "parent": "17th-Arrondissement",
     "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's [[17th arrondissement]]. It i"
-  },
-  {
-    "id": "11:House-Staff",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "House-Staff",
-    "title": "House Staff",
-    "category": "npc",
-    "summary": "",
-    "tags": [
-      "npc"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": "# House Staff The House staff of the House of the North Star, have all been there for years."
   },
   {
     "id": "11:James-McNeill-Whistler",
@@ -1226,29 +1226,6 @@
     "excerpt": "# La Goulue (Louise Weber) <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>La Goulue is laughter, appetite, movement, and defiance. She performs gaiety so forcefully that it takes a careful observer to notice when the mask slips.</p> </sectio"
   },
   {
-    "id": "11:Laurie-Shelby-Richard",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "Laurie-Shelby-Richard",
-    "title": "Laurie Shelby (Richard)",
-    "category": "character",
-    "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
-    "tags": [
-      "pc",
-      "character",
-      "sheet"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": "# Laurie Shelby (Richard) ## History ```yellow-king-paris-sheet name: Richard player: Laurie Shelby field: Landscape Painter / Ex Military drive: pushes: 2 investigative: - Art History - Natural History - Negotation - Painting general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mec"
-  },
-  {
     "id": "11:Laurie-Shelby",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1270,6 +1247,29 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Laurie Shelby ```yellow-king-paris-sheet name: Laurie Shelby player: Richard field: Landscape Painter / Former Cadet drive: Curiosity pushes: 2 investigative: - Negotiation - Painting - Art History - Natural History general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mechanics: 0"
+  },
+  {
+    "id": "11:Laurie-Shelby-Richard",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Laurie-Shelby-Richard",
+    "title": "Laurie Shelby (Richard)",
+    "category": "character",
+    "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+    "tags": [
+      "pc",
+      "character",
+      "sheet"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Laurie Shelby (Richard) ## History ```yellow-king-paris-sheet name: Richard player: Laurie Shelby field: Landscape Painter / Ex Military drive: pushes: 2 investigative: - Art History - Natural History - Negotation - Painting general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mec"
   },
   {
     "id": "11:Leo-Taxil",
