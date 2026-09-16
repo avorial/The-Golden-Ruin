@@ -130,6 +130,78 @@
     "excerpt": "# Chez le Père Lathuile ![Chez le Père Lathuile at the edge of Place de Clichy.](/wiki/media/CLPL-Setting.png) ## Overview [[Chez le Père Lathuile]] is an old restaurant and garden café at [[7 Avenue de Clichy]], close to [[Place de Clichy]] in the [[17th Arrondissement]]. Its reputation is older th"
   },
   {
+    "id": "11:Elise-Marceau-Maid",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Elise-Marceau-Maid",
+    "title": "Élise Marceau, Maid",
+    "category": "npc",
+    "summary": "A quick, observant maid at the House of the North Star who knows where students hide things.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff"
+    ],
+    "aliases": [
+      "Élise Marceau",
+      "Elise Marceau"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star",
+      "Silas Burke, Head Butler",
+      "Madame Eugénie Voclain, Head Cook",
+      "House of the North Star"
+    ],
+    "backlinks": [
+      "House-of-the-North-Star",
+      "Madame-Eugenie-Voclain-Head-Cook"
+    ],
+    "keyLinks": [
+      "House of the North Star"
+    ],
+    "excerpt": "# Élise Marceau, Maid <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Élise Marceau moves through the North Star with a tray balanced on one hand and a dozen conclusions already formed. She is young enough that patrons talk over her and sharp"
+  },
+  {
+    "id": "11:Etienne-Renaud-Valet",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Etienne-Renaud-Valet",
+    "title": "Étienne Renaud, Valet",
+    "category": "npc",
+    "summary": "Lucien de Vauclair's discreet valet and the most polished servant below Burke.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff"
+    ],
+    "aliases": [
+      "Étienne Renaud",
+      "Renaud"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star",
+      "Lucien de Vauclair",
+      "Lucien de Vauclair",
+      "Silas Burke, Head Butler",
+      "House of the North Star"
+    ],
+    "backlinks": [
+      "House-of-the-North-Star"
+    ],
+    "keyLinks": [
+      "House of the North Star"
+    ],
+    "excerpt": "# Étienne Renaud, Valet <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Étienne Renaud is elegant in the way a blade is elegant: narrow, exact, and easy to underestimate until it is already too close. He dresses Lucien de Vauclair, maintains "
+  },
+  {
     "id": "11:Henry-Pirece-Laura",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -170,9 +242,18 @@
     "playerText": "",
     "links": [
       "17th arrondissement",
-      "Silas Burke, Head Butler"
+      "Silas Burke, Head Butler",
+      "Élise Marceau, Maid",
+      "Étienne Renaud, Valet",
+      "Madame Eugénie Voclain, Head Cook"
     ],
     "backlinks": [
+      "Elise-Marceau-Maid",
+      "Elise-Marceau-Maid",
+      "Etienne-Renaud-Valet",
+      "Etienne-Renaud-Valet",
+      "Madame-Eugenie-Voclain-Head-Cook",
+      "Madame-Eugenie-Voclain-Head-Cook",
       "Silas-Burke-Head-Butler",
       "Silas-Burke-Head-Butler"
     ],
@@ -229,6 +310,42 @@
     "excerpt": "# Laurie Shelby (Richard) ## History ```yellow-king-paris-sheet name: Richard player: Laurie Shelby field: Landscape Painter / Ex Military drive: pushes: 2 investigative: - Art History - Natural History - Negotation - Painting general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mec"
   },
   {
+    "id": "11:Madame-Eugenie-Voclain-Head-Cook",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Madame-Eugenie-Voclain-Head-Cook",
+    "title": "Madame Eugénie Voclain, Head Cook",
+    "category": "npc",
+    "summary": "The formidable head cook who rules the North Star kitchens and remembers every appetite.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff"
+    ],
+    "aliases": [
+      "Madame Voclain",
+      "Eugénie Voclain"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star",
+      "Silas Burke, Head Butler",
+      "Élise Marceau, Maid",
+      "House of the North Star"
+    ],
+    "backlinks": [
+      "Elise-Marceau-Maid",
+      "House-of-the-North-Star"
+    ],
+    "keyLinks": [
+      "House of the North Star"
+    ],
+    "excerpt": "# Madame Eugénie Voclain, Head Cook <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Madame Voclain rules the kitchen as if it were a principality under siege. She is stout, practical, sharp-eyed, and capable of reducing a visiting aristocrat "
+  },
+  {
     "id": "11:Marcus-J-rn-Jensen-Yoshi",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -278,7 +395,10 @@
       "Lucien de Vauclair"
     ],
     "backlinks": [
-      "House-of-the-North-Star"
+      "Elise-Marceau-Maid",
+      "Etienne-Renaud-Valet",
+      "House-of-the-North-Star",
+      "Madame-Eugenie-Voclain-Head-Cook"
     ],
     "keyLinks": [
       "House of the North Star"

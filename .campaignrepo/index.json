@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T13:04:29.147Z",
+  "generatedAt": "2026-09-16T13:12:20.741Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -104,6 +104,61 @@
       "parent": "17th-Arrondissement"
     },
     {
+      "id": "npc-Elise-Marceau-Maid",
+      "title": "Élise Marceau, Maid",
+      "path": "wiki/pages/Elise-Marceau-Maid.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "house-of-the-north-star",
+        "staff"
+      ],
+      "links": [
+        "location-House-of-the-North-Star",
+        "npc-Silas-Burke-Head-Butler",
+        "npc-Madame-Eugenie-Voclain-Head-Cook",
+        "location-House-of-the-North-Star"
+      ],
+      "aliases": [
+        "Élise Marceau",
+        "Elise Marceau"
+      ],
+      "summary": "A quick, observant maid at the House of the North Star who knows where students hide things.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "House of the North Star"
+      ]
+    },
+    {
+      "id": "npc-Etienne-Renaud-Valet",
+      "title": "Étienne Renaud, Valet",
+      "path": "wiki/pages/Etienne-Renaud-Valet.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "house-of-the-north-star",
+        "staff"
+      ],
+      "links": [
+        "location-House-of-the-North-Star",
+        "unresolved:lucien-de-vauclair",
+        "unresolved:lucien-de-vauclair",
+        "npc-Silas-Burke-Head-Butler",
+        "location-House-of-the-North-Star"
+      ],
+      "aliases": [
+        "Étienne Renaud",
+        "Renaud"
+      ],
+      "summary": "Lucien de Vauclair's discreet valet and the most polished servant below Burke.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "House of the North Star"
+      ]
+    },
+    {
       "id": "character-Henry-Pirece-Laura",
       "title": "Henry Pierce (Laura)",
       "path": "wiki/pages/Henry-Pirece-Laura.md",
@@ -130,7 +185,10 @@
       ],
       "links": [
         "location-17th-Arrondissement",
-        "npc-Silas-Burke-Head-Butler"
+        "npc-Silas-Burke-Head-Butler",
+        "npc-Elise-Marceau-Maid",
+        "npc-Etienne-Renaud-Valet",
+        "npc-Madame-Eugenie-Voclain-Head-Cook"
       ],
       "aliases": [],
       "summary": "A secluded artists' retreat opened to the children of America's aristocracy by an heir whose family grief became a legend of guidance.",
@@ -174,6 +232,33 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Madame-Eugenie-Voclain-Head-Cook",
+      "title": "Madame Eugénie Voclain, Head Cook",
+      "path": "wiki/pages/Madame-Eugenie-Voclain-Head-Cook.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "house-of-the-north-star",
+        "staff"
+      ],
+      "links": [
+        "location-House-of-the-North-Star",
+        "npc-Silas-Burke-Head-Butler",
+        "npc-Elise-Marceau-Maid",
+        "location-House-of-the-North-Star"
+      ],
+      "aliases": [
+        "Madame Voclain",
+        "Eugénie Voclain"
+      ],
+      "summary": "The formidable head cook who rules the North Star kitchens and remembers every appetite.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "House of the North Star"
+      ]
     },
     {
       "id": "character-Marcus-J-rn-Jensen-Yoshi",
