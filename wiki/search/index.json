@@ -225,6 +225,27 @@
     "excerpt": "# Henry Pierce (Laura) ## History --- Character Picture ```yellow-king-paris-sheet name: Henry Pierce player: Laura Bee field: Belle-Lettrist / Tinker drive: Curiostity pushes: 2 investigative: - Bella Lettrist - History - Reassurance - Resarch general: Athletics: 3 Composure: 6 Fighting: 5 First Ai"
   },
   {
+    "id": "11:House-Staff",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "House-Staff",
+    "title": "House Staff",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# House Staff ## Public Face ## Relationships ## Secrets"
+  },
+  {
     "id": "11:House-of-the-North-Star",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
