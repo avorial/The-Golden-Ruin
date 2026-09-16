@@ -2,9 +2,8 @@
 category: npc
 type: npc
 name: Nadar
-summary: >-
-  Photographer, aeronaut, and living legend of Paris who knows how to turn
-  danger into an image.
+summary: Photographer, aeronaut, and living legend of Paris who knows how to
+  turn danger into an image.
 tags:
   - npc
   - people
@@ -16,9 +15,10 @@ knownToPlayers: false
 keyLinks: []
 aliases:
   - Gaspard-Félix Tournachon
-lastEditedBy: Codex
-parent: Artists-and-Bohemians
+lastEditedBy: patricthomas
+parent: Scientists-and-Inventors
 ---
+
 # Nadar
 
 <div class="wiki-layout">
