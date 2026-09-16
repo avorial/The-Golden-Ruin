@@ -2,7 +2,8 @@
 category: npc
 type: npc
 name: Madame Eugénie Voclain, Head Cook
-summary: The formidable head cook who rules the North Star kitchens and remembers every appetite.
+summary: The formidable head cook who rules the North Star kitchens and
+  remembers every appetite.
 tags:
   - npc
   - house-of-the-north-star
@@ -15,7 +16,8 @@ keyLinks:
 aliases:
   - Madame Voclain
   - Eugénie Voclain
-lastEditedBy: Codex
+lastEditedBy: patricthomas
+parent: House-Staff
 ---
 
 # Madame Eugénie Voclain, Head Cook
