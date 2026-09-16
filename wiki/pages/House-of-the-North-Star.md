@@ -226,9 +226,11 @@ They also know when a student should not be left alone with a locked door, a mir
 
 - **[[Silas Burke, Head Butler]]:** Burke governs the household with such quiet exactness that argument with him quickly feels childish. He receives visitors, controls the keys, assigns servants, and always seems to know which room a guest has entered before anyone tells him. He is unfailingly courteous to the students but rarely affectionate.
 
-- **Élise Marceau, Maid:** Élise tends the bedrooms, gallery, linens, and the thousand minor domestic disasters produced by nervous young artists. She is young enough that students underestimate her and experienced enough to know exactly what they hide beneath mattresses, behind canvases, and inside folded letters.
+- **[[Élise Marceau, Maid]]:** Élise tends the bedrooms, gallery, linens, and the thousand minor domestic disasters produced by nervous young artists. She is young enough that students underestimate her and experienced enough to know exactly what they hide beneath mattresses, behind canvases, and inside folded letters.
 
-- **Madame Eugénie Voclain, Cook:** Madame Voclain rules the kitchens and adjoining service passages with practical authority. She feeds the students well, despises waste, and maintains a private ledger recording who eats, who refuses food, who sleeps through breakfast, and who asks for peculiar things at peculiar hours.
+- **[[Étienne Renaud, Valet]]:** Renaud serves Lucien directly, prepares rooms for important guests, tends gentlemen's clothing and luggage, and quietly notices what people leave in pockets, dressing cases, and locked wardrobes. He has enough polish to pass among patrons and enough curiosity to be dangerous below stairs.
+
+- **[[Madame Eugénie Voclain, Head Cook]]:** Madame Voclain rules the kitchens and adjoining service passages with practical authority. She feeds the students well, despises waste, and maintains a private ledger recording who eats, who refuses food, who sleeps through breakfast, and who asks for peculiar things at peculiar hours.
 
 - **Henri Belloc, Porter:** Henri controls the outer door, receives parcels, handles luggage, summons cabs, and deals with tradesmen. He possesses the broad stillness of a man who has removed more than one unwelcome visitor from a drawing room without raising his voice.
 
