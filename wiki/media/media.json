@@ -65,6 +65,26 @@
       "portrait"
     ]
   },
+  "wiki/media/Elise-Marceau-Maid.png": {
+    "alt": "Portrait of Élise Marceau in maid's dress carrying tea",
+    "caption": "Élise Marceau, maid at the House of the North Star.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff",
+      "portrait"
+    ]
+  },
+  "wiki/media/Madame-Eugenie-Voclain-Head-Cook.png": {
+    "alt": "Portrait of Madame Eugénie Voclain in the kitchen",
+    "caption": "Madame Eugénie Voclain, head cook at the House of the North Star.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

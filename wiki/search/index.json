@@ -26,6 +26,207 @@
     "excerpt": "# 17th Arrondissement ## Public Face In the 1890s, Paris’s 17th arrondissement was a district of sharp contrasts. Around Plaine-de-Monceaux, Ternes, and Avenue de Wagram, broad avenues, new apartment houses, private mansions, fashionable restaurants, and respectable bourgeois households gave the are"
   },
   {
+    "id": "11:Albert-de-Rochas",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Albert-de-Rochas",
+    "title": "Albert de Rochas",
+    "category": "npc",
+    "summary": "Military engineer, historian, and occult investigator who approaches magnetism and past lives like problems of artillery.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "science"
+    ],
+    "aliases": [
+      "Eugène Auguste Albert de Rochas"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Albert de Rochas <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>De Rochas is exacting, dry, and quietly fearless. He treats trance work as a field exercise: instruments prepared, witnesses placed, escape routes noted.</p> </section> <secti"
+  },
+  {
+    "id": "11:Alexandre-Saint-Yves",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Alexandre-Saint-Yves",
+    "title": "Alexandre Saint-Yves",
+    "category": "npc",
+    "summary": "Esoteric political thinker whose grand theories promise hidden order beneath civilization's apparent chaos.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "politics"
+    ],
+    "aliases": [
+      "Saint-Yves d'Alveydre"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Alexandre Saint-Yves <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Saint-Yves speaks as though history is an instrument currently out of tune. He is courteous, paternal, and certain that ordinary politics is merely the shadow of a better "
+  },
+  {
+    "id": "11:Alphonse-Bertillon",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Alphonse-Bertillon",
+    "title": "Alphonse Bertillon",
+    "category": "npc",
+    "summary": "Forensic pioneer whose measurement system turns bodies, criminals, and clues into sortable facts.",
+    "tags": [
+      "npc",
+      "people",
+      "police-and-thieves",
+      "forensics"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Alphonse Bertillon <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Bertillon is exact, proud, and not inclined to charm anyone. He trusts measurements because people lie, panic, forget, and bleed inconveniently.</p> </section> <section clas"
+  },
+  {
+    "id": "11:Alphonse-Mucha",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Alphonse-Mucha",
+    "title": "Alphonse Mucha",
+    "category": "npc",
+    "summary": "Newly famous Czech artist whose Art Nouveau linework and salon connections attract seekers.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "illustrator"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Alphonse Mucha <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Alphonse Mucha has the slightly stunned focus of a man who spent years ignored and has suddenly become unavoidable. He is gracious, careful, and quietly protective of the opport"
+  },
+  {
+    "id": "11:Anatole-France",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Anatole-France",
+    "title": "Anatole France",
+    "category": "npc",
+    "summary": "Elegant skeptic and author whose public disbelief may be a shield against the Yellow Sign.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "author"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Anatole France <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Anatole France is dry, polished, and quietly delighted by human foolishness. He seems to debunk the supernatural because it amuses him, but his skepticism has the discipline of "
+  },
+  {
+    "id": "11:Antonio-Herrera",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Antonio-Herrera",
+    "title": "Antonio Herrera",
+    "category": "npc",
+    "summary": "Elegant Mexican seer visiting grand hotels, and perhaps not a real person at all.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "seer"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Antonio Herrera <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Antonio Herrera looks like a seer designed by someone who knows exactly what wealthy hotel guests expect to see: delicate profile, white hair, refined reluctance, and prophecie"
+  },
+  {
+    "id": "11:Aristide-Bruant",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Aristide-Bruant",
+    "title": "Aristide Bruant",
+    "category": "npc",
+    "summary": "Montmartre performer, impresario, and poet of the gutter with a citywide ear for rumor.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "performer"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Aristide Bruant <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Aristide Bruant insults the rich so well they pay for the privilege. In his cabaret kingdom he is singer, master of ceremonies, judge, gossip, and executioner, with one eyebrow"
+  },
+  {
+    "id": "11:Auguste-Rodin",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Auguste-Rodin",
+    "title": "Auguste Rodin",
+    "category": "npc",
+    "summary": "Controversial sculptor whose forceful work and temper make him a dangerous witness to embodied horror.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "sculptor"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Auguste Rodin <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Rodin has the force of a quarrel carved into a man. He is physical, emotional, proud, and quick to anger when questions brush old accusations or suggest he cannot tell flesh from"
+  },
+  {
     "id": "11:Bruce-Carter-Mark",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -47,6 +248,31 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Bruce Carter ## History --- Character Picture ```yellow-king-paris-sheet name: Bruce Carter player: Mark field: Architect - Tinkerer drive: Rationalism pushes: 2 investigative: - Architecture - Art History - Officialdom - Technology general: Athletics: 3 Composure: 7 Fighting: 6 First Aid: 0 Healt"
+  },
+  {
+    "id": "11:Camille-Flammarion",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Camille-Flammarion",
+    "title": "Camille Flammarion",
+    "category": "npc",
+    "summary": "Astronomer, science fiction writer, and spiritist whose cosmic theories can mislead as much as illuminate.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "scientist",
+      "astronomer"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Camille Flammarion <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Camille Flammarion has the grand air of a man who expects the universe to be interesting and is rarely disappointed. He moves easily between astronomy, spiritism, fiction, a"
   },
   {
     "id": "11:Campaign",
@@ -71,6 +297,30 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# The Golden Ruin The home page for this campaign — who's playing, what it's about, and how to plug in. Edit it like any other page. ## The Concept _A paragraph on the setting, the premise, the stakes, and where the story stands right now._ ## System & Tone - **Game system:** The King in Yellow RPG "
+  },
+  {
+    "id": "11:Charles-Richet",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Charles-Richet",
+    "title": "Charles Richet",
+    "category": "npc",
+    "summary": "Physiologist and psychical researcher who tries to measure the impossible without admitting how badly it has shaken him.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "scientists"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Charles Richet <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Richet is brisk, humane in manner, and stubbornly clinical. He speaks gently to witnesses, then describes their terror as data.</p> </section> <section class=\"wiki-section\"> <h2"
   },
   {
     "id": "11:Chez-le-P-re-Lathuile",
@@ -130,6 +380,112 @@
     "excerpt": "# Chez le Père Lathuile ![Chez le Père Lathuile at the edge of Place de Clichy.](/wiki/media/CLPL-Setting.png) ## Overview [[Chez le Père Lathuile]] is an old restaurant and garden café at [[7 Avenue de Clichy]], close to [[Place de Clichy]] in the [[17th Arrondissement]]. Its reputation is older th"
   },
   {
+    "id": "11:Claude-Debussy",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Claude-Debussy",
+    "title": "Claude Debussy",
+    "category": "npc",
+    "summary": "Brilliant young composer whose Symbolist connections and mystical interests may draw him toward dangerous music.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "composer"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Claude Debussy <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Claude Debussy has the impatience of someone who knows he is right before anyone else has found the question. He can be charming when curiosity takes him and cruel when boredom "
+  },
+  {
+    "id": "11:Colonel-Caoutchouc",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Colonel-Caoutchouc",
+    "title": "Colonel Caoutchouc",
+    "category": "npc",
+    "summary": "Master criminal and rubbery alias-maker whose disguises let him pass through class, border, and identity.",
+    "tags": [
+      "npc",
+      "people",
+      "police-and-thieves",
+      "criminal"
+    ],
+    "aliases": [
+      "Antonio Herrera"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Colonel Caoutchouc <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Caoutchouc is never the same man twice, but each version is charming enough to make doubt feel rude. His greatest weapon is the pause before someone says, \"surely not.\"</p> "
+  },
+  {
+    "id": "11:Edgar-Degas",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Edgar-Degas",
+    "title": "Edgar Degas",
+    "category": "npc",
+    "summary": "Prickly painter and sculptor whose precision makes him a harsh but valuable witness.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Chez-le-P-re-Lathuile"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Edgar Degas <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Edgar Degas is not cruel by accident. He has made a weapon of exactness, and he uses it on paintings, exhibitions, acquaintances, and anyone foolish enough to ask whether he likes "
+  },
+  {
+    "id": "11:Edmond-Bailly",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Edmond-Bailly",
+    "title": "Edmond Bailly",
+    "category": "npc",
+    "summary": "Occult bookseller and publisher whose shop links Parisian artists, Symbolists, and ritual magicians.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "bookseller"
+    ],
+    "aliases": [
+      "Henri-Edmond Limet"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Edmond Bailly <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Edmond Bailly talks like a man sorting books and souls onto the same shelves. He is charming, intense, musical, and delighted by customers who know enough to ask dangerous questi"
+  },
+  {
     "id": "11:Elise-Marceau-Maid",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -165,6 +521,85 @@
     ],
     "parent": "House-Staff",
     "excerpt": "# Élise Marceau, Maid <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Élise Marceau moves through the North Star with a tray balanced on one hand and a dozen conclusions already formed. She is young enough that patrons talk over her and sharp"
+  },
+  {
+    "id": "11:Ely-Star",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Ely-Star",
+    "title": "Ely Star",
+    "category": "npc",
+    "summary": "Astrologer, magnetizer, and occult adviser whose predictions are half performance and half unnerving accuracy.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "astrology"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Ely Star <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Star is theatrical in a softer register than Péladan: lamps dimmed, voice lowered, charts unrolled with priestly care. He flatters clients by making their secrets seem astronomical.</"
+  },
+  {
+    "id": "11:Emile-Zola",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Emile-Zola",
+    "title": "Émile Zola",
+    "category": "npc",
+    "summary": "Celebrated Naturalist novelist whose unflinching eye may still miss supernatural rot.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "novelist"
+    ],
+    "aliases": [
+      "Emile Zola"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Chez-le-P-re-Lathuile"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Émile Zola <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Émile Zola observes society like an autopsy conducted in public. Success has made him easier to approach and harder to contradict, with the bearing of a man who survived scandal and"
+  },
+  {
+    "id": "11:Erik-Satie",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Erik-Satie",
+    "title": "Erik Satie",
+    "category": "npc",
+    "summary": "Wry young composer and Rosicrucian chapel master whose poise hides a grief-shaped hunger for the next wave.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "composer",
+      "occult"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Erik Satie <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Erik Satie is young, dry, composed, and much stranger than he first admits. His wit is a curtain over melancholy, and his confidence arrives wearing a hat too formal for the room.</"
   },
   {
     "id": "11:Etienne-Renaud-Valet",
@@ -204,6 +639,136 @@
     "excerpt": "# Étienne Renaud, Valet <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Étienne Renaud is elegant in the way a blade is elegant: narrow, exact, and easy to underestimate until it is already too close. He dresses Lucien de Vauclair, maintains "
   },
   {
+    "id": "11:Gail-Loveless",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Gail-Loveless",
+    "title": "Gail Loveless",
+    "category": "npc",
+    "summary": "American spy novelist in Paris who may be hiding real Pinkerton experience inside melodrama.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "author",
+      "american"
+    ],
+    "aliases": [
+      "Mrs. Loveless"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Gail Loveless <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Gail Loveless has the matronly solidity of a woman people underestimate only once. She writes sensational spy fiction and lets readers argue over how much of it she invented.</p>"
+  },
+  {
+    "id": "11:Georges-Grison",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Georges-Grison",
+    "title": "Georges Grison",
+    "category": "npc",
+    "summary": "Crime journalist who turns Parisian horrors into copy while quietly chasing the pattern underneath them.",
+    "tags": [
+      "npc",
+      "people",
+      "police-and-thieves",
+      "journalist"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Georges Grison <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Grison is all ink-stained cuffs and bright, hungry attention. He talks like a friend, listens like a prosecutor, and files the best line before anyone else reaches the door.</p>"
+  },
+  {
+    "id": "11:Gustave-Moreau",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Gustave-Moreau",
+    "title": "Gustave Moreau",
+    "category": "npc",
+    "summary": "Symbolist master and teacher whose mythic paintings make him a natural guide to dangerous images.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "teacher"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Gustave Moreau <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Gustave Moreau carries melancholy with the composure of a man who has turned grief into gold leaf, myth, and impossible architecture. He can be generous to students while seemin"
+  },
+  {
+    "id": "11:Henri-de-Toulouse-Lautrec",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Henri-de-Toulouse-Lautrec",
+    "title": "Henri de Toulouse-Lautrec",
+    "category": "npc",
+    "summary": "Montmartre painter and printmaker who sees through performance because he lives inside it.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "printmaker"
+    ],
+    "aliases": [
+      "Toulouse-Lautrec"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Henri de Toulouse-Lautrec <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Toulouse-Lautrec sees the room from below its self-importance. He drinks hard, observes harder, and catches people at the moment when the pose begins to fail.</p> </s"
+  },
+  {
+    "id": "11:Henri-Matisse",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Henri-Matisse",
+    "title": "Henri Matisse",
+    "category": "npc",
+    "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "student"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Henri Matisse <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Henri Matisse is not yet a monument. He is a struggling student with talent, uncertainty, a father's disappointment behind him, and enough ambition to make failure feel like a mo"
+  },
+  {
     "id": "11:Henry-Pirece-Laura",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -225,27 +790,6 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Henry Pierce (Laura) ## History --- Character Picture ```yellow-king-paris-sheet name: Henry Pierce player: Laura Bee field: Belle-Lettrist / Tinker drive: Curiostity pushes: 2 investigative: - Bella Lettrist - History - Reassurance - Resarch general: Athletics: 3 Composure: 6 Fighting: 5 First Ai"
-  },
-  {
-    "id": "11:House-Staff",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "House-Staff",
-    "title": "House Staff",
-    "category": "npc",
-    "summary": "",
-    "tags": [
-      "npc"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": "# House Staff The House staff of the House of the North Star, have all been there for years."
   },
   {
     "id": "11:House-of-the-North-Star",
@@ -271,12 +815,26 @@
       "Madame Eugénie Voclain, Head Cook"
     ],
     "backlinks": [
+      "Albert-de-Rochas",
+      "Aristide-Bruant",
+      "Claude-Debussy",
+      "Edmond-Bailly",
       "Elise-Marceau-Maid",
       "Elise-Marceau-Maid",
+      "Erik-Satie",
       "Etienne-Renaud-Valet",
       "Etienne-Renaud-Valet",
+      "Gail-Loveless",
+      "James-McNeill-Whistler",
+      "Jean-Leon-Gerome",
+      "Julien-Alerte",
+      "Loie-Fuller",
       "Madame-Eugenie-Voclain-Head-Cook",
       "Madame-Eugenie-Voclain-Head-Cook",
+      "Marcel-Proust",
+      "Mary-Cassatt",
+      "Oswald-Wirth",
+      "Sarah-Bernhardt",
       "Silas-Burke-Head-Butler",
       "Silas-Burke-Head-Butler"
     ],
@@ -285,6 +843,267 @@
     ],
     "parent": "17th-Arrondissement",
     "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's [[17th arrondissement]]. It i"
+  },
+  {
+    "id": "11:House-Staff",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "House-Staff",
+    "title": "House Staff",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# House Staff The House staff of the House of the North Star, have all been there for years."
+  },
+  {
+    "id": "11:James-McNeill-Whistler",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "James-McNeill-Whistler",
+    "title": "James McNeill Whistler",
+    "category": "npc",
+    "summary": "Prickly American painter in Paris, self-mythologizing and experimenting with color photography.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "american"
+    ],
+    "aliases": [
+      "Whistler"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# James McNeill Whistler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Whistler carries himself as if every conversation is an arrangement in ego and acid. He is brilliant, vain, combative, and deeply invested in the story of himself as muc"
+  },
+  {
+    "id": "11:Jean-Delville",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Jean-Delville",
+    "title": "Jean Delville",
+    "category": "npc",
+    "summary": "Young Belgian Symbolist painter and occult initiate whose art stands dangerously near Carcosa.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "occult"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Jean Delville <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Jean Delville carries himself like a young magician who has not yet learned which doors should remain theatrical. He is serious, beautiful in a severe way, and far too willing to"
+  },
+  {
+    "id": "11:Jean-Leon-Gerome",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Jean-Leon-Gerome",
+    "title": "Jean-Léon Gérôme",
+    "category": "npc",
+    "summary": "Stern academic painter and teacher whose taste for myth may have already led him too close to the book.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "teacher"
+    ],
+    "aliases": [
+      "Jean-Leon Gerome"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Jean-Léon Gérôme <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Jean-Léon Gérôme is the professor who can make a talented student feel like a fraud with one raised eyebrow. His severity is not empty cruelty: he sees failures of draftsmansh"
+  },
+  {
+    "id": "11:Joris-Karl-Huysmans",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Joris-Karl-Huysmans",
+    "title": "Joris-Karl Huysmans",
+    "category": "npc",
+    "summary": "Decadent novelist drifting toward Catholicism after looking too long into occult Paris.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "author",
+      "occult"
+    ],
+    "aliases": [
+      "Charles-Marie-Georges Huysmans"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Joris-Karl Huysmans <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Huysmans looks less like a scandalous decadent than an uncomfortable banker who has seen where decadence leads and would now prefer a locked chapel door. He speaks with the"
+  },
+  {
+    "id": "11:Josephin-Peladan",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Josephin-Peladan",
+    "title": "Joséphin Péladan",
+    "category": "npc",
+    "summary": "Flamboyant Rosicrucian novelist and impresario who turns mysticism into theater, scandal, and social leverage.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "salons"
+    ],
+    "aliases": [
+      "Sar Merodack",
+      "Sar Péladan"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Joséphin Péladan <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Péladan arrives as if the room has been built to receive him. He is velvet, perfume, doctrine, insult, and sudden generosity, all arranged as a performance only he believes is"
+  },
+  {
+    "id": "11:Jules-Doinel",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Jules-Doinel",
+    "title": "Jules Doinel",
+    "category": "npc",
+    "summary": "Neo-Cathar visionary and Gnostic bishop on the edge of a terrifying renunciation.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "gnostic"
+    ],
+    "aliases": [
+      "Jules-Benoît Stanislas Doinel du Val-Michel",
+      "Jean Kostka"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Jules Doinel <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Jules Doinel receives visitors like a bishop of a church that exists mostly in smoke, old heresy, and his own conviction. He categorizes souls as if sorting travelers at a border "
+  },
+  {
+    "id": "11:Julien-Alerte",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Julien-Alerte",
+    "title": "Julien Alerte",
+    "category": "npc",
+    "summary": "Young tracer of lost persons whose private detective work keeps pulling him toward disappearances too strange for police ledgers.",
+    "tags": [
+      "npc",
+      "people",
+      "police-and-thieves",
+      "investigator"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Julien Alerte <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Julien is eager, observant, and trying very hard to sound older than he is. He has the useful courage of a man who has not yet learned which doors should stay closed.</p> </secti"
+  },
+  {
+    "id": "11:La-Goulue-Louise-Weber",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "La-Goulue-Louise-Weber",
+    "title": "La Goulue (Louise Weber)",
+    "category": "npc",
+    "summary": "Star can-can dancer whose public gaiety hides the first edge of a long fall.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "performer"
+    ],
+    "aliases": [
+      "Louise Weber",
+      "La Goulue"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# La Goulue (Louise Weber) <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>La Goulue is laughter, appetite, movement, and defiance. She performs gaiety so forcefully that it takes a careful observer to notice when the mask slips.</p> </sectio"
+  },
+  {
+    "id": "11:Laurie-Shelby-Richard",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Laurie-Shelby-Richard",
+    "title": "Laurie Shelby (Richard)",
+    "category": "character",
+    "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+    "tags": [
+      "pc",
+      "character",
+      "sheet"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Laurie Shelby (Richard) ## History ```yellow-king-paris-sheet name: Richard player: Laurie Shelby field: Landscape Painter / Ex Military drive: pushes: 2 investigative: - Art History - Natural History - Negotation - Painting general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mec"
   },
   {
     "id": "11:Laurie-Shelby",
@@ -310,27 +1129,108 @@
     "excerpt": "# Laurie Shelby ```yellow-king-paris-sheet name: Laurie Shelby player: Richard field: Landscape Painter / Former Cadet drive: Curiosity pushes: 2 investigative: - Negotiation - Painting - Art History - Natural History general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mechanics: 0"
   },
   {
-    "id": "11:Laurie-Shelby-Richard",
+    "id": "11:Leo-Taxil",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
-    "slug": "Laurie-Shelby-Richard",
-    "title": "Laurie Shelby (Richard)",
-    "category": "character",
-    "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+    "slug": "Leo-Taxil",
+    "title": "Léo Taxil",
+    "category": "npc",
+    "summary": "Hoaxer, anti-clerical provocateur, and professional scandal-maker whose lies sometimes shelter worse truths.",
     "tags": [
-      "pc",
-      "character",
-      "sheet"
+      "npc",
+      "people",
+      "occultists",
+      "scandal"
     ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
+    "aliases": [
+      "Gabriel Jogand-Pagès"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
     "text": "",
     "playerText": "",
     "links": [],
     "backlinks": [],
     "keyLinks": [],
-    "excerpt": "# Laurie Shelby (Richard) ## History ```yellow-king-paris-sheet name: Richard player: Laurie Shelby field: Landscape Painter / Ex Military drive: pushes: 2 investigative: - Art History - Natural History - Negotation - Painting general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mec"
+    "excerpt": "# Léo Taxil <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Taxil grins like a man already composing tomorrow's denial. He is funny, venomous, and happiest when a respectable person cannot decide whether to strike him or quote him.</p> </sect"
+  },
+  {
+    "id": "11:Loie-Fuller",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Loie-Fuller",
+    "title": "Loie Fuller",
+    "category": "npc",
+    "summary": "American dancer and lighting innovator whose stage effects brush against visions of black stars.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "performer"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Loie Fuller <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Loie Fuller is motion, color, and experiment given human form. She treats light as a partner rather than a tool, and when she speaks of a performance she describes chemistry, fabri"
+  },
+  {
+    "id": "11:Louis-Lepine",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Louis-Lepine",
+    "title": "Louis Lépine",
+    "category": "npc",
+    "summary": "Prefect of Police and modernizer whose calm authority hides a city constantly on the edge of disorder.",
+    "tags": [
+      "npc",
+      "people",
+      "police-and-thieves",
+      "police"
+    ],
+    "aliases": [
+      "Louis Jean-Baptiste Lépine"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Louis Lépine <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Lépine is controlled, practical, and difficult to impress. He listens for the part of a story that requires men, horses, paperwork, and timing.</p> </section> <section class=\"wiki"
+  },
+  {
+    "id": "11:Luigi-Parmeggiani",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Luigi-Parmeggiani",
+    "title": "Luigi Parmeggiani",
+    "category": "npc",
+    "summary": "Anarchist, smuggler, and dealer in forged antiquities whose criminal charm can make lies look beautifully old.",
+    "tags": [
+      "npc",
+      "people",
+      "police-and-thieves",
+      "criminal"
+    ],
+    "aliases": [
+      "Luigi Giovanni Francesco Parmeggiani"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Luigi Parmeggiani <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Parmeggiani is elegant, erudite, and amused by ownership as a concept. He handles forged relics with more reverence than priests give real ones.</p> </section> <section class"
   },
   {
     "id": "11:Madame-Eugenie-Voclain-Head-Cook",
@@ -370,6 +1270,32 @@
     "excerpt": "# Madame Eugénie Voclain, Head Cook <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Madame Voclain rules the kitchen as if it were a principality under siege. She is stout, practical, sharp-eyed, and capable of reducing a visiting aristocrat "
   },
   {
+    "id": "11:Marcel-Proust",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Marcel-Proust",
+    "title": "Marcel Proust",
+    "category": "npc",
+    "summary": "Young society columnist with a gift for gossip and a future too large for one book.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "writer"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Marcel Proust <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Marcel Proust is dapper, observant, socially hungry, and already collecting people as if memory were a cabinet with infinite drawers. He can flatter, pry, and wound without appea"
+  },
+  {
     "id": "11:Marcus-J-rn-Jensen-Yoshi",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -391,6 +1317,450 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Marcus \"Járn\" Jensen (Yoshi) ## History Born and raised in the Midwest, Marcus was named after the Roman god Mars by his parents, who always wanted him to become someone strong and successful. He eventually rejected the name, adopting Járn, norse for 'iron', showing his unwillingness to bend and a"
+  },
+  {
+    "id": "11:Marie-Curie",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Marie-Curie",
+    "title": "Marie Curie",
+    "category": "npc",
+    "summary": "Brilliant young physicist whose discipline and ferocious concentration make her a rare ally against impossible phenomena.",
+    "tags": [
+      "npc",
+      "people",
+      "scientists",
+      "paris"
+    ],
+    "aliases": [
+      "Maria Skłodowska-Curie"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Marie Curie <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Curie is direct, restrained, and almost frighteningly focused. She has little patience for theatrics, but great patience for a difficult measurement.</p> </section> <section class="
+  },
+  {
+    "id": "11:Marie-Francois-Goron",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Marie-Francois-Goron",
+    "title": "Marie-François Goron",
+    "category": "npc",
+    "summary": "Former Sûreté chief and detective writer whose appetite for crime stories may become dangerously literal.",
+    "tags": [
+      "npc",
+      "people",
+      "police-and-thieves",
+      "police"
+    ],
+    "aliases": [
+      "Marie François Goron"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Marie-François Goron <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Goron is genial until the room turns criminal, then his attention narrows with alarming pleasure. He likes stories, especially the ones that end with someone clever in cha"
+  },
+  {
+    "id": "11:Mary-Cassatt",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Mary-Cassatt",
+    "title": "Mary Cassatt",
+    "category": "npc",
+    "summary": "American Impressionist painter whose social independence and cool eye make her a useful ally for art-world investigations.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Mary Cassatt <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Mary Cassatt is direct without being careless. She notices composition in people: who is centered, who is cropped out, who has been posed by money, and who has been left with only"
+  },
+  {
+    "id": "11:Maurice-Maeterlinck",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Maurice-Maeterlinck",
+    "title": "Maurice Maeterlinck",
+    "category": "npc",
+    "summary": "Belgian Symbolist playwright newly arrived in Paris with melancholy mysticism and dangerous dramatic instincts.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "playwright",
+      "symbolist"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Maurice Maeterlinck <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Maurice Maeterlinck speaks as if ordinary life is a curtain and every emotion a draft from the other side. He is gentle, grave, and more interested in atmosphere than expla"
+  },
+  {
+    "id": "11:Moina-Mathers",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Moina-Mathers",
+    "title": "Moina Mathers",
+    "category": "npc",
+    "summary": "Artist, ritualist, and Golden Dawn co-founder whose charisma outshines her husband's gray reserve.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "golden-dawn"
+    ],
+    "aliases": [
+      "Moina Bergson Mathers"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Moina Mathers <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Moina Mathers moves like a Pre-Raphaelite painting that learned to speak French and conduct ritual. She is poised, artistic, feminist in bearing if not always in doctrine, and di"
+  },
+  {
+    "id": "11:Nadar",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Nadar",
+    "title": "Nadar",
+    "category": "npc",
+    "summary": "Photographer, aeronaut, and living legend of Paris who knows how to turn danger into an image.",
+    "tags": [
+      "npc",
+      "people",
+      "artists",
+      "scientists"
+    ],
+    "aliases": [
+      "Gaspard-Félix Tournachon"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Nadar <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Nadar is huge in reputation and larger in conversation. He laughs loudly, remembers everyone, and treats peril as a logistical inconvenience on the way to a better view.</p> </section> <"
+  },
+  {
+    "id": "11:Odilon-Redon",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Odilon-Redon",
+    "title": "Odilon Redon",
+    "category": "npc",
+    "summary": "Symbolist painter whose grotesque visions can look uncomfortably like reports from Carcosa.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "symbolist"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Odilon Redon <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Odilon Redon is quiet enough that others lean toward him, then regret what they hear. His art moves from delicacy into the grotesque without warning, as if beauty and nightmare sh"
+  },
+  {
+    "id": "11:Oswald-Wirth",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Oswald-Wirth",
+    "title": "Oswald Wirth",
+    "category": "npc",
+    "summary": "Cartomancer and occult illustrator whose tarot images can become clues, keys, or traps.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "tarot"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Oswald Wirth <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Wirth is patient, observant, and mildly amused by louder occultists. He watches hands as carefully as faces, and his own hands rarely stop sketching.</p> </section> <section class"
+  },
+  {
+    "id": "11:Papus-Gerard-Encausse",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Papus-Gerard-Encausse",
+    "title": "Papus (Gérard Encausse)",
+    "category": "npc",
+    "summary": "Martinist organizer and occult networker trying to unify a scene built from schism.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "martinist"
+    ],
+    "aliases": [
+      "Gérard Encausse",
+      "Gerard Encausse",
+      "Papus"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Papus (Gérard Encausse) <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Papus has the dark-eyed intensity of a man building an organization from smoke, doctrine, ambition, and correspondence. He wants every occultist in Paris to belong to a"
+  },
+  {
+    "id": "11:Paul-Cezanne",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Paul-Cezanne",
+    "title": "Paul Cézanne",
+    "category": "npc",
+    "summary": "Difficult, intense painter from Provence whose late work may be turning toward skulls for reasons beyond style.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter"
+    ],
+    "aliases": [
+      "Paul Cezanne"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Paul Cézanne <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Paul Cézanne does not make conversation easy. He grumbles, squints, complains about health, money, critics, family, and Paris, then suddenly says one precise thing about color or "
+  },
+  {
+    "id": "11:Paul-Gauguin",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Paul-Gauguin",
+    "title": "Paul Gauguin",
+    "category": "npc",
+    "summary": "Hard-living Symbolist painter carrying Brittany folklore, anger, and the shadow of van Gogh.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Paul Gauguin <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Paul Gauguin enters with the romantic force of a man who wants the world to be more primitive, more symbolic, and more obedient to his appetites. Charm gives way to irritation qui"
+  },
+  {
+    "id": "11:Paul-Verlaine",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Paul-Verlaine",
+    "title": "Paul Verlaine",
+    "category": "npc",
+    "summary": "Revered Symbolist poet in ruin, still treated as holy by those who drink beside him.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "poet",
+      "symbolist"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Paul Verlaine <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Paul Verlaine looks like a man aged by weather no one else stood under. He is revered, drunk, ruined, funny, bitter, tender, and capable of saying one line that makes the whole c"
+  },
+  {
+    "id": "11:Pierre-Auguste-Renoir",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Pierre-Auguste-Renoir",
+    "title": "Pierre-Auguste Renoir",
+    "category": "npc",
+    "summary": "Esteemed Impressionist painter whose desire for respectability makes him resistant to strangeness.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter"
+    ],
+    "aliases": [
+      "Auguste Renoir"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Chez-le-P-re-Lathuile"
+    ],
+    "keyLinks": [],
+    "excerpt": "# Pierre-Auguste Renoir <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Renoir prefers warmth, flesh, sunlight, and ordinary happiness. He has little patience for theatrical dread and less interest in being dragged into someone else's occult "
+  },
+  {
+    "id": "11:Pyotr-Rachkovsky",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Pyotr-Rachkovsky",
+    "title": "Pyotr Rachkovsky",
+    "category": "npc",
+    "summary": "Russian secret police operative whose conspiracies are so useful that truth becomes merely one more material.",
+    "tags": [
+      "npc",
+      "people",
+      "police-and-thieves",
+      "espionage"
+    ],
+    "aliases": [
+      "Piotr Rachkovsky"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Pyotr Rachkovsky <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Rachkovsky is courteous, patient, and almost impossible to read. He never seems surprised, which may mean he knows everything, or that he has practiced the expression.</p> </s"
+  },
+  {
+    "id": "11:Samuel-Liddell-MacGregor-Mathers",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Samuel-Liddell-MacGregor-Mathers",
+    "title": "Samuel Liddell “MacGregor” Mathers",
+    "category": "npc",
+    "summary": "Golden Dawn founder in Paris, struggling to hold authority over occult ambitions larger than his reach.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "golden-dawn"
+    ],
+    "aliases": [
+      "Samuel Mathers",
+      "MacGregor Mathers"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Samuel Liddell “MacGregor” Mathers <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Samuel Mathers is less flamboyant in person than his reputation suggests. He can seem gray, retiring, and overburdened until authority is challenged; then th"
+  },
+  {
+    "id": "11:Sarah-Bernhardt",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Sarah-Bernhardt",
+    "title": "Sarah Bernhardt",
+    "category": "npc",
+    "summary": "The most famous actress in the world, grand enough to be impossible and frightened enough to hire help.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "performer"
+    ],
+    "aliases": [
+      "The Divine Sarah"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Sarah Bernhardt <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Sarah Bernhardt enters a room as if the room has been waiting all evening for permission to exist. She is generous, impossible, funny, vain, and more perceptive than her audien"
+  },
+  {
+    "id": "11:Sarah-Brown",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Sarah-Brown",
+    "title": "Sarah Brown",
+    "category": "npc",
+    "summary": "Paris's most sought-after artist's model, dazzling enough to command a room and reckless enough to burn out young.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "model"
+    ],
+    "aliases": [
+      "Marie-Florentine Royer"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Sarah Brown <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Sarah Brown behaves as if every studio, café, and student ball exists for the purpose of discovering what she will do next. She is magnetic, expensive, disruptive, and quite capabl"
   },
   {
     "id": "11:Silas-Burke-Head-Butler",
@@ -429,6 +1799,57 @@
     ],
     "parent": "House-Staff",
     "excerpt": "# Silas Burke, Head Butler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Silas Burke is the man who appears before anyone has quite decided to ring. He is broad-shouldered, severe without being theatrical, and dressed with the immaculate re"
+  },
+  {
+    "id": "11:Stanislas-de-Guaita",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Stanislas-de-Guaita",
+    "title": "Stanislas de Guaita",
+    "category": "npc",
+    "summary": "Aristocratic Rosicrucian crusader against black magic, romantic enough to be brave and wrong.",
+    "tags": [
+      "npc",
+      "people",
+      "occultists",
+      "rosicrucian"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Stanislas de Guaita <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Stanislas de Guaita has the bearing of an aristocrat who believes evil is real and that he has been properly educated to fight it. He is earnest, romantic, and so committed"
+  },
+  {
+    "id": "11:Stephane-Mallarme",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Stephane-Mallarme",
+    "title": "Stéphane Mallarmé",
+    "category": "npc",
+    "summary": "Symbolist poet and salon figure whose words approach meaning by moonlight rather than direct road.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "poet",
+      "symbolist"
+    ],
+    "aliases": [
+      "Stephane Mallarme"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Stéphane Mallarmé <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Stéphane Mallarmé speaks as if language is a veil that should never be lifted all at once. He can be warm, oblique, brilliant, broke, and maddeningly precise about the wrong "
   },
   {
     "id": "11:media:wiki/media/CLPL-Floorplan.png",
@@ -507,6 +1928,32 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Elise-Marceau-Maid.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Elise-Marceau-Maid.png",
+    "title": "Portrait of Élise Marceau in maid's dress carrying tea",
+    "category": "media",
+    "summary": "Élise Marceau, maid at the House of the North Star.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff",
+      "portrait"
+    ],
+    "aliases": [
+      "Elise-Marceau-Maid.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Etienne-Renaud-Valet.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -572,6 +2019,32 @@
     ],
     "aliases": [
       "HotN-Street-View.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Madame-Eugenie-Voclain-Head-Cook.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Madame-Eugenie-Voclain-Head-Cook.png",
+    "title": "Portrait of Madame Eugénie Voclain in the kitchen",
+    "category": "media",
+    "summary": "Madame Eugénie Voclain, head cook at the House of the North Star.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff",
+      "portrait"
+    ],
+    "aliases": [
+      "Madame-Eugenie-Voclain-Head-Cook.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",

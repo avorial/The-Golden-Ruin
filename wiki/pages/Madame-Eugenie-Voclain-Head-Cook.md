@@ -18,6 +18,7 @@ aliases:
   - Eugénie Voclain
 lastEditedBy: patricthomas
 parent: House-Staff
+cover: /wiki/media/Madame-Eugenie-Voclain-Head-Cook.png
 ---
 
 # Madame Eugénie Voclain, Head Cook
@@ -49,6 +50,11 @@ parent: House-Staff
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Madame-Eugenie-Voclain-Head-Cook.png" alt="Madame Eugénie Voclain in the kitchen" />
+<figcaption>Madame Eugénie Voclain</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Head cook</td></tr>

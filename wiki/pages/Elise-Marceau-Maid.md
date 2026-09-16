@@ -18,6 +18,7 @@ aliases:
   - Elise Marceau
 lastEditedBy: patricthomas
 parent: House-Staff
+cover: /wiki/media/Elise-Marceau-Maid.png
 ---
 
 # Élise Marceau, Maid
@@ -49,6 +50,11 @@ parent: House-Staff
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Elise-Marceau-Maid.png" alt="Élise Marceau in maid's dress carrying tea" />
+<figcaption>Élise Marceau</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Maid</td></tr>
