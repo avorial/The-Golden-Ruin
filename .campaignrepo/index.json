@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T13:35:56.465Z",
+  "generatedAt": "2026-09-16T13:36:29.419Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -128,7 +128,8 @@
       "approvalStatus": "approved",
       "keyLinks": [
         "House of the North Star"
-      ]
+      ],
+      "parent": "House-Staff"
     },
     {
       "id": "npc-Etienne-Renaud-Valet",
