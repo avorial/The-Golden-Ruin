@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T19:40:26.376Z",
+  "generatedAt": "2026-09-17T13:35:54.124Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -914,23 +914,6 @@
       "id": "character-Laurie-Shelby",
       "title": "Laurie Shelby (Richard)",
       "path": "wiki/pages/Laurie-Shelby.md",
-      "type": "character",
-      "tags": [
-        "pc",
-        "character",
-        "sheet"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "character-Laurie-Shelby-Richard",
-      "title": "Laurie Shelby (Richard)",
-      "path": "wiki/pages/Laurie-Shelby-Richard.md",
       "type": "character",
       "tags": [
         "pc",
