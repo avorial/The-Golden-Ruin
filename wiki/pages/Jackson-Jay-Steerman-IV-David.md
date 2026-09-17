@@ -1,7 +1,7 @@
 ---
 category: character
 type: character
-name: Jackson (Jay) Steerman IV (David)
+name: Jackson "Jay" Steerman IV (David)
 summary: A ready-to-fill Paris character sheet for The Yellow King RPG.
 tags:
   - pc
@@ -19,30 +19,30 @@ cover: /wiki/media/REPLACE.jpg
 # Jackson (Jay) Steerman IV (David)
 
 ```yellow-king-paris-sheet
-name:
-player:
-field:
-drive:
+name: Jackson (Jay) Steerman IV
+player: David Urvig
+field: Poet /Scrounger 
+drive: Seeker 
 pushes: 2
 investigative:
-  -
-  -
-  -
-  -
+  - Demimonde
+  - Intuition
+  - Occultism
+  - Poetry
 general:
-  Athletics:
-  Composure:
-  Fighting:
-  First Aid:
-  Health:
-  Mechanics:
-  Preparedness:
-  Riding:
-  Sense Trouble:
-  Sneaking:
-relyOn:
-seekToProtect:
-peculiarBusiness:
+  Athletics: 3
+  Composure: 7 
+  Fighting: 6
+  First Aid: 0 
+  Health: 3
+  Mechanics: 0 
+  Preparedness: 5
+  Riding: 2
+  Sense Trouble: 3
+  Sneaking: 5
+relyOn: Henry Pierce (laura)
+seekToProtect: Bruce Carter (Mark)
+peculiarBusiness: A private journal with short poems, and notes, Unusual re-writes or marks apear without him writing them.
 ```
 
 :::gm
