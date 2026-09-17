@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T14:10:37.929Z",
+  "generatedAt": "2026-09-17T14:10:56.505Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -732,6 +732,23 @@
         "House of the North Star"
       ],
       "parent": "17th-Arrondissement"
+    },
+    {
+      "id": "character-Jackson-Jay-Steerman-IV-David",
+      "title": "Jackson (Jay) Steerman IV (David)",
+      "path": "wiki/pages/Jackson-Jay-Steerman-IV-David.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
     },
     {
       "id": "npc-James-McNeill-Whistler",
@@ -1583,24 +1600,6 @@
       "approvalStatus": "unapproved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
-    },
-    {
-      "id": "character-Jackson-Jay-Steerman-IV-David",
-      "title": "Jackson (Jay) Steerman IV (David)",
-      "path": "wiki/pages/Jackson-Jay-Steerman-IV-David.md",
-      "type": "character",
-      "tags": [
-        "pc",
-        "character",
-        "sheet"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": [],
-      "cover": "/wiki/media/REPLACE.jpg"
     }
   ]
 }

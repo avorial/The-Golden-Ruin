@@ -1008,6 +1008,29 @@
     "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's [[17th arrondissement]]. It i"
   },
   {
+    "id": "11:Jackson-Jay-Steerman-IV-David",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Jackson-Jay-Steerman-IV-David",
+    "title": "Jackson (Jay) Steerman IV (David)",
+    "category": "character",
+    "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+    "tags": [
+      "pc",
+      "character",
+      "sheet"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Jackson (Jay) Steerman IV (David) ```yellow-king-paris-sheet name: player: field: drive: pushes: 2 investigative: - - - - general: Athletics: Composure: Fighting: First Aid: Health: Mechanics: Preparedness: Riding: Sense Trouble: Sneaking: relyOn: seekToProtect: peculiarBusiness: ```"
+  },
+  {
     "id": "11:James-McNeill-Whistler",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
