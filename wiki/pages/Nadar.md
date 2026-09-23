@@ -9,13 +9,13 @@ tags:
   - people
   - artists
   - scientists
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Gaspard-Félix Tournachon
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Scientists-and-Inventors
 cover: /wiki/media/Nadar.png
 ---

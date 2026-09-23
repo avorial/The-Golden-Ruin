@@ -7,16 +7,16 @@ summary: The eastern half of the historic center, containing City Hall, old
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Hôtel de Ville
   - Mont-de-Piété
   - Tour Saint-Jacques
 aliases:
   - 4th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 4th Arrondissement

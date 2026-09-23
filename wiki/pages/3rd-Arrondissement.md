@@ -7,15 +7,15 @@ summary: A portion of the old Marais where medieval streets, archives, and the
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Bibliothèque Historique de la Ville de Paris
   - Temple Square
 aliases:
   - 3rd
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 3rd Arrondissement

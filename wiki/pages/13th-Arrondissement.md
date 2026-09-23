@@ -7,14 +7,14 @@ summary: A southern district of hospitals, industry, and expanding neighborhoods
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Salpêtrière
 aliases:
   - 13th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 13th Arrondissement

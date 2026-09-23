@@ -7,12 +7,12 @@ summary: Paris’s only private cemetery, founded around a mass grave of
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 12th-Arrondissement
 cover: /wiki/media/Location-Picpus-Cemetery.JPG
 ---

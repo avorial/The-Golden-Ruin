@@ -10,13 +10,13 @@ tags:
   - artists-and-bohemians
   - author
   - occult
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Charles-Marie-Georges Huysmans
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Artists-and-Bohemians
 cover: /wiki/media/Joris-Karl-Huysmans.png
 ---

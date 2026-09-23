@@ -9,13 +9,13 @@ tags:
   - people
   - police-and-thieves
   - criminal
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Luigi Giovanni Francesco Parmeggiani
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Police-and-Thieves
 cover: /wiki/media/Luigi-Parmeggiani.png
 ---

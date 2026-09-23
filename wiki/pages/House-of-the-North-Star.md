@@ -12,7 +12,7 @@ knownToPlayers: true
 keyLinks:
   - House of the North Star
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via bulk edit
 cover: /wiki/media/HotN-Street-View.png
 parent: 17th-Arrondissement
 ---

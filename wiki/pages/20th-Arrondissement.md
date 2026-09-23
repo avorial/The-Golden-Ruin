@@ -7,14 +7,14 @@ summary: A working eastern district dominated in the visitor’s imagination by
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Père-Lachaise Cemetery
 aliases:
   - 20th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 20th Arrondissement

@@ -7,12 +7,12 @@ summary: The city’s historical library, housed in the sixteenth-century
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 3rd-Arrondissement
 cover: /wiki/media/Location-Bibliotheque-Historique-de-la-Ville-de-Paris.jpg
 ---

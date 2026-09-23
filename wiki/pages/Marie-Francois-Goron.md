@@ -9,13 +9,13 @@ tags:
   - people
   - police-and-thieves
   - police
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Marie François Goron
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Police-and-Thieves
 cover: /wiki/media/Marie-Francois-Goron.png
 ---

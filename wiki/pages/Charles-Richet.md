@@ -9,12 +9,12 @@ tags:
   - people
   - occultists
   - scientists
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Occultists
 cover: /wiki/media/Charles-Richet.png
 ---

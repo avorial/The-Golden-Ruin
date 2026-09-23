@@ -9,13 +9,13 @@ tags:
   - people
   - police-and-thieves
   - espionage
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Piotr Rachkovsky
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Police-and-Thieves
 cover: /wiki/media/Pyotr-Rachkovsky.png
 ---

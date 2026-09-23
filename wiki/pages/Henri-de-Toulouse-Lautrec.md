@@ -10,13 +10,13 @@ tags:
   - artists-and-bohemians
   - painter
   - printmaker
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Toulouse-Lautrec
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Artists-and-Bohemians
 cover: /wiki/media/Henri-de-Toulouse-Lautrec.png
 ---

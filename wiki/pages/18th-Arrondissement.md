@@ -7,9 +7,9 @@ summary: "Montmartre and Pigalle: steep streets, cabarets, studios, anarchists,
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Cabaret du Néant
   - Cabaret de l’Enfer
@@ -21,7 +21,7 @@ keyLinks:
   - Sacré-Cœur
 aliases:
   - 18th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 18th Arrondissement

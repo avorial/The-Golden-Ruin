@@ -7,13 +7,13 @@ summary: Esoteric writers, ritualists, astrologers, psychical researchers, and
 tags:
   - npc
   - occultists
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Occult Circle
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Occultists

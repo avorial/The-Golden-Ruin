@@ -5,12 +5,12 @@ name: Campaign
 summary: ""
 tags:
   - lore
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: CampaignRepo
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # The Golden Ruin

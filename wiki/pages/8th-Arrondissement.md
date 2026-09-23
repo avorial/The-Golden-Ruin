@@ -7,15 +7,15 @@ summary: A district of prestige, grand hotels, churches, embassies, and polished
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - La Madeleine
   - Protestant Churches of Paris
 aliases:
   - 8th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 8th Arrondissement

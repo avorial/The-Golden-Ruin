@@ -7,12 +7,12 @@ summary: The Batignolles café where Manet and the early Impressionist circle
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 17th-Arrondissement
 cover: /wiki/media/Location-Cafe-Guerbois.jpg
 ---

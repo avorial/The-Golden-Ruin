@@ -7,12 +7,12 @@ summary: A notorious women’s prison, remand center, hospital, police station,
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 10th-Arrondissement
 ---
 

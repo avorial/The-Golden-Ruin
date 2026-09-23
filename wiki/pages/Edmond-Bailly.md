@@ -9,13 +9,13 @@ tags:
   - people
   - occultists
   - bookseller
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Henri-Edmond Limet
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Occultists
 cover: /wiki/media/Edmond-Bailly.png
 ---

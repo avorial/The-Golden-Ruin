@@ -7,9 +7,9 @@ summary: "The ceremonial and administrative center of Paris: palaces, courts,
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Church of St. Barnabé
   - Notre-Dame de Paris
@@ -23,7 +23,7 @@ keyLinks:
   - Hôtel-Dieu de Paris
 aliases:
   - 1st
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 1st Arrondissement

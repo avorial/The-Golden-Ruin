@@ -7,12 +7,12 @@ summary: A brutal prison holding roughly twelve hundred inmates shortly before
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 12th-Arrondissement
 cover: /wiki/media/Location-Mazas-Prison.jpg
 ---

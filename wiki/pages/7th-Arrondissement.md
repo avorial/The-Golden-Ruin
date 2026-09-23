@@ -7,14 +7,14 @@ summary: The fading aristocratic Faubourg Saint-Germain, now sharing its avenues
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Le Bon Marché
 aliases:
   - 7th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 7th Arrondissement

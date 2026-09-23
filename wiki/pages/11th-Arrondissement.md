@@ -7,15 +7,15 @@ summary: A populous eastern district shaped by workshops, radical politics,
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - La Petite Roquette
   - La Grande Roquette
 aliases:
   - 11th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 11th Arrondissement

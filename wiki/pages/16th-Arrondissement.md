@@ -7,14 +7,14 @@ summary: Passy and the western bourgeois quarters, prosperous, residential, and
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - English Chapel of Passy
 aliases:
   - 16th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 16th Arrondissement

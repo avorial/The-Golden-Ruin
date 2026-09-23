@@ -9,13 +9,13 @@ tags:
   - people
   - artists-and-bohemians
   - novelist
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Emile Zola
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Artists-and-Bohemians
 cover: /wiki/media/Emile-Zola.png
 ---

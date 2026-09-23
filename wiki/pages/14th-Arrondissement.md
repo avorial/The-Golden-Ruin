@@ -7,16 +7,16 @@ summary: "Montparnasse before its artistic heyday: rail yards, hospitals,
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - La Santé Prison
   - Hôpital Cochin
   - Paris Catacombs
 aliases:
   - 14th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 14th Arrondissement

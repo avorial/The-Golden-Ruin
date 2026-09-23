@@ -9,13 +9,13 @@ tags:
   - people
   - occultists
   - science
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Eugène Auguste Albert de Rochas
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Occultists
 cover: /wiki/media/Albert-de-Rochas.png
 ---

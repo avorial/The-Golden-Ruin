@@ -6,12 +6,12 @@ summary: A Montmartre cabaret shared by artists, pimps, criminals, and anarchist
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 18th-Arrondissement
 cover: /wiki/media/Location-Lapin-Agile.jpg
 ---

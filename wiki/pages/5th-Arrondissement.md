@@ -7,9 +7,9 @@ summary: The Latin Quarter’s scholarly core, crowded with students, libraries,
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Sorbonne Library
   - Sainte-Geneviève Library
@@ -18,7 +18,7 @@ keyLinks:
   - Val-de-Grâce
 aliases:
   - 5th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 5th Arrondissement

@@ -9,13 +9,13 @@ tags:
   - people
   - artists-and-bohemians
   - painter
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Paul Cezanne
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Artists-and-Bohemians
 cover: /wiki/media/Paul-Cezanne.png
 ---

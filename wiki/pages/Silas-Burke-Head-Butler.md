@@ -14,7 +14,7 @@ keyLinks:
   - House of the North Star
 aliases:
   - Burke
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via bulk edit
 cover: /wiki/media/Silas-Burke.png
 parent: House-Staff
 ---

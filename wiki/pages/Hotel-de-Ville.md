@@ -6,12 +6,12 @@ summary: Paris City Hall, rebuilt after burning during the suppression of the Co
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 4th-Arrondissement
 ---
 

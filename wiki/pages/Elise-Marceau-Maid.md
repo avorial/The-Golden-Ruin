@@ -16,7 +16,7 @@ keyLinks:
 aliases:
   - Élise Marceau
   - Elise Marceau
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via bulk edit
 parent: House-Staff
 cover: /wiki/media/Elise-Marceau-Maid.png
 ---

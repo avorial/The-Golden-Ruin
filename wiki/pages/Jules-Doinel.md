@@ -9,14 +9,14 @@ tags:
   - people
   - occultists
   - gnostic
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Jules-Benoît Stanislas Doinel du Val-Michel
   - Jean Kostka
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Occultists
 cover: /wiki/media/Jules-Doinel.png
 ---

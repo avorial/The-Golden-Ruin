@@ -7,15 +7,15 @@ summary: An eastern district of prisons, hospitals, rail approaches, and quieter
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Picpus Cemetery
   - Mazas Prison
 aliases:
   - 12th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 12th Arrondissement

@@ -6,12 +6,12 @@ summary: The public morgue near Notre-Dame where unidentified bodies are display
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 1st-Arrondissement
 ---
 

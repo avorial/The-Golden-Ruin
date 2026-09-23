@@ -7,9 +7,9 @@ summary: A dense crossroads of theaters, opera, auctions, department stores,
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Folies Bergère
   - Nouvelle Athènes
@@ -21,7 +21,7 @@ keyLinks:
   - Printemps
 aliases:
   - 9th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 9th Arrondissement

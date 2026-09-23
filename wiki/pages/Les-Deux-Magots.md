@@ -6,12 +6,12 @@ summary: A Saint-Germain-des-Prés café watched over by two carved Chinese mand
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 6th-Arrondissement
 cover: /wiki/media/Location-Les-Deux-Magots.jpg
 ---

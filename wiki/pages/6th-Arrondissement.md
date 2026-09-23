@@ -7,9 +7,9 @@ summary: The investigators’ Left Bank territory, joining the École des
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Le Veau Gras
   - Les Deux Magots
@@ -20,7 +20,7 @@ keyLinks:
   - Hôpital de la Charité
 aliases:
   - 6th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 6th Arrondissement

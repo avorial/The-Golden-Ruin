@@ -9,13 +9,13 @@ tags:
   - people
   - occultists
   - golden-dawn
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Moina Bergson Mathers
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Occultists
 cover: /wiki/media/Moina-Mathers.png
 ---

@@ -6,12 +6,12 @@ summary: A southern suburban institution suitable for long-term confinement and 
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Paris-Outskirts
 cover: /wiki/media/Location-Bicetre-Hospital.jpg
 ---

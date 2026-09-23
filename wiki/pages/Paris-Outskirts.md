@@ -7,9 +7,9 @@ summary: Suburbs, riverside retreats, institutions, and burial grounds beyond
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Maison Fournaise
   - Basilica of Saint-Denis
@@ -19,7 +19,7 @@ keyLinks:
   - Bicêtre Hospital
 aliases:
   - Paris Outskirts
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Paris Outskirts

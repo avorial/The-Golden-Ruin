@@ -9,13 +9,13 @@ tags:
   - people
   - scientists
   - paris
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Maria Skłodowska-Curie
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Scientists-and-Inventors
 cover: /wiki/media/Marie-Curie.png
 ---

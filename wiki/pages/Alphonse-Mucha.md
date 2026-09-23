@@ -10,12 +10,12 @@ tags:
   - artists-and-bohemians
   - painter
   - illustrator
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Artists-and-Bohemians
 cover: /wiki/media/Alphonse-Mucha.jpg
 ---

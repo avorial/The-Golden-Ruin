@@ -10,13 +10,13 @@ tags:
   - artists-and-bohemians
   - painter
   - teacher
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Jean-Leon Gerome
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Artists-and-Bohemians
 cover: /wiki/media/Jean-Leon-Gerome.png
 ---

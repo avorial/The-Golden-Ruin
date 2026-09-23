@@ -9,15 +9,15 @@ tags:
   - people
   - occultists
   - martinist
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Gérard Encausse
   - Gerard Encausse
   - Papus
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Occultists
 cover: /wiki/media/Papus-Gerard-Encausse.png
 ---

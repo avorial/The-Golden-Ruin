@@ -7,9 +7,9 @@ summary: A working district of theaters, hospitals, stations, and radical
 tags:
   - location
   - arrondissement
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - Théâtre de l’Ambigu-Comique
   - Prison Saint-Lazare
@@ -17,7 +17,7 @@ keyLinks:
   - Lariboisière Hospital
 aliases:
   - 10th
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 10th Arrondissement

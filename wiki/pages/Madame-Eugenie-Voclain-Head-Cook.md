@@ -16,7 +16,7 @@ keyLinks:
 aliases:
   - Madame Voclain
   - Eugénie Voclain
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via bulk edit
 parent: House-Staff
 cover: /wiki/media/Madame-Eugenie-Voclain-Head-Cook.png
 ---

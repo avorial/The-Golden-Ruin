@@ -7,12 +7,12 @@ summary: A small cemetery near Montmartre used for criminals and the otherwise
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Paris-Outskirts
 cover: /wiki/media/Location-Saint-Ouen-Cemetery.jpg
 ---

@@ -2,21 +2,20 @@
 category: location
 type: location
 name: 17th Arrondissement
-summary: >-
-  A district of sharp contrasts where wealthy Monceau, lively Batignolles,
-  artists, cafés, and respectable avenues meet.
+summary: A district of sharp contrasts where wealthy Monceau, lively
+  Batignolles, artists, cafés, and respectable avenues meet.
 tags:
   - Location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - House of the North Star
   - Chez le Père Lathuile
   - Café Guerbois
 aliases:
   - "17"
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # 17th Arrondissement

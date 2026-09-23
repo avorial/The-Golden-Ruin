@@ -9,13 +9,13 @@ tags:
   - people
   - occultists
   - politics
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Saint-Yves d'Alveydre
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Occultists
 cover: /wiki/media/Alexandre-Saint-Yves.png
 ---

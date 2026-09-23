@@ -7,12 +7,12 @@ summary: The Rue de Richelieu institution holding the world’s largest collecti
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 1st-Arrondissement
 ---
 

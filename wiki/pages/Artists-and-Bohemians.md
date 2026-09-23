@@ -7,13 +7,13 @@ summary: Painters, writers, performers, composers, and salon figures who shape
 tags:
   - npc
   - artists-and-bohemians
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Artists
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Artists and Bohemians

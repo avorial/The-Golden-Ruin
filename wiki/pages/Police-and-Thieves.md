@@ -7,14 +7,14 @@ summary: Detectives, police officials, criminals, spies, forgers, and crime
 tags:
   - npc
   - police-and-thieves
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Police
   - Thieves
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Police and Thieves

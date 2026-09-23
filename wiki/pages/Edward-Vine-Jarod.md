@@ -12,7 +12,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via bulk edit
 cover: /wiki/media/REPLACE.jpg
 ---
 

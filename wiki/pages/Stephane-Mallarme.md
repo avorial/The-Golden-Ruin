@@ -10,13 +10,13 @@ tags:
   - artists-and-bohemians
   - poet
   - symbolist
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Stephane Mallarme
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Artists-and-Bohemians
 cover: /wiki/media/Stephane-Mallarme.png
 ---

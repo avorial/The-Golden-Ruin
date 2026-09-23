@@ -9,13 +9,13 @@ tags:
   - people
   - artists-and-bohemians
   - model
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Marie-Florentine Royer
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: Artists-and-Bohemians
 cover: /wiki/media/Sarah-Brown.png
 ---

@@ -6,12 +6,12 @@ summary: The unfinished basilica rising over Montmartre as a rebuke to the Commu
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 18th-Arrondissement
 cover: /wiki/media/Location-Sacre-C-ur.jpg
 ---

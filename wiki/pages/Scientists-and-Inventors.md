@@ -7,13 +7,13 @@ summary: Researchers, experimenters, photographers, and technical minds who can
 tags:
   - npc
   - scientists
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Scientists
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Scientists and Inventors

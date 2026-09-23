@@ -7,12 +7,12 @@ summary: The great Gothic cathedral on the Île de la Cité, overlooking courts,
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 1st-Arrondissement
 ---
 

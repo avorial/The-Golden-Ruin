@@ -6,12 +6,12 @@ summary: A cheap student tavern at 17 Rue Bonaparte, close to the École des Bea
 tags:
   - location
   - key-location
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 parent: 6th-Arrondissement
 ---
 
