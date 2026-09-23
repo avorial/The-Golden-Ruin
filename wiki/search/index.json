@@ -2880,5 +2880,109 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Loie-Fuller.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Loie-Fuller.png",
+    "title": "Portrait of Loïe Fuller seated beside flowers in a dark dress",
+    "category": "media",
+    "summary": "Loïe Fuller, dancer and stage innovator whose performances transform light into motion.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "performer",
+      "portrait"
+    ],
+    "aliases": [
+      "Loie-Fuller.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Mary-Cassatt.jpg",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Mary-Cassatt.jpg",
+    "title": "Portrait of Mary Cassatt in a black feathered hat and fur-trimmed coat",
+    "category": "media",
+    "summary": "Mary Cassatt, American painter and independent presence in the Paris art world.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Mary-Cassatt.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Marcel-Proust.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Marcel-Proust.png",
+    "title": "Portrait of Marcel Proust in a dark suit with a red bow tie and yellow flower",
+    "category": "media",
+    "summary": "Marcel Proust, young writer and meticulous observer of Parisian society.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "author",
+      "portrait"
+    ],
+    "aliases": [
+      "Marcel-Proust.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Maurice-Maeterlinck.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Maurice-Maeterlinck.png",
+    "title": "Seated portrait of Maurice Maeterlinck beside a large book",
+    "category": "media",
+    "summary": "Maurice Maeterlinck, Symbolist playwright of silence, fate, and unseen dread.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "playwright",
+      "portrait"
+    ],
+    "aliases": [
+      "Maurice-Maeterlinck.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

@@ -255,6 +255,46 @@
       "portrait"
     ]
   },
+  "wiki/media/Loie-Fuller.png": {
+    "alt": "Portrait of Loïe Fuller seated beside flowers in a dark dress",
+    "caption": "Loïe Fuller, dancer and stage innovator whose performances transform light into motion.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "performer",
+      "portrait"
+    ]
+  },
+  "wiki/media/Mary-Cassatt.jpg": {
+    "alt": "Portrait of Mary Cassatt in a black feathered hat and fur-trimmed coat",
+    "caption": "Mary Cassatt, American painter and independent presence in the Paris art world.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
+  "wiki/media/Marcel-Proust.png": {
+    "alt": "Portrait of Marcel Proust in a dark suit with a red bow tie and yellow flower",
+    "caption": "Marcel Proust, young writer and meticulous observer of Parisian society.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "author",
+      "portrait"
+    ]
+  },
+  "wiki/media/Maurice-Maeterlinck.png": {
+    "alt": "Seated portrait of Maurice Maeterlinck beside a large book",
+    "caption": "Maurice Maeterlinck, Symbolist playwright of silence, fate, and unseen dread.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "playwright",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

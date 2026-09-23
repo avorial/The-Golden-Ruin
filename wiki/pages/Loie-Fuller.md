@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Loie-Fuller.png
 ---
 # Loie Fuller
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Loie-Fuller.png" alt="Portrait of Loïe Fuller seated beside flowers in a dark dress" />
+<figcaption>Loïe Fuller</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Dancer and theatrical lighting pioneer</td></tr>

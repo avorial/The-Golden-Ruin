@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T16:17:48.519Z",
+  "generatedAt": "2026-09-23T16:25:25.222Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -990,7 +990,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Loie-Fuller.png"
     },
     {
       "id": "npc-Louis-Lepine",
@@ -1081,7 +1082,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Marcel-Proust.png"
     },
     {
       "id": "character-Marcus-J-rn-Jensen-Yoshi",
@@ -1161,7 +1163,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Mary-Cassatt.jpg"
     },
     {
       "id": "npc-Maurice-Maeterlinck",
@@ -1181,7 +1184,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Maurice-Maeterlinck.png"
     },
     {
       "id": "npc-Moina-Mathers",

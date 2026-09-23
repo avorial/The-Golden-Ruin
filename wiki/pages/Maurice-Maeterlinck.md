@@ -18,6 +18,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Maurice-Maeterlinck.png
 ---
 # Maurice Maeterlinck
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Maurice-Maeterlinck.png" alt="Seated portrait of Maurice Maeterlinck beside a large book" />
+<figcaption>Maurice Maeterlinck</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Playwright</td></tr>

@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Marcel-Proust.png
 ---
 # Marcel Proust
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Marcel-Proust.png" alt="Portrait of Marcel Proust in a dark suit with a red bow tie and yellow flower" />
+<figcaption>Marcel Proust</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Gossip columnist</td></tr>

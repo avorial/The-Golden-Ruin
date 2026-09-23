@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Mary-Cassatt.jpg
 ---
 # Mary Cassatt
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Mary-Cassatt.jpg" alt="Portrait of Mary Cassatt in a black feathered hat and fur-trimmed coat" />
+<figcaption>Mary Cassatt</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter and printmaker</td></tr>
