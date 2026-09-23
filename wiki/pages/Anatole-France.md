@@ -38,6 +38,20 @@ cover: /wiki/media/Anatole-France.png
 <h2>Campaign Use</h2>
 <p>France can frustrate investigators by explaining away events they know are real. Alternatively, he can become a patron who insists that disbelief is sometimes the only responsible form of containment.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>An ironic novelist, journalist, and essayist whose recent novel The Queen Pédauque satirizes occult belief.</li>
+<li>He will soon become a public advocate for Alfred Dreyfus and later receive the Nobel Prize in Literature.</li>
+<li>His waxed mustache and pointed beard reinforce an air of scholarly authority.</li>
+<li>His skepticism can make him a frustrating debunker of events the investigators know are genuinely supernatural.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His skeptical pose may be protective camouflage: he can hire the investigators to suppress the Yellow Sign and prevent dangerous knowledge from spreading.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -51,6 +65,7 @@ cover: /wiki/media/Anatole-France.png
 <tbody>
 <tr><th>Role</th><td>Author, journalist, possible patron</td></tr>
 <tr><th>Age</th><td>51</td></tr>
+<tr><th>Life</th><td>1844-1924</td></tr>
 <tr><th>Circle</th><td>Literary salons, newspapers, skeptical intellectuals</td></tr>
 <tr><th>Public Manner</th><td>Ironic, urbane, bookish</td></tr>
 <tr><th>Private Pressure</th><td>He fears naming the horror gives it power.</td></tr>
@@ -86,6 +101,8 @@ cover: /wiki/media/Anatole-France.png
 | need a literary contact | gives a name with a warning attached. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 118.
 
 - [Wikipedia: Anatole France](https://en.wikipedia.org/wiki/Anatole_France)
 

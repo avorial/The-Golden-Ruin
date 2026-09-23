@@ -38,6 +38,20 @@ cover: /wiki/media/Mary-Cassatt.jpg
 <h2>Campaign Use</h2>
 <p>Cassatt can ground the campaign when everyone else is performing. She understands studios, dealers, American patrons, and the quiet politics around which women are permitted to be serious artists.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>An American painter and printmaker who has exhibited with the Impressionists for roughly fifteen years.</li>
+<li>Family wealth from her Philadelphia land-speculator father and her outsider status allow her to ignore many social constraints.</li>
+<li>Her closest artistic relationships are with Edgar Degas and Berthe Morisot, who dies in March 1895.</li>
+<li>Rather than Decadent or Symbolist subjects, she depicts women’s social world with disciplined line and composition.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>She can offer American introductions, sober artistic judgment, and a woman’s view of circles investigators might otherwise misunderstand, with Morisot’s death adding immediate grief.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -51,6 +65,7 @@ cover: /wiki/media/Mary-Cassatt.jpg
 <tbody>
 <tr><th>Role</th><td>Painter and printmaker</td></tr>
 <tr><th>Age</th><td>51</td></tr>
+<tr><th>Life</th><td>1844-1926</td></tr>
 <tr><th>Circle</th><td>Impressionists, American expatriates, collectors</td></tr>
 <tr><th>Public Manner</th><td>Clear, controlled, perceptive</td></tr>
 <tr><th>Private Pressure</th><td>Grief for Berthe Morisot is still fresh.</td></tr>
@@ -86,6 +101,8 @@ cover: /wiki/media/Mary-Cassatt.jpg
 | need a sober witness | gives them one precise observation. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 116-117.
 
 - [Wikipedia: Mary Cassatt](https://en.wikipedia.org/wiki/Mary_Cassatt)
 

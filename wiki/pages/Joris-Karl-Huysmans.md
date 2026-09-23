@@ -40,6 +40,22 @@ cover: /wiki/media/Joris-Karl-Huysmans.png
 <h2>Campaign Use</h2>
 <p>Huysmans can understand the horror of art that should not have been made. He works as a patron, guilty witness, occult source, or man trying to atone without confessing exactly what he did.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Known to friends by his birth names Charles-Marie-Georges, he wrote the scandalous decadent novel Against the Grain in 1884.</li>
+<li>Its protagonist draws on the aesthete Robert de Montesquiou and shocked readers through misanthropy, decadence, and coded homosexuality.</li>
+<li>His novel Là-bas presents an investigation of contemporary Parisian Satanism.</li>
+<li>Though he looks more like a banker than a literary provocateur, his work forms a natural bridge between decadent art and Carcosa.</li>
+<li>In 1893 he accused Stanislas de Guaita and Joséphin Péladan of attacking him with magic and killing the defrocked priest Abbé Boullan.</li>
+<li>He is moving toward conservative Catholicism.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>If his fiction helped inspire the play, he can seek atonement by locating copies or advise characters who have created art too dangerous for the world, perhaps with secret Catholic backing.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -53,6 +69,7 @@ cover: /wiki/media/Joris-Karl-Huysmans.png
 <tbody>
 <tr><th>Role</th><td>Novelist, occult witness, possible patron</td></tr>
 <tr><th>Age</th><td>47</td></tr>
+<tr><th>Life</th><td>1848-1907</td></tr>
 <tr><th>Circle</th><td>Decadents, Catholics, occultists, Symbolists</td></tr>
 <tr><th>Public Manner</th><td>Dry, wary, exhausted by corruption</td></tr>
 <tr><th>Private Pressure</th><td>He fears literature can wound the world.</td></tr>
@@ -88,6 +105,8 @@ cover: /wiki/media/Joris-Karl-Huysmans.png
 | need occult context | gives it, then denies responsibility for what they do with it. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 119.
 
 - [Wikipedia: Joris-Karl Huysmans](https://en.wikipedia.org/wiki/Joris-Karl_Huysmans)
 

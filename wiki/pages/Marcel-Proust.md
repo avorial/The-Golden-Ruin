@@ -38,6 +38,20 @@ cover: /wiki/media/Marcel-Proust.png
 <h2>Campaign Use</h2>
 <p>Proust can supply gossip, invitations, blackmail-adjacent social knowledge, and the danger of publicity. He may help the characters or turn their investigation into a whispered story before they are ready.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A dapper young society columnist for Le Mensuel who appears wherever fashionable or aristocratic people gather.</li>
+<li>He can provide elite gossip, expose details investigators want hidden, or overwhelm them with snobbery.</li>
+<li>Like many social climbers he is politically traditionalist and opposes efforts to separate church and state.</li>
+<li>He says he will someday transform his observations of Parisian society into a novel, though he cannot imagine fitting it all into one book.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He is a precise observer and dangerous gossip conduit: helpful when fed the right social question, troublesome when a secret case becomes irresistible copy.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -51,6 +65,7 @@ cover: /wiki/media/Marcel-Proust.png
 <tbody>
 <tr><th>Role</th><td>Gossip columnist</td></tr>
 <tr><th>Age</th><td>24</td></tr>
+<tr><th>Life</th><td>1871-1922</td></tr>
 <tr><th>Circle</th><td>High society, journals, salons</td></tr>
 <tr><th>Public Manner</th><td>Dapper, snobbish, attentive</td></tr>
 <tr><th>Private Pressure</th><td>He fears exclusion more than embarrassment.</td></tr>
@@ -86,6 +101,8 @@ cover: /wiki/media/Marcel-Proust.png
 | mention a strange memory | becomes more interested than is safe. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 122.
 
 - [Wikipedia: Marcel Proust](https://en.wikipedia.org/wiki/Marcel_Proust)
 

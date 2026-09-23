@@ -39,6 +39,21 @@ cover: /wiki/media/Alphonse-Mucha.jpg
 <h2>Campaign Use</h2>
 <p>Mucha can connect the investigators to Bernhardt, spiritual seekers, poster printers, and a growing informal salon. His studio is an ideal place for art, ambition, occult talk, and commerce to cross.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>After seven difficult years in Paris, his January 1895 poster for a Sarah Bernhardt performance made him an overnight success.</li>
+<li>His delicate line, muted color, and filigreed image frames are rapidly becoming synonymous with Art Nouveau.</li>
+<li>Although committed to Slavic nationalism, he rarely discusses it in French company and is concentrating on his sudden opportunity.</li>
+<li>He soon establishes an informal studio salon where artists and spiritual seekers mingle.</li>
+<li>His friendship with Joris-Karl Huysmans connects that salon directly to decadent literature and occult Paris.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His studio can bring together Bernhardt, Huysmans, printers, artists, and occult seekers while a corrupted poster design provides a visible Carcosan clue.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -52,6 +67,7 @@ cover: /wiki/media/Alphonse-Mucha.jpg
 <tbody>
 <tr><th>Role</th><td>Painter and illustrator</td></tr>
 <tr><th>Age</th><td>35</td></tr>
+<tr><th>Life</th><td>1860-1939</td></tr>
 <tr><th>Circle</th><td>Bernhardt, poster printers, artists, spiritual seekers</td></tr>
 <tr><th>Public Manner</th><td>Gracious, focused, newly famous</td></tr>
 <tr><th>Private Pressure</th><td>He knows fame can become a cage very quickly.</td></tr>
@@ -87,6 +103,8 @@ cover: /wiki/media/Alphonse-Mucha.jpg
 | need a studio gathering | provides one full of useful eavesdropping. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 122.
 
 - [Wikipedia: Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha)
 

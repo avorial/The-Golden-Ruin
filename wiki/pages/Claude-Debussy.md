@@ -38,6 +38,21 @@ cover: /wiki/media/Claude-Debussy.webp
 <h2>Campaign Use</h2>
 <p>Debussy can connect the characters to Symbolist poets, occult salons, and music that seems to remember a place no musician has visited. He is best used as a brilliant witness, difficult ally, or beautiful bad idea.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A former child prodigy who pursues life willfully and has little patience for people he considers less brilliant.</li>
+<li>Heavy brows, unruly dark hair, and immediate complaints announce his stubborn temperament.</li>
+<li>He lives with Gaby Dupont, whom he treats as the practical restraint on his affairs and spending.</li>
+<li>By 1895 he has composed Clair de lune and Prélude à l’après-midi d’un faune, though their lasting importance is not yet evident.</li>
+<li>Wagnerian mysticism, Symbolist poets, and Rosicrucian texts provide several routes into an occult investigation.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>A musical pattern, Symbolist friendship, or Rosicrucian score can make him a brilliant but volatile consultant.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -51,6 +66,7 @@ cover: /wiki/media/Claude-Debussy.webp
 <tbody>
 <tr><th>Role</th><td>Composer</td></tr>
 <tr><th>Age</th><td>33</td></tr>
+<tr><th>Life</th><td>1862-1918</td></tr>
 <tr><th>Circle</th><td>Symbolists, musicians, occult readers</td></tr>
 <tr><th>Public Manner</th><td>Brilliant, impatient, self-protective</td></tr>
 <tr><th>Private Pressure</th><td>He mistakes longing for revelation.</td></tr>
@@ -86,6 +102,8 @@ cover: /wiki/media/Claude-Debussy.webp
 | need an entrée to a salon | gives a name, then regrets helping. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 117.
 
 - [Wikipedia: Claude Debussy](https://en.wikipedia.org/wiki/Claude_Debussy)
 

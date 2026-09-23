@@ -40,6 +40,23 @@ cover: /wiki/media/Henri-de-Toulouse-Lautrec.png
 <h2>Campaign Use</h2>
 <p>He is likely to be the first famous artist the characters meet in the wild. He can provide clues through posters, barroom gossip, or drawings made while no one realized he was paying attention.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A ubiquitous Montmartre figure and likely first famous artist the investigators encounter casually.</li>
+<li>He visits Edmond Bailly’s occult bookshop for art conversation rather than Rosicrucian doctrine.</li>
+<li>His celebrated posters promote the Moulin Rouge and Aristide Bruant’s cabaret.</li>
+<li>A childhood illness halted the growth of his legs; he stands four feet eight inches with an adult torso and short legs.</li>
+<li>He believes his aristocratic family rejected him because of his body, though his estranged parents would dispute the story.</li>
+<li>His favored drink is The Earthquake, a devastating mixture of cognac and absinthe.</li>
+<li>He dies from the effects of alcoholism within a decade.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Buying him an Earthquake is the quickest route to cooperation, gossip, poster expertise, and access to the Montmartre night world.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -53,6 +70,7 @@ cover: /wiki/media/Henri-de-Toulouse-Lautrec.png
 <tbody>
 <tr><th>Role</th><td>Painter and printmaker</td></tr>
 <tr><th>Age</th><td>31</td></tr>
+<tr><th>Life</th><td>1864-1901</td></tr>
 <tr><th>Circle</th><td>Montmartre, Moulin Rouge, cabarets, poster printers</td></tr>
 <tr><th>Public Manner</th><td>Witty, wounded, unsentimental</td></tr>
 <tr><th>Private Pressure</th><td>He believes the world has already judged his body.</td></tr>
@@ -88,6 +106,8 @@ cover: /wiki/media/Henri-de-Toulouse-Lautrec.png
 | show him a poster with hidden symbols | checks the printer's hand. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 123-124.
 
 - [Wikipedia: Henri de Toulouse-Lautrec](https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec)
 

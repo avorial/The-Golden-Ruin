@@ -40,6 +40,21 @@ cover: /wiki/media/Jean-Leon-Gerome.png
 <h2>Campaign Use</h2>
 <p>Gérôme can serve as a harsh teacher, old-guard gatekeeper, or patron who understands mythological horror better than he wants to admit. He is especially useful for PC painters.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A leading defender of the Academic tradition as Impressionism eclipses it, and a teacher at the École des Beaux-Arts.</li>
+<li>His criticism is severe but often accurate, making him a formidable instructor for painter investigators.</li>
+<li>Despite his stern manner he enthusiastically joins the annual art-student ball, supervising a float and carousing with the students.</li>
+<li>White hair and a neat mustache make him resemble an elderly Edgar Allan Poe.</li>
+<li>His fascination with mythological and Orientalist subjects gives him reason to encounter dangerous books and symbols.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He may have recoiled from the play or watched earlier students succumb to it, prompting him to guide the new class without relaxing academic demands.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -53,6 +68,7 @@ cover: /wiki/media/Jean-Leon-Gerome.png
 <tbody>
 <tr><th>Role</th><td>Painter and art teacher</td></tr>
 <tr><th>Age</th><td>70</td></tr>
+<tr><th>Life</th><td>1825-1904</td></tr>
 <tr><th>Circle</th><td>École des Beaux-Arts, academic painters, patrons</td></tr>
 <tr><th>Public Manner</th><td>Stern, precise, unforgiving</td></tr>
 <tr><th>Private Pressure</th><td>He has seen students ruined by beauty without discipline.</td></tr>
@@ -88,6 +104,8 @@ cover: /wiki/media/Jean-Leon-Gerome.png
 | show him Carcosan art | identifies its power before condemning it. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 118-119.
 
 - [Wikipedia: Jean-Léon Gérôme](https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me)
 

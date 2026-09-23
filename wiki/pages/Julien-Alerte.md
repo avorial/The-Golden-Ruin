@@ -37,6 +37,23 @@ parent: Police-and-Thieves
 <h2>Campaign Use</h2>
 <p>He is a good bridge between private inquiry and street-level Paris. Julien can bring the characters a missing-person case, or cross their path while following the same trail from another angle.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A Martinique-born former medical student who arrived in Paris in 1892.</li>
+<li>Like other fashionable Martiniquean students, he is a celebrated presence at dances and is known for immaculate clothing and social confidence.</li>
+<li>He abandoned medicine for work better suited to his deduction and research skills.</li>
+<li>After a short but excellent apprenticeship he now runs the Paris office of Keen and Company, the American missing-person agency founded by New Yorker Westrel Keen.</li>
+<li>Most of his cases involve finding lost lovers and end in successful engagements.</li>
+<li>Away from detective work he pursues dancing, tailoring, philosophy, and political science.</li>
+<li>In one later game timeline, he helps establish the independent African-American nation of Suanee in 1919.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>The investigators introduce him to Carcosa and turn a gifted romantic detective into an ally against disappearances no ordinary missing-person method can explain.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -78,6 +95,10 @@ parent: Police-and-Thieves
 | dismiss him | follows anyway and finds something useful. |
 | share a clue | repays it with two from his own notebook. |
 | endanger him | tries to prove he belongs there. |
+
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 133-134.
 
 :::gm
 ## Hidden Truth

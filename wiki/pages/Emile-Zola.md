@@ -39,6 +39,22 @@ cover: /wiki/media/Emile-Zola.png
 <h2>Campaign Use</h2>
 <p>Zola is useful when the campaign needs social analysis, press attention, or a realist who tries to explain horror through class, appetite, inheritance, and environment before admitting the impossible.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Once reviled like his Impressionist friends, he is now an established literary giant whose Naturalism scrutinizes society without sentiment.</li>
+<li>Success has transformed earlier reserve into a comfortable grandiosity, especially around young artists.</li>
+<li>His novel His Masterpiece alienated painter friends by portraying recognizable versions of them with cruel honesty.</li>
+<li>He openly appears with his extramarital family despite social convention.</li>
+<li>His realism leaves little patience for occult or supernatural claims, making him unlikely to read The King in Yellow willingly.</li>
+<li>The approaching Dreyfus affair will draw him into exhausting public controversy.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He can expose institutional wrongdoing or publicly defend an accused investigator, but only when presented with social evidence rather than occult explanation.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -52,6 +68,7 @@ cover: /wiki/media/Emile-Zola.png
 <tbody>
 <tr><th>Role</th><td>Novelist</td></tr>
 <tr><th>Age</th><td>55</td></tr>
+<tr><th>Life</th><td>1840-1902</td></tr>
 <tr><th>Circle</th><td>Novelists, artists, journalists, reformers</td></tr>
 <tr><th>Public Manner</th><td>Confident, analytical, blunt</td></tr>
 <tr><th>Private Pressure</th><td>He fears his honesty wounds friends more than enemies.</td></tr>
@@ -87,6 +104,8 @@ cover: /wiki/media/Emile-Zola.png
 | need a scandal understood | sees who profits and who pays. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 124-125.
 
 - [Wikipedia: Émile Zola](https://en.wikipedia.org/wiki/%C3%89mile_Zola)
 

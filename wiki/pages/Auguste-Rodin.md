@@ -38,6 +38,20 @@ cover: /wiki/media/Auguste-Rodin.png
 <h2>Campaign Use</h2>
 <p>Rodin can identify impossible anatomy, forged sculpture, and the difference between life captured in art and art pretending to be alive. He is not subtle, but he is hard to intimidate.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>His roughly modeled, energetic sculpture provokes the same controversy Impressionism brought to painting.</li>
+<li>Blocky features and an unruly white beard discourage casual interruption.</li>
+<li>Raised in poverty, he fought for every measure of artistic recognition and remains an emotional brawler.</li>
+<li>Questions about uncanny statues can revive his fury over the 1877 accusation that The Bronze Age was cast from a corpse.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>A sculpture that appears too lifelike can force him to confront old accusations while giving investigators access to casting methods, models, and artistic rivals.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -51,6 +65,7 @@ cover: /wiki/media/Auguste-Rodin.png
 <tbody>
 <tr><th>Role</th><td>Sculptor</td></tr>
 <tr><th>Age</th><td>54</td></tr>
+<tr><th>Life</th><td>1840-1917</td></tr>
 <tr><th>Circle</th><td>Sculptors, critics, patrons, Impressionist friends</td></tr>
 <tr><th>Public Manner</th><td>Forceful, emotional, proud</td></tr>
 <tr><th>Private Pressure</th><td>He fears being reduced to scandal rather than understood.</td></tr>
@@ -86,6 +101,8 @@ cover: /wiki/media/Auguste-Rodin.png
 | bring a fragment of statue | handles it like a wound. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 123.
 
 - [Wikipedia: Auguste Rodin](https://en.wikipedia.org/wiki/Auguste_Rodin)
 

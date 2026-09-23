@@ -38,6 +38,21 @@ cover: /wiki/media/La-Goulue-Louise-Weber.png
 <h2>Campaign Use</h2>
 <p>La Goulue can connect the characters to dancers, models, drinkers, posters, and the practical machinery of Montmartre fame. Her public world is loud enough to hide a private terror.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Louise Weber, called La Goulue, is Paris’s most celebrated can-can dancer and singer.</li>
+<li>She has just left the Moulin Rouge to launch an independent national tour.</li>
+<li>This apparent career triumph unknowingly begins a long decline.</li>
+<li>A favorite model of the Impressionists, she appears in a signature Toulouse-Lautrec image of her arrival at the Moulin Rouge.</li>
+<li>An observant investigator can detect depression beneath her exuberant public mask.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Her departure, tour, modeling connections, and concealed depression can anchor backstage mysteries or make her vulnerable to a promise of renewed glory.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -51,6 +66,7 @@ cover: /wiki/media/La-Goulue-Louise-Weber.png
 <tbody>
 <tr><th>Role</th><td>Can-can dancer and singer</td></tr>
 <tr><th>Age</th><td>29</td></tr>
+<tr><th>Life</th><td>1866-1929</td></tr>
 <tr><th>Circle</th><td>Moulin Rouge, Montmartre, painters, performers</td></tr>
 <tr><th>Public Manner</th><td>Bold, funny, physical, radiant</td></tr>
 <tr><th>Private Pressure</th><td>She feels the room beginning to look past her.</td></tr>
@@ -86,6 +102,8 @@ cover: /wiki/media/La-Goulue-Louise-Weber.png
 | ask about Toulouse-Lautrec | knows where he was drinking last. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 119.
 
 - [Wikipedia: La Goulue](https://en.wikipedia.org/wiki/La_Goulue)
 

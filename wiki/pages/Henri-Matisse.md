@@ -39,6 +39,20 @@ cover: /wiki/media/Henri-Matisse.png
 <h2>Campaign Use</h2>
 <p>Matisse is useful as a near-peer for student PCs. He can be a classmate, studio companion, witness, rival, or someone who gets pulled into horror before history has made him untouchable.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>At this point he is an obscure art student working in a conventional style, not yet the defining modernist he becomes.</li>
+<li>He can appear as a direct contemporary of the player characters, sharing their studies and practical frustrations.</li>
+<li>His father considers the turn to art a disappointment and wanted him to continue legal training.</li>
+<li>That family pressure makes him receptive to other young artists struggling to justify their vocation.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Use him as a peer rather than a celebrity: a classmate, witness, rival, or sympathetic companion who has no future reputation to rely on yet.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -52,6 +66,7 @@ cover: /wiki/media/Henri-Matisse.png
 <tbody>
 <tr><th>Role</th><td>Art student</td></tr>
 <tr><th>Age</th><td>26</td></tr>
+<tr><th>Life</th><td>1869-1954</td></tr>
 <tr><th>Circle</th><td>Art students, classrooms, cheap studios</td></tr>
 <tr><th>Public Manner</th><td>Earnest, watchful, self-conscious</td></tr>
 <tr><th>Private Pressure</th><td>He fears he chose the wrong life too late.</td></tr>
@@ -87,6 +102,8 @@ cover: /wiki/media/Henri-Matisse.png
 | need someone overlooked | can move where famous artists cannot. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 120-122.
 
 - [Wikipedia: Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse)
 
