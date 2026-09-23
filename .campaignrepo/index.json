@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T21:19:02.673Z",
+  "generatedAt": "2026-09-23T21:19:32.289Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -22,7 +22,7 @@
       ],
       "summary": "A working district of theaters, hospitals, stations, and radical memories, close enough to fashionable Paris to serve it and resent it.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Théâtre de l’Ambigu-Comique",
         "Prison Saint-Lazare",
