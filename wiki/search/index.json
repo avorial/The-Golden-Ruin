@@ -14,7 +14,7 @@
     "aliases": [
       "10th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -53,7 +53,7 @@
     "aliases": [
       "11th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -86,7 +86,7 @@
     "aliases": [
       "12th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -119,7 +119,7 @@
     "aliases": [
       "13th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -149,7 +149,7 @@
     "aliases": [
       "14th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -185,7 +185,7 @@
     "aliases": [
       "16th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -214,7 +214,7 @@
     "aliases": [
       "17"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -250,7 +250,7 @@
     "aliases": [
       "18th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -301,7 +301,7 @@
     "aliases": [
       "1st"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -358,7 +358,7 @@
     "aliases": [
       "20th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -388,7 +388,7 @@
     "aliases": [
       "3rd"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -421,7 +421,7 @@
     "aliases": [
       "4th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -457,7 +457,7 @@
     "aliases": [
       "5th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -499,7 +499,7 @@
     "aliases": [
       "6th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -547,7 +547,7 @@
     "aliases": [
       "7th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -577,7 +577,7 @@
     "aliases": [
       "8th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -610,7 +610,7 @@
     "aliases": [
       "9th"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -663,7 +663,7 @@
     "aliases": [
       "Eugène Auguste Albert de Rochas"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -694,7 +694,7 @@
     "aliases": [
       "Saint-Yves d'Alveydre"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -721,7 +721,7 @@
       "forensics"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -749,7 +749,7 @@
       "illustrator"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -776,7 +776,7 @@
       "author"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -803,7 +803,7 @@
       "seer"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -830,7 +830,7 @@
       "performer"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -859,7 +859,7 @@
     "aliases": [
       "Artists"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -914,7 +914,7 @@
       "sculptor"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -939,7 +939,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -966,7 +966,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -993,7 +993,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1020,7 +1020,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1070,7 +1070,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1097,7 +1097,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1124,7 +1124,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1152,7 +1152,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1182,7 +1182,7 @@
       "astronomer"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1206,7 +1206,7 @@
       "lore"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1231,7 +1231,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1260,7 +1260,7 @@
       "scientists"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1343,7 +1343,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1372,7 +1372,7 @@
       "composer"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1403,7 +1403,7 @@
     "aliases": [
       "Antonio Herrera"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1428,7 +1428,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1455,7 +1455,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1484,7 +1484,7 @@
       "painter"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1514,7 +1514,7 @@
     "aliases": [
       "Henri-Edmond Limet"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1603,7 +1603,7 @@
       "astrology"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1632,7 +1632,7 @@
     "aliases": [
       "Emile Zola"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1658,7 +1658,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1688,7 +1688,7 @@
       "occult"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1752,7 +1752,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1784,7 +1784,7 @@
     "aliases": [
       "Mrs. Loveless"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1813,7 +1813,7 @@
       "journalist"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1841,7 +1841,7 @@
       "teacher"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1869,7 +1869,7 @@
       "student"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1899,7 +1899,7 @@
     "aliases": [
       "Toulouse-Lautrec"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1947,7 +1947,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -1974,7 +1974,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2001,7 +2001,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2028,7 +2028,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2055,7 +2055,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2082,7 +2082,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2184,7 +2184,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2239,7 +2239,7 @@
     "aliases": [
       "Whistler"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2266,7 +2266,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2296,7 +2296,7 @@
       "occult"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2326,7 +2326,7 @@
     "aliases": [
       "Jean-Leon Gerome"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2358,7 +2358,7 @@
     "aliases": [
       "Charles-Marie-Georges Huysmans"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2388,7 +2388,7 @@
       "Sar Merodack",
       "Sar Péladan"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2418,7 +2418,7 @@
       "Jules-Benoît Stanislas Doinel du Val-Michel",
       "Jean Kostka"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2445,7 +2445,7 @@
       "investigator"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2477,7 +2477,7 @@
       "Louise Weber",
       "La Goulue"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2502,7 +2502,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2529,7 +2529,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2556,7 +2556,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2583,7 +2583,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2610,7 +2610,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2637,7 +2637,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2687,7 +2687,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2714,7 +2714,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2741,7 +2741,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2768,7 +2768,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2799,7 +2799,7 @@
     "aliases": [
       "Gabriel Jogand-Pagès"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2824,7 +2824,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2851,7 +2851,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2878,7 +2878,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2907,7 +2907,7 @@
       "performer"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2938,7 +2938,7 @@
     "aliases": [
       "Louis Jean-Baptiste Lépine"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2967,7 +2967,7 @@
     "aliases": [
       "Luigi Giovanni Francesco Parmeggiani"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -2992,7 +2992,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3056,7 +3056,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3085,7 +3085,7 @@
       "writer"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3139,7 +3139,7 @@
     "aliases": [
       "Maria Skłodowska-Curie"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3168,7 +3168,7 @@
     "aliases": [
       "Marie François Goron"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3195,7 +3195,7 @@
       "painter"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3225,7 +3225,7 @@
       "symbolist"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3250,7 +3250,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3281,7 +3281,7 @@
     "aliases": [
       "Moina Bergson Mathers"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3306,7 +3306,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3333,7 +3333,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3360,7 +3360,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3391,7 +3391,7 @@
     "aliases": [
       "Gaspard-Félix Tournachon"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3416,7 +3416,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3443,7 +3443,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3472,7 +3472,7 @@
     "aliases": [
       "Occult Circle"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3513,7 +3513,7 @@
       "symbolist"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3538,7 +3538,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3567,7 +3567,7 @@
       "tarot"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3594,7 +3594,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3621,7 +3621,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3654,7 +3654,7 @@
       "Gerard Encausse",
       "Papus"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3679,7 +3679,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3706,7 +3706,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3735,7 +3735,7 @@
     "aliases": [
       "Paris Outskirts"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3782,7 +3782,7 @@
     "aliases": [
       "Paul Cezanne"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3809,7 +3809,7 @@
       "painter"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3837,7 +3837,7 @@
       "symbolist"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3862,7 +3862,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3889,7 +3889,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3920,7 +3920,7 @@
     "aliases": [
       "Auguste Renoir"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3949,7 +3949,7 @@
       "Police",
       "Thieves"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -3980,7 +3980,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4007,7 +4007,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4034,7 +4034,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4065,7 +4065,7 @@
     "aliases": [
       "Piotr Rachkovsky"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4090,7 +4090,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4117,7 +4117,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4144,7 +4144,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4171,7 +4171,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4198,7 +4198,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4225,7 +4225,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4252,7 +4252,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4284,7 +4284,7 @@
       "Samuel Mathers",
       "MacGregor Mathers"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4313,7 +4313,7 @@
     "aliases": [
       "The Divine Sarah"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4344,7 +4344,7 @@
     "aliases": [
       "Marie-Florentine Royer"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4371,7 +4371,7 @@
     "aliases": [
       "Scientists"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4433,7 +4433,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4462,7 +4462,7 @@
       "rosicrucian"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4492,7 +4492,7 @@
     "aliases": [
       "Stephane Mallarme"
     ],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4517,7 +4517,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4544,7 +4544,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4571,7 +4571,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4598,7 +4598,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4625,7 +4625,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
@@ -4652,7 +4652,7 @@
       "key-location"
     ],
     "aliases": [],
-    "visibility": "gm",
+    "visibility": "players",
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
