@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Police-and-Thieves
+cover: /wiki/media/Alphonse-Bertillon.png
 ---
 # Alphonse Bertillon
 
@@ -41,6 +42,11 @@ parent: Police-and-Thieves
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Alphonse-Bertillon.png" alt="Close portrait of Alphonse Bertillon with a gray mustache and pointed beard" />
+<figcaption>Alphonse Bertillon</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Police identification expert</td></tr>

@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Police-and-Thieves
+cover: /wiki/media/Georges-Grison.png
 ---
 # Georges Grison
 
@@ -41,6 +42,11 @@ parent: Police-and-Thieves
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Georges-Grison.png" alt="Portrait of Georges Grison in a dark coat and bow tie" />
+<figcaption>Georges Grison</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Crime journalist</td></tr>

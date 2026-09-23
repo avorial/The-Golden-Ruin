@@ -3374,5 +3374,109 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Ely-Star.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Ely-Star.png",
+    "title": "Portrait of Ély Star seated among astrological books and instruments",
+    "category": "media",
+    "summary": "Ély Star, astrologer and author of Parisian occult manuals.",
+    "tags": [
+      "npc",
+      "occultists",
+      "astrologer",
+      "portrait"
+    ],
+    "aliases": [
+      "Ely-Star.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Alphonse-Bertillon.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Alphonse-Bertillon.png",
+    "title": "Close portrait of Alphonse Bertillon with a gray mustache and pointed beard",
+    "category": "media",
+    "summary": "Alphonse Bertillon, police clerk and architect of criminal identification.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "criminology",
+      "portrait"
+    ],
+    "aliases": [
+      "Alphonse-Bertillon.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Colonel-Caoutchouc.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Colonel-Caoutchouc.png",
+    "title": "Sepia portrait of Colonel Caoutchouc with a long white beard",
+    "category": "media",
+    "summary": "Colonel Caoutchouc, veteran criminal specialist with an old campaigner's severity.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "investigator",
+      "portrait"
+    ],
+    "aliases": [
+      "Colonel-Caoutchouc.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Georges-Grison.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Georges-Grison.png",
+    "title": "Portrait of Georges Grison in a dark coat and bow tie",
+    "category": "media",
+    "summary": "Georges Grison, journalist and investigator of Parisian crime.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "journalist",
+      "portrait"
+    ],
+    "aliases": [
+      "Georges-Grison.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

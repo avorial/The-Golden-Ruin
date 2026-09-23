@@ -18,6 +18,7 @@ aliases:
   - Antonio Herrera
 lastEditedBy: Codex
 parent: Police-and-Thieves
+cover: /wiki/media/Colonel-Caoutchouc.png
 ---
 # Colonel Caoutchouc
 
@@ -42,6 +43,11 @@ parent: Police-and-Thieves
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Colonel-Caoutchouc.png" alt="Sepia portrait of Colonel Caoutchouc with a long white beard" />
+<figcaption>Colonel Caoutchouc</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Disguise artist and criminal</td></tr>

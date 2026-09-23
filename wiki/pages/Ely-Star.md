@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Ely-Star.png
 ---
 # Ely Star
 
@@ -41,6 +42,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Ely-Star.png" alt="Portrait of Ély Star seated among astrological books and instruments" />
+<figcaption>Ély Star</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Astrologer and magnetic healer</td></tr>

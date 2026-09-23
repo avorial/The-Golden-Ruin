@@ -445,6 +445,46 @@
       "portrait"
     ]
   },
+  "wiki/media/Ely-Star.png": {
+    "alt": "Portrait of Ély Star seated among astrological books and instruments",
+    "caption": "Ély Star, astrologer and author of Parisian occult manuals.",
+    "tags": [
+      "npc",
+      "occultists",
+      "astrologer",
+      "portrait"
+    ]
+  },
+  "wiki/media/Alphonse-Bertillon.png": {
+    "alt": "Close portrait of Alphonse Bertillon with a gray mustache and pointed beard",
+    "caption": "Alphonse Bertillon, police clerk and architect of criminal identification.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "criminology",
+      "portrait"
+    ]
+  },
+  "wiki/media/Colonel-Caoutchouc.png": {
+    "alt": "Sepia portrait of Colonel Caoutchouc with a long white beard",
+    "caption": "Colonel Caoutchouc, veteran criminal specialist with an old campaigner's severity.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "investigator",
+      "portrait"
+    ]
+  },
+  "wiki/media/Georges-Grison.png": {
+    "alt": "Portrait of Georges Grison in a dark coat and bow tie",
+    "caption": "Georges Grison, journalist and investigator of Parisian crime.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "journalist",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",
