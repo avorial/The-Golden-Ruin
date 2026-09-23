@@ -2,23 +2,23 @@
 category: npc
 type: npc
 name: Albert de Rochas
-summary: >-
-  Military engineer, historian, and occult investigator who approaches magnetism
-  and past lives like problems of artillery.
+summary: Military engineer, historian, and occult investigator who approaches
+  magnetism and past lives like problems of artillery.
 tags:
   - npc
   - people
   - occultists
   - science
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Eugène Auguste Albert de Rochas
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Occultists
 ---
+
 # Albert de Rochas
 
 <div class="wiki-layout">
