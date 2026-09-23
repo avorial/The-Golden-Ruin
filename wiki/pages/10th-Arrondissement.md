@@ -2,13 +2,13 @@
 category: location
 type: location
 name: 10th Arrondissement
-summary: >-
-  A working district of theaters, hospitals, stations, and radical memories, close enough to fashionable Paris to serve it and resent it.
+summary: A working district of theaters, hospitals, stations, and radical
+  memories, close enough to fashionable Paris to serve it and resent it.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Théâtre de l’Ambigu-Comique
@@ -16,8 +16,8 @@ keyLinks:
   - Hôpital Saint-Louis
   - Lariboisière Hospital
 aliases:
-  - "10th"
-lastEditedBy: Codex
+  - 10th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 10th Arrondissement
