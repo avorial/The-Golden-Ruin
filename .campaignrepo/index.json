@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T21:27:30.191Z",
+  "generatedAt": "2026-09-23T21:45:44.649Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -48,7 +48,7 @@
       ],
       "summary": "A populous eastern district shaped by workshops, radical politics, prisons, and memories of the Commune.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "La Petite Roquette",
         "La Grande Roquette"
@@ -72,7 +72,7 @@
       ],
       "summary": "An eastern district of prisons, hospitals, rail approaches, and quieter streets where the city stores what it would rather not display.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Picpus Cemetery",
         "Mazas Prison"
@@ -95,7 +95,7 @@
       ],
       "summary": "A southern district of hospitals, industry, and expanding neighborhoods beyond the old fashionable center.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Salpêtrière"
       ]
@@ -119,7 +119,7 @@
       ],
       "summary": "Montparnasse before its artistic heyday: rail yards, hospitals, prisons, quarries, and the entrances to the Catacombs.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "La Santé Prison",
         "Hôpital Cochin",
@@ -143,7 +143,7 @@
       ],
       "summary": "Passy and the western bourgeois quarters, prosperous, residential, and useful to anyone who needs wealthy clients or discreet foreign visitors.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "English Chapel of Passy"
       ]
@@ -197,7 +197,7 @@
       ],
       "summary": "Montmartre and Pigalle: steep streets, cabarets, studios, anarchists, dancers, drinkers, and a basilica rising over old blood.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Cabaret du Néant",
         "Cabaret de l’Enfer",
@@ -235,7 +235,7 @@
       ],
       "summary": "The ceremonial and administrative center of Paris: palaces, courts, museums, churches, and institutions layered over older violence.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Church of St. Barnabé",
         "Notre-Dame de Paris",
@@ -266,7 +266,7 @@
       ],
       "summary": "A working eastern district dominated in the visitor’s imagination by Père-Lachaise and its city of the dead.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Père-Lachaise Cemetery"
       ]
@@ -289,7 +289,7 @@
       ],
       "summary": "A portion of the old Marais where medieval streets, archives, and the erased Temple fortress preserve stubborn traces of earlier Paris.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Bibliothèque Historique de la Ville de Paris",
         "Temple Square"
@@ -314,7 +314,7 @@
       ],
       "summary": "The eastern half of the historic center, containing City Hall, old streets, and monuments built over revolutionary and Communard dead.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Hôtel de Ville",
         "Mont-de-Piété",
@@ -342,7 +342,7 @@
       ],
       "summary": "The Latin Quarter’s scholarly core, crowded with students, libraries, hospitals, gardens, and institutions older than modern Paris.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Sorbonne Library",
         "Sainte-Geneviève Library",
@@ -374,7 +374,7 @@
       ],
       "summary": "The investigators’ Left Bank territory, joining the École des Beaux-Arts, bookshops, cafés, churches, and inexpensive student life.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Le Veau Gras",
         "Les Deux Magots",
@@ -402,7 +402,7 @@
       ],
       "summary": "The fading aristocratic Faubourg Saint-Germain, now sharing its avenues with embassies, ministries, shops, and discreet political work.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Le Bon Marché"
       ]
@@ -425,7 +425,7 @@
       ],
       "summary": "A district of prestige, grand hotels, churches, embassies, and polished boulevards where wealth expects privacy and deference.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "La Madeleine",
         "Protestant Churches of Paris"
@@ -455,7 +455,7 @@
       ],
       "summary": "A dense crossroads of theaters, opera, auctions, department stores, cafés, publishers, and occult bookshops.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Folies Bergère",
         "Nouvelle Athènes",
@@ -526,7 +526,7 @@
       "aliases": [],
       "summary": "Forensic pioneer whose measurement system turns bodies, criminals, and clues into sortable facts.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
     },
@@ -546,7 +546,7 @@
       "aliases": [],
       "summary": "Newly famous Czech artist whose Art Nouveau linework and salon connections attract seekers.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -565,7 +565,7 @@
       "aliases": [],
       "summary": "Elegant skeptic and author whose public disbelief may be a shield against the Yellow Sign.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -584,7 +584,7 @@
       "aliases": [],
       "summary": "Elegant Mexican seer visiting grand hotels, and perhaps not a real person at all.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -605,7 +605,7 @@
       "aliases": [],
       "summary": "Montmartre performer, impresario, and poet of the gutter with a citywide ear for rumor.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -655,7 +655,7 @@
       ],
       "summary": "Painters, writers, performers, composers, and salon figures who shape the visible culture of Paris.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": []
     },
     {
@@ -673,7 +673,7 @@
       "aliases": [],
       "summary": "Controversial sculptor whose forceful work and temper make him a dangerous witness to embodied horror.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -692,7 +692,7 @@
       "aliases": [],
       "summary": "The Gothic royal necropolis containing centuries of French monarchs.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Paris-Outskirts"
     },
@@ -711,7 +711,7 @@
       "aliases": [],
       "summary": "The city’s historical library, housed in the sixteenth-century Carnavalet building.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "3rd-Arrondissement"
     },
@@ -730,7 +730,7 @@
       "aliases": [],
       "summary": "A learned library near the Louvre with strong scientific and scholarly holdings.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "6th-Arrondissement"
     },
@@ -749,7 +749,7 @@
       "aliases": [],
       "summary": "A southern suburban institution suitable for long-term confinement and care.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Paris-Outskirts"
     },
@@ -785,7 +785,7 @@
       "aliases": [],
       "summary": "A hell-themed cabaret entered through the open mouth of a demon.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "18th-Arrondissement"
     },
@@ -804,7 +804,7 @@
       "aliases": [],
       "summary": "A Montmartre death-themed cabaret where patrons drink at coffin tables.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "18th-Arrondissement"
     },
@@ -823,7 +823,7 @@
       "aliases": [],
       "summary": "The Batignolles café where Manet and the early Impressionist circle once argued twice a week.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "17th-Arrondissement"
     },
@@ -842,7 +842,7 @@
       "aliases": [],
       "summary": "A café near the Moulin Rouge once decorated by Vincent van Gogh.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "18th-Arrondissement"
     },
@@ -862,7 +862,7 @@
       "aliases": [],
       "summary": "Astronomer, science fiction writer, and spiritist whose cosmic theories can mislead as much as illuminate.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -899,7 +899,7 @@
       "aliases": [],
       "summary": "The reformed asylum once associated with the Marquis de Sade.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Paris-Outskirts"
     },
@@ -918,7 +918,7 @@
       "aliases": [],
       "summary": "Physiologist and psychical researcher who tries to measure the impossible without admitting how badly it has shaken him.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -986,7 +986,7 @@
       "aliases": [],
       "summary": "A fictional Rococo church on Rue Saint-Honoré renowned for unusually fine organists.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -1007,7 +1007,7 @@
       "aliases": [],
       "summary": "Brilliant young composer whose Symbolist connections and mystical interests may draw him toward dangerous music.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1028,7 +1028,7 @@
       ],
       "summary": "Master criminal and rubbery alias-maker whose disguises let him pass through class, border, and identity.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
     },
@@ -1047,7 +1047,7 @@
       "aliases": [],
       "summary": "The vast Nanterre poorhouse, prison, hospital, and nursing home.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Paris-Outskirts"
     },
@@ -1066,7 +1066,7 @@
       "aliases": [],
       "summary": "The investigators’ art school on Rue Bonaparte, loyal to Academic tradition.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "6th-Arrondissement"
     },
@@ -1085,7 +1085,7 @@
       "aliases": [],
       "summary": "Prickly painter and sculptor whose precision makes him a harsh but valuable witness.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1108,7 +1108,7 @@
       ],
       "summary": "Occult bookseller and publisher whose shop links Parisian artists, Symbolists, and ritual magicians.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -1172,7 +1172,7 @@
       "aliases": [],
       "summary": "Astrologer, magnetizer, and occult adviser whose predictions are half performance and half unnerving accuracy.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -1193,7 +1193,7 @@
       ],
       "summary": "Celebrated Naturalist novelist whose unflinching eye may still miss supernatural rot.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1212,7 +1212,7 @@
       "aliases": [],
       "summary": "An Anglican chapel serving English-speaking residents of prosperous Passy.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "16th-Arrondissement"
     },
@@ -1234,7 +1234,7 @@
       "aliases": [],
       "summary": "Wry young composer and Rosicrucian chapel master whose poise hides a grief-shaped hunger for the next wave.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1282,7 +1282,7 @@
       "aliases": [],
       "summary": "A fashionable cabaret known for elaborate revues and female stars.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "9th-Arrondissement"
     },
@@ -1306,7 +1306,7 @@
       ],
       "summary": "American spy novelist in Paris who may be hiding real Pinkerton experience inside melodrama.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1325,7 +1325,7 @@
       "aliases": [],
       "summary": "Crime journalist who turns Parisian horrors into copy while quietly chasing the pattern underneath them.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
     },
@@ -1345,7 +1345,7 @@
       "aliases": [],
       "summary": "Symbolist master and teacher whose mythic paintings make him a natural guide to dangerous images.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1365,7 +1365,7 @@
       "aliases": [],
       "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1387,7 +1387,7 @@
       ],
       "summary": "Montmartre painter and printmaker who sees through performance because he lives inside it.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1423,7 +1423,7 @@
       "aliases": [],
       "summary": "A hospital with sealed eighteenth-century tunnels beneath it.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "14th-Arrondissement"
     },
@@ -1442,7 +1442,7 @@
       "aliases": [],
       "summary": "A comparatively young hospital dating to the early seventeenth century.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "10th-Arrondissement"
     },
@@ -1461,7 +1461,7 @@
       "aliases": [],
       "summary": "A hospital for the poor that also houses the National Academy of Medicine.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "6th-Arrondissement"
     },
@@ -1480,7 +1480,7 @@
       "aliases": [],
       "summary": "The ancient, overcrowded city hospital on the Île de la Cité.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -1499,7 +1499,7 @@
       "aliases": [],
       "summary": "The fashionable auction house where art, jewelry, and antiquities change hands.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "9th-Arrondissement"
     },
@@ -1518,7 +1518,7 @@
       "aliases": [],
       "summary": "Paris City Hall, rebuilt after burning during the suppression of the Commune.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "4th-Arrondissement"
     },
@@ -1576,7 +1576,7 @@
       "aliases": [],
       "summary": "The Rue de Richelieu institution holding the world’s largest collection of books.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -1617,7 +1617,7 @@
       ],
       "summary": "Prickly American painter in Paris, self-mythologizing and experimenting with color photography.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1636,7 +1636,7 @@
       "aliases": [],
       "summary": "A riverside botanical garden and zoological collection.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "5th-Arrondissement"
     },
@@ -1656,7 +1656,7 @@
       "aliases": [],
       "summary": "Young Belgian Symbolist painter and occult initiate whose art stands dangerously near Carcosa.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1680,7 +1680,7 @@
       ],
       "summary": "Stern academic painter and teacher whose taste for myth may have already led him too close to the book.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1702,7 +1702,7 @@
       ],
       "summary": "Decadent novelist drifting toward Catholicism after looking too long into occult Paris.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1724,7 +1724,7 @@
       ],
       "summary": "Flamboyant Rosicrucian novelist and impresario who turns mysticism into theater, scandal, and social leverage.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -1746,7 +1746,7 @@
       ],
       "summary": "Neo-Cathar visionary and Gnostic bishop on the edge of a terrifying renunciation.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -1767,7 +1767,7 @@
       "aliases": [],
       "summary": "Young tracer of lost persons whose private detective work keeps pulling him toward disappearances too strange for police ledgers.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
     },
@@ -1789,7 +1789,7 @@
       ],
       "summary": "Star can-can dancer whose public gaiety hides the first edge of a long fall.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -1808,7 +1808,7 @@
       "aliases": [],
       "summary": "The prison holding condemned inmates before the guillotine.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "11th-Arrondissement"
     },
@@ -1827,7 +1827,7 @@
       "aliases": [],
       "summary": "A church whose neoclassical exterior resembles a pagan temple.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "8th-Arrondissement"
     },
@@ -1846,7 +1846,7 @@
       "aliases": [],
       "summary": "The Paris prison for juveniles.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "11th-Arrondissement"
     },
@@ -1865,7 +1865,7 @@
       "aliases": [],
       "summary": "A prison for short sentences, appeals, and solitary confinement.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "14th-Arrondissement"
     },
@@ -1884,7 +1884,7 @@
       "aliases": [],
       "summary": "A Montmartre cabaret shared by artists, pimps, criminals, and anarchists.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "18th-Arrondissement"
     },
@@ -1903,7 +1903,7 @@
       "aliases": [],
       "summary": "A large hospital founded after a cholera epidemic.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "10th-Arrondissement"
     },
@@ -1939,7 +1939,7 @@
       "aliases": [],
       "summary": "A vast department store employing thousands and reaching customers through advertising and mail-order catalogues.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "7th-Arrondissement"
     },
@@ -1958,7 +1958,7 @@
       "aliases": [],
       "summary": "Rodolphe Salis’s celebrated Montmartre cabaret of music, poetry, comedy, and shadow theater.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "18th-Arrondissement"
     },
@@ -1977,7 +1977,7 @@
       "aliases": [],
       "summary": "Aristide Bruant’s Montmartre cabaret, built around songs, insults, and class performance.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "18th-Arrondissement"
     },
@@ -1996,7 +1996,7 @@
       "aliases": [],
       "summary": "A cheap student tavern at 17 Rue Bonaparte, close to the École des Beaux-Arts.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "6th-Arrondissement"
     },
@@ -2017,7 +2017,7 @@
       ],
       "summary": "Hoaxer, anti-clerical provocateur, and professional scandal-maker whose lies sometimes shelter worse truths.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -2036,7 +2036,7 @@
       "aliases": [],
       "summary": "A Saint-Germain-des-Prés café watched over by two carved Chinese mandarins.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "6th-Arrondissement"
     },
@@ -2055,7 +2055,7 @@
       "aliases": [],
       "summary": "Edmond Bailly’s bookshop linking Symbolist art and ritual occultism.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "9th-Arrondissement"
     },
@@ -2074,7 +2074,7 @@
       "aliases": [],
       "summary": "Lucien Chamuel’s occult bookshop and alchemical supply house.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "9th-Arrondissement"
     },
@@ -2095,7 +2095,7 @@
       "aliases": [],
       "summary": "American dancer and lighting innovator whose stage effects brush against visions of black stars.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -2116,7 +2116,7 @@
       ],
       "summary": "Prefect of Police and modernizer whose calm authority hides a city constantly on the edge of disorder.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
     },
@@ -2137,7 +2137,7 @@
       ],
       "summary": "Anarchist, smuggler, and dealer in forged antiquities whose criminal charm can make lies look beautifully old.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
     },
@@ -2156,7 +2156,7 @@
       "aliases": [],
       "summary": "The museum devoted to living artists, housed in a former royal orangery.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "6th-Arrondissement"
     },
@@ -2203,7 +2203,7 @@
       "aliases": [],
       "summary": "A bright riverside restaurant at Chatou, on an island in the Seine.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Paris-Outskirts"
     },
@@ -2224,7 +2224,7 @@
       "aliases": [],
       "summary": "Young society columnist with a gift for gossip and a future too large for one book.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -2262,7 +2262,7 @@
       ],
       "summary": "Brilliant young physicist whose discipline and ferocious concentration make her a rare ally against impossible phenomena.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Scientists-and-Inventors"
     },
@@ -2283,7 +2283,7 @@
       ],
       "summary": "Former Sûreté chief and detective writer whose appetite for crime stories may become dangerously literal.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
     },
@@ -2304,7 +2304,7 @@
       "aliases": [],
       "summary": "American Impressionist painter whose social independence and cool eye make her a useful ally for art-world investigations.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -2324,7 +2324,7 @@
       "aliases": [],
       "summary": "Belgian Symbolist playwright newly arrived in Paris with melancholy mysticism and dangerous dramatic instincts.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -2343,7 +2343,7 @@
       "aliases": [],
       "summary": "A brutal prison holding roughly twelve hundred inmates shortly before its closure.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "12th-Arrondissement"
     },
@@ -2364,7 +2364,7 @@
       ],
       "summary": "Artist, ritualist, and Golden Dawn co-founder whose charisma outshines her husband's gray reserve.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -2383,7 +2383,7 @@
       "aliases": [],
       "summary": "The municipal pawnshop network and its central warehouse.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "4th-Arrondissement"
     },
@@ -2402,7 +2402,7 @@
       "aliases": [],
       "summary": "The windmill-fronted pleasure palace where every social class gathers for spectacle and the can-can.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "18th-Arrondissement"
     },
@@ -2421,7 +2421,7 @@
       "aliases": [],
       "summary": "The former palace and revolutionary museum at the geographic and symbolic center of Paris.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -2442,7 +2442,7 @@
       ],
       "summary": "Photographer, aeronaut, and living legend of Paris who knows how to turn danger into an image.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Scientists-and-Inventors"
     },
@@ -2461,7 +2461,7 @@
       "aliases": [],
       "summary": "The great Gothic cathedral on the Île de la Cité, overlooking courts, police, and morgue.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -2480,7 +2480,7 @@
       "aliases": [],
       "summary": "A Pigalle café associated with Degas and the painters of modern Paris.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "9th-Arrondissement"
     },
@@ -2515,7 +2515,7 @@
       ],
       "summary": "Esoteric writers, ritualists, astrologers, psychical researchers, and magical organizers in Paris.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": []
     },
     {
@@ -2534,7 +2534,7 @@
       "aliases": [],
       "summary": "Symbolist painter whose grotesque visions can look uncomfortably like reports from Carcosa.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -2553,7 +2553,7 @@
       "aliases": [],
       "summary": "A large performance hall run by the team behind the Moulin Rouge.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "9th-Arrondissement"
     },
@@ -2574,7 +2574,7 @@
       "aliases": [],
       "summary": "Cartomancer and occult illustrator whose tarot images can become clues, keys, or traps.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -2593,7 +2593,7 @@
       "aliases": [],
       "summary": "The jeweled opera house whose backstage spaces form a district of their own.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "9th-Arrondissement"
     },
@@ -2612,7 +2612,7 @@
       "aliases": [],
       "summary": "The great court complex on the Île de la Cité.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -2635,7 +2635,7 @@
       ],
       "summary": "Martinist organizer and occult networker trying to unify a scene built from schism.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -2654,7 +2654,7 @@
       "aliases": [],
       "summary": "The regulated ossuary beneath Paris, assembled from displaced cemeteries and quarry tunnels.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "14th-Arrondissement"
     },
@@ -2673,7 +2673,7 @@
       "aliases": [],
       "summary": "The public morgue near Notre-Dame where unidentified bodies are displayed.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -2699,7 +2699,7 @@
       ],
       "summary": "Suburbs, riverside retreats, institutions, and burial grounds beyond the walls, reached through customs gates and the octroi.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Maison Fournaise",
         "Basilica of Saint-Denis",
@@ -2726,7 +2726,7 @@
       ],
       "summary": "Difficult, intense painter from Provence whose late work may be turning toward skulls for reasons beyond style.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -2745,7 +2745,7 @@
       "aliases": [],
       "summary": "Hard-living Symbolist painter carrying Brittany folklore, anger, and the shadow of van Gogh.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -2765,7 +2765,7 @@
       "aliases": [],
       "summary": "Revered Symbolist poet in ruin, still treated as holy by those who drink beside him.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -2784,7 +2784,7 @@
       "aliases": [],
       "summary": "Paris’s largest and most picturesque cemetery, a hilltop city of tombs and famous dead.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "20th-Arrondissement"
     },
@@ -2803,7 +2803,7 @@
       "aliases": [],
       "summary": "Paris’s only private cemetery, founded around a mass grave of Revolutionary victims.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "12th-Arrondissement"
     },
@@ -2824,7 +2824,7 @@
       ],
       "summary": "Esteemed Impressionist painter whose desire for respectability makes him resistant to strangeness.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -2853,7 +2853,7 @@
       ],
       "summary": "Detectives, police officials, criminals, spies, forgers, and crime writers who know the machinery beneath Paris.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": []
     },
     {
@@ -2871,7 +2871,7 @@
       "aliases": [],
       "summary": "A modern department store whose flagship popularizes Art Nouveau design.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "9th-Arrondissement"
     },
@@ -2890,7 +2890,7 @@
       "aliases": [],
       "summary": "A notorious women’s prison, remand center, hospital, police station, and prison bakery.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "10th-Arrondissement"
     },
@@ -2909,7 +2909,7 @@
       "aliases": [],
       "summary": "A network of Anglican, Episcopal, Wesleyan, Congregationalist, and Baptist congregations serving foreign residents.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "8th-Arrondissement"
     },
@@ -2930,7 +2930,7 @@
       ],
       "summary": "Russian secret police operative whose conspiracies are so useful that truth becomes merely one more material.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
     },
@@ -2949,7 +2949,7 @@
       "aliases": [],
       "summary": "The unfinished basilica rising over Montmartre as a rebuke to the Commune.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "18th-Arrondissement"
     },
@@ -2968,7 +2968,7 @@
       "aliases": [],
       "summary": "A small cemetery near Montmartre used for criminals and the otherwise unwanted dead.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Paris-Outskirts"
     },
@@ -2987,7 +2987,7 @@
       "aliases": [],
       "summary": "Paris’s second-largest church and home to one of the era’s great organs.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "6th-Arrondissement"
     },
@@ -3006,7 +3006,7 @@
       "aliases": [],
       "summary": "The restored royal chapel famed for soaring vaults and walls of stained glass.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -3025,7 +3025,7 @@
       "aliases": [],
       "summary": "A scholarly library celebrated for its modern iron-and-glass reading room.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "5th-Arrondissement"
     },
@@ -3044,7 +3044,7 @@
       "aliases": [],
       "summary": "A small but prestigious prison for writers, artists, and political offenders.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "5th-Arrondissement"
     },
@@ -3063,7 +3063,7 @@
       "aliases": [],
       "summary": "A hospital for women, girls, young boys, and elderly men with a complicated neurological legacy.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "13th-Arrondissement"
     },
@@ -3085,7 +3085,7 @@
       ],
       "summary": "Golden Dawn founder in Paris, struggling to hold authority over occult ambitions larger than his reach.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -3108,7 +3108,7 @@
       ],
       "summary": "The most famous actress in the world, grand enough to be impossible and frightened enough to hire help.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -3129,7 +3129,7 @@
       ],
       "summary": "Paris's most sought-after artist's model, dazzling enough to command a room and reckless enough to burn out young.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -3150,7 +3150,7 @@
       ],
       "summary": "Researchers, experimenters, photographers, and technical minds who can measure what others only fear.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": []
     },
     {
@@ -3195,7 +3195,7 @@
       "aliases": [],
       "summary": "The University of Paris library in the Latin Quarter.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "5th-Arrondissement"
     },
@@ -3214,7 +3214,7 @@
       "aliases": [],
       "summary": "Aristocratic Rosicrucian crusader against black magic, romantic enough to be brave and wrong.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -3236,7 +3236,7 @@
       ],
       "summary": "Symbolist poet and salon figure whose words approach meaning by moonlight rather than direct road.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
     },
@@ -3255,7 +3255,7 @@
       "aliases": [],
       "summary": "The criminal-investigation headquarters at 36 Quai des Orfèvres.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -3274,7 +3274,7 @@
       "aliases": [],
       "summary": "A botanical square occupying the demolished site of the Knights Templar fortress.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "3rd-Arrondissement"
     },
@@ -3293,7 +3293,7 @@
       "aliases": [],
       "summary": "The Place du Châtelet theater currently occupied by the Opéra-Comique.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
     },
@@ -3312,7 +3312,7 @@
       "aliases": [],
       "summary": "A two-thousand-seat theater specializing in melodrama, spectacle, and reenacted crimes.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "10th-Arrondissement"
     },
@@ -3331,7 +3331,7 @@
       "aliases": [],
       "summary": "The Gothic tower left behind when Saint-Jacques-de-la-Boucherie was demolished.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "4th-Arrondissement"
     },
@@ -3350,7 +3350,7 @@
       "aliases": [],
       "summary": "A serene Baroque military hospital.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "5th-Arrondissement"
     }
