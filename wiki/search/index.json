@@ -2724,5 +2724,83 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Henri-Matisse.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Henri-Matisse.png",
+    "title": "Portrait of Henri Matisse in a paint-stained studio coat beside a ladder",
+    "category": "media",
+    "summary": "Henri Matisse, young painter working toward a language of color and form.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Henri-Matisse.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/James-McNeill-Whistler.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/James-McNeill-Whistler.png",
+    "title": "Seated portrait of James McNeill Whistler holding a cigarette",
+    "category": "media",
+    "summary": "James McNeill Whistler, American painter, wit, and practiced provocateur.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "James-McNeill-Whistler.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Jean-Delville.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Jean-Delville.png",
+    "title": "Portrait of Jean Delville standing in a dark formal suit",
+    "category": "media",
+    "summary": "Jean Delville, Belgian Symbolist painter and esoteric idealist.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Jean-Delville.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

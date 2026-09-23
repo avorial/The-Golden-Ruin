@@ -19,6 +19,7 @@ aliases:
   - Whistler
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/James-McNeill-Whistler.png
 ---
 # James McNeill Whistler
 
@@ -43,6 +44,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/James-McNeill-Whistler.png" alt="Seated portrait of James McNeill Whistler holding a cigarette" />
+<figcaption>James McNeill Whistler</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter</td></tr>

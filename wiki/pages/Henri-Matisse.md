@@ -18,6 +18,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Henri-Matisse.png
 ---
 # Henri Matisse
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Henri-Matisse.png" alt="Portrait of Henri Matisse in a paint-stained studio coat beside a ladder" />
+<figcaption>Henri Matisse</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Art student</td></tr>

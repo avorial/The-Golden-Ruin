@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T16:04:10.048Z",
+  "generatedAt": "2026-09-23T16:05:51.614Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -653,7 +653,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Henri-Matisse.png"
     },
     {
       "id": "npc-Henri-de-Toulouse-Lautrec",
@@ -772,7 +773,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/James-McNeill-Whistler.png"
     },
     {
       "id": "npc-Jean-Delville",
@@ -792,7 +794,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Jean-Delville.png"
     },
     {
       "id": "npc-Jean-Leon-Gerome",
