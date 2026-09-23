@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T18:49:41.476Z",
+  "generatedAt": "2026-09-23T18:52:16.668Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -40,8 +40,7 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists",
-      "cover": "/wiki/media/Albert-de-Rochas.png"
+      "parent": "Occultists"
     },
     {
       "id": "npc-Alexandre-Saint-Yves",
@@ -62,8 +61,7 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists",
-      "cover": "/wiki/media/Alexandre-Saint-Yves.png"
+      "parent": "Occultists"
     },
     {
       "id": "npc-Alphonse-Bertillon",
@@ -82,8 +80,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves",
-      "cover": "/wiki/media/Alphonse-Bertillon.png"
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Alphonse-Mucha",
@@ -141,8 +138,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists",
-      "cover": "/wiki/media/Antonio-Herrera.png"
+      "parent": "Occultists"
     },
     {
       "id": "npc-Aristide-Bruant",
@@ -268,8 +264,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists",
-      "cover": "/wiki/media/Camille-Flammarion.png"
+      "parent": "Occultists"
     },
     {
       "id": "lore-Campaign",
@@ -306,8 +301,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists",
-      "cover": "/wiki/media/Charles-Richet.png"
+      "parent": "Occultists"
     },
     {
       "id": "location-Chez-le-P-re-Lathuile",
@@ -398,8 +392,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves",
-      "cover": "/wiki/media/Colonel-Caoutchouc.png"
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Edgar-Degas",
@@ -441,8 +434,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists",
-      "cover": "/wiki/media/Edmond-Bailly.png"
+      "parent": "Occultists"
     },
     {
       "id": "character-Edward-Vine-Jarod",
@@ -506,8 +498,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists",
-      "cover": "/wiki/media/Ely-Star.png"
+      "parent": "Occultists"
     },
     {
       "id": "npc-Emile-Zola",
@@ -622,8 +613,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves",
-      "cover": "/wiki/media/Georges-Grison.png"
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Gustave-Moreau",
@@ -663,8 +653,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Henri-Matisse.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Henri-de-Toulouse-Lautrec",
@@ -783,8 +772,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/James-McNeill-Whistler.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Jean-Delville",
@@ -804,8 +792,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Jean-Delville.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Jean-Leon-Gerome",
@@ -829,8 +816,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Jean-Leon-Gerome.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Joris-Karl-Huysmans",
@@ -852,8 +838,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Joris-Karl-Huysmans.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Josephin-Peladan",
@@ -875,8 +860,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists",
-      "cover": "/wiki/media/Josephin-Peladan.png"
+      "parent": "Occultists"
     },
     {
       "id": "npc-Jules-Doinel",
@@ -941,8 +925,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/La-Goulue-Louise-Weber.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "character-Laurie-Shelby",
@@ -1001,8 +984,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Loie-Fuller.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Louis-Lepine",
@@ -1023,8 +1005,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves",
-      "cover": "/wiki/media/Louis-Lepine.png"
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Luigi-Parmeggiani",
@@ -1045,8 +1026,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves",
-      "cover": "/wiki/media/Luigi-Parmeggiani.png"
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Madame-Eugenie-Voclain-Head-Cook",
@@ -1095,8 +1075,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Marcel-Proust.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "character-Marcus-J-rn-Jensen-Yoshi",
@@ -1134,8 +1113,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Scientists-and-Inventors",
-      "cover": "/wiki/media/Marie-Curie.png"
+      "parent": "Scientists-and-Inventors"
     },
     {
       "id": "npc-Marie-Francois-Goron",
@@ -1156,8 +1134,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves",
-      "cover": "/wiki/media/Marie-Francois-Goron.png"
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Mary-Cassatt",
@@ -1178,8 +1155,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Mary-Cassatt.jpg"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Maurice-Maeterlinck",
@@ -1199,8 +1175,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Maurice-Maeterlinck.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Moina-Mathers",
@@ -1242,8 +1217,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Scientists-and-Inventors",
-      "cover": "/wiki/media/Nadar.png"
+      "parent": "Scientists-and-Inventors"
     },
     {
       "id": "npc-Occultists",
@@ -1297,8 +1271,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Odilon-Redon.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Oswald-Wirth",
@@ -1363,8 +1336,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Paul-Cezanne.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Paul-Gauguin",
@@ -1383,8 +1355,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Paul-Gauguin.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Paul-Verlaine",
@@ -1404,8 +1375,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Paul-Verlaine.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Pierre-Auguste-Renoir",
@@ -1426,8 +1396,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Pierre-Auguste-Renoir.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Police-and-Thieves",
@@ -1476,8 +1445,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves",
-      "cover": "/wiki/media/Pyotr-Rachkovsky.png"
+      "parent": "Police-and-Thieves"
     },
     {
       "id": "npc-Samuel-Liddell-MacGregor-Mathers",
@@ -1522,8 +1490,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Sarah-Bernhardt.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Sarah-Brown",
@@ -1544,8 +1511,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Sarah-Brown.png"
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "npc-Scientists-and-Inventors",
@@ -1633,8 +1599,7 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians",
-      "cover": "/wiki/media/Stephane-Mallarme.png"
+      "parent": "Artists-and-Bohemians"
     }
   ]
 }

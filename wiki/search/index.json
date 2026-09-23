@@ -2189,6 +2189,84 @@
     "excerpt": "# Stéphane Mallarmé <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Stéphane Mallarmé speaks as if language is a veil that should never be lifted all at once. He can be warm, oblique, brilliant, broke, and maddeningly precise about the wrong "
   },
   {
+    "id": "11:media:wiki/media/Albert-de-Rochas.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Albert-de-Rochas.png",
+    "title": "Portrait of Albert de Rochas in a decorated military uniform",
+    "category": "media",
+    "summary": "Albert de Rochas, military engineer and investigator of psychic forces.",
+    "tags": [
+      "npc",
+      "occultists",
+      "psychical-research",
+      "portrait"
+    ],
+    "aliases": [
+      "Albert-de-Rochas.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Alexandre-Saint-Yves.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Alexandre-Saint-Yves.png",
+    "title": "Portrait of Alexandre Saint-Yves in a dark formal coat",
+    "category": "media",
+    "summary": "Alexandre Saint-Yves, occult philosopher and architect of synarchic doctrine.",
+    "tags": [
+      "npc",
+      "occultists",
+      "esoteric-philosophy",
+      "portrait"
+    ],
+    "aliases": [
+      "Alexandre-Saint-Yves.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Alphonse-Bertillon.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Alphonse-Bertillon.png",
+    "title": "Close portrait of Alphonse Bertillon with a gray mustache and pointed beard",
+    "category": "media",
+    "summary": "Alphonse Bertillon, police clerk and architect of criminal identification.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "criminology",
+      "portrait"
+    ],
+    "aliases": [
+      "Alphonse-Bertillon.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Alphonse-Mucha.jpg",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2230,6 +2308,32 @@
     ],
     "aliases": [
       "Anatole-France.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Antonio-Herrera.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Antonio-Herrera.png",
+    "title": "Sepia portrait of Antonio Herrera with dark hair and beard",
+    "category": "media",
+    "summary": "Antonio Herrera, occult practitioner moving through Parisian esoteric circles.",
+    "tags": [
+      "npc",
+      "occultists",
+      "esoteric-circle",
+      "portrait"
+    ],
+    "aliases": [
+      "Antonio-Herrera.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -2369,6 +2473,58 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Camille-Flammarion.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Camille-Flammarion.png",
+    "title": "Portrait of Camille Flammarion with white hair and beard",
+    "category": "media",
+    "summary": "Camille Flammarion, astronomer and investigator of worlds both visible and unseen.",
+    "tags": [
+      "npc",
+      "occultists",
+      "astronomer",
+      "portrait"
+    ],
+    "aliases": [
+      "Camille-Flammarion.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Charles-Richet.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Charles-Richet.png",
+    "title": "Portrait of Charles Richet in a light coat and patterned cravat",
+    "category": "media",
+    "summary": "Charles Richet, physiologist and investigator of psychic phenomena.",
+    "tags": [
+      "npc",
+      "occultists",
+      "psychical-research",
+      "portrait"
+    ],
+    "aliases": [
+      "Charles-Richet.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Claude-Debussy.webp",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2384,6 +2540,32 @@
     ],
     "aliases": [
       "Claude-Debussy.webp"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Colonel-Caoutchouc.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Colonel-Caoutchouc.png",
+    "title": "Sepia portrait of Colonel Caoutchouc with a long white beard",
+    "category": "media",
+    "summary": "Colonel Caoutchouc, veteran criminal specialist with an old campaigner's severity.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "investigator",
+      "portrait"
+    ],
+    "aliases": [
+      "Colonel-Caoutchouc.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -2421,6 +2603,32 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Edmond-Bailly.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Edmond-Bailly.png",
+    "title": "Portrait of Edmond Bailly seated among books and esoteric objects",
+    "category": "media",
+    "summary": "Edmond Bailly, publisher, musician, and host to Parisian occult inquiry.",
+    "tags": [
+      "npc",
+      "occultists",
+      "publisher",
+      "portrait"
+    ],
+    "aliases": [
+      "Edmond-Bailly.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Elise-Marceau-Maid.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2436,6 +2644,32 @@
     ],
     "aliases": [
       "Elise-Marceau-Maid.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Ely-Star.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Ely-Star.png",
+    "title": "Portrait of Ély Star seated among astrological books and instruments",
+    "category": "media",
+    "summary": "Ély Star, astrologer and author of Parisian occult manuals.",
+    "tags": [
+      "npc",
+      "occultists",
+      "astrologer",
+      "portrait"
+    ],
+    "aliases": [
+      "Ely-Star.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -2551,6 +2785,32 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Georges-Grison.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Georges-Grison.png",
+    "title": "Portrait of Georges Grison in a dark coat and bow tie",
+    "category": "media",
+    "summary": "Georges Grison, journalist and investigator of Parisian crime.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "journalist",
+      "portrait"
+    ],
+    "aliases": [
+      "Georges-Grison.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Gustave-Moreau.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2566,6 +2826,32 @@
     ],
     "aliases": [
       "Gustave-Moreau.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Henri-Matisse.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Henri-Matisse.png",
+    "title": "Portrait of Henri Matisse in a paint-stained studio coat beside a ladder",
+    "category": "media",
+    "summary": "Henri Matisse, young painter working toward a language of color and form.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Henri-Matisse.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -2642,105 +2928,6 @@
     ],
     "aliases": [
       "HotN-Street-View.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Madame-Eugenie-Voclain-Head-Cook.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Madame-Eugenie-Voclain-Head-Cook.png",
-    "title": "Portrait of Madame Eugénie Voclain in the kitchen",
-    "category": "media",
-    "summary": "Madame Eugénie Voclain, head cook at the House of the North Star.",
-    "tags": [
-      "npc",
-      "house-of-the-north-star",
-      "staff",
-      "portrait"
-    ],
-    "aliases": [
-      "Madame-Eugenie-Voclain-Head-Cook.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Paris-Map.webp",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Paris-Map.webp",
-    "title": "Paris City Map",
-    "category": "media",
-    "summary": "Paris Arrondissements",
-    "tags": [],
-    "aliases": [
-      "Paris-Map.webp"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Silas-Burke.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Silas-Burke.png",
-    "title": "Portrait of Silas Burke in formal butler's dress",
-    "category": "media",
-    "summary": "Silas Burke, head butler of the House of the North Star.",
-    "tags": [
-      "npc",
-      "house-of-the-north-star",
-      "staff",
-      "portrait"
-    ],
-    "aliases": [
-      "Silas-Burke.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Henri-Matisse.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Henri-Matisse.png",
-    "title": "Portrait of Henri Matisse in a paint-stained studio coat beside a ladder",
-    "category": "media",
-    "summary": "Henri Matisse, young painter working toward a language of color and form.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "painter",
-      "portrait"
-    ],
-    "aliases": [
-      "Henri-Matisse.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -2856,6 +3043,32 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Josephin-Peladan.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Josephin-Peladan.png",
+    "title": "Portrait of Joséphin Péladan with long dark hair and beard in a black cloak",
+    "category": "media",
+    "summary": "Joséphin Péladan, flamboyant occultist and founder of the Salon de la Rose + Croix.",
+    "tags": [
+      "npc",
+      "occultists",
+      "rosicrucian",
+      "portrait"
+    ],
+    "aliases": [
+      "Josephin-Peladan.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/La-Goulue-Louise-Weber.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2897,578 +3110,6 @@
     ],
     "aliases": [
       "Loie-Fuller.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Mary-Cassatt.jpg",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Mary-Cassatt.jpg",
-    "title": "Portrait of Mary Cassatt in a black feathered hat and fur-trimmed coat",
-    "category": "media",
-    "summary": "Mary Cassatt, American painter and independent presence in the Paris art world.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "painter",
-      "portrait"
-    ],
-    "aliases": [
-      "Mary-Cassatt.jpg"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Marcel-Proust.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Marcel-Proust.png",
-    "title": "Portrait of Marcel Proust in a dark suit with a red bow tie and yellow flower",
-    "category": "media",
-    "summary": "Marcel Proust, young writer and meticulous observer of Parisian society.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "author",
-      "portrait"
-    ],
-    "aliases": [
-      "Marcel-Proust.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Maurice-Maeterlinck.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Maurice-Maeterlinck.png",
-    "title": "Seated portrait of Maurice Maeterlinck beside a large book",
-    "category": "media",
-    "summary": "Maurice Maeterlinck, Symbolist playwright of silence, fate, and unseen dread.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "playwright",
-      "portrait"
-    ],
-    "aliases": [
-      "Maurice-Maeterlinck.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Odilon-Redon.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Odilon-Redon.png",
-    "title": "Portrait of Odilon Redon in a dark beret with folded arms",
-    "category": "media",
-    "summary": "Odilon Redon, Symbolist artist of dreams, shadows, and impossible forms.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "painter",
-      "portrait"
-    ],
-    "aliases": [
-      "Odilon-Redon.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Paul-Cezanne.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Paul-Cezanne.png",
-    "title": "Oval portrait of Paul Cézanne in a dark coat",
-    "category": "media",
-    "summary": "Paul Cézanne, painter whose severe compositions unsettle familiar forms.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "painter",
-      "portrait"
-    ],
-    "aliases": [
-      "Paul-Cezanne.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Paul-Gauguin.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Paul-Gauguin.png",
-    "title": "Portrait of Paul Gauguin reclining on a green velvet sofa",
-    "category": "media",
-    "summary": "Paul Gauguin, painter and restless exile from respectable Parisian life.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "painter",
-      "portrait"
-    ],
-    "aliases": [
-      "Paul-Gauguin.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Pierre-Auguste-Renoir.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Pierre-Auguste-Renoir.png",
-    "title": "Sepia portrait of Pierre-Auguste Renoir in a broad-brimmed hat",
-    "category": "media",
-    "summary": "Pierre-Auguste Renoir, painter of intimate society and luminous pleasure.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "painter",
-      "portrait"
-    ],
-    "aliases": [
-      "Pierre-Auguste-Renoir.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Sarah-Bernhardt.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Sarah-Bernhardt.png",
-    "title": "Portrait of Sarah Bernhardt seated in an elaborate white lace gown",
-    "category": "media",
-    "summary": "Sarah Bernhardt, celebrated actress and commanding force of the Paris stage.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "performer",
-      "portrait"
-    ],
-    "aliases": [
-      "Sarah-Bernhardt.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Sarah-Brown.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Sarah-Brown.png",
-    "title": "Sepia seated portrait of Sarah Brown in a dark high-collared dress",
-    "category": "media",
-    "summary": "Sarah Brown, artist's model and familiar presence within the Paris studios.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "model",
-      "portrait"
-    ],
-    "aliases": [
-      "Sarah-Brown.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Stephane-Mallarme.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Stephane-Mallarme.png",
-    "title": "Portrait of Stéphane Mallarmé writing at his desk beneath a red checked shawl",
-    "category": "media",
-    "summary": "Stéphane Mallarmé, Symbolist poet and host of an influential Tuesday salon.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "poet",
-      "portrait"
-    ],
-    "aliases": [
-      "Stephane-Mallarme.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Paul-Verlaine.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Paul-Verlaine.png",
-    "title": "Portrait of Paul Verlaine in a dark coat and patterned scarf",
-    "category": "media",
-    "summary": "Paul Verlaine, poet of musical language, ruinous appetite, and bruised devotion.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "poet",
-      "portrait"
-    ],
-    "aliases": [
-      "Paul-Verlaine.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Albert-de-Rochas.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Albert-de-Rochas.png",
-    "title": "Portrait of Albert de Rochas in a decorated military uniform",
-    "category": "media",
-    "summary": "Albert de Rochas, military engineer and investigator of psychic forces.",
-    "tags": [
-      "npc",
-      "occultists",
-      "psychical-research",
-      "portrait"
-    ],
-    "aliases": [
-      "Albert-de-Rochas.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Alexandre-Saint-Yves.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Alexandre-Saint-Yves.png",
-    "title": "Portrait of Alexandre Saint-Yves in a dark formal coat",
-    "category": "media",
-    "summary": "Alexandre Saint-Yves, occult philosopher and architect of synarchic doctrine.",
-    "tags": [
-      "npc",
-      "occultists",
-      "esoteric-philosophy",
-      "portrait"
-    ],
-    "aliases": [
-      "Alexandre-Saint-Yves.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Antonio-Herrera.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Antonio-Herrera.png",
-    "title": "Sepia portrait of Antonio Herrera with dark hair and beard",
-    "category": "media",
-    "summary": "Antonio Herrera, occult practitioner moving through Parisian esoteric circles.",
-    "tags": [
-      "npc",
-      "occultists",
-      "esoteric-circle",
-      "portrait"
-    ],
-    "aliases": [
-      "Antonio-Herrera.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Camille-Flammarion.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Camille-Flammarion.png",
-    "title": "Portrait of Camille Flammarion with white hair and beard",
-    "category": "media",
-    "summary": "Camille Flammarion, astronomer and investigator of worlds both visible and unseen.",
-    "tags": [
-      "npc",
-      "occultists",
-      "astronomer",
-      "portrait"
-    ],
-    "aliases": [
-      "Camille-Flammarion.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Charles-Richet.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Charles-Richet.png",
-    "title": "Portrait of Charles Richet in a light coat and patterned cravat",
-    "category": "media",
-    "summary": "Charles Richet, physiologist and investigator of psychic phenomena.",
-    "tags": [
-      "npc",
-      "occultists",
-      "psychical-research",
-      "portrait"
-    ],
-    "aliases": [
-      "Charles-Richet.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Edmond-Bailly.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Edmond-Bailly.png",
-    "title": "Portrait of Edmond Bailly seated among books and esoteric objects",
-    "category": "media",
-    "summary": "Edmond Bailly, publisher, musician, and host to Parisian occult inquiry.",
-    "tags": [
-      "npc",
-      "occultists",
-      "publisher",
-      "portrait"
-    ],
-    "aliases": [
-      "Edmond-Bailly.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Josephin-Peladan.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Josephin-Peladan.png",
-    "title": "Portrait of Joséphin Péladan with long dark hair and beard in a black cloak",
-    "category": "media",
-    "summary": "Joséphin Péladan, flamboyant occultist and founder of the Salon de la Rose + Croix.",
-    "tags": [
-      "npc",
-      "occultists",
-      "rosicrucian",
-      "portrait"
-    ],
-    "aliases": [
-      "Josephin-Peladan.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Ely-Star.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Ely-Star.png",
-    "title": "Portrait of Ély Star seated among astrological books and instruments",
-    "category": "media",
-    "summary": "Ély Star, astrologer and author of Parisian occult manuals.",
-    "tags": [
-      "npc",
-      "occultists",
-      "astrologer",
-      "portrait"
-    ],
-    "aliases": [
-      "Ely-Star.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Alphonse-Bertillon.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Alphonse-Bertillon.png",
-    "title": "Close portrait of Alphonse Bertillon with a gray mustache and pointed beard",
-    "category": "media",
-    "summary": "Alphonse Bertillon, police clerk and architect of criminal identification.",
-    "tags": [
-      "npc",
-      "police-and-thieves",
-      "criminology",
-      "portrait"
-    ],
-    "aliases": [
-      "Alphonse-Bertillon.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Colonel-Caoutchouc.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Colonel-Caoutchouc.png",
-    "title": "Sepia portrait of Colonel Caoutchouc with a long white beard",
-    "category": "media",
-    "summary": "Colonel Caoutchouc, veteran criminal specialist with an old campaigner's severity.",
-    "tags": [
-      "npc",
-      "police-and-thieves",
-      "investigator",
-      "portrait"
-    ],
-    "aliases": [
-      "Colonel-Caoutchouc.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Georges-Grison.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Georges-Grison.png",
-    "title": "Portrait of Georges Grison in a dark coat and bow tie",
-    "category": "media",
-    "summary": "Georges Grison, journalist and investigator of Parisian crime.",
-    "tags": [
-      "npc",
-      "police-and-thieves",
-      "journalist",
-      "portrait"
-    ],
-    "aliases": [
-      "Georges-Grison.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -3532,6 +3173,84 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Madame-Eugenie-Voclain-Head-Cook.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Madame-Eugenie-Voclain-Head-Cook.png",
+    "title": "Portrait of Madame Eugénie Voclain in the kitchen",
+    "category": "media",
+    "summary": "Madame Eugénie Voclain, head cook at the House of the North Star.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff",
+      "portrait"
+    ],
+    "aliases": [
+      "Madame-Eugenie-Voclain-Head-Cook.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Marcel-Proust.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Marcel-Proust.png",
+    "title": "Portrait of Marcel Proust in a dark suit with a red bow tie and yellow flower",
+    "category": "media",
+    "summary": "Marcel Proust, young writer and meticulous observer of Parisian society.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "author",
+      "portrait"
+    ],
+    "aliases": [
+      "Marcel-Proust.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Marie-Curie.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Marie-Curie.png",
+    "title": "Portrait of Marie Curie working with glassware in a laboratory",
+    "category": "media",
+    "summary": "Marie Curie, physicist and chemist pursuing the hidden properties of matter.",
+    "tags": [
+      "npc",
+      "scientists-and-inventors",
+      "scientist",
+      "portrait"
+    ],
+    "aliases": [
+      "Marie-Curie.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Marie-Francois-Goron.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -3558,21 +3277,47 @@
     "excerpt": ""
   },
   {
-    "id": "11:media:wiki/media/Pyotr-Rachkovsky.png",
+    "id": "11:media:wiki/media/Mary-Cassatt.jpg",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
-    "slug": "media/Pyotr-Rachkovsky.png",
-    "title": "Full-length portrait of Pyotr Rachkovsky in a bowler hat and dark coat",
+    "slug": "media/Mary-Cassatt.jpg",
+    "title": "Portrait of Mary Cassatt in a black feathered hat and fur-trimmed coat",
     "category": "media",
-    "summary": "Pyotr Rachkovsky, chief of the Russian secret police operation in Paris.",
+    "summary": "Mary Cassatt, American painter and independent presence in the Paris art world.",
     "tags": [
       "npc",
-      "police-and-thieves",
-      "secret-police",
+      "artists-and-bohemians",
+      "painter",
       "portrait"
     ],
     "aliases": [
-      "Pyotr-Rachkovsky.png"
+      "Mary-Cassatt.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Maurice-Maeterlinck.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Maurice-Maeterlinck.png",
+    "title": "Seated portrait of Maurice Maeterlinck beside a large book",
+    "category": "media",
+    "summary": "Maurice Maeterlinck, Symbolist playwright of silence, fate, and unseen dread.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "playwright",
+      "portrait"
+    ],
+    "aliases": [
+      "Maurice-Maeterlinck.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -3610,21 +3355,276 @@
     "excerpt": ""
   },
   {
-    "id": "11:media:wiki/media/Marie-Curie.png",
+    "id": "11:media:wiki/media/Odilon-Redon.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
-    "slug": "media/Marie-Curie.png",
-    "title": "Portrait of Marie Curie working with glassware in a laboratory",
+    "slug": "media/Odilon-Redon.png",
+    "title": "Portrait of Odilon Redon in a dark beret with folded arms",
     "category": "media",
-    "summary": "Marie Curie, physicist and chemist pursuing the hidden properties of matter.",
+    "summary": "Odilon Redon, Symbolist artist of dreams, shadows, and impossible forms.",
     "tags": [
       "npc",
-      "scientists-and-inventors",
-      "scientist",
+      "artists-and-bohemians",
+      "painter",
       "portrait"
     ],
     "aliases": [
-      "Marie-Curie.png"
+      "Odilon-Redon.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Paris-Map.webp",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Paris-Map.webp",
+    "title": "Paris City Map",
+    "category": "media",
+    "summary": "Paris Arrondissements",
+    "tags": [],
+    "aliases": [
+      "Paris-Map.webp"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Paul-Cezanne.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Paul-Cezanne.png",
+    "title": "Oval portrait of Paul Cézanne in a dark coat",
+    "category": "media",
+    "summary": "Paul Cézanne, painter whose severe compositions unsettle familiar forms.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Paul-Cezanne.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Paul-Gauguin.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Paul-Gauguin.png",
+    "title": "Portrait of Paul Gauguin reclining on a green velvet sofa",
+    "category": "media",
+    "summary": "Paul Gauguin, painter and restless exile from respectable Parisian life.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Paul-Gauguin.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Paul-Verlaine.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Paul-Verlaine.png",
+    "title": "Portrait of Paul Verlaine in a dark coat and patterned scarf",
+    "category": "media",
+    "summary": "Paul Verlaine, poet of musical language, ruinous appetite, and bruised devotion.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "poet",
+      "portrait"
+    ],
+    "aliases": [
+      "Paul-Verlaine.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Pierre-Auguste-Renoir.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Pierre-Auguste-Renoir.png",
+    "title": "Sepia portrait of Pierre-Auguste Renoir in a broad-brimmed hat",
+    "category": "media",
+    "summary": "Pierre-Auguste Renoir, painter of intimate society and luminous pleasure.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Pierre-Auguste-Renoir.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Pyotr-Rachkovsky.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Pyotr-Rachkovsky.png",
+    "title": "Full-length portrait of Pyotr Rachkovsky in a bowler hat and dark coat",
+    "category": "media",
+    "summary": "Pyotr Rachkovsky, chief of the Russian secret police operation in Paris.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "secret-police",
+      "portrait"
+    ],
+    "aliases": [
+      "Pyotr-Rachkovsky.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Sarah-Bernhardt.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Sarah-Bernhardt.png",
+    "title": "Portrait of Sarah Bernhardt seated in an elaborate white lace gown",
+    "category": "media",
+    "summary": "Sarah Bernhardt, celebrated actress and commanding force of the Paris stage.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "performer",
+      "portrait"
+    ],
+    "aliases": [
+      "Sarah-Bernhardt.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Sarah-Brown.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Sarah-Brown.png",
+    "title": "Sepia seated portrait of Sarah Brown in a dark high-collared dress",
+    "category": "media",
+    "summary": "Sarah Brown, artist's model and familiar presence within the Paris studios.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "model",
+      "portrait"
+    ],
+    "aliases": [
+      "Sarah-Brown.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Silas-Burke.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Silas-Burke.png",
+    "title": "Portrait of Silas Burke in formal butler's dress",
+    "category": "media",
+    "summary": "Silas Burke, head butler of the House of the North Star.",
+    "tags": [
+      "npc",
+      "house-of-the-north-star",
+      "staff",
+      "portrait"
+    ],
+    "aliases": [
+      "Silas-Burke.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Stephane-Mallarme.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Stephane-Mallarme.png",
+    "title": "Portrait of Stéphane Mallarmé writing at his desk beneath a red checked shawl",
+    "category": "media",
+    "summary": "Stéphane Mallarmé, Symbolist poet and host of an influential Tuesday salon.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "poet",
+      "portrait"
+    ],
+    "aliases": [
+      "Stephane-Mallarme.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
