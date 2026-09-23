@@ -3296,5 +3296,83 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Charles-Richet.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Charles-Richet.png",
+    "title": "Portrait of Charles Richet in a light coat and patterned cravat",
+    "category": "media",
+    "summary": "Charles Richet, physiologist and investigator of psychic phenomena.",
+    "tags": [
+      "npc",
+      "occultists",
+      "psychical-research",
+      "portrait"
+    ],
+    "aliases": [
+      "Charles-Richet.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Edmond-Bailly.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Edmond-Bailly.png",
+    "title": "Portrait of Edmond Bailly seated among books and esoteric objects",
+    "category": "media",
+    "summary": "Edmond Bailly, publisher, musician, and host to Parisian occult inquiry.",
+    "tags": [
+      "npc",
+      "occultists",
+      "publisher",
+      "portrait"
+    ],
+    "aliases": [
+      "Edmond-Bailly.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Josephin-Peladan.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Josephin-Peladan.png",
+    "title": "Portrait of Joséphin Péladan with long dark hair and beard in a black cloak",
+    "category": "media",
+    "summary": "Joséphin Péladan, flamboyant occultist and founder of the Salon de la Rose + Croix.",
+    "tags": [
+      "npc",
+      "occultists",
+      "rosicrucian",
+      "portrait"
+    ],
+    "aliases": [
+      "Josephin-Peladan.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Charles-Richet.png
 ---
 # Charles Richet
 
@@ -41,6 +42,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Charles-Richet.png" alt="Portrait of Charles Richet in a light coat and patterned cravat" />
+<figcaption>Charles Richet</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Physiologist and psychical researcher</td></tr>

@@ -18,6 +18,7 @@ aliases:
   - Henri-Edmond Limet
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Edmond-Bailly.png
 ---
 # Edmond Bailly
 
@@ -42,6 +43,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Edmond-Bailly.png" alt="Portrait of Edmond Bailly seated among books and esoteric objects" />
+<figcaption>Edmond Bailly</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Occult bookseller and publisher</td></tr>

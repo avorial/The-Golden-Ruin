@@ -19,6 +19,7 @@ aliases:
   - Sar Péladan
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Josephin-Peladan.png
 ---
 # Joséphin Péladan
 
@@ -43,6 +44,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Josephin-Peladan.png" alt="Portrait of Joséphin Péladan with long dark hair and beard in a black cloak" />
+<figcaption>Joséphin Péladan</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Rosicrucian impresario</td></tr>

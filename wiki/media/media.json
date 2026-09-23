@@ -415,6 +415,36 @@
       "portrait"
     ]
   },
+  "wiki/media/Charles-Richet.png": {
+    "alt": "Portrait of Charles Richet in a light coat and patterned cravat",
+    "caption": "Charles Richet, physiologist and investigator of psychic phenomena.",
+    "tags": [
+      "npc",
+      "occultists",
+      "psychical-research",
+      "portrait"
+    ]
+  },
+  "wiki/media/Edmond-Bailly.png": {
+    "alt": "Portrait of Edmond Bailly seated among books and esoteric objects",
+    "caption": "Edmond Bailly, publisher, musician, and host to Parisian occult inquiry.",
+    "tags": [
+      "npc",
+      "occultists",
+      "publisher",
+      "portrait"
+    ]
+  },
+  "wiki/media/Josephin-Peladan.png": {
+    "alt": "Portrait of Joséphin Péladan with long dark hair and beard in a black cloak",
+    "caption": "Joséphin Péladan, flamboyant occultist and founder of the Salon de la Rose + Croix.",
+    "tags": [
+      "npc",
+      "occultists",
+      "rosicrucian",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

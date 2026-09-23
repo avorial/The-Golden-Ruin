@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T17:41:19.149Z",
+  "generatedAt": "2026-09-23T17:48:32.766Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -305,7 +305,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Charles-Richet.png"
     },
     {
       "id": "location-Chez-le-P-re-Lathuile",
@@ -438,7 +439,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Edmond-Bailly.png"
     },
     {
       "id": "character-Edward-Vine-Jarod",
@@ -869,7 +871,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Josephin-Peladan.png"
     },
     {
       "id": "npc-Jules-Doinel",
