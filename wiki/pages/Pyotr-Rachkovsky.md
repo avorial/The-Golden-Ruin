@@ -18,6 +18,7 @@ aliases:
   - Piotr Rachkovsky
 lastEditedBy: Codex
 parent: Police-and-Thieves
+cover: /wiki/media/Pyotr-Rachkovsky.png
 ---
 # Pyotr Rachkovsky
 
@@ -42,6 +43,11 @@ parent: Police-and-Thieves
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Pyotr-Rachkovsky.png" alt="Full-length portrait of Pyotr Rachkovsky in a bowler hat and dark coat" />
+<figcaption>Pyotr Rachkovsky</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Secret police operative</td></tr>

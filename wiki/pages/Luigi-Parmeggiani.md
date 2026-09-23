@@ -18,6 +18,7 @@ aliases:
   - Luigi Giovanni Francesco Parmeggiani
 lastEditedBy: Codex
 parent: Police-and-Thieves
+cover: /wiki/media/Luigi-Parmeggiani.png
 ---
 # Luigi Parmeggiani
 
@@ -42,6 +43,11 @@ parent: Police-and-Thieves
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Luigi-Parmeggiani.png" alt="Full-length portrait of Luigi Parmeggiani in a dark three-piece suit" />
+<figcaption>Luigi Parmeggiani</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Smuggler and art forger</td></tr>

@@ -485,6 +485,46 @@
       "portrait"
     ]
   },
+  "wiki/media/Louis-Lepine.png": {
+    "alt": "Portrait of Louis Lépine standing in a wood-paneled office beside a Paris map",
+    "caption": "Louis Lépine, senior police administrator and relentless organizer of public order.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "police",
+      "portrait"
+    ]
+  },
+  "wiki/media/Luigi-Parmeggiani.png": {
+    "alt": "Full-length portrait of Luigi Parmeggiani in a dark three-piece suit",
+    "caption": "Luigi Parmeggiani, Italian anarchist moving through exile, intrigue, and criminal suspicion.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "anarchist",
+      "portrait"
+    ]
+  },
+  "wiki/media/Marie-Francois-Goron.png": {
+    "alt": "Sepia portrait of Marie-François Goron with a curled mustache",
+    "caption": "Marie-François Goron, former chief of the Paris Sûreté and practiced memoirist.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "detective",
+      "portrait"
+    ]
+  },
+  "wiki/media/Pyotr-Rachkovsky.png": {
+    "alt": "Full-length portrait of Pyotr Rachkovsky in a bowler hat and dark coat",
+    "caption": "Pyotr Rachkovsky, chief of the Russian secret police operation in Paris.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "secret-police",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

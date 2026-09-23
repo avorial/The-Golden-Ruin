@@ -18,6 +18,7 @@ aliases:
   - Louis Jean-Baptiste Lépine
 lastEditedBy: Codex
 parent: Police-and-Thieves
+cover: /wiki/media/Louis-Lepine.png
 ---
 # Louis Lépine
 
@@ -42,6 +43,11 @@ parent: Police-and-Thieves
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Louis-Lepine.png" alt="Portrait of Louis Lépine standing in a wood-paneled office beside a Paris map" />
+<figcaption>Louis Lépine</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Prefect of Police</td></tr>

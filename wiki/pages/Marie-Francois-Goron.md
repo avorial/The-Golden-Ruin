@@ -18,6 +18,7 @@ aliases:
   - Marie François Goron
 lastEditedBy: Codex
 parent: Police-and-Thieves
+cover: /wiki/media/Marie-Francois-Goron.png
 ---
 # Marie-François Goron
 
@@ -42,6 +43,11 @@ parent: Police-and-Thieves
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Marie-Francois-Goron.png" alt="Sepia portrait of Marie-François Goron with a curled mustache" />
+<figcaption>Marie-François Goron</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Ex-police chief and crime writer</td></tr>

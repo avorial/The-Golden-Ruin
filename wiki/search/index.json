@@ -3478,5 +3478,109 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Louis-Lepine.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Louis-Lepine.png",
+    "title": "Portrait of Louis Lépine standing in a wood-paneled office beside a Paris map",
+    "category": "media",
+    "summary": "Louis Lépine, senior police administrator and relentless organizer of public order.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "police",
+      "portrait"
+    ],
+    "aliases": [
+      "Louis-Lepine.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Luigi-Parmeggiani.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Luigi-Parmeggiani.png",
+    "title": "Full-length portrait of Luigi Parmeggiani in a dark three-piece suit",
+    "category": "media",
+    "summary": "Luigi Parmeggiani, Italian anarchist moving through exile, intrigue, and criminal suspicion.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "anarchist",
+      "portrait"
+    ],
+    "aliases": [
+      "Luigi-Parmeggiani.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Marie-Francois-Goron.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Marie-Francois-Goron.png",
+    "title": "Sepia portrait of Marie-François Goron with a curled mustache",
+    "category": "media",
+    "summary": "Marie-François Goron, former chief of the Paris Sûreté and practiced memoirist.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "detective",
+      "portrait"
+    ],
+    "aliases": [
+      "Marie-Francois-Goron.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Pyotr-Rachkovsky.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Pyotr-Rachkovsky.png",
+    "title": "Full-length portrait of Pyotr Rachkovsky in a bowler hat and dark coat",
+    "category": "media",
+    "summary": "Pyotr Rachkovsky, chief of the Russian secret police operation in Paris.",
+    "tags": [
+      "npc",
+      "police-and-thieves",
+      "secret-police",
+      "portrait"
+    ],
+    "aliases": [
+      "Pyotr-Rachkovsky.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]
