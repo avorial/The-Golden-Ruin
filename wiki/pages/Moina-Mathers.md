@@ -18,6 +18,7 @@ aliases:
   - Moina Bergson Mathers
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Moina-Mathers.png
 ---
 # Moina Mathers
 
@@ -42,6 +43,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Moina-Mathers.png" alt="Full-length portrait of Moina Mathers in a black ceremonial dress" />
+<figcaption>Moina Mathers</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Golden Dawn co-founder, artist, ritualist</td></tr>

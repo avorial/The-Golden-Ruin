@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Oswald-Wirth.png
 ---
 # Oswald Wirth
 
@@ -41,6 +42,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Oswald-Wirth.png" alt="Portrait of Oswald Wirth with a dark beard and brown suit" />
+<figcaption>Oswald Wirth</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Cartomancer and occult illustrator</td></tr>

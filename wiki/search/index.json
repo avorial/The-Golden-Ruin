@@ -3634,5 +3634,109 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Jules-Doinel.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Jules-Doinel.png",
+    "title": "Portrait of Jules Doinel with a curled mustache and graying beard",
+    "category": "media",
+    "summary": "Jules Doinel, archivist, visionary, and founder of a revived Gnostic church.",
+    "tags": [
+      "npc",
+      "occultists",
+      "gnostic",
+      "portrait"
+    ],
+    "aliases": [
+      "Jules-Doinel.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Leo-Taxil.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Leo-Taxil.png",
+    "title": "Portrait of Léo Taxil wearing pince-nez and a dark coat",
+    "category": "media",
+    "summary": "Léo Taxil, polemicist, hoaxer, and manufacturer of profitable occult scandal.",
+    "tags": [
+      "npc",
+      "occultists",
+      "hoaxer",
+      "portrait"
+    ],
+    "aliases": [
+      "Leo-Taxil.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Moina-Mathers.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Moina-Mathers.png",
+    "title": "Full-length portrait of Moina Mathers in a black ceremonial dress",
+    "category": "media",
+    "summary": "Moina Mathers, artist and occult adept of the Hermetic Order of the Golden Dawn.",
+    "tags": [
+      "npc",
+      "occultists",
+      "golden-dawn",
+      "portrait"
+    ],
+    "aliases": [
+      "Moina-Mathers.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Oswald-Wirth.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Oswald-Wirth.png",
+    "title": "Portrait of Oswald Wirth with a dark beard and brown suit",
+    "category": "media",
+    "summary": "Oswald Wirth, Swiss occultist, Freemason, and interpreter of the Tarot.",
+    "tags": [
+      "npc",
+      "occultists",
+      "tarot",
+      "portrait"
+    ],
+    "aliases": [
+      "Oswald-Wirth.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

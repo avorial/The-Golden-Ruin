@@ -545,6 +545,46 @@
       "portrait"
     ]
   },
+  "wiki/media/Jules-Doinel.png": {
+    "alt": "Portrait of Jules Doinel with a curled mustache and graying beard",
+    "caption": "Jules Doinel, archivist, visionary, and founder of a revived Gnostic church.",
+    "tags": [
+      "npc",
+      "occultists",
+      "gnostic",
+      "portrait"
+    ]
+  },
+  "wiki/media/Leo-Taxil.png": {
+    "alt": "Portrait of Léo Taxil wearing pince-nez and a dark coat",
+    "caption": "Léo Taxil, polemicist, hoaxer, and manufacturer of profitable occult scandal.",
+    "tags": [
+      "npc",
+      "occultists",
+      "hoaxer",
+      "portrait"
+    ]
+  },
+  "wiki/media/Moina-Mathers.png": {
+    "alt": "Full-length portrait of Moina Mathers in a black ceremonial dress",
+    "caption": "Moina Mathers, artist and occult adept of the Hermetic Order of the Golden Dawn.",
+    "tags": [
+      "npc",
+      "occultists",
+      "golden-dawn",
+      "portrait"
+    ]
+  },
+  "wiki/media/Oswald-Wirth.png": {
+    "alt": "Portrait of Oswald Wirth with a dark beard and brown suit",
+    "caption": "Oswald Wirth, Swiss occultist, Freemason, and interpreter of the Tarot.",
+    "tags": [
+      "npc",
+      "occultists",
+      "tarot",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

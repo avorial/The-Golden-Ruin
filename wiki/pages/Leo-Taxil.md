@@ -18,6 +18,7 @@ aliases:
   - Gabriel Jogand-Pagès
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Leo-Taxil.png
 ---
 # Léo Taxil
 
@@ -42,6 +43,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Leo-Taxil.png" alt="Portrait of Léo Taxil wearing pince-nez and a dark coat" />
+<figcaption>Léo Taxil</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Hoaxer and pamphleteer</td></tr>

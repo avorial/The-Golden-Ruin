@@ -19,6 +19,7 @@ aliases:
   - Jean Kostka
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Jules-Doinel.png
 ---
 # Jules Doinel
 
@@ -43,6 +44,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Jules-Doinel.png" alt="Portrait of Jules Doinel with a curled mustache and graying beard" />
+<figcaption>Jules Doinel</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Neo-Cathar visionary</td></tr>
