@@ -22,6 +22,12 @@ parent: 11th-Arrondissement
 
 Its proximity to La Grande Roquette ties childhood confinement to the machinery of execution.
 
+## Historical Background
+
+Les prisons de la Roquette (Petite et Grande Roquette) sont d'anciens établissements pénitentiaires situés à Paris, dans le 11e arrondissement, de part et d'autre de la rue de la Roquette. De nos jours, le square de la Roquette, le plus grand du 11e arrondissement, occupe l'ancien emplacement de la Petite Roquette.
+
+This background is adapted from the [Prisons de la Roquette](https://fr.wikipedia.org/wiki/Prisons_de_la_Roquette) article on Wikipedia (fr), accessed September 23, 2026, under the CC BY-SA license.
+
 ## Investigation Use
 
 A child prisoner knows where an adult murderer hid the evidence but speaks only through drawings.
@@ -31,6 +37,8 @@ A child prisoner knows where an adult murderer hid the evidence but speaks only 
 - [[11th Arrondissement]]
 
 ## Sources
+
+- Wikipedia contributors, [Prisons de la Roquette](https://fr.wikipedia.org/wiki/Prisons_de_la_Roquette), accessed September 23, 2026.
 
 - Robin D. Laws, *The Yellow King RPG: Paris*, “Locations,” pp. 98-112.
 
