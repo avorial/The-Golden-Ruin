@@ -525,6 +525,26 @@
       "portrait"
     ]
   },
+  "wiki/media/Nadar.png": {
+    "alt": "Portrait of Nadar seated in a dark coat with his hand against his cheek",
+    "caption": "Nadar, photographer, aeronaut, journalist, and tireless experimenter.",
+    "tags": [
+      "npc",
+      "scientists-and-inventors",
+      "photographer",
+      "portrait"
+    ]
+  },
+  "wiki/media/Marie-Curie.png": {
+    "alt": "Portrait of Marie Curie working with glassware in a laboratory",
+    "caption": "Marie Curie, physicist and chemist pursuing the hidden properties of matter.",
+    "tags": [
+      "npc",
+      "scientists-and-inventors",
+      "scientist",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

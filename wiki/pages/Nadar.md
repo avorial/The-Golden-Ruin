@@ -17,6 +17,7 @@ aliases:
   - Gaspard-Félix Tournachon
 lastEditedBy: patricthomas
 parent: Scientists-and-Inventors
+cover: /wiki/media/Nadar.png
 ---
 
 # Nadar
@@ -47,6 +48,11 @@ parent: Scientists-and-Inventors
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Nadar.png" alt="Portrait of Nadar seated in a dark coat with his hand against his cheek" />
+<figcaption>Nadar</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Photographer and aeronaut</td></tr>

@@ -18,6 +18,7 @@ aliases:
   - Maria Skłodowska-Curie
 lastEditedBy: Codex
 parent: Scientists-and-Inventors
+cover: /wiki/media/Marie-Curie.png
 ---
 # Marie Curie
 
@@ -47,6 +48,11 @@ parent: Scientists-and-Inventors
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Marie-Curie.png" alt="Portrait of Marie Curie working with glassware in a laboratory" />
+<figcaption>Marie Curie</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Physicist</td></tr>

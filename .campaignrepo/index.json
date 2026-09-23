@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T18:44:48.592Z",
+  "generatedAt": "2026-09-23T18:49:41.476Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -1134,7 +1134,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Scientists-and-Inventors"
+      "parent": "Scientists-and-Inventors",
+      "cover": "/wiki/media/Marie-Curie.png"
     },
     {
       "id": "npc-Marie-Francois-Goron",
@@ -1241,7 +1242,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Scientists-and-Inventors"
+      "parent": "Scientists-and-Inventors",
+      "cover": "/wiki/media/Nadar.png"
     },
     {
       "id": "npc-Occultists",

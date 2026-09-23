@@ -3582,5 +3582,57 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Nadar.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Nadar.png",
+    "title": "Portrait of Nadar seated in a dark coat with his hand against his cheek",
+    "category": "media",
+    "summary": "Nadar, photographer, aeronaut, journalist, and tireless experimenter.",
+    "tags": [
+      "npc",
+      "scientists-and-inventors",
+      "photographer",
+      "portrait"
+    ],
+    "aliases": [
+      "Nadar.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Marie-Curie.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Marie-Curie.png",
+    "title": "Portrait of Marie Curie working with glassware in a laboratory",
+    "category": "media",
+    "summary": "Marie Curie, physicist and chemist pursuing the hidden properties of matter.",
+    "tags": [
+      "npc",
+      "scientists-and-inventors",
+      "scientist",
+      "portrait"
+    ],
+    "aliases": [
+      "Marie-Curie.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]
