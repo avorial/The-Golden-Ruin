@@ -18,6 +18,7 @@ aliases:
   - Paul Cezanne
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Paul-Cezanne.png
 ---
 # Paul Cézanne
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Paul-Cezanne.png" alt="Oval portrait of Paul Cézanne in a dark coat" />
+<figcaption>Paul Cézanne</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter</td></tr>

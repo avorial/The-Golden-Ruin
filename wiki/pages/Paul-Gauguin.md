@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Paul-Gauguin.png
 ---
 # Paul Gauguin
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Paul-Gauguin.png" alt="Portrait of Paul Gauguin reclining on a green velvet sofa" />
+<figcaption>Paul Gauguin</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter</td></tr>

@@ -2984,5 +2984,83 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Odilon-Redon.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Odilon-Redon.png",
+    "title": "Portrait of Odilon Redon in a dark beret with folded arms",
+    "category": "media",
+    "summary": "Odilon Redon, Symbolist artist of dreams, shadows, and impossible forms.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Odilon-Redon.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Paul-Cezanne.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Paul-Cezanne.png",
+    "title": "Oval portrait of Paul Cézanne in a dark coat",
+    "category": "media",
+    "summary": "Paul Cézanne, painter whose severe compositions unsettle familiar forms.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Paul-Cezanne.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Paul-Gauguin.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Paul-Gauguin.png",
+    "title": "Portrait of Paul Gauguin reclining on a green velvet sofa",
+    "category": "media",
+    "summary": "Paul Gauguin, painter and restless exile from respectable Parisian life.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Paul-Gauguin.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

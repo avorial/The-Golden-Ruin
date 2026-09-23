@@ -18,6 +18,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Odilon-Redon.png
 ---
 # Odilon Redon
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Odilon-Redon.png" alt="Portrait of Odilon Redon in a dark beret with folded arms" />
+<figcaption>Odilon Redon</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter</td></tr>

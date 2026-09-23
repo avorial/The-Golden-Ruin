@@ -295,6 +295,36 @@
       "portrait"
     ]
   },
+  "wiki/media/Odilon-Redon.png": {
+    "alt": "Portrait of Odilon Redon in a dark beret with folded arms",
+    "caption": "Odilon Redon, Symbolist artist of dreams, shadows, and impossible forms.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
+  "wiki/media/Paul-Cezanne.png": {
+    "alt": "Oval portrait of Paul Cézanne in a dark coat",
+    "caption": "Paul Cézanne, painter whose severe compositions unsettle familiar forms.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
+  "wiki/media/Paul-Gauguin.png": {
+    "alt": "Portrait of Paul Gauguin reclining on a green velvet sofa",
+    "caption": "Paul Gauguin, painter and restless exile from respectable Parisian life.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",
