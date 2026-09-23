@@ -2,21 +2,21 @@
 category: npc
 type: npc
 name: Police and Thieves
-summary: >-
-  Detectives, police officials, criminals, spies, forgers, and crime writers who
-  know the machinery beneath Paris.
+summary: Detectives, police officials, criminals, spies, forgers, and crime
+  writers who know the machinery beneath Paris.
 tags:
   - npc
   - police-and-thieves
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Police
   - Thieves
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 ---
+
 # Police and Thieves
 
 This parent page gathers investigators, police authorities, criminals, spies, journalists, and underworld figures who understand Paris through evidence, files, favors, blackmail, and escape routes.

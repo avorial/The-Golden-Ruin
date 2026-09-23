@@ -2,9 +2,8 @@
 category: npc
 type: npc
 name: Stéphane Mallarmé
-summary: >-
-  Symbolist poet and salon figure whose words approach meaning by moonlight
-  rather than direct road.
+summary: Symbolist poet and salon figure whose words approach meaning by
+  moonlight rather than direct road.
 tags:
   - npc
   - people
@@ -12,15 +11,16 @@ tags:
   - poet
   - symbolist
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Stephane Mallarme
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Stephane-Mallarme.png
 ---
+
 # Stéphane Mallarmé
 
 <div class="wiki-layout">

@@ -2,19 +2,19 @@
 category: location
 type: location
 name: 16th Arrondissement
-summary: >-
-  Passy and the western bourgeois quarters, prosperous, residential, and useful to anyone who needs wealthy clients or discreet foreign visitors.
+summary: Passy and the western bourgeois quarters, prosperous, residential, and
+  useful to anyone who needs wealthy clients or discreet foreign visitors.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - English Chapel of Passy
 aliases:
-  - "16th"
-lastEditedBy: Codex
+  - 16th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 16th Arrondissement

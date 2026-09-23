@@ -2,23 +2,23 @@
 category: npc
 type: npc
 name: Marcel Proust
-summary: >-
-  Young society columnist with a gift for gossip and a future too large for one
-  book.
+summary: Young society columnist with a gift for gossip and a future too large
+  for one book.
 tags:
   - npc
   - people
   - artists-and-bohemians
   - writer
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Marcel-Proust.png
 ---
+
 # Marcel Proust
 
 <div class="wiki-layout">

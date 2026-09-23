@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Printemps
-summary: >-
-  A modern department store whose flagship popularizes Art Nouveau design.
+summary: A modern department store whose flagship popularizes Art Nouveau design.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 9th-Arrondissement
 cover: /wiki/media/Location-Printemps.jpg
 ---

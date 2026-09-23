@@ -2,23 +2,23 @@
 category: npc
 type: npc
 name: Edgar Degas
-summary: >-
-  Prickly painter and sculptor whose precision makes him a harsh but valuable
-  witness.
+summary: Prickly painter and sculptor whose precision makes him a harsh but
+  valuable witness.
 tags:
   - npc
   - people
   - artists-and-bohemians
   - painter
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Edgar-Degas.png
 ---
+
 # Edgar Degas
 
 <div class="wiki-layout">

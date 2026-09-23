@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Café Guerbois
-summary: >-
-  The Batignolles café where Manet and the early Impressionist circle once argued twice a week.
+summary: The Batignolles café where Manet and the early Impressionist circle
+  once argued twice a week.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 17th-Arrondissement
 cover: /wiki/media/Location-Cafe-Guerbois.jpg
 ---

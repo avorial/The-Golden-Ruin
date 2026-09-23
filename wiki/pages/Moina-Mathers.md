@@ -2,24 +2,24 @@
 category: npc
 type: npc
 name: Moina Mathers
-summary: >-
-  Artist, ritualist, and Golden Dawn co-founder whose charisma outshines her
-  husband's gray reserve.
+summary: Artist, ritualist, and Golden Dawn co-founder whose charisma outshines
+  her husband's gray reserve.
 tags:
   - npc
   - people
   - occultists
   - golden-dawn
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Moina Bergson Mathers
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Occultists
 cover: /wiki/media/Moina-Mathers.png
 ---
+
 # Moina Mathers
 
 <div class="wiki-layout">

@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Moulin Rouge
-summary: >-
-  The windmill-fronted pleasure palace where every social class gathers for spectacle and the can-can.
+summary: The windmill-fronted pleasure palace where every social class gathers
+  for spectacle and the can-can.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 18th-Arrondissement
 cover: /wiki/media/Location-Moulin-Rouge.jpg
 ---

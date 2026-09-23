@@ -2,17 +2,16 @@
 category: location
 type: location
 name: La Grande Roquette
-summary: >-
-  The prison holding condemned inmates before the guillotine.
+summary: The prison holding condemned inmates before the guillotine.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 11th-Arrondissement
 ---
 

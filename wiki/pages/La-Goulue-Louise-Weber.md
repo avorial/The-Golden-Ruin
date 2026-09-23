@@ -9,16 +9,17 @@ tags:
   - artists-and-bohemians
   - performer
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Louise Weber
   - La Goulue
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/La-Goulue-Louise-Weber.png
 ---
+
 # La Goulue (Louise Weber)
 
 <div class="wiki-layout">

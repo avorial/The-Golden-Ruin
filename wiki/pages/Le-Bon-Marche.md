@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Le Bon Marché
-summary: >-
-  A vast department store employing thousands and reaching customers through advertising and mail-order catalogues.
+summary: A vast department store employing thousands and reaching customers
+  through advertising and mail-order catalogues.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 7th-Arrondissement
 cover: /wiki/media/Location-Le-Bon-Marche.png
 ---

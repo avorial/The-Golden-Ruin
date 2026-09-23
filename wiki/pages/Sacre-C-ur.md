@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Sacré-Cœur
-summary: >-
-  The unfinished basilica rising over Montmartre as a rebuke to the Commune.
+summary: The unfinished basilica rising over Montmartre as a rebuke to the Commune.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 18th-Arrondissement
 cover: /wiki/media/Location-Sacre-C-ur.jpg
 ---

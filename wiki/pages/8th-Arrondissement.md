@@ -2,20 +2,20 @@
 category: location
 type: location
 name: 8th Arrondissement
-summary: >-
-  A district of prestige, grand hotels, churches, embassies, and polished boulevards where wealth expects privacy and deference.
+summary: A district of prestige, grand hotels, churches, embassies, and polished
+  boulevards where wealth expects privacy and deference.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - La Madeleine
   - Protestant Churches of Paris
 aliases:
-  - "8th"
-lastEditedBy: Codex
+  - 8th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 8th Arrondissement

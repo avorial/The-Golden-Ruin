@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Folies Bergère
-summary: >-
-  A fashionable cabaret known for elaborate revues and female stars.
+summary: A fashionable cabaret known for elaborate revues and female stars.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 9th-Arrondissement
 ---
 

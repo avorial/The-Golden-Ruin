@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Bibliothèque Historique de la Ville de Paris
-summary: >-
-  The city’s historical library, housed in the sixteenth-century Carnavalet building.
+summary: The city’s historical library, housed in the sixteenth-century
+  Carnavalet building.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 3rd-Arrondissement
 cover: /wiki/media/Location-Bibliotheque-Historique-de-la-Ville-de-Paris.jpg
 ---

@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Prison Saint-Lazare
-summary: >-
-  A notorious women’s prison, remand center, hospital, police station, and prison bakery.
+summary: A notorious women’s prison, remand center, hospital, police station,
+  and prison bakery.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 10th-Arrondissement
 ---
 

@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Basilica of Saint-Denis
-summary: >-
-  The Gothic royal necropolis containing centuries of French monarchs.
+summary: The Gothic royal necropolis containing centuries of French monarchs.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Paris-Outskirts
 cover: /wiki/media/Location-Basilica-of-Saint-Denis.jpg
 ---

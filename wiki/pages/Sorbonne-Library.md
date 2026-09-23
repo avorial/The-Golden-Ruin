@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Sorbonne Library
-summary: >-
-  The University of Paris library in the Latin Quarter.
+summary: The University of Paris library in the Latin Quarter.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 5th-Arrondissement
 ---
 

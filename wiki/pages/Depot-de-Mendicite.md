@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Dépôt de Mendicité
-summary: >-
-  The vast Nanterre poorhouse, prison, hospital, and nursing home.
+summary: The vast Nanterre poorhouse, prison, hospital, and nursing home.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Paris-Outskirts
 ---
 

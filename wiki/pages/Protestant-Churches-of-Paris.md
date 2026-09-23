@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Protestant Churches of Paris
-summary: >-
-  A network of Anglican, Episcopal, Wesleyan, Congregationalist, and Baptist congregations serving foreign residents.
+summary: A network of Anglican, Episcopal, Wesleyan, Congregationalist, and
+  Baptist congregations serving foreign residents.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 8th-Arrondissement
 ---
 

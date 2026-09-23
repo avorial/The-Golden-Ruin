@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Notre-Dame de Paris
-summary: >-
-  The great Gothic cathedral on the Île de la Cité, overlooking courts, police, and morgue.
+summary: The great Gothic cathedral on the Île de la Cité, overlooking courts,
+  police, and morgue.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 ---
 

@@ -2,17 +2,16 @@
 category: location
 type: location
 name: English Chapel of Passy
-summary: >-
-  An Anglican chapel serving English-speaking residents of prosperous Passy.
+summary: An Anglican chapel serving English-speaking residents of prosperous Passy.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 16th-Arrondissement
 ---
 

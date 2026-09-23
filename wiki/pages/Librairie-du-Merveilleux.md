@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Librairie du Merveilleux
-summary: >-
-  Lucien Chamuel’s occult bookshop and alchemical supply house.
+summary: Lucien Chamuel’s occult bookshop and alchemical supply house.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 9th-Arrondissement
 ---
 

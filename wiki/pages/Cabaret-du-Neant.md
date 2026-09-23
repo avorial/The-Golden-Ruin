@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Cabaret du Néant
-summary: >-
-  A Montmartre death-themed cabaret where patrons drink at coffin tables.
+summary: A Montmartre death-themed cabaret where patrons drink at coffin tables.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 18th-Arrondissement
 cover: /wiki/media/Location-Cabaret-du-Neant.jpg
 ---

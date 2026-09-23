@@ -2,13 +2,13 @@
 category: location
 type: location
 name: Paris Outskirts
-summary: >-
-  Suburbs, riverside retreats, institutions, and burial grounds beyond the walls, reached through customs gates and the octroi.
+summary: Suburbs, riverside retreats, institutions, and burial grounds beyond
+  the walls, reached through customs gates and the octroi.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Maison Fournaise
@@ -18,8 +18,8 @@ keyLinks:
   - Charenton Asylum
   - Bicêtre Hospital
 aliases:
-  - "Paris Outskirts"
-lastEditedBy: Codex
+  - Paris Outskirts
+lastEditedBy: patricthomas via GM review
 ---
 
 # Paris Outskirts

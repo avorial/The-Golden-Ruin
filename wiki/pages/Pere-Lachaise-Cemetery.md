@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Père-Lachaise Cemetery
-summary: >-
-  Paris’s largest and most picturesque cemetery, a hilltop city of tombs and famous dead.
+summary: Paris’s largest and most picturesque cemetery, a hilltop city of tombs
+  and famous dead.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 20th-Arrondissement
 ---
 

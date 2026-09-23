@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Salpêtrière
-summary: >-
-  A hospital for women, girls, young boys, and elderly men with a complicated neurological legacy.
+summary: A hospital for women, girls, young boys, and elderly men with a
+  complicated neurological legacy.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 13th-Arrondissement
 ---
 

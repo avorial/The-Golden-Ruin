@@ -2,24 +2,24 @@
 category: npc
 type: npc
 name: Colonel Caoutchouc
-summary: >-
-  Master criminal and rubbery alias-maker whose disguises let him pass through
-  class, border, and identity.
+summary: Master criminal and rubbery alias-maker whose disguises let him pass
+  through class, border, and identity.
 tags:
   - npc
   - people
   - police-and-thieves
   - criminal
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Antonio Herrera
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Police-and-Thieves
 cover: /wiki/media/Colonel-Caoutchouc.png
 ---
+
 # Colonel Caoutchouc
 
 <div class="wiki-layout">

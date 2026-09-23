@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Cabaret de l’Enfer
-summary: >-
-  A hell-themed cabaret entered through the open mouth of a demon.
+summary: A hell-themed cabaret entered through the open mouth of a demon.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 18th-Arrondissement
 ---
 

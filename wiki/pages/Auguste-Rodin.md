@@ -2,23 +2,23 @@
 category: npc
 type: npc
 name: Auguste Rodin
-summary: >-
-  Controversial sculptor whose forceful work and temper make him a dangerous
-  witness to embodied horror.
+summary: Controversial sculptor whose forceful work and temper make him a
+  dangerous witness to embodied horror.
 tags:
   - npc
   - people
   - artists-and-bohemians
   - sculptor
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Auguste-Rodin.png
 ---
+
 # Auguste Rodin
 
 <div class="wiki-layout">

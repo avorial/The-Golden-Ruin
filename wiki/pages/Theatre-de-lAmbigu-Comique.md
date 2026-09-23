@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Théâtre de l’Ambigu-Comique
-summary: >-
-  A two-thousand-seat theater specializing in melodrama, spectacle, and reenacted crimes.
+summary: A two-thousand-seat theater specializing in melodrama, spectacle, and
+  reenacted crimes.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 10th-Arrondissement
 ---
 

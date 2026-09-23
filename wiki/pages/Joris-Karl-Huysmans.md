@@ -2,9 +2,8 @@
 category: npc
 type: npc
 name: Joris-Karl Huysmans
-summary: >-
-  Decadent novelist drifting toward Catholicism after looking too long into
-  occult Paris.
+summary: Decadent novelist drifting toward Catholicism after looking too long
+  into occult Paris.
 tags:
   - npc
   - people
@@ -12,15 +11,16 @@ tags:
   - author
   - occult
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Charles-Marie-Georges Huysmans
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Joris-Karl-Huysmans.png
 ---
+
 # Joris-Karl Huysmans
 
 <div class="wiki-layout">

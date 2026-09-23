@@ -2,23 +2,23 @@
 category: npc
 type: npc
 name: Alphonse Bertillon
-summary: >-
-  Forensic pioneer whose measurement system turns bodies, criminals, and clues
-  into sortable facts.
+summary: Forensic pioneer whose measurement system turns bodies, criminals, and
+  clues into sortable facts.
 tags:
   - npc
   - people
   - police-and-thieves
   - forensics
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Police-and-Thieves
 cover: /wiki/media/Alphonse-Bertillon.png
 ---
+
 # Alphonse Bertillon
 
 <div class="wiki-layout">

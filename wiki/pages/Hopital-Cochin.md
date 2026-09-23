@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Hôpital Cochin
-summary: >-
-  A hospital with sealed eighteenth-century tunnels beneath it.
+summary: A hospital with sealed eighteenth-century tunnels beneath it.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 14th-Arrondissement
 cover: /wiki/media/Location-Hopital-Cochin.JPG
 ---

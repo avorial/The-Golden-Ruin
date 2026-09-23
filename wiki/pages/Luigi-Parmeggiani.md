@@ -2,24 +2,24 @@
 category: npc
 type: npc
 name: Luigi Parmeggiani
-summary: >-
-  Anarchist, smuggler, and dealer in forged antiquities whose criminal charm can
-  make lies look beautifully old.
+summary: Anarchist, smuggler, and dealer in forged antiquities whose criminal
+  charm can make lies look beautifully old.
 tags:
   - npc
   - people
   - police-and-thieves
   - criminal
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Luigi Giovanni Francesco Parmeggiani
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Police-and-Thieves
 cover: /wiki/media/Luigi-Parmeggiani.png
 ---
+
 # Luigi Parmeggiani
 
 <div class="wiki-layout">

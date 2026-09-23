@@ -2,19 +2,19 @@
 category: location
 type: location
 name: 13th Arrondissement
-summary: >-
-  A southern district of hospitals, industry, and expanding neighborhoods beyond the old fashionable center.
+summary: A southern district of hospitals, industry, and expanding neighborhoods
+  beyond the old fashionable center.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Salpêtrière
 aliases:
-  - "13th"
-lastEditedBy: Codex
+  - 13th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 13th Arrondissement

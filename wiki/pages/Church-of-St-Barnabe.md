@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Church of St. Barnabé
-summary: >-
-  A fictional Rococo church on Rue Saint-Honoré renowned for unusually fine organists.
+summary: A fictional Rococo church on Rue Saint-Honoré renowned for unusually
+  fine organists.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 ---
 

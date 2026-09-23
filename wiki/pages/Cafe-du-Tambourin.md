@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Café du Tambourin
-summary: >-
-  A café near the Moulin Rouge once decorated by Vincent van Gogh.
+summary: A café near the Moulin Rouge once decorated by Vincent van Gogh.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 18th-Arrondissement
 cover: /wiki/media/Location-Cafe-du-Tambourin.jpg
 ---

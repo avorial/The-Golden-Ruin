@@ -2,20 +2,20 @@
 category: npc
 type: npc
 name: Occultists
-summary: >-
-  Esoteric writers, ritualists, astrologers, psychical researchers, and magical
-  organizers in Paris.
+summary: Esoteric writers, ritualists, astrologers, psychical researchers, and
+  magical organizers in Paris.
 tags:
   - npc
   - occultists
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Occult Circle
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 ---
+
 # Occultists
 
 This parent page gathers the people in Paris who treat symbols, spirits, ritual orders, astrology, magnetism, and hidden masters as serious business.

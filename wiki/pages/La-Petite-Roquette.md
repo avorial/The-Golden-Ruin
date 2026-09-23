@@ -2,17 +2,16 @@
 category: location
 type: location
 name: La Petite Roquette
-summary: >-
-  The Paris prison for juveniles.
+summary: The Paris prison for juveniles.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 11th-Arrondissement
 ---
 

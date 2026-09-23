@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Saint-Sulpice
-summary: >-
-  Paris’s second-largest church and home to one of the era’s great organs.
+summary: Paris’s second-largest church and home to one of the era’s great organs.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 6th-Arrondissement
 cover: /wiki/media/Location-Saint-Sulpice.jpg
 ---

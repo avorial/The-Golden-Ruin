@@ -2,8 +2,7 @@
 category: npc
 type: npc
 name: Samuel Liddell “MacGregor” Mathers
-summary: >-
-  Golden Dawn founder in Paris, struggling to hold authority over occult
+summary: Golden Dawn founder in Paris, struggling to hold authority over occult
   ambitions larger than his reach.
 tags:
   - npc
@@ -11,16 +10,17 @@ tags:
   - occultists
   - golden-dawn
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Samuel Mathers
   - MacGregor Mathers
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Occultists
 cover: /wiki/media/Samuel-Liddell-MacGregor-Mathers.png
 ---
+
 # Samuel Liddell “MacGregor” Mathers
 
 <div class="wiki-layout">

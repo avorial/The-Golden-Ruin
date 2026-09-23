@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Sainte-Chapelle
-summary: >-
-  The restored royal chapel famed for soaring vaults and walls of stained glass.
+summary: The restored royal chapel famed for soaring vaults and walls of stained glass.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 cover: /wiki/media/Location-Sainte-Chapelle.jpg
 ---

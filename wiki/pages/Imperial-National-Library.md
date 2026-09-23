@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Imperial National Library
-summary: >-
-  The Rue de Richelieu institution holding the world’s largest collection of books.
+summary: The Rue de Richelieu institution holding the world’s largest collection
+  of books.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 ---
 

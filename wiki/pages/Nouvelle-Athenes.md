@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Nouvelle Athènes
-summary: >-
-  A Pigalle café associated with Degas and the painters of modern Paris.
+summary: A Pigalle café associated with Degas and the painters of modern Paris.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 9th-Arrondissement
 ---
 

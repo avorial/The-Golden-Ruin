@@ -2,9 +2,8 @@
 category: npc
 type: npc
 name: Camille Flammarion
-summary: >-
-  Astronomer, science fiction writer, and spiritist whose cosmic theories can
-  mislead as much as illuminate.
+summary: Astronomer, science fiction writer, and spiritist whose cosmic theories
+  can mislead as much as illuminate.
 tags:
   - npc
   - people
@@ -12,14 +11,15 @@ tags:
   - scientist
   - astronomer
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Occultists
 cover: /wiki/media/Camille-Flammarion.png
 ---
+
 # Camille Flammarion
 
 <div class="wiki-layout">

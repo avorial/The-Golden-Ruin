@@ -2,20 +2,20 @@
 category: location
 type: location
 name: 11th Arrondissement
-summary: >-
-  A populous eastern district shaped by workshops, radical politics, prisons, and memories of the Commune.
+summary: A populous eastern district shaped by workshops, radical politics,
+  prisons, and memories of the Commune.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - La Petite Roquette
   - La Grande Roquette
 aliases:
-  - "11th"
-lastEditedBy: Codex
+  - 11th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 11th Arrondissement

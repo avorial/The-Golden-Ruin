@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Le Chat Noir
-summary: >-
-  Rodolphe Salis’s celebrated Montmartre cabaret of music, poetry, comedy, and shadow theater.
+summary: Rodolphe Salis’s celebrated Montmartre cabaret of music, poetry,
+  comedy, and shadow theater.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 18th-Arrondissement
 cover: /wiki/media/Location-Le-Chat-Noir.jpg
 ---

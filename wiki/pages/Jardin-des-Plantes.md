@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Jardin des Plantes
-summary: >-
-  A riverside botanical garden and zoological collection.
+summary: A riverside botanical garden and zoological collection.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 5th-Arrondissement
 ---
 

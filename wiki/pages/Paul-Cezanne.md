@@ -2,24 +2,24 @@
 category: npc
 type: npc
 name: Paul Cézanne
-summary: >-
-  Difficult, intense painter from Provence whose late work may be turning toward
-  skulls for reasons beyond style.
+summary: Difficult, intense painter from Provence whose late work may be turning
+  toward skulls for reasons beyond style.
 tags:
   - npc
   - people
   - artists-and-bohemians
   - painter
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Paul Cezanne
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Paul-Cezanne.png
 ---
+
 # Paul Cézanne
 
 <div class="wiki-layout">

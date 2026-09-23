@@ -2,8 +2,7 @@
 category: npc
 type: npc
 name: Ely Star
-summary: >-
-  Astrologer, magnetizer, and occult adviser whose predictions are half
+summary: Astrologer, magnetizer, and occult adviser whose predictions are half
   performance and half unnerving accuracy.
 tags:
   - npc
@@ -11,14 +10,15 @@ tags:
   - occultists
   - astrology
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Occultists
 cover: /wiki/media/Ely-Star.png
 ---
+
 # Ely Star
 
 <div class="wiki-layout">

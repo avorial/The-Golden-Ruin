@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Luxembourg Gallery
-summary: >-
-  The museum devoted to living artists, housed in a former royal orangery.
+summary: The museum devoted to living artists, housed in a former royal orangery.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 6th-Arrondissement
 ---
 

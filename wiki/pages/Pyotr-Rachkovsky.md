@@ -2,24 +2,24 @@
 category: npc
 type: npc
 name: Pyotr Rachkovsky
-summary: >-
-  Russian secret police operative whose conspiracies are so useful that truth
-  becomes merely one more material.
+summary: Russian secret police operative whose conspiracies are so useful that
+  truth becomes merely one more material.
 tags:
   - npc
   - people
   - police-and-thieves
   - espionage
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Piotr Rachkovsky
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Police-and-Thieves
 cover: /wiki/media/Pyotr-Rachkovsky.png
 ---
+
 # Pyotr Rachkovsky
 
 <div class="wiki-layout">

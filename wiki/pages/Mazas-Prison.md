@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Mazas Prison
-summary: >-
-  A brutal prison holding roughly twelve hundred inmates shortly before its closure.
+summary: A brutal prison holding roughly twelve hundred inmates shortly before
+  its closure.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 12th-Arrondissement
 cover: /wiki/media/Location-Mazas-Prison.jpg
 ---

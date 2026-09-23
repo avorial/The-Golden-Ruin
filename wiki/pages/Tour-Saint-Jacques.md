@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Tour Saint-Jacques
-summary: >-
-  The Gothic tower left behind when Saint-Jacques-de-la-Boucherie was demolished.
+summary: The Gothic tower left behind when Saint-Jacques-de-la-Boucherie was demolished.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 4th-Arrondissement
 ---
 

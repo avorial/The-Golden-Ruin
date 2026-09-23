@@ -2,8 +2,7 @@
 category: npc
 type: npc
 name: Sarah Bernhardt
-summary: >-
-  The most famous actress in the world, grand enough to be impossible and
+summary: The most famous actress in the world, grand enough to be impossible and
   frightened enough to hire help.
 tags:
   - npc
@@ -11,15 +10,16 @@ tags:
   - artists-and-bohemians
   - performer
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - The Divine Sarah
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Sarah-Bernhardt.png
 ---
+
 # Sarah Bernhardt
 
 <div class="wiki-layout">

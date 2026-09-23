@@ -2,17 +2,16 @@
 category: location
 type: location
 name: La Madeleine
-summary: >-
-  A church whose neoclassical exterior resembles a pagan temple.
+summary: A church whose neoclassical exterior resembles a pagan temple.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 8th-Arrondissement
 ---
 

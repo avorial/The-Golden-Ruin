@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Sûreté Headquarters
-summary: >-
-  The criminal-investigation headquarters at 36 Quai des Orfèvres.
+summary: The criminal-investigation headquarters at 36 Quai des Orfèvres.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 ---
 

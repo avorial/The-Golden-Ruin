@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Théâtre Lyrique
-summary: >-
-  The Place du Châtelet theater currently occupied by the Opéra-Comique.
+summary: The Place du Châtelet theater currently occupied by the Opéra-Comique.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 ---
 

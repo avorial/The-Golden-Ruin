@@ -2,23 +2,23 @@
 category: npc
 type: npc
 name: Stanislas de Guaita
-summary: >-
-  Aristocratic Rosicrucian crusader against black magic, romantic enough to be
-  brave and wrong.
+summary: Aristocratic Rosicrucian crusader against black magic, romantic enough
+  to be brave and wrong.
 tags:
   - npc
   - people
   - occultists
   - rosicrucian
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Occultists
 cover: /wiki/media/Stanislas-de-Guaita.png
 ---
+
 # Stanislas de Guaita
 
 <div class="wiki-layout">

@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Musée du Louvre
-summary: >-
-  The former palace and revolutionary museum at the geographic and symbolic center of Paris.
+summary: The former palace and revolutionary museum at the geographic and
+  symbolic center of Paris.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 ---
 

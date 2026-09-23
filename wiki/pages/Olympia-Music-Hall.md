@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Olympia Music Hall
-summary: >-
-  A large performance hall run by the team behind the Moulin Rouge.
+summary: A large performance hall run by the team behind the Moulin Rouge.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 9th-Arrondissement
 ---
 

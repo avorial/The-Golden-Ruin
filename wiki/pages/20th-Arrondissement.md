@@ -2,19 +2,19 @@
 category: location
 type: location
 name: 20th Arrondissement
-summary: >-
-  A working eastern district dominated in the visitor’s imagination by Père-Lachaise and its city of the dead.
+summary: A working eastern district dominated in the visitor’s imagination by
+  Père-Lachaise and its city of the dead.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Père-Lachaise Cemetery
 aliases:
-  - "20th"
-lastEditedBy: Codex
+  - 20th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 20th Arrondissement

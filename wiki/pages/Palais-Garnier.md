@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Palais Garnier
-summary: >-
-  The jeweled opera house whose backstage spaces form a district of their own.
+summary: The jeweled opera house whose backstage spaces form a district of their own.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 9th-Arrondissement
 ---
 

@@ -2,13 +2,13 @@
 category: location
 type: location
 name: 6th Arrondissement
-summary: >-
-  The investigators’ Left Bank territory, joining the École des Beaux-Arts, bookshops, cafés, churches, and inexpensive student life.
+summary: The investigators’ Left Bank territory, joining the École des
+  Beaux-Arts, bookshops, cafés, churches, and inexpensive student life.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Le Veau Gras
@@ -19,8 +19,8 @@ keyLinks:
   - Luxembourg Gallery
   - Hôpital de la Charité
 aliases:
-  - "6th"
-lastEditedBy: Codex
+  - 6th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 6th Arrondissement

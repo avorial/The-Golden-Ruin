@@ -2,23 +2,23 @@
 category: npc
 type: npc
 name: Claude Debussy
-summary: >-
-  Brilliant young composer whose Symbolist connections and mystical interests
-  may draw him toward dangerous music.
+summary: Brilliant young composer whose Symbolist connections and mystical
+  interests may draw him toward dangerous music.
 tags:
   - npc
   - people
   - artists-and-bohemians
   - composer
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Claude-Debussy.webp
 ---
+
 # Claude Debussy
 
 <div class="wiki-layout">

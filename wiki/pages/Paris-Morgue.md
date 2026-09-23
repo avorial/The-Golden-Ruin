@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Paris Morgue
-summary: >-
-  The public morgue near Notre-Dame where unidentified bodies are displayed.
+summary: The public morgue near Notre-Dame where unidentified bodies are displayed.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 ---
 

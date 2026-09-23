@@ -2,24 +2,24 @@
 category: npc
 type: npc
 name: Louis Lépine
-summary: >-
-  Prefect of Police and modernizer whose calm authority hides a city constantly
-  on the edge of disorder.
+summary: Prefect of Police and modernizer whose calm authority hides a city
+  constantly on the edge of disorder.
 tags:
   - npc
   - people
   - police-and-thieves
   - police
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Louis Jean-Baptiste Lépine
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Police-and-Thieves
 cover: /wiki/media/Louis-Lepine.png
 ---
+
 # Louis Lépine
 
 <div class="wiki-layout">

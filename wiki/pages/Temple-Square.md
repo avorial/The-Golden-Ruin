@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Temple Square
-summary: >-
-  A botanical square occupying the demolished site of the Knights Templar fortress.
+summary: A botanical square occupying the demolished site of the Knights Templar
+  fortress.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 3rd-Arrondissement
 ---
 

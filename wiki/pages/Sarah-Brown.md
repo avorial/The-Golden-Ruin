@@ -2,24 +2,24 @@
 category: npc
 type: npc
 name: Sarah Brown
-summary: >-
-  Paris's most sought-after artist's model, dazzling enough to command a room
-  and reckless enough to burn out young.
+summary: Paris's most sought-after artist's model, dazzling enough to command a
+  room and reckless enough to burn out young.
 tags:
   - npc
   - people
   - artists-and-bohemians
   - model
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Marie-Florentine Royer
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Sarah-Brown.png
 ---
+
 # Sarah Brown
 
 <div class="wiki-layout">

@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Hôtel Drouot
-summary: >-
-  The fashionable auction house where art, jewelry, and antiquities change hands.
+summary: The fashionable auction house where art, jewelry, and antiquities change hands.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 9th-Arrondissement
 ---
 

@@ -2,20 +2,20 @@
 category: location
 type: location
 name: 3rd Arrondissement
-summary: >-
-  A portion of the old Marais where medieval streets, archives, and the erased Temple fortress preserve stubborn traces of earlier Paris.
+summary: A portion of the old Marais where medieval streets, archives, and the
+  erased Temple fortress preserve stubborn traces of earlier Paris.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Bibliothèque Historique de la Ville de Paris
   - Temple Square
 aliases:
-  - "3rd"
-lastEditedBy: Codex
+  - 3rd
+lastEditedBy: patricthomas via GM review
 ---
 
 # 3rd Arrondissement

@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Librairie de l’Art Indépendant
-summary: >-
-  Edmond Bailly’s bookshop linking Symbolist art and ritual occultism.
+summary: Edmond Bailly’s bookshop linking Symbolist art and ritual occultism.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 9th-Arrondissement
 ---
 

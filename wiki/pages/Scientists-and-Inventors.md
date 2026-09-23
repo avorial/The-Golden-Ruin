@@ -2,20 +2,20 @@
 category: npc
 type: npc
 name: Scientists and Inventors
-summary: >-
-  Researchers, experimenters, photographers, and technical minds who can measure
-  what others only fear.
+summary: Researchers, experimenters, photographers, and technical minds who can
+  measure what others only fear.
 tags:
   - npc
   - scientists
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Scientists
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 ---
+
 # Scientists and Inventors
 
 This parent page gathers the people most likely to test the impossible with instruments, photographs, experiments, medical observation, or stubborn skepticism.

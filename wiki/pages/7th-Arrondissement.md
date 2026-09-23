@@ -2,19 +2,19 @@
 category: location
 type: location
 name: 7th Arrondissement
-summary: >-
-  The fading aristocratic Faubourg Saint-Germain, now sharing its avenues with embassies, ministries, shops, and discreet political work.
+summary: The fading aristocratic Faubourg Saint-Germain, now sharing its avenues
+  with embassies, ministries, shops, and discreet political work.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Le Bon Marché
 aliases:
-  - "7th"
-lastEditedBy: Codex
+  - 7th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 7th Arrondissement

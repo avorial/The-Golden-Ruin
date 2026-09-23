@@ -2,17 +2,16 @@
 category: location
 type: location
 name: La Santé Prison
-summary: >-
-  A prison for short sentences, appeals, and solitary confinement.
+summary: A prison for short sentences, appeals, and solitary confinement.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 14th-Arrondissement
 ---
 

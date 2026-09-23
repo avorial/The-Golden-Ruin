@@ -2,23 +2,23 @@
 category: npc
 type: npc
 name: Anatole France
-summary: >-
-  Elegant skeptic and author whose public disbelief may be a shield against the
-  Yellow Sign.
+summary: Elegant skeptic and author whose public disbelief may be a shield
+  against the Yellow Sign.
 tags:
   - npc
   - people
   - artists-and-bohemians
   - author
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Anatole-France.png
 ---
+
 # Anatole France
 
 <div class="wiki-layout">

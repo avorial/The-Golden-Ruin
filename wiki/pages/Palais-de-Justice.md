@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Palais de Justice
-summary: >-
-  The great court complex on the Île de la Cité.
+summary: The great court complex on the Île de la Cité.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 ---
 

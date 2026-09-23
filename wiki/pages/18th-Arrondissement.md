@@ -2,13 +2,13 @@
 category: location
 type: location
 name: 18th Arrondissement
-summary: >-
-  Montmartre and Pigalle: steep streets, cabarets, studios, anarchists, dancers, drinkers, and a basilica rising over old blood.
+summary: "Montmartre and Pigalle: steep streets, cabarets, studios, anarchists,
+  dancers, drinkers, and a basilica rising over old blood."
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Cabaret du Néant
@@ -20,8 +20,8 @@ keyLinks:
   - Moulin Rouge
   - Sacré-Cœur
 aliases:
-  - "18th"
-lastEditedBy: Codex
+  - 18th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 18th Arrondissement

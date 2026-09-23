@@ -2,9 +2,8 @@
 category: npc
 type: npc
 name: Jean-Léon Gérôme
-summary: >-
-  Stern academic painter and teacher whose taste for myth may have already led
-  him too close to the book.
+summary: Stern academic painter and teacher whose taste for myth may have
+  already led him too close to the book.
 tags:
   - npc
   - people
@@ -12,15 +11,16 @@ tags:
   - painter
   - teacher
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Jean-Leon Gerome
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/Jean-Leon-Gerome.png
 ---
+
 # Jean-Léon Gérôme
 
 <div class="wiki-layout">

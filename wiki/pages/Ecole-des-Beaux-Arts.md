@@ -2,17 +2,16 @@
 category: location
 type: location
 name: École des Beaux-Arts
-summary: >-
-  The investigators’ art school on Rue Bonaparte, loyal to Academic tradition.
+summary: The investigators’ art school on Rue Bonaparte, loyal to Academic tradition.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 6th-Arrondissement
 ---
 

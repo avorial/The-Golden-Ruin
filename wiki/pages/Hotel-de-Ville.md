@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Hôtel de Ville
-summary: >-
-  Paris City Hall, rebuilt after burning during the suppression of the Commune.
+summary: Paris City Hall, rebuilt after burning during the suppression of the Commune.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 4th-Arrondissement
 ---
 

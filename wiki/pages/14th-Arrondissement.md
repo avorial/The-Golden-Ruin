@@ -2,21 +2,21 @@
 category: location
 type: location
 name: 14th Arrondissement
-summary: >-
-  Montparnasse before its artistic heyday: rail yards, hospitals, prisons, quarries, and the entrances to the Catacombs.
+summary: "Montparnasse before its artistic heyday: rail yards, hospitals,
+  prisons, quarries, and the entrances to the Catacombs."
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - La Santé Prison
   - Hôpital Cochin
   - Paris Catacombs
 aliases:
-  - "14th"
-lastEditedBy: Codex
+  - 14th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 14th Arrondissement

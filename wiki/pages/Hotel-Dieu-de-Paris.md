@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Hôtel-Dieu de Paris
-summary: >-
-  The ancient, overcrowded city hospital on the Île de la Cité.
+summary: The ancient, overcrowded city hospital on the Île de la Cité.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 1st-Arrondissement
 ---
 

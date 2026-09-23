@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Sainte-Geneviève Library
-summary: >-
-  A scholarly library celebrated for its modern iron-and-glass reading room.
+summary: A scholarly library celebrated for its modern iron-and-glass reading room.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 5th-Arrondissement
 ---
 

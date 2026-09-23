@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Le Veau Gras
-summary: >-
-  A cheap student tavern at 17 Rue Bonaparte, close to the École des Beaux-Arts.
+summary: A cheap student tavern at 17 Rue Bonaparte, close to the École des Beaux-Arts.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 6th-Arrondissement
 ---
 

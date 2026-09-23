@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Picpus Cemetery
-summary: >-
-  Paris’s only private cemetery, founded around a mass grave of Revolutionary victims.
+summary: Paris’s only private cemetery, founded around a mass grave of
+  Revolutionary victims.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 12th-Arrondissement
 cover: /wiki/media/Location-Picpus-Cemetery.JPG
 ---

@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Sainte-Pélagie Prison
-summary: >-
-  A small but prestigious prison for writers, artists, and political offenders.
+summary: A small but prestigious prison for writers, artists, and political offenders.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 5th-Arrondissement
 ---
 

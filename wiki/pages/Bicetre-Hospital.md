@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Bicêtre Hospital
-summary: >-
-  A southern suburban institution suitable for long-term confinement and care.
+summary: A southern suburban institution suitable for long-term confinement and care.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Paris-Outskirts
 cover: /wiki/media/Location-Bicetre-Hospital.jpg
 ---

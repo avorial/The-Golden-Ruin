@@ -2,20 +2,20 @@
 category: npc
 type: npc
 name: Artists and Bohemians
-summary: >-
-  Painters, writers, performers, composers, and salon figures who shape the
-  visible culture of Paris.
+summary: Painters, writers, performers, composers, and salon figures who shape
+  the visible culture of Paris.
 tags:
   - npc
   - artists-and-bohemians
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Artists
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 ---
+
 # Artists and Bohemians
 
 This parent page gathers the artists, writers, performers, composers, critics, and salon figures who make Paris glitter brightly enough to hide what moves behind the light.

@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Charenton Asylum
-summary: >-
-  The reformed asylum once associated with the Marquis de Sade.
+summary: The reformed asylum once associated with the Marquis de Sade.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Paris-Outskirts
 cover: /wiki/media/Location-Charenton-Asylum.jpg
 ---

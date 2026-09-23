@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Paris Catacombs
-summary: >-
-  The regulated ossuary beneath Paris, assembled from displaced cemeteries and quarry tunnels.
+summary: The regulated ossuary beneath Paris, assembled from displaced
+  cemeteries and quarry tunnels.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 14th-Arrondissement
 cover: /wiki/media/Location-Paris-Catacombs.jpg
 ---

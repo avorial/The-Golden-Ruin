@@ -2,20 +2,20 @@
 category: location
 type: location
 name: 12th Arrondissement
-summary: >-
-  An eastern district of prisons, hospitals, rail approaches, and quieter streets where the city stores what it would rather not display.
+summary: An eastern district of prisons, hospitals, rail approaches, and quieter
+  streets where the city stores what it would rather not display.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Picpus Cemetery
   - Mazas Prison
 aliases:
-  - "12th"
-lastEditedBy: Codex
+  - 12th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 12th Arrondissement

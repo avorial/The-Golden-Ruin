@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Mont-de-Piété
-summary: >-
-  The municipal pawnshop network and its central warehouse.
+summary: The municipal pawnshop network and its central warehouse.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 4th-Arrondissement
 cover: /wiki/media/Location-Mont-de-Piete.jpg
 ---

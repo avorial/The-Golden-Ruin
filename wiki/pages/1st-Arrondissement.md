@@ -2,13 +2,13 @@
 category: location
 type: location
 name: 1st Arrondissement
-summary: >-
-  The ceremonial and administrative center of Paris: palaces, courts, museums, churches, and institutions layered over older violence.
+summary: "The ceremonial and administrative center of Paris: palaces, courts,
+  museums, churches, and institutions layered over older violence."
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Church of St. Barnabé
@@ -22,8 +22,8 @@ keyLinks:
   - Paris Morgue
   - Hôtel-Dieu de Paris
 aliases:
-  - "1st"
-lastEditedBy: Codex
+  - 1st
+lastEditedBy: patricthomas via GM review
 ---
 
 # 1st Arrondissement

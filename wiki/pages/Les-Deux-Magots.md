@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Les Deux Magots
-summary: >-
-  A Saint-Germain-des-Prés café watched over by two carved Chinese mandarins.
+summary: A Saint-Germain-des-Prés café watched over by two carved Chinese mandarins.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 6th-Arrondissement
 cover: /wiki/media/Location-Les-Deux-Magots.jpg
 ---

@@ -2,17 +2,17 @@
 category: location
 type: location
 name: Bibliothèque Mazarine
-summary: >-
-  A learned library near the Louvre with strong scientific and scholarly holdings.
+summary: A learned library near the Louvre with strong scientific and scholarly
+  holdings.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 6th-Arrondissement
 cover: /wiki/media/Location-Bibliotheque-Mazarine.jpg
 ---

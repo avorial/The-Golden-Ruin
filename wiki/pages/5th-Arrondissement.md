@@ -2,13 +2,13 @@
 category: location
 type: location
 name: 5th Arrondissement
-summary: >-
-  The Latin Quarter’s scholarly core, crowded with students, libraries, hospitals, gardens, and institutions older than modern Paris.
+summary: The Latin Quarter’s scholarly core, crowded with students, libraries,
+  hospitals, gardens, and institutions older than modern Paris.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Sorbonne Library
@@ -17,8 +17,8 @@ keyLinks:
   - Sainte-Pélagie Prison
   - Val-de-Grâce
 aliases:
-  - "5th"
-lastEditedBy: Codex
+  - 5th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 5th Arrondissement

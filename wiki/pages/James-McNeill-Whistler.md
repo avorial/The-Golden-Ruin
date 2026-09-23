@@ -2,9 +2,8 @@
 category: npc
 type: npc
 name: James McNeill Whistler
-summary: >-
-  Prickly American painter in Paris, self-mythologizing and experimenting with
-  color photography.
+summary: Prickly American painter in Paris, self-mythologizing and experimenting
+  with color photography.
 tags:
   - npc
   - people
@@ -12,15 +11,16 @@ tags:
   - painter
   - american
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Whistler
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Artists-and-Bohemians
 cover: /wiki/media/James-McNeill-Whistler.png
 ---
+
 # James McNeill Whistler
 
 <div class="wiki-layout">

@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Hôpital Saint-Louis
-summary: >-
-  A comparatively young hospital dating to the early seventeenth century.
+summary: A comparatively young hospital dating to the early seventeenth century.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 10th-Arrondissement
 ---
 

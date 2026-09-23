@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Val-de-Grâce
-summary: >-
-  A serene Baroque military hospital.
+summary: A serene Baroque military hospital.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 5th-Arrondissement
 ---
 

@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Lariboisière Hospital
-summary: >-
-  A large hospital founded after a cholera epidemic.
+summary: A large hospital founded after a cholera epidemic.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 10th-Arrondissement
 cover: /wiki/media/Location-Lariboisiere-Hospital.JPG
 ---

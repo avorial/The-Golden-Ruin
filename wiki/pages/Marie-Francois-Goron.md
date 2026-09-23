@@ -2,24 +2,24 @@
 category: npc
 type: npc
 name: Marie-François Goron
-summary: >-
-  Former Sûreté chief and detective writer whose appetite for crime stories may
-  become dangerously literal.
+summary: Former Sûreté chief and detective writer whose appetite for crime
+  stories may become dangerously literal.
 tags:
   - npc
   - people
   - police-and-thieves
   - police
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Marie François Goron
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Police-and-Thieves
 cover: /wiki/media/Marie-Francois-Goron.png
 ---
+
 # Marie-François Goron
 
 <div class="wiki-layout">

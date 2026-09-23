@@ -2,13 +2,13 @@
 category: location
 type: location
 name: 9th Arrondissement
-summary: >-
-  A dense crossroads of theaters, opera, auctions, department stores, cafés, publishers, and occult bookshops.
+summary: A dense crossroads of theaters, opera, auctions, department stores,
+  cafés, publishers, and occult bookshops.
 tags:
   - location
   - arrondissement
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Folies Bergère
@@ -20,8 +20,8 @@ keyLinks:
   - Librairie du Merveilleux
   - Printemps
 aliases:
-  - "9th"
-lastEditedBy: Codex
+  - 9th
+lastEditedBy: patricthomas via GM review
 ---
 
 # 9th Arrondissement

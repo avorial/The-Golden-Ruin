@@ -2,17 +2,16 @@
 category: location
 type: location
 name: Maison Fournaise
-summary: >-
-  A bright riverside restaurant at Chatou, on an island in the Seine.
+summary: A bright riverside restaurant at Chatou, on an island in the Seine.
 tags:
   - location
   - key-location
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Paris-Outskirts
 cover: /wiki/media/Location-Maison-Fournaise.jpg
 ---
