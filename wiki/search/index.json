@@ -3062,5 +3062,135 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Pierre-Auguste-Renoir.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Pierre-Auguste-Renoir.png",
+    "title": "Sepia portrait of Pierre-Auguste Renoir in a broad-brimmed hat",
+    "category": "media",
+    "summary": "Pierre-Auguste Renoir, painter of intimate society and luminous pleasure.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Pierre-Auguste-Renoir.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Sarah-Bernhardt.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Sarah-Bernhardt.png",
+    "title": "Portrait of Sarah Bernhardt seated in an elaborate white lace gown",
+    "category": "media",
+    "summary": "Sarah Bernhardt, celebrated actress and commanding force of the Paris stage.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "performer",
+      "portrait"
+    ],
+    "aliases": [
+      "Sarah-Bernhardt.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Sarah-Brown.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Sarah-Brown.png",
+    "title": "Sepia seated portrait of Sarah Brown in a dark high-collared dress",
+    "category": "media",
+    "summary": "Sarah Brown, artist's model and familiar presence within the Paris studios.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "model",
+      "portrait"
+    ],
+    "aliases": [
+      "Sarah-Brown.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Stephane-Mallarme.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Stephane-Mallarme.png",
+    "title": "Portrait of Stéphane Mallarmé writing at his desk beneath a red checked shawl",
+    "category": "media",
+    "summary": "Stéphane Mallarmé, Symbolist poet and host of an influential Tuesday salon.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "poet",
+      "portrait"
+    ],
+    "aliases": [
+      "Stephane-Mallarme.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Paul-Verlaine.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Paul-Verlaine.png",
+    "title": "Portrait of Paul Verlaine in a dark coat and patterned scarf",
+    "category": "media",
+    "summary": "Paul Verlaine, poet of musical language, ruinous appetite, and bruised devotion.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "poet",
+      "portrait"
+    ],
+    "aliases": [
+      "Paul-Verlaine.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

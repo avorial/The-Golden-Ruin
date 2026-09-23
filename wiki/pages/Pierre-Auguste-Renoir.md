@@ -18,6 +18,7 @@ aliases:
   - Auguste Renoir
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Pierre-Auguste-Renoir.png
 ---
 # Pierre-Auguste Renoir
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Pierre-Auguste-Renoir.png" alt="Sepia portrait of Pierre-Auguste Renoir in a broad-brimmed hat" />
+<figcaption>Pierre-Auguste Renoir</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter</td></tr>

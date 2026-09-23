@@ -325,6 +325,56 @@
       "portrait"
     ]
   },
+  "wiki/media/Pierre-Auguste-Renoir.png": {
+    "alt": "Sepia portrait of Pierre-Auguste Renoir in a broad-brimmed hat",
+    "caption": "Pierre-Auguste Renoir, painter of intimate society and luminous pleasure.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
+  "wiki/media/Sarah-Bernhardt.png": {
+    "alt": "Portrait of Sarah Bernhardt seated in an elaborate white lace gown",
+    "caption": "Sarah Bernhardt, celebrated actress and commanding force of the Paris stage.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "performer",
+      "portrait"
+    ]
+  },
+  "wiki/media/Sarah-Brown.png": {
+    "alt": "Sepia seated portrait of Sarah Brown in a dark high-collared dress",
+    "caption": "Sarah Brown, artist's model and familiar presence within the Paris studios.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "model",
+      "portrait"
+    ]
+  },
+  "wiki/media/Stephane-Mallarme.png": {
+    "alt": "Portrait of Stéphane Mallarmé writing at his desk beneath a red checked shawl",
+    "caption": "Stéphane Mallarmé, Symbolist poet and host of an influential Tuesday salon.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "poet",
+      "portrait"
+    ]
+  },
+  "wiki/media/Paul-Verlaine.png": {
+    "alt": "Portrait of Paul Verlaine in a dark coat and patterned scarf",
+    "caption": "Paul Verlaine, poet of musical language, ruinous appetite, and bruised devotion.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "poet",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

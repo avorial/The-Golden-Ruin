@@ -18,6 +18,7 @@ aliases:
   - The Divine Sarah
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Sarah-Bernhardt.png
 ---
 # Sarah Bernhardt
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Sarah-Bernhardt.png" alt="Portrait of Sarah Bernhardt seated in an elaborate white lace gown" />
+<figcaption>Sarah Bernhardt</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Actress, sculptor, possible patron</td></tr>

@@ -18,6 +18,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Paul-Verlaine.png
 ---
 # Paul Verlaine
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Paul-Verlaine.png" alt="Portrait of Paul Verlaine in a dark coat and patterned scarf" />
+<figcaption>Paul Verlaine</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Poet</td></tr>

@@ -18,6 +18,7 @@ aliases:
   - Marie-Florentine Royer
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Sarah-Brown.png
 ---
 # Sarah Brown
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Sarah-Brown.png" alt="Sepia seated portrait of Sarah Brown in a dark high-collared dress" />
+<figcaption>Sarah Brown</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Artist's model</td></tr>
