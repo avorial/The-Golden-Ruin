@@ -3069,6 +3069,32 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Jules-Doinel.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Jules-Doinel.png",
+    "title": "Portrait of Jules Doinel with a curled mustache and graying beard",
+    "category": "media",
+    "summary": "Jules Doinel, archivist, visionary, and founder of a revived Gnostic church.",
+    "tags": [
+      "npc",
+      "occultists",
+      "gnostic",
+      "portrait"
+    ],
+    "aliases": [
+      "Jules-Doinel.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/La-Goulue-Louise-Weber.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -3084,6 +3110,32 @@
     ],
     "aliases": [
       "La-Goulue-Louise-Weber.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Leo-Taxil.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Leo-Taxil.png",
+    "title": "Portrait of Léo Taxil wearing pince-nez and a dark coat",
+    "category": "media",
+    "summary": "Léo Taxil, polemicist, hoaxer, and manufacturer of profitable occult scandal.",
+    "tags": [
+      "npc",
+      "occultists",
+      "hoaxer",
+      "portrait"
+    ],
+    "aliases": [
+      "Leo-Taxil.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -3329,6 +3381,32 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Moina-Mathers.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Moina-Mathers.png",
+    "title": "Full-length portrait of Moina Mathers in a black ceremonial dress",
+    "category": "media",
+    "summary": "Moina Mathers, artist and occult adept of the Hermetic Order of the Golden Dawn.",
+    "tags": [
+      "npc",
+      "occultists",
+      "golden-dawn",
+      "portrait"
+    ],
+    "aliases": [
+      "Moina-Mathers.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Nadar.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -3370,6 +3448,58 @@
     ],
     "aliases": [
       "Odilon-Redon.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Oswald-Wirth.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Oswald-Wirth.png",
+    "title": "Portrait of Oswald Wirth with a dark beard and brown suit",
+    "category": "media",
+    "summary": "Oswald Wirth, Swiss occultist, Freemason, and interpreter of the Tarot.",
+    "tags": [
+      "npc",
+      "occultists",
+      "tarot",
+      "portrait"
+    ],
+    "aliases": [
+      "Oswald-Wirth.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Papus-Gerard-Encausse.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Papus-Gerard-Encausse.png",
+    "title": "Portrait of Papus (Gérard Encausse) with a dark beard and formal coat",
+    "category": "media",
+    "summary": "Papus (Gérard Encausse), physician, occult author, and organizer of the Martinist Order.",
+    "tags": [
+      "npc",
+      "occultists",
+      "martinist",
+      "portrait"
+    ],
+    "aliases": [
+      "Papus-Gerard-Encausse.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -3532,6 +3662,32 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Samuel-Liddell-MacGregor-Mathers.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Samuel-Liddell-MacGregor-Mathers.png",
+    "title": "Seated portrait of Samuel Liddell “MacGregor” Mathers in a brown suit",
+    "category": "media",
+    "summary": "Samuel Liddell “MacGregor” Mathers, ceremonial magician and co-founder of the Hermetic Order of the Golden Dawn.",
+    "tags": [
+      "npc",
+      "occultists",
+      "golden-dawn",
+      "portrait"
+    ],
+    "aliases": [
+      "Samuel-Liddell-MacGregor-Mathers.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Sarah-Bernhardt.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -3610,188 +3766,6 @@
     "excerpt": ""
   },
   {
-    "id": "11:media:wiki/media/Stephane-Mallarme.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Stephane-Mallarme.png",
-    "title": "Portrait of Stéphane Mallarmé writing at his desk beneath a red checked shawl",
-    "category": "media",
-    "summary": "Stéphane Mallarmé, Symbolist poet and host of an influential Tuesday salon.",
-    "tags": [
-      "npc",
-      "artists-and-bohemians",
-      "poet",
-      "portrait"
-    ],
-    "aliases": [
-      "Stephane-Mallarme.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Jules-Doinel.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Jules-Doinel.png",
-    "title": "Portrait of Jules Doinel with a curled mustache and graying beard",
-    "category": "media",
-    "summary": "Jules Doinel, archivist, visionary, and founder of a revived Gnostic church.",
-    "tags": [
-      "npc",
-      "occultists",
-      "gnostic",
-      "portrait"
-    ],
-    "aliases": [
-      "Jules-Doinel.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Leo-Taxil.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Leo-Taxil.png",
-    "title": "Portrait of Léo Taxil wearing pince-nez and a dark coat",
-    "category": "media",
-    "summary": "Léo Taxil, polemicist, hoaxer, and manufacturer of profitable occult scandal.",
-    "tags": [
-      "npc",
-      "occultists",
-      "hoaxer",
-      "portrait"
-    ],
-    "aliases": [
-      "Leo-Taxil.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Moina-Mathers.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Moina-Mathers.png",
-    "title": "Full-length portrait of Moina Mathers in a black ceremonial dress",
-    "category": "media",
-    "summary": "Moina Mathers, artist and occult adept of the Hermetic Order of the Golden Dawn.",
-    "tags": [
-      "npc",
-      "occultists",
-      "golden-dawn",
-      "portrait"
-    ],
-    "aliases": [
-      "Moina-Mathers.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Oswald-Wirth.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Oswald-Wirth.png",
-    "title": "Portrait of Oswald Wirth with a dark beard and brown suit",
-    "category": "media",
-    "summary": "Oswald Wirth, Swiss occultist, Freemason, and interpreter of the Tarot.",
-    "tags": [
-      "npc",
-      "occultists",
-      "tarot",
-      "portrait"
-    ],
-    "aliases": [
-      "Oswald-Wirth.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Papus-Gerard-Encausse.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Papus-Gerard-Encausse.png",
-    "title": "Portrait of Papus (Gérard Encausse) with a dark beard and formal coat",
-    "category": "media",
-    "summary": "Papus (Gérard Encausse), physician, occult author, and organizer of the Martinist Order.",
-    "tags": [
-      "npc",
-      "occultists",
-      "martinist",
-      "portrait"
-    ],
-    "aliases": [
-      "Papus-Gerard-Encausse.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
-    "id": "11:media:wiki/media/Samuel-Liddell-MacGregor-Mathers.png",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "media/Samuel-Liddell-MacGregor-Mathers.png",
-    "title": "Seated portrait of Samuel Liddell “MacGregor” Mathers in a brown suit",
-    "category": "media",
-    "summary": "Samuel Liddell “MacGregor” Mathers, ceremonial magician and co-founder of the Hermetic Order of the Golden Dawn.",
-    "tags": [
-      "npc",
-      "occultists",
-      "golden-dawn",
-      "portrait"
-    ],
-    "aliases": [
-      "Samuel-Liddell-MacGregor-Mathers.png"
-    ],
-    "visibility": "gm",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": ""
-  },
-  {
     "id": "11:media:wiki/media/Stanislas-de-Guaita.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -3807,6 +3781,32 @@
     ],
     "aliases": [
       "Stanislas-de-Guaita.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Stephane-Mallarme.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Stephane-Mallarme.png",
+    "title": "Portrait of Stéphane Mallarmé writing at his desk beneath a red checked shawl",
+    "category": "media",
+    "summary": "Stéphane Mallarmé, Symbolist poet and host of an influential Tuesday salon.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "poet",
+      "portrait"
+    ],
+    "aliases": [
+      "Stephane-Mallarme.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
