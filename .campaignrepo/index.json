@@ -1,7 +1,153 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T19:34:57.718Z",
+  "generatedAt": "2026-09-23T19:55:10.877Z",
   "pages": [
+    {
+      "id": "location-10th-Arrondissement",
+      "title": "10th Arrondissement",
+      "path": "wiki/pages/10th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Theatre-de-lAmbigu-Comique",
+        "location-Prison-Saint-Lazare",
+        "location-Hopital-Saint-Louis",
+        "location-Lariboisiere-Hospital"
+      ],
+      "aliases": [
+        "10th"
+      ],
+      "summary": "A working district of theaters, hospitals, stations, and radical memories, close enough to fashionable Paris to serve it and resent it.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Théâtre de l’Ambigu-Comique",
+        "Prison Saint-Lazare",
+        "Hôpital Saint-Louis",
+        "Lariboisière Hospital"
+      ]
+    },
+    {
+      "id": "location-11th-Arrondissement",
+      "title": "11th Arrondissement",
+      "path": "wiki/pages/11th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-La-Petite-Roquette",
+        "location-La-Grande-Roquette"
+      ],
+      "aliases": [
+        "11th"
+      ],
+      "summary": "A populous eastern district shaped by workshops, radical politics, prisons, and memories of the Commune.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "La Petite Roquette",
+        "La Grande Roquette"
+      ]
+    },
+    {
+      "id": "location-12th-Arrondissement",
+      "title": "12th Arrondissement",
+      "path": "wiki/pages/12th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Picpus-Cemetery",
+        "location-Mazas-Prison"
+      ],
+      "aliases": [
+        "12th"
+      ],
+      "summary": "An eastern district of prisons, hospitals, rail approaches, and quieter streets where the city stores what it would rather not display.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Picpus Cemetery",
+        "Mazas Prison"
+      ]
+    },
+    {
+      "id": "location-13th-Arrondissement",
+      "title": "13th Arrondissement",
+      "path": "wiki/pages/13th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Salpetriere"
+      ],
+      "aliases": [
+        "13th"
+      ],
+      "summary": "A southern district of hospitals, industry, and expanding neighborhoods beyond the old fashionable center.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Salpêtrière"
+      ]
+    },
+    {
+      "id": "location-14th-Arrondissement",
+      "title": "14th Arrondissement",
+      "path": "wiki/pages/14th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-La-Sante-Prison",
+        "location-Hopital-Cochin",
+        "location-Paris-Catacombs"
+      ],
+      "aliases": [
+        "14th"
+      ],
+      "summary": "Montparnasse before its artistic heyday: rail yards, hospitals, prisons, quarries, and the entrances to the Catacombs.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "La Santé Prison",
+        "Hôpital Cochin",
+        "Paris Catacombs"
+      ]
+    },
+    {
+      "id": "location-16th-Arrondissement",
+      "title": "16th Arrondissement",
+      "path": "wiki/pages/16th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-English-Chapel-of-Passy"
+      ],
+      "aliases": [
+        "16th"
+      ],
+      "summary": "Passy and the western bourgeois quarters, prosperous, residential, and useful to anyone who needs wealthy clients or discreet foreign visitors.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "English Chapel of Passy"
+      ]
+    },
     {
       "id": "location-17th-Arrondissement",
       "title": "17th Arrondissement",
@@ -10,14 +156,316 @@
       "tags": [
         "Location"
       ],
-      "links": [],
+      "links": [
+        "location-House-of-the-North-Star",
+        "location-Chez-le-P-re-Lathuile",
+        "location-Cafe-Guerbois"
+      ],
       "aliases": [
         "17"
       ],
-      "summary": "",
+      "summary": "A district of sharp contrasts where wealthy Monceau, lively Batignolles, artists, cafés, and respectable avenues meet.",
       "visibility": "gm",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [
+        "House of the North Star",
+        "Chez le Père Lathuile",
+        "Café Guerbois"
+      ]
+    },
+    {
+      "id": "location-18th-Arrondissement",
+      "title": "18th Arrondissement",
+      "path": "wiki/pages/18th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Cabaret-du-Neant",
+        "location-Cabaret-de-lEnfer",
+        "location-Le-Chat-Noir",
+        "location-Cafe-du-Tambourin",
+        "location-Lapin-Agile",
+        "location-Le-Mirliton",
+        "location-Moulin-Rouge",
+        "location-Sacre-C-ur"
+      ],
+      "aliases": [
+        "18th"
+      ],
+      "summary": "Montmartre and Pigalle: steep streets, cabarets, studios, anarchists, dancers, drinkers, and a basilica rising over old blood.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Cabaret du Néant",
+        "Cabaret de l’Enfer",
+        "Le Chat Noir",
+        "Café du Tambourin",
+        "Lapin Agile",
+        "Le Mirliton",
+        "Moulin Rouge",
+        "Sacré-Cœur"
+      ]
+    },
+    {
+      "id": "location-1st-Arrondissement",
+      "title": "1st Arrondissement",
+      "path": "wiki/pages/1st-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Church-of-St-Barnabe",
+        "location-Notre-Dame-de-Paris",
+        "location-Sainte-Chapelle",
+        "location-Imperial-National-Library",
+        "location-Musee-du-Louvre",
+        "location-Theatre-Lyrique",
+        "location-Palais-de-Justice",
+        "location-Surete-Headquarters",
+        "location-Paris-Morgue",
+        "location-Hotel-Dieu-de-Paris"
+      ],
+      "aliases": [
+        "1st"
+      ],
+      "summary": "The ceremonial and administrative center of Paris: palaces, courts, museums, churches, and institutions layered over older violence.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Church of St. Barnabé",
+        "Notre-Dame de Paris",
+        "Sainte-Chapelle",
+        "Imperial National Library",
+        "Musée du Louvre",
+        "Théâtre Lyrique",
+        "Palais de Justice",
+        "Sûreté Headquarters",
+        "Paris Morgue",
+        "Hôtel-Dieu de Paris"
+      ]
+    },
+    {
+      "id": "location-20th-Arrondissement",
+      "title": "20th Arrondissement",
+      "path": "wiki/pages/20th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Pere-Lachaise-Cemetery"
+      ],
+      "aliases": [
+        "20th"
+      ],
+      "summary": "A working eastern district dominated in the visitor’s imagination by Père-Lachaise and its city of the dead.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Père-Lachaise Cemetery"
+      ]
+    },
+    {
+      "id": "location-3rd-Arrondissement",
+      "title": "3rd Arrondissement",
+      "path": "wiki/pages/3rd-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Bibliotheque-Historique-de-la-Ville-de-Paris",
+        "location-Temple-Square"
+      ],
+      "aliases": [
+        "3rd"
+      ],
+      "summary": "A portion of the old Marais where medieval streets, archives, and the erased Temple fortress preserve stubborn traces of earlier Paris.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Bibliothèque Historique de la Ville de Paris",
+        "Temple Square"
+      ]
+    },
+    {
+      "id": "location-4th-Arrondissement",
+      "title": "4th Arrondissement",
+      "path": "wiki/pages/4th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Hotel-de-Ville",
+        "location-Mont-de-Piete",
+        "location-Tour-Saint-Jacques"
+      ],
+      "aliases": [
+        "4th"
+      ],
+      "summary": "The eastern half of the historic center, containing City Hall, old streets, and monuments built over revolutionary and Communard dead.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Hôtel de Ville",
+        "Mont-de-Piété",
+        "Tour Saint-Jacques"
+      ]
+    },
+    {
+      "id": "location-5th-Arrondissement",
+      "title": "5th Arrondissement",
+      "path": "wiki/pages/5th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Sorbonne-Library",
+        "location-Sainte-Genevieve-Library",
+        "location-Jardin-des-Plantes",
+        "location-Sainte-Pelagie-Prison",
+        "location-Val-de-Grace"
+      ],
+      "aliases": [
+        "5th"
+      ],
+      "summary": "The Latin Quarter’s scholarly core, crowded with students, libraries, hospitals, gardens, and institutions older than modern Paris.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Sorbonne Library",
+        "Sainte-Geneviève Library",
+        "Jardin des Plantes",
+        "Sainte-Pélagie Prison",
+        "Val-de-Grâce"
+      ]
+    },
+    {
+      "id": "location-6th-Arrondissement",
+      "title": "6th Arrondissement",
+      "path": "wiki/pages/6th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Le-Veau-Gras",
+        "location-Les-Deux-Magots",
+        "location-Saint-Sulpice",
+        "location-Ecole-des-Beaux-Arts",
+        "location-Bibliotheque-Mazarine",
+        "location-Luxembourg-Gallery",
+        "location-Hopital-de-la-Charite"
+      ],
+      "aliases": [
+        "6th"
+      ],
+      "summary": "The investigators’ Left Bank territory, joining the École des Beaux-Arts, bookshops, cafés, churches, and inexpensive student life.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Le Veau Gras",
+        "Les Deux Magots",
+        "Saint-Sulpice",
+        "École des Beaux-Arts",
+        "Bibliothèque Mazarine",
+        "Luxembourg Gallery",
+        "Hôpital de la Charité"
+      ]
+    },
+    {
+      "id": "location-7th-Arrondissement",
+      "title": "7th Arrondissement",
+      "path": "wiki/pages/7th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Le-Bon-Marche"
+      ],
+      "aliases": [
+        "7th"
+      ],
+      "summary": "The fading aristocratic Faubourg Saint-Germain, now sharing its avenues with embassies, ministries, shops, and discreet political work.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Le Bon Marché"
+      ]
+    },
+    {
+      "id": "location-8th-Arrondissement",
+      "title": "8th Arrondissement",
+      "path": "wiki/pages/8th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-La-Madeleine",
+        "location-Protestant-Churches-of-Paris"
+      ],
+      "aliases": [
+        "8th"
+      ],
+      "summary": "A district of prestige, grand hotels, churches, embassies, and polished boulevards where wealth expects privacy and deference.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "La Madeleine",
+        "Protestant Churches of Paris"
+      ]
+    },
+    {
+      "id": "location-9th-Arrondissement",
+      "title": "9th Arrondissement",
+      "path": "wiki/pages/9th-Arrondissement.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Folies-Bergere",
+        "location-Nouvelle-Athenes",
+        "location-Hotel-Drouot",
+        "location-Olympia-Music-Hall",
+        "location-Palais-Garnier",
+        "location-Librairie-de-lArt-Independant",
+        "location-Librairie-du-Merveilleux",
+        "location-Printemps"
+      ],
+      "aliases": [
+        "9th"
+      ],
+      "summary": "A dense crossroads of theaters, opera, auctions, department stores, cafés, publishers, and occult bookshops.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Folies Bergère",
+        "Nouvelle Athènes",
+        "Hôtel Drouot",
+        "Olympia Music Hall",
+        "Palais Garnier",
+        "Librairie de l’Art Indépendant",
+        "Librairie du Merveilleux",
+        "Printemps"
+      ]
     },
     {
       "id": "npc-Albert-de-Rochas",
@@ -230,6 +678,82 @@
       "parent": "Artists-and-Bohemians"
     },
     {
+      "id": "location-Basilica-of-Saint-Denis",
+      "title": "Basilica of Saint-Denis",
+      "path": "wiki/pages/Basilica-of-Saint-Denis.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-Paris-Outskirts"
+      ],
+      "aliases": [],
+      "summary": "The Gothic royal necropolis containing centuries of French monarchs.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Paris-Outskirts"
+    },
+    {
+      "id": "location-Bibliotheque-Historique-de-la-Ville-de-Paris",
+      "title": "Bibliothèque Historique de la Ville de Paris",
+      "path": "wiki/pages/Bibliotheque-Historique-de-la-Ville-de-Paris.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-3rd-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The city’s historical library, housed in the sixteenth-century Carnavalet building.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "3rd-Arrondissement"
+    },
+    {
+      "id": "location-Bibliotheque-Mazarine",
+      "title": "Bibliothèque Mazarine",
+      "path": "wiki/pages/Bibliotheque-Mazarine.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-6th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A learned library near the Louvre with strong scientific and scholarly holdings.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "6th-Arrondissement"
+    },
+    {
+      "id": "location-Bicetre-Hospital",
+      "title": "Bicêtre Hospital",
+      "path": "wiki/pages/Bicetre-Hospital.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-Paris-Outskirts"
+      ],
+      "aliases": [],
+      "summary": "A southern suburban institution suitable for long-term confinement and care.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Paris-Outskirts"
+    },
+    {
       "id": "character-Bruce-Carter-Mark",
       "title": "Bruce Carter (Mark)",
       "path": "wiki/pages/Bruce-Carter-Mark.md",
@@ -245,6 +769,82 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "location-Cabaret-de-lEnfer",
+      "title": "Cabaret de l’Enfer",
+      "path": "wiki/pages/Cabaret-de-lEnfer.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-18th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A hell-themed cabaret entered through the open mouth of a demon.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "18th-Arrondissement"
+    },
+    {
+      "id": "location-Cabaret-du-Neant",
+      "title": "Cabaret du Néant",
+      "path": "wiki/pages/Cabaret-du-Neant.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-18th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A Montmartre death-themed cabaret where patrons drink at coffin tables.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "18th-Arrondissement"
+    },
+    {
+      "id": "location-Cafe-Guerbois",
+      "title": "Café Guerbois",
+      "path": "wiki/pages/Cafe-Guerbois.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-17th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The Batignolles café where Manet and the early Impressionist circle once argued twice a week.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "17th-Arrondissement"
+    },
+    {
+      "id": "location-Cafe-du-Tambourin",
+      "title": "Café du Tambourin",
+      "path": "wiki/pages/Cafe-du-Tambourin.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-18th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A café near the Moulin Rouge once decorated by Vincent van Gogh.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "18th-Arrondissement"
     },
     {
       "id": "npc-Camille-Flammarion",
@@ -283,6 +883,25 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "location-Charenton-Asylum",
+      "title": "Charenton Asylum",
+      "path": "wiki/pages/Charenton-Asylum.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-Paris-Outskirts"
+      ],
+      "aliases": [],
+      "summary": "The reformed asylum once associated with the Marquis de Sade.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Paris-Outskirts"
     },
     {
       "id": "npc-Charles-Richet",
@@ -324,7 +943,7 @@
         "unresolved:claude-monet",
         "npc-Pierre-Auguste-Renoir",
         "npc-Emile-Zola",
-        "unresolved:caf-guerbois",
+        "location-Cafe-Guerbois",
         "unresolved:douard-manet",
         "unresolved:chez-le-p-re-lathuile-en-plein-air",
         "unresolved:louis-gauthier-lathuile",
@@ -351,6 +970,25 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "17th-Arrondissement"
+    },
+    {
+      "id": "location-Church-of-St-Barnabe",
+      "title": "Church of St. Barnabé",
+      "path": "wiki/pages/Church-of-St-Barnabe.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A fictional Rococo church on Rue Saint-Honoré renowned for unusually fine organists.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
     },
     {
       "id": "npc-Claude-Debussy",
@@ -393,6 +1031,44 @@
       "approvalStatus": "unapproved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
+    },
+    {
+      "id": "location-Depot-de-Mendicite",
+      "title": "Dépôt de Mendicité",
+      "path": "wiki/pages/Depot-de-Mendicite.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-Paris-Outskirts"
+      ],
+      "aliases": [],
+      "summary": "The vast Nanterre poorhouse, prison, hospital, and nursing home.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Paris-Outskirts"
+    },
+    {
+      "id": "location-Ecole-des-Beaux-Arts",
+      "title": "École des Beaux-Arts",
+      "path": "wiki/pages/Ecole-des-Beaux-Arts.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-6th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The investigators’ art school on Rue Bonaparte, loyal to Academic tradition.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "6th-Arrondissement"
     },
     {
       "id": "npc-Edgar-Degas",
@@ -522,6 +1198,25 @@
       "parent": "Artists-and-Bohemians"
     },
     {
+      "id": "location-English-Chapel-of-Passy",
+      "title": "English Chapel of Passy",
+      "path": "wiki/pages/English-Chapel-of-Passy.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-16th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "An Anglican chapel serving English-speaking residents of prosperous Passy.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "16th-Arrondissement"
+    },
+    {
       "id": "npc-Erik-Satie",
       "title": "Erik Satie",
       "path": "wiki/pages/Erik-Satie.md",
@@ -571,6 +1266,25 @@
         "House of the North Star"
       ],
       "parent": "House-Staff"
+    },
+    {
+      "id": "location-Folies-Bergere",
+      "title": "Folies Bergère",
+      "path": "wiki/pages/Folies-Bergere.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-9th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A fashionable cabaret known for elaborate revues and female stars.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "9th-Arrondissement"
     },
     {
       "id": "npc-Gail-Loveless",
@@ -695,6 +1409,120 @@
       "keyLinks": []
     },
     {
+      "id": "location-Hopital-Cochin",
+      "title": "Hôpital Cochin",
+      "path": "wiki/pages/Hopital-Cochin.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-14th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A hospital with sealed eighteenth-century tunnels beneath it.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "14th-Arrondissement"
+    },
+    {
+      "id": "location-Hopital-Saint-Louis",
+      "title": "Hôpital Saint-Louis",
+      "path": "wiki/pages/Hopital-Saint-Louis.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-10th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A comparatively young hospital dating to the early seventeenth century.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "10th-Arrondissement"
+    },
+    {
+      "id": "location-Hopital-de-la-Charite",
+      "title": "Hôpital de la Charité",
+      "path": "wiki/pages/Hopital-de-la-Charite.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-6th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A hospital for the poor that also houses the National Academy of Medicine.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "6th-Arrondissement"
+    },
+    {
+      "id": "location-Hotel-Dieu-de-Paris",
+      "title": "Hôtel-Dieu de Paris",
+      "path": "wiki/pages/Hotel-Dieu-de-Paris.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The ancient, overcrowded city hospital on the Île de la Cité.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
+    },
+    {
+      "id": "location-Hotel-Drouot",
+      "title": "Hôtel Drouot",
+      "path": "wiki/pages/Hotel-Drouot.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-9th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The fashionable auction house where art, jewelry, and antiquities change hands.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "9th-Arrondissement"
+    },
+    {
+      "id": "location-Hotel-de-Ville",
+      "title": "Hôtel de Ville",
+      "path": "wiki/pages/Hotel-de-Ville.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-4th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "Paris City Hall, rebuilt after burning during the suppression of the Commune.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "4th-Arrondissement"
+    },
+    {
       "id": "npc-House-Staff",
       "title": "House Staff",
       "path": "wiki/pages/House-Staff.md",
@@ -732,6 +1560,25 @@
         "House of the North Star"
       ],
       "parent": "17th-Arrondissement"
+    },
+    {
+      "id": "location-Imperial-National-Library",
+      "title": "Imperial National Library",
+      "path": "wiki/pages/Imperial-National-Library.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The Rue de Richelieu institution holding the world’s largest collection of books.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
     },
     {
       "id": "character-Jackson-Jay-Steerman-IV-David",
@@ -773,6 +1620,25 @@
       "approvalStatus": "unapproved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
+    },
+    {
+      "id": "location-Jardin-des-Plantes",
+      "title": "Jardin des Plantes",
+      "path": "wiki/pages/Jardin-des-Plantes.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-5th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A riverside botanical garden and zoological collection.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "5th-Arrondissement"
     },
     {
       "id": "npc-Jean-Delville",
@@ -928,6 +1794,120 @@
       "parent": "Artists-and-Bohemians"
     },
     {
+      "id": "location-La-Grande-Roquette",
+      "title": "La Grande Roquette",
+      "path": "wiki/pages/La-Grande-Roquette.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-11th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The prison holding condemned inmates before the guillotine.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "11th-Arrondissement"
+    },
+    {
+      "id": "location-La-Madeleine",
+      "title": "La Madeleine",
+      "path": "wiki/pages/La-Madeleine.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-8th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A church whose neoclassical exterior resembles a pagan temple.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "8th-Arrondissement"
+    },
+    {
+      "id": "location-La-Petite-Roquette",
+      "title": "La Petite Roquette",
+      "path": "wiki/pages/La-Petite-Roquette.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-11th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The Paris prison for juveniles.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "11th-Arrondissement"
+    },
+    {
+      "id": "location-La-Sante-Prison",
+      "title": "La Santé Prison",
+      "path": "wiki/pages/La-Sante-Prison.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-14th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A prison for short sentences, appeals, and solitary confinement.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "14th-Arrondissement"
+    },
+    {
+      "id": "location-Lapin-Agile",
+      "title": "Lapin Agile",
+      "path": "wiki/pages/Lapin-Agile.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-18th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A Montmartre cabaret shared by artists, pimps, criminals, and anarchists.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "18th-Arrondissement"
+    },
+    {
+      "id": "location-Lariboisiere-Hospital",
+      "title": "Lariboisière Hospital",
+      "path": "wiki/pages/Lariboisiere-Hospital.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-10th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A large hospital founded after a cholera epidemic.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "10th-Arrondissement"
+    },
+    {
       "id": "character-Laurie-Shelby",
       "title": "Laurie Shelby (Richard)",
       "path": "wiki/pages/Laurie-Shelby.md",
@@ -943,6 +1923,82 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "location-Le-Bon-Marche",
+      "title": "Le Bon Marché",
+      "path": "wiki/pages/Le-Bon-Marche.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-7th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A vast department store employing thousands and reaching customers through advertising and mail-order catalogues.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "7th-Arrondissement"
+    },
+    {
+      "id": "location-Le-Chat-Noir",
+      "title": "Le Chat Noir",
+      "path": "wiki/pages/Le-Chat-Noir.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-18th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "Rodolphe Salis’s celebrated Montmartre cabaret of music, poetry, comedy, and shadow theater.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "18th-Arrondissement"
+    },
+    {
+      "id": "location-Le-Mirliton",
+      "title": "Le Mirliton",
+      "path": "wiki/pages/Le-Mirliton.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-18th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "Aristide Bruant’s Montmartre cabaret, built around songs, insults, and class performance.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "18th-Arrondissement"
+    },
+    {
+      "id": "location-Le-Veau-Gras",
+      "title": "Le Veau Gras",
+      "path": "wiki/pages/Le-Veau-Gras.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-6th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A cheap student tavern at 17 Rue Bonaparte, close to the École des Beaux-Arts.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "6th-Arrondissement"
     },
     {
       "id": "npc-Leo-Taxil",
@@ -964,6 +2020,63 @@
       "approvalStatus": "unapproved",
       "keyLinks": [],
       "parent": "Occultists"
+    },
+    {
+      "id": "location-Les-Deux-Magots",
+      "title": "Les Deux Magots",
+      "path": "wiki/pages/Les-Deux-Magots.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-6th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A Saint-Germain-des-Prés café watched over by two carved Chinese mandarins.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "6th-Arrondissement"
+    },
+    {
+      "id": "location-Librairie-de-lArt-Independant",
+      "title": "Librairie de l’Art Indépendant",
+      "path": "wiki/pages/Librairie-de-lArt-Independant.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-9th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "Edmond Bailly’s bookshop linking Symbolist art and ritual occultism.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "9th-Arrondissement"
+    },
+    {
+      "id": "location-Librairie-du-Merveilleux",
+      "title": "Librairie du Merveilleux",
+      "path": "wiki/pages/Librairie-du-Merveilleux.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-9th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "Lucien Chamuel’s occult bookshop and alchemical supply house.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "9th-Arrondissement"
     },
     {
       "id": "npc-Loie-Fuller",
@@ -1029,6 +2142,25 @@
       "parent": "Police-and-Thieves"
     },
     {
+      "id": "location-Luxembourg-Gallery",
+      "title": "Luxembourg Gallery",
+      "path": "wiki/pages/Luxembourg-Gallery.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-6th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The museum devoted to living artists, housed in a former royal orangery.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "6th-Arrondissement"
+    },
+    {
       "id": "npc-Madame-Eugenie-Voclain-Head-Cook",
       "title": "Madame Eugénie Voclain, Head Cook",
       "path": "wiki/pages/Madame-Eugenie-Voclain-Head-Cook.md",
@@ -1055,6 +2187,25 @@
         "House of the North Star"
       ],
       "parent": "House-Staff"
+    },
+    {
+      "id": "location-Maison-Fournaise",
+      "title": "Maison Fournaise",
+      "path": "wiki/pages/Maison-Fournaise.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-Paris-Outskirts"
+      ],
+      "aliases": [],
+      "summary": "A bright riverside restaurant at Chatou, on an island in the Seine.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Paris-Outskirts"
     },
     {
       "id": "npc-Marcel-Proust",
@@ -1178,6 +2329,25 @@
       "parent": "Artists-and-Bohemians"
     },
     {
+      "id": "location-Mazas-Prison",
+      "title": "Mazas Prison",
+      "path": "wiki/pages/Mazas-Prison.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-12th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A brutal prison holding roughly twelve hundred inmates shortly before its closure.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "12th-Arrondissement"
+    },
+    {
       "id": "npc-Moina-Mathers",
       "title": "Moina Mathers",
       "path": "wiki/pages/Moina-Mathers.md",
@@ -1199,6 +2369,63 @@
       "parent": "Occultists"
     },
     {
+      "id": "location-Mont-de-Piete",
+      "title": "Mont-de-Piété",
+      "path": "wiki/pages/Mont-de-Piete.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-4th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The municipal pawnshop network and its central warehouse.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "4th-Arrondissement"
+    },
+    {
+      "id": "location-Moulin-Rouge",
+      "title": "Moulin Rouge",
+      "path": "wiki/pages/Moulin-Rouge.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-18th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The windmill-fronted pleasure palace where every social class gathers for spectacle and the can-can.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "18th-Arrondissement"
+    },
+    {
+      "id": "location-Musee-du-Louvre",
+      "title": "Musée du Louvre",
+      "path": "wiki/pages/Musee-du-Louvre.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The former palace and revolutionary museum at the geographic and symbolic center of Paris.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
+    },
+    {
       "id": "npc-Nadar",
       "title": "Nadar",
       "path": "wiki/pages/Nadar.md",
@@ -1218,6 +2445,44 @@
       "approvalStatus": "unapproved",
       "keyLinks": [],
       "parent": "Scientists-and-Inventors"
+    },
+    {
+      "id": "location-Notre-Dame-de-Paris",
+      "title": "Notre-Dame de Paris",
+      "path": "wiki/pages/Notre-Dame-de-Paris.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The great Gothic cathedral on the Île de la Cité, overlooking courts, police, and morgue.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
+    },
+    {
+      "id": "location-Nouvelle-Athenes",
+      "title": "Nouvelle Athènes",
+      "path": "wiki/pages/Nouvelle-Athenes.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-9th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A Pigalle café associated with Degas and the painters of modern Paris.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "9th-Arrondissement"
     },
     {
       "id": "npc-Occultists",
@@ -1274,6 +2539,25 @@
       "parent": "Artists-and-Bohemians"
     },
     {
+      "id": "location-Olympia-Music-Hall",
+      "title": "Olympia Music Hall",
+      "path": "wiki/pages/Olympia-Music-Hall.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-9th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A large performance hall run by the team behind the Moulin Rouge.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "9th-Arrondissement"
+    },
+    {
       "id": "npc-Oswald-Wirth",
       "title": "Oswald Wirth",
       "path": "wiki/pages/Oswald-Wirth.md",
@@ -1293,6 +2577,44 @@
       "approvalStatus": "unapproved",
       "keyLinks": [],
       "parent": "Occultists"
+    },
+    {
+      "id": "location-Palais-Garnier",
+      "title": "Palais Garnier",
+      "path": "wiki/pages/Palais-Garnier.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-9th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The jeweled opera house whose backstage spaces form a district of their own.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "9th-Arrondissement"
+    },
+    {
+      "id": "location-Palais-de-Justice",
+      "title": "Palais de Justice",
+      "path": "wiki/pages/Palais-de-Justice.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The great court complex on the Île de la Cité.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
     },
     {
       "id": "npc-Papus-Gerard-Encausse",
@@ -1316,6 +2638,76 @@
       "approvalStatus": "unapproved",
       "keyLinks": [],
       "parent": "Occultists"
+    },
+    {
+      "id": "location-Paris-Catacombs",
+      "title": "Paris Catacombs",
+      "path": "wiki/pages/Paris-Catacombs.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-14th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The regulated ossuary beneath Paris, assembled from displaced cemeteries and quarry tunnels.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "14th-Arrondissement"
+    },
+    {
+      "id": "location-Paris-Morgue",
+      "title": "Paris Morgue",
+      "path": "wiki/pages/Paris-Morgue.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The public morgue near Notre-Dame where unidentified bodies are displayed.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
+    },
+    {
+      "id": "location-Paris-Outskirts",
+      "title": "Paris Outskirts",
+      "path": "wiki/pages/Paris-Outskirts.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "arrondissement"
+      ],
+      "links": [
+        "location-Maison-Fournaise",
+        "location-Basilica-of-Saint-Denis",
+        "location-Saint-Ouen-Cemetery",
+        "location-Depot-de-Mendicite",
+        "location-Charenton-Asylum",
+        "location-Bicetre-Hospital"
+      ],
+      "aliases": [
+        "Paris Outskirts"
+      ],
+      "summary": "Suburbs, riverside retreats, institutions, and burial grounds beyond the walls, reached through customs gates and the octroi.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [
+        "Maison Fournaise",
+        "Basilica of Saint-Denis",
+        "Saint-Ouen Cemetery",
+        "Dépôt de Mendicité",
+        "Charenton Asylum",
+        "Bicêtre Hospital"
+      ]
     },
     {
       "id": "npc-Paul-Cezanne",
@@ -1378,6 +2770,44 @@
       "parent": "Artists-and-Bohemians"
     },
     {
+      "id": "location-Pere-Lachaise-Cemetery",
+      "title": "Père-Lachaise Cemetery",
+      "path": "wiki/pages/Pere-Lachaise-Cemetery.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-20th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "Paris’s largest and most picturesque cemetery, a hilltop city of tombs and famous dead.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "20th-Arrondissement"
+    },
+    {
+      "id": "location-Picpus-Cemetery",
+      "title": "Picpus Cemetery",
+      "path": "wiki/pages/Picpus-Cemetery.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-12th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "Paris’s only private cemetery, founded around a mass grave of Revolutionary victims.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "12th-Arrondissement"
+    },
+    {
       "id": "npc-Pierre-Auguste-Renoir",
       "title": "Pierre-Auguste Renoir",
       "path": "wiki/pages/Pierre-Auguste-Renoir.md",
@@ -1427,6 +2857,63 @@
       "keyLinks": []
     },
     {
+      "id": "location-Printemps",
+      "title": "Printemps",
+      "path": "wiki/pages/Printemps.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-9th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A modern department store whose flagship popularizes Art Nouveau design.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "9th-Arrondissement"
+    },
+    {
+      "id": "location-Prison-Saint-Lazare",
+      "title": "Prison Saint-Lazare",
+      "path": "wiki/pages/Prison-Saint-Lazare.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-10th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A notorious women’s prison, remand center, hospital, police station, and prison bakery.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "10th-Arrondissement"
+    },
+    {
+      "id": "location-Protestant-Churches-of-Paris",
+      "title": "Protestant Churches of Paris",
+      "path": "wiki/pages/Protestant-Churches-of-Paris.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-8th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A network of Anglican, Episcopal, Wesleyan, Congregationalist, and Baptist congregations serving foreign residents.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "8th-Arrondissement"
+    },
+    {
       "id": "npc-Pyotr-Rachkovsky",
       "title": "Pyotr Rachkovsky",
       "path": "wiki/pages/Pyotr-Rachkovsky.md",
@@ -1446,6 +2933,139 @@
       "approvalStatus": "unapproved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
+    },
+    {
+      "id": "location-Sacre-C-ur",
+      "title": "Sacré-Cœur",
+      "path": "wiki/pages/Sacre-C-ur.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-18th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The unfinished basilica rising over Montmartre as a rebuke to the Commune.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "18th-Arrondissement"
+    },
+    {
+      "id": "location-Saint-Ouen-Cemetery",
+      "title": "Saint-Ouen Cemetery",
+      "path": "wiki/pages/Saint-Ouen-Cemetery.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-Paris-Outskirts"
+      ],
+      "aliases": [],
+      "summary": "A small cemetery near Montmartre used for criminals and the otherwise unwanted dead.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Paris-Outskirts"
+    },
+    {
+      "id": "location-Saint-Sulpice",
+      "title": "Saint-Sulpice",
+      "path": "wiki/pages/Saint-Sulpice.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-6th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "Paris’s second-largest church and home to one of the era’s great organs.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "6th-Arrondissement"
+    },
+    {
+      "id": "location-Sainte-Chapelle",
+      "title": "Sainte-Chapelle",
+      "path": "wiki/pages/Sainte-Chapelle.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The restored royal chapel famed for soaring vaults and walls of stained glass.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
+    },
+    {
+      "id": "location-Sainte-Genevieve-Library",
+      "title": "Sainte-Geneviève Library",
+      "path": "wiki/pages/Sainte-Genevieve-Library.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-5th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A scholarly library celebrated for its modern iron-and-glass reading room.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "5th-Arrondissement"
+    },
+    {
+      "id": "location-Sainte-Pelagie-Prison",
+      "title": "Sainte-Pélagie Prison",
+      "path": "wiki/pages/Sainte-Pelagie-Prison.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-5th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A small but prestigious prison for writers, artists, and political offenders.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "5th-Arrondissement"
+    },
+    {
+      "id": "location-Salpetriere",
+      "title": "Salpêtrière",
+      "path": "wiki/pages/Salpetriere.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-13th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A hospital for women, girls, young boys, and elderly men with a complicated neurological legacy.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "13th-Arrondissement"
     },
     {
       "id": "npc-Samuel-Liddell-MacGregor-Mathers",
@@ -1561,6 +3181,25 @@
       "parent": "House-Staff"
     },
     {
+      "id": "location-Sorbonne-Library",
+      "title": "Sorbonne Library",
+      "path": "wiki/pages/Sorbonne-Library.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-5th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The University of Paris library in the Latin Quarter.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "5th-Arrondissement"
+    },
+    {
       "id": "npc-Stanislas-de-Guaita",
       "title": "Stanislas de Guaita",
       "path": "wiki/pages/Stanislas-de-Guaita.md",
@@ -1600,6 +3239,120 @@
       "approvalStatus": "unapproved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
+    },
+    {
+      "id": "location-Surete-Headquarters",
+      "title": "Sûreté Headquarters",
+      "path": "wiki/pages/Surete-Headquarters.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The criminal-investigation headquarters at 36 Quai des Orfèvres.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
+    },
+    {
+      "id": "location-Temple-Square",
+      "title": "Temple Square",
+      "path": "wiki/pages/Temple-Square.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-3rd-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A botanical square occupying the demolished site of the Knights Templar fortress.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "3rd-Arrondissement"
+    },
+    {
+      "id": "location-Theatre-Lyrique",
+      "title": "Théâtre Lyrique",
+      "path": "wiki/pages/Theatre-Lyrique.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-1st-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The Place du Châtelet theater currently occupied by the Opéra-Comique.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "1st-Arrondissement"
+    },
+    {
+      "id": "location-Theatre-de-lAmbigu-Comique",
+      "title": "Théâtre de l’Ambigu-Comique",
+      "path": "wiki/pages/Theatre-de-lAmbigu-Comique.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-10th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A two-thousand-seat theater specializing in melodrama, spectacle, and reenacted crimes.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "10th-Arrondissement"
+    },
+    {
+      "id": "location-Tour-Saint-Jacques",
+      "title": "Tour Saint-Jacques",
+      "path": "wiki/pages/Tour-Saint-Jacques.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-4th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "The Gothic tower left behind when Saint-Jacques-de-la-Boucherie was demolished.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "4th-Arrondissement"
+    },
+    {
+      "id": "location-Val-de-Grace",
+      "title": "Val-de-Grâce",
+      "path": "wiki/pages/Val-de-Grace.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "key-location"
+      ],
+      "links": [
+        "location-5th-Arrondissement"
+      ],
+      "aliases": [],
+      "summary": "A serene Baroque military hospital.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "5th-Arrondissement"
     }
   ]
 }

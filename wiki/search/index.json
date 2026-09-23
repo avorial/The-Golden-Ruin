@@ -1,12 +1,213 @@
 [
   {
+    "id": "11:10th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "10th-Arrondissement",
+    "title": "10th Arrondissement",
+    "category": "location",
+    "summary": "A working district of theaters, hospitals, stations, and radical memories, close enough to fashionable Paris to serve it and resent it.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "10th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Théâtre de l’Ambigu-Comique",
+      "Prison Saint-Lazare",
+      "Hôpital Saint-Louis",
+      "Lariboisière Hospital"
+    ],
+    "backlinks": [
+      "Hopital-Saint-Louis",
+      "Lariboisiere-Hospital",
+      "Prison-Saint-Lazare",
+      "Theatre-de-lAmbigu-Comique"
+    ],
+    "keyLinks": [
+      "Théâtre de l’Ambigu-Comique",
+      "Prison Saint-Lazare",
+      "Hôpital Saint-Louis",
+      "Lariboisière Hospital"
+    ],
+    "excerpt": "# 10th Arrondissement ## Public Face A working district of theaters, hospitals, stations, and radical memories, close enough to fashionable Paris to serve it and resent it. ## Key Locations - [[Théâtre de l’Ambigu-Comique]] - [[Prison Saint-Lazare]] - [[Hôpital Saint-Louis]] - [[Lariboisière Hospita"
+  },
+  {
+    "id": "11:11th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "11th-Arrondissement",
+    "title": "11th Arrondissement",
+    "category": "location",
+    "summary": "A populous eastern district shaped by workshops, radical politics, prisons, and memories of the Commune.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "11th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "La Petite Roquette",
+      "La Grande Roquette"
+    ],
+    "backlinks": [
+      "La-Grande-Roquette",
+      "La-Petite-Roquette"
+    ],
+    "keyLinks": [
+      "La Petite Roquette",
+      "La Grande Roquette"
+    ],
+    "excerpt": "# 11th Arrondissement ## Public Face A populous eastern district shaped by workshops, radical politics, prisons, and memories of the Commune. ## Key Locations - [[La Petite Roquette]] - [[La Grande Roquette]] ## Table Use Use this page as the section for sites in the district. Add new venue pages wi"
+  },
+  {
+    "id": "11:12th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "12th-Arrondissement",
+    "title": "12th Arrondissement",
+    "category": "location",
+    "summary": "An eastern district of prisons, hospitals, rail approaches, and quieter streets where the city stores what it would rather not display.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "12th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Picpus Cemetery",
+      "Mazas Prison"
+    ],
+    "backlinks": [
+      "Mazas-Prison",
+      "Picpus-Cemetery"
+    ],
+    "keyLinks": [
+      "Picpus Cemetery",
+      "Mazas Prison"
+    ],
+    "excerpt": "# 12th Arrondissement ## Public Face An eastern district of prisons, hospitals, rail approaches, and quieter streets where the city stores what it would rather not display. ## Key Locations - [[Picpus Cemetery]] - [[Mazas Prison]] ## Table Use Use this page as the section for sites in the district. "
+  },
+  {
+    "id": "11:13th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "13th-Arrondissement",
+    "title": "13th Arrondissement",
+    "category": "location",
+    "summary": "A southern district of hospitals, industry, and expanding neighborhoods beyond the old fashionable center.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "13th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Salpêtrière"
+    ],
+    "backlinks": [
+      "Salpetriere"
+    ],
+    "keyLinks": [
+      "Salpêtrière"
+    ],
+    "excerpt": "# 13th Arrondissement ## Public Face A southern district of hospitals, industry, and expanding neighborhoods beyond the old fashionable center. ## Key Locations - [[Salpêtrière]] ## Table Use Use this page as the section for sites in the district. Add new venue pages with `parent: 13th-Arrondissemen"
+  },
+  {
+    "id": "11:14th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "14th-Arrondissement",
+    "title": "14th Arrondissement",
+    "category": "location",
+    "summary": "Montparnasse before its artistic heyday: rail yards, hospitals, prisons, quarries, and the entrances to the Catacombs.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "14th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "La Santé Prison",
+      "Hôpital Cochin",
+      "Paris Catacombs"
+    ],
+    "backlinks": [
+      "Hopital-Cochin",
+      "La-Sante-Prison",
+      "Paris-Catacombs"
+    ],
+    "keyLinks": [
+      "La Santé Prison",
+      "Hôpital Cochin",
+      "Paris Catacombs"
+    ],
+    "excerpt": "# 14th Arrondissement ## Public Face Montparnasse before its artistic heyday: rail yards, hospitals, prisons, quarries, and the entrances to the Catacombs. ## Key Locations - [[La Santé Prison]] - [[Hôpital Cochin]] - [[Paris Catacombs]] ## Table Use Use this page as the section for sites in the dis"
+  },
+  {
+    "id": "11:16th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "16th-Arrondissement",
+    "title": "16th Arrondissement",
+    "category": "location",
+    "summary": "Passy and the western bourgeois quarters, prosperous, residential, and useful to anyone who needs wealthy clients or discreet foreign visitors.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "16th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "English Chapel of Passy"
+    ],
+    "backlinks": [
+      "English-Chapel-of-Passy"
+    ],
+    "keyLinks": [
+      "English Chapel of Passy"
+    ],
+    "excerpt": "# 16th Arrondissement ## Public Face Passy and the western bourgeois quarters, prosperous, residential, and useful to anyone who needs wealthy clients or discreet foreign visitors. ## Key Locations - [[English Chapel of Passy]] ## Table Use Use this page as the section for sites in the district. Add"
+  },
+  {
     "id": "11:17th-Arrondissement",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
     "slug": "17th-Arrondissement",
     "title": "17th Arrondissement",
     "category": "location",
-    "summary": "",
+    "summary": "A district of sharp contrasts where wealthy Monceau, lively Batignolles, artists, cafés, and respectable avenues meet.",
     "tags": [
       "Location"
     ],
@@ -17,13 +218,433 @@
     "approvalStatus": "approved",
     "text": "",
     "playerText": "",
-    "links": [],
+    "links": [
+      "House of the North Star",
+      "Chez le Père Lathuile",
+      "Café Guerbois"
+    ],
     "backlinks": [
+      "Cafe-Guerbois",
       "Chez-le-P-re-Lathuile",
       "House-of-the-North-Star"
     ],
-    "keyLinks": [],
+    "keyLinks": [
+      "House of the North Star",
+      "Chez le Père Lathuile",
+      "Café Guerbois"
+    ],
     "excerpt": "# 17th Arrondissement ## Public Face In the 1890s, Paris’s 17th arrondissement was a district of sharp contrasts. Around Plaine-de-Monceaux, Ternes, and Avenue de Wagram, broad avenues, new apartment houses, private mansions, fashionable restaurants, and respectable bourgeois households gave the are"
+  },
+  {
+    "id": "11:18th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "18th-Arrondissement",
+    "title": "18th Arrondissement",
+    "category": "location",
+    "summary": "Montmartre and Pigalle: steep streets, cabarets, studios, anarchists, dancers, drinkers, and a basilica rising over old blood.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "18th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Cabaret du Néant",
+      "Cabaret de l’Enfer",
+      "Le Chat Noir",
+      "Café du Tambourin",
+      "Lapin Agile",
+      "Le Mirliton",
+      "Moulin Rouge",
+      "Sacré-Cœur"
+    ],
+    "backlinks": [
+      "Cabaret-de-lEnfer",
+      "Cabaret-du-Neant",
+      "Cafe-du-Tambourin",
+      "Lapin-Agile",
+      "Le-Chat-Noir",
+      "Le-Mirliton",
+      "Moulin-Rouge",
+      "Sacre-C-ur"
+    ],
+    "keyLinks": [
+      "Cabaret du Néant",
+      "Cabaret de l’Enfer",
+      "Le Chat Noir",
+      "Café du Tambourin",
+      "Lapin Agile",
+      "Le Mirliton",
+      "Moulin Rouge",
+      "Sacré-Cœur"
+    ],
+    "excerpt": "# 18th Arrondissement ## Public Face Montmartre and Pigalle: steep streets, cabarets, studios, anarchists, dancers, drinkers, and a basilica rising over old blood. ## Key Locations - [[Cabaret du Néant]] - [[Cabaret de l’Enfer]] - [[Le Chat Noir]] - [[Café du Tambourin]] - [[Lapin Agile]] - [[Le Mir"
+  },
+  {
+    "id": "11:1st-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "1st-Arrondissement",
+    "title": "1st Arrondissement",
+    "category": "location",
+    "summary": "The ceremonial and administrative center of Paris: palaces, courts, museums, churches, and institutions layered over older violence.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "1st"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Church of St. Barnabé",
+      "Notre-Dame de Paris",
+      "Sainte-Chapelle",
+      "Imperial National Library",
+      "Musée du Louvre",
+      "Théâtre Lyrique",
+      "Palais de Justice",
+      "Sûreté Headquarters",
+      "Paris Morgue",
+      "Hôtel-Dieu de Paris"
+    ],
+    "backlinks": [
+      "Church-of-St-Barnabe",
+      "Hotel-Dieu-de-Paris",
+      "Imperial-National-Library",
+      "Musee-du-Louvre",
+      "Notre-Dame-de-Paris",
+      "Palais-de-Justice",
+      "Paris-Morgue",
+      "Sainte-Chapelle",
+      "Surete-Headquarters",
+      "Theatre-Lyrique"
+    ],
+    "keyLinks": [
+      "Church of St. Barnabé",
+      "Notre-Dame de Paris",
+      "Sainte-Chapelle",
+      "Imperial National Library",
+      "Musée du Louvre",
+      "Théâtre Lyrique",
+      "Palais de Justice",
+      "Sûreté Headquarters",
+      "Paris Morgue",
+      "Hôtel-Dieu de Paris"
+    ],
+    "excerpt": "# 1st Arrondissement ## Public Face The ceremonial and administrative center of Paris: palaces, courts, museums, churches, and institutions layered over older violence. ## Key Locations - [[Church of St. Barnabé]] - [[Notre-Dame de Paris]] - [[Sainte-Chapelle]] - [[Imperial National Library]] - [[Mu"
+  },
+  {
+    "id": "11:20th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "20th-Arrondissement",
+    "title": "20th Arrondissement",
+    "category": "location",
+    "summary": "A working eastern district dominated in the visitor’s imagination by Père-Lachaise and its city of the dead.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "20th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Père-Lachaise Cemetery"
+    ],
+    "backlinks": [
+      "Pere-Lachaise-Cemetery"
+    ],
+    "keyLinks": [
+      "Père-Lachaise Cemetery"
+    ],
+    "excerpt": "# 20th Arrondissement ## Public Face A working eastern district dominated in the visitor’s imagination by Père-Lachaise and its city of the dead. ## Key Locations - [[Père-Lachaise Cemetery]] ## Table Use Use this page as the section for sites in the district. Add new venue pages with `parent: 20th-"
+  },
+  {
+    "id": "11:3rd-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "3rd-Arrondissement",
+    "title": "3rd Arrondissement",
+    "category": "location",
+    "summary": "A portion of the old Marais where medieval streets, archives, and the erased Temple fortress preserve stubborn traces of earlier Paris.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "3rd"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Bibliothèque Historique de la Ville de Paris",
+      "Temple Square"
+    ],
+    "backlinks": [
+      "Bibliotheque-Historique-de-la-Ville-de-Paris",
+      "Temple-Square"
+    ],
+    "keyLinks": [
+      "Bibliothèque Historique de la Ville de Paris",
+      "Temple Square"
+    ],
+    "excerpt": "# 3rd Arrondissement ## Public Face A portion of the old Marais where medieval streets, archives, and the erased Temple fortress preserve stubborn traces of earlier Paris. ## Key Locations - [[Bibliothèque Historique de la Ville de Paris]] - [[Temple Square]] ## Table Use Use this page as the sectio"
+  },
+  {
+    "id": "11:4th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "4th-Arrondissement",
+    "title": "4th Arrondissement",
+    "category": "location",
+    "summary": "The eastern half of the historic center, containing City Hall, old streets, and monuments built over revolutionary and Communard dead.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "4th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Hôtel de Ville",
+      "Mont-de-Piété",
+      "Tour Saint-Jacques"
+    ],
+    "backlinks": [
+      "Hotel-de-Ville",
+      "Mont-de-Piete",
+      "Tour-Saint-Jacques"
+    ],
+    "keyLinks": [
+      "Hôtel de Ville",
+      "Mont-de-Piété",
+      "Tour Saint-Jacques"
+    ],
+    "excerpt": "# 4th Arrondissement ## Public Face The eastern half of the historic center, containing City Hall, old streets, and monuments built over revolutionary and Communard dead. ## Key Locations - [[Hôtel de Ville]] - [[Mont-de-Piété]] - [[Tour Saint-Jacques]] ## Table Use Use this page as the section for "
+  },
+  {
+    "id": "11:5th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "5th-Arrondissement",
+    "title": "5th Arrondissement",
+    "category": "location",
+    "summary": "The Latin Quarter’s scholarly core, crowded with students, libraries, hospitals, gardens, and institutions older than modern Paris.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "5th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Sorbonne Library",
+      "Sainte-Geneviève Library",
+      "Jardin des Plantes",
+      "Sainte-Pélagie Prison",
+      "Val-de-Grâce"
+    ],
+    "backlinks": [
+      "Jardin-des-Plantes",
+      "Sainte-Genevieve-Library",
+      "Sainte-Pelagie-Prison",
+      "Sorbonne-Library",
+      "Val-de-Grace"
+    ],
+    "keyLinks": [
+      "Sorbonne Library",
+      "Sainte-Geneviève Library",
+      "Jardin des Plantes",
+      "Sainte-Pélagie Prison",
+      "Val-de-Grâce"
+    ],
+    "excerpt": "# 5th Arrondissement ## Public Face The Latin Quarter’s scholarly core, crowded with students, libraries, hospitals, gardens, and institutions older than modern Paris. ## Key Locations - [[Sorbonne Library]] - [[Sainte-Geneviève Library]] - [[Jardin des Plantes]] - [[Sainte-Pélagie Prison]] - [[Val-"
+  },
+  {
+    "id": "11:6th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "6th-Arrondissement",
+    "title": "6th Arrondissement",
+    "category": "location",
+    "summary": "The investigators’ Left Bank territory, joining the École des Beaux-Arts, bookshops, cafés, churches, and inexpensive student life.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "6th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Le Veau Gras",
+      "Les Deux Magots",
+      "Saint-Sulpice",
+      "École des Beaux-Arts",
+      "Bibliothèque Mazarine",
+      "Luxembourg Gallery",
+      "Hôpital de la Charité"
+    ],
+    "backlinks": [
+      "Bibliotheque-Mazarine",
+      "Ecole-des-Beaux-Arts",
+      "Hopital-de-la-Charite",
+      "Le-Veau-Gras",
+      "Les-Deux-Magots",
+      "Luxembourg-Gallery",
+      "Saint-Sulpice"
+    ],
+    "keyLinks": [
+      "Le Veau Gras",
+      "Les Deux Magots",
+      "Saint-Sulpice",
+      "École des Beaux-Arts",
+      "Bibliothèque Mazarine",
+      "Luxembourg Gallery",
+      "Hôpital de la Charité"
+    ],
+    "excerpt": "# 6th Arrondissement ## Public Face The investigators’ Left Bank territory, joining the École des Beaux-Arts, bookshops, cafés, churches, and inexpensive student life. ## Key Locations - [[Le Veau Gras]] - [[Les Deux Magots]] - [[Saint-Sulpice]] - [[École des Beaux-Arts]] - [[Bibliothèque Mazarine]]"
+  },
+  {
+    "id": "11:7th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "7th-Arrondissement",
+    "title": "7th Arrondissement",
+    "category": "location",
+    "summary": "The fading aristocratic Faubourg Saint-Germain, now sharing its avenues with embassies, ministries, shops, and discreet political work.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "7th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Le Bon Marché"
+    ],
+    "backlinks": [
+      "Le-Bon-Marche"
+    ],
+    "keyLinks": [
+      "Le Bon Marché"
+    ],
+    "excerpt": "# 7th Arrondissement ## Public Face The fading aristocratic Faubourg Saint-Germain, now sharing its avenues with embassies, ministries, shops, and discreet political work. ## Key Locations - [[Le Bon Marché]] ## Table Use Use this page as the section for sites in the district. Add new venue pages wi"
+  },
+  {
+    "id": "11:8th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "8th-Arrondissement",
+    "title": "8th Arrondissement",
+    "category": "location",
+    "summary": "A district of prestige, grand hotels, churches, embassies, and polished boulevards where wealth expects privacy and deference.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "8th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "La Madeleine",
+      "Protestant Churches of Paris"
+    ],
+    "backlinks": [
+      "La-Madeleine",
+      "Protestant-Churches-of-Paris"
+    ],
+    "keyLinks": [
+      "La Madeleine",
+      "Protestant Churches of Paris"
+    ],
+    "excerpt": "# 8th Arrondissement ## Public Face A district of prestige, grand hotels, churches, embassies, and polished boulevards where wealth expects privacy and deference. ## Key Locations - [[La Madeleine]] - [[Protestant Churches of Paris]] ## Table Use Use this page as the section for sites in the distric"
+  },
+  {
+    "id": "11:9th-Arrondissement",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "9th-Arrondissement",
+    "title": "9th Arrondissement",
+    "category": "location",
+    "summary": "A dense crossroads of theaters, opera, auctions, department stores, cafés, publishers, and occult bookshops.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "9th"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Folies Bergère",
+      "Nouvelle Athènes",
+      "Hôtel Drouot",
+      "Olympia Music Hall",
+      "Palais Garnier",
+      "Librairie de l’Art Indépendant",
+      "Librairie du Merveilleux",
+      "Printemps"
+    ],
+    "backlinks": [
+      "Folies-Bergere",
+      "Hotel-Drouot",
+      "Librairie-de-lArt-Independant",
+      "Librairie-du-Merveilleux",
+      "Nouvelle-Athenes",
+      "Olympia-Music-Hall",
+      "Palais-Garnier",
+      "Printemps"
+    ],
+    "keyLinks": [
+      "Folies Bergère",
+      "Nouvelle Athènes",
+      "Hôtel Drouot",
+      "Olympia Music Hall",
+      "Palais Garnier",
+      "Librairie de l’Art Indépendant",
+      "Librairie du Merveilleux",
+      "Printemps"
+    ],
+    "excerpt": "# 9th Arrondissement ## Public Face A dense crossroads of theaters, opera, auctions, department stores, cafés, publishers, and occult bookshops. ## Key Locations - [[Folies Bergère]] - [[Nouvelle Athènes]] - [[Hôtel Drouot]] - [[Olympia Music Hall]] - [[Palais Garnier]] - [[Librairie de l’Art Indépe"
   },
   {
     "id": "11:Albert-de-Rochas",
@@ -306,6 +927,114 @@
     "excerpt": "# Auguste Rodin <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Rodin has the force of a quarrel carved into a man. He is physical, emotional, proud, and quick to anger when questions brush old accusations or suggest he cannot tell flesh from"
   },
   {
+    "id": "11:Basilica-of-Saint-Denis",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Basilica-of-Saint-Denis",
+    "title": "Basilica of Saint-Denis",
+    "category": "location",
+    "summary": "The Gothic royal necropolis containing centuries of French monarchs.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Paris Outskirts"
+    ],
+    "backlinks": [
+      "Paris-Outskirts"
+    ],
+    "keyLinks": [],
+    "parent": "Paris-Outskirts",
+    "excerpt": "# Basilica of Saint-Denis ## Overview The basilica’s burials reach back to Roman times and include nearly every French king from the tenth through eighteenth centuries. Its present core helped establish Gothic architecture. ## Investigation Use A royal tomb contains the wrong bones, or a monarch’s r"
+  },
+  {
+    "id": "11:Bibliotheque-Historique-de-la-Ville-de-Paris",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Bibliotheque-Historique-de-la-Ville-de-Paris",
+    "title": "Bibliothèque Historique de la Ville de Paris",
+    "category": "location",
+    "summary": "The city’s historical library, housed in the sixteenth-century Carnavalet building.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "3rd Arrondissement"
+    ],
+    "backlinks": [
+      "3rd-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "3rd-Arrondissement",
+    "excerpt": "# Bibliothèque Historique de la Ville de Paris ## Overview Its collections are the best starting point for research into Paris streets, buildings, institutions, and municipal history. ## Investigation Use A map or municipal record shows a street, room, or burial site erased from the modern city. ## "
+  },
+  {
+    "id": "11:Bibliotheque-Mazarine",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Bibliotheque-Mazarine",
+    "title": "Bibliothèque Mazarine",
+    "category": "location",
+    "summary": "A learned library near the Louvre with strong scientific and scholarly holdings.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "6th Arrondissement"
+    ],
+    "backlinks": [
+      "6th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "6th-Arrondissement",
+    "excerpt": "# Bibliothèque Mazarine ## Overview Founded by Cardinal Mazarin, the institution expanded during the Revolution instead of being diminished by it. ## Investigation Use Its revolutionary acquisitions include a document whose provenance someone is killing to conceal. ## Connections - [[6th Arrondissem"
+  },
+  {
+    "id": "11:Bicetre-Hospital",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Bicetre-Hospital",
+    "title": "Bicêtre Hospital",
+    "category": "location",
+    "summary": "A southern suburban institution suitable for long-term confinement and care.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Paris Outskirts"
+    ],
+    "backlinks": [
+      "Paris-Outskirts"
+    ],
+    "keyLinks": [],
+    "parent": "Paris-Outskirts",
+    "excerpt": "# Bicêtre Hospital ## Overview The hospital offers another destination for those whose minds have been permanently damaged by an investigation. ## Investigation Use A supposedly retired investigator continues sending accurate warnings from a locked ward. ## Connections - [[Paris Outskirts]] ## Sourc"
+  },
+  {
     "id": "11:Bruce-Carter-Mark",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -327,6 +1056,115 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Bruce Carter ## History --- Character Picture ```yellow-king-paris-sheet name: Bruce Carter player: Mark field: Architect - Tinkerer drive: Rationalism pushes: 2 investigative: - Architecture - Art History - Officialdom - Technology general: Athletics: 3 Composure: 7 Fighting: 6 First Aid: 0 Healt"
+  },
+  {
+    "id": "11:Cabaret-de-lEnfer",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Cabaret-de-lEnfer",
+    "title": "Cabaret de l’Enfer",
+    "category": "location",
+    "summary": "A hell-themed cabaret entered through the open mouth of a demon.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "18th Arrondissement"
+    ],
+    "backlinks": [
+      "18th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "18th-Arrondissement",
+    "excerpt": "# Cabaret de l’Enfer ## Overview A few doors from the Cabaret du Néant, this venue seats revelers around a cauldron while a devil-costumed band plays and impish servers carry drinks. ## Investigation Use A genuine entity can hide among the performers, relying on every witness to dismiss it as part o"
+  },
+  {
+    "id": "11:Cabaret-du-Neant",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Cabaret-du-Neant",
+    "title": "Cabaret du Néant",
+    "category": "location",
+    "summary": "A Montmartre death-themed cabaret where patrons drink at coffin tables.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "18th Arrondissement"
+    ],
+    "backlinks": [
+      "18th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "18th-Arrondissement",
+    "excerpt": "# Cabaret du Néant ## Overview Servers dressed as monks and morticians welcome guests to the Salle de l’Intoxication. Disease-named cocktails arrive in skull cups amid skeletons, gargoyles, and guillotine décor; the “consumption germ” is crème de menthe. ## Investigation Use A Carcosan manifestation"
+  },
+  {
+    "id": "11:Cafe-Guerbois",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Cafe-Guerbois",
+    "title": "Café Guerbois",
+    "category": "location",
+    "summary": "The Batignolles café where Manet and the early Impressionist circle once argued twice a week.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "17th Arrondissement"
+    ],
+    "backlinks": [
+      "17th-Arrondissement",
+      "Chez-le-P-re-Lathuile"
+    ],
+    "keyLinks": [],
+    "parent": "17th-Arrondissement",
+    "excerpt": "# Café Guerbois ## Overview Cézanne, Degas, Renoir, Zola, and their peers are older and visit less often, but nostalgia or the right invitation can draw them back to their former Thursday and Sunday table. ## Investigation Use A reunion places several famous witnesses around one contradictory memory"
+  },
+  {
+    "id": "11:Cafe-du-Tambourin",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Cafe-du-Tambourin",
+    "title": "Café du Tambourin",
+    "category": "location",
+    "summary": "A café near the Moulin Rouge once decorated by Vincent van Gogh.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "18th Arrondissement"
+    ],
+    "backlinks": [
+      "18th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "18th-Arrondissement",
+    "excerpt": "# Café du Tambourin ## Overview Gauguin may visit before leaving permanently for Tahiti in June 1895, remembering the café as a place associated with happier days. ## Investigation Use A surviving decoration reveals an image no one remembers Van Gogh painting. ## Connections - [[18th Arrondissement]"
   },
   {
     "id": "11:Camille-Flammarion",
@@ -379,6 +1217,33 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# The Golden Ruin The home page for this campaign — who's playing, what it's about, and how to plug in. Edit it like any other page. ## The Concept _A paragraph on the setting, the premise, the stakes, and where the story stands right now._ ## System & Tone - **Game system:** The King in Yellow RPG "
+  },
+  {
+    "id": "11:Charenton-Asylum",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Charenton-Asylum",
+    "title": "Charenton Asylum",
+    "category": "location",
+    "summary": "The reformed asylum once associated with the Marquis de Sade.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Paris Outskirts"
+    ],
+    "backlinks": [
+      "Paris-Outskirts"
+    ],
+    "keyLinks": [],
+    "parent": "Paris-Outskirts",
+    "excerpt": "# Charenton Asylum ## Overview By 1895 Charenton presents itself as a humane institution for those deemed incurably insane. It can hold witnesses broken by Carcosan encounters or retired investigators overwhelmed by Shock. ## Investigation Use A patient’s impossible story becomes credible only after"
   },
   {
     "id": "11:Charles-Richet",
@@ -458,11 +1323,39 @@
       "The House of the North Star"
     ],
     "backlinks": [
+      "17th-Arrondissement",
       "Chez-le-P-re-Lathuile"
     ],
     "keyLinks": [],
     "parent": "17th-Arrondissement",
     "excerpt": "# Chez le Père Lathuile ![Chez le Père Lathuile at the edge of Place de Clichy.](/wiki/media/CLPL-Setting.png) ## Overview [[Chez le Père Lathuile]] is an old restaurant and garden café at [[7 Avenue de Clichy]], close to [[Place de Clichy]] in the [[17th Arrondissement]]. Its reputation is older th"
+  },
+  {
+    "id": "11:Church-of-St-Barnabe",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Church-of-St-Barnabe",
+    "title": "Church of St. Barnabé",
+    "category": "location",
+    "summary": "A fictional Rococo church on Rue Saint-Honoré renowned for unusually fine organists.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Church of St. Barnabé ## Overview The church adapts the Saint-Roch setting used in “In the Court of the Dragon.” Music and polished ornament mask the possibility of a Yellow King apparition. ## Investigation Use An organ performance traps one listener inside the vision described by Chambers. ## Co"
   },
   {
     "id": "11:Claude-Debussy",
@@ -521,6 +1414,60 @@
     "keyLinks": [],
     "parent": "Police-and-Thieves",
     "excerpt": "# Colonel Caoutchouc <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Caoutchouc is never the same man twice, but each version is charming enough to make doubt feel rude. His greatest weapon is the pause before someone says, \"surely not.\"</p> "
+  },
+  {
+    "id": "11:Depot-de-Mendicite",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Depot-de-Mendicite",
+    "title": "Dépôt de Mendicité",
+    "category": "location",
+    "summary": "The vast Nanterre poorhouse, prison, hospital, and nursing home.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Paris Outskirts"
+    ],
+    "backlinks": [
+      "Paris-Outskirts"
+    ],
+    "keyLinks": [],
+    "parent": "Paris-Outskirts",
+    "excerpt": "# Dépôt de Mendicité ## Overview It houses about three thousand poor, sick, elderly, and unhoused people, some voluntary and some sentenced for vagrancy. Hat or ribbon colors distinguish the two groups. ## Investigation Use Finding one witness requires navigating an institution designed to make ever"
+  },
+  {
+    "id": "11:Ecole-des-Beaux-Arts",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Ecole-des-Beaux-Arts",
+    "title": "École des Beaux-Arts",
+    "category": "location",
+    "summary": "The investigators’ art school on Rue Bonaparte, loyal to Academic tradition.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "6th Arrondissement"
+    ],
+    "backlinks": [
+      "6th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "6th-Arrondissement",
+    "excerpt": "# École des Beaux-Arts ## Overview Even as Impressionism gains prestige, the school teaches classical subjects through hard lines, careful delineation, and old-master discipline. Student rebellion against that style can become a campaign-long artistic arc. ## Investigation Use A model, assignment, c"
   },
   {
     "id": "11:Edgar-Degas",
@@ -699,6 +1646,33 @@
     "excerpt": "# Émile Zola <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Émile Zola observes society like an autopsy conducted in public. Success has made him easier to approach and harder to contradict, with the bearing of a man who survived scandal and"
   },
   {
+    "id": "11:English-Chapel-of-Passy",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "English-Chapel-of-Passy",
+    "title": "English Chapel of Passy",
+    "category": "location",
+    "summary": "An Anglican chapel serving English-speaking residents of prosperous Passy.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "16th Arrondissement"
+    ],
+    "backlinks": [
+      "16th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "16th-Arrondissement",
+    "excerpt": "# English Chapel of Passy ## Overview Foreign families and visitors use the chapel as a familiar religious refuge within the western bourgeois district. ## Investigation Use A visitor seeks sanctuary after seeing something impossible and trusts only an English-speaking clergyman. ## Connections - [["
+  },
+  {
     "id": "11:Erik-Satie",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -764,6 +1738,33 @@
     ],
     "parent": "House-Staff",
     "excerpt": "# Étienne Renaud, Valet <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Étienne Renaud is elegant in the way a blade is elegant: narrow, exact, and easy to underestimate until it is already too close. He dresses Lucien de Vauclair, maintains "
+  },
+  {
+    "id": "11:Folies-Bergere",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Folies-Bergere",
+    "title": "Folies Bergère",
+    "category": "location",
+    "summary": "A fashionable cabaret known for elaborate revues and female stars.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "9th Arrondissement"
+    ],
+    "backlinks": [
+      "9th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "9th-Arrondissement",
+    "excerpt": "# Folies Bergère ## Overview Performers such as Loie Fuller bring dance, costume, and experimental light to its stage. Its 1895 spectacle is provocative without the nudity associated with the venue in later decades. ## Investigation Use An impossible lighting effect or missing dancer can turn a revu"
   },
   {
     "id": "11:Gail-Loveless",
@@ -934,6 +1935,168 @@
     "excerpt": "# Henry Pierce (Laura) ## History --- Character Picture ```yellow-king-paris-sheet name: Henry Pierce player: Laura Bee field: Belle-Lettrist / Tinker drive: Curiostity pushes: 2 investigative: - Bella Lettrist - History - Reassurance - Resarch general: Athletics: 3 Composure: 6 Fighting: 5 First Ai"
   },
   {
+    "id": "11:Hopital-Cochin",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Hopital-Cochin",
+    "title": "Hôpital Cochin",
+    "category": "location",
+    "summary": "A hospital with sealed eighteenth-century tunnels beneath it.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "14th Arrondissement"
+    ],
+    "backlinks": [
+      "14th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "14th-Arrondissement",
+    "excerpt": "# Hôpital Cochin ## Overview Young doctors repeatedly became lost while exploring, prompting closure of the passages. The hospital also treats syphilis and other venereal disease. ## Investigation Use A missing physician used the tunnels and found a chamber absent from every plan. ## Connections - ["
+  },
+  {
+    "id": "11:Hopital-Saint-Louis",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Hopital-Saint-Louis",
+    "title": "Hôpital Saint-Louis",
+    "category": "location",
+    "summary": "A comparatively young hospital dating to the early seventeenth century.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "10th Arrondissement"
+    ],
+    "backlinks": [
+      "10th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "10th-Arrondissement",
+    "excerpt": "# Hôpital Saint-Louis ## Overview Its long institutional history and working-district setting make it a practical destination away from fashionable scrutiny. ## Investigation Use A recurring illness clusters around patients who never shared a ward. ## Connections - [[10th Arrondissement]] ## Sources"
+  },
+  {
+    "id": "11:Hopital-de-la-Charite",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Hopital-de-la-Charite",
+    "title": "Hôpital de la Charité",
+    "category": "location",
+    "summary": "A hospital for the poor that also houses the National Academy of Medicine.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "6th Arrondissement"
+    ],
+    "backlinks": [
+      "6th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "6th-Arrondissement",
+    "excerpt": "# Hôpital de la Charité ## Overview Founded at Marie de’ Medici’s request, it joins indigent care with medical authority in the academy’s converted chapel offices. ## Investigation Use Investigators can seek expert advice while a patient’s symptoms challenge the academy’s public certainty. ## Connec"
+  },
+  {
+    "id": "11:Hotel-Dieu-de-Paris",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Hotel-Dieu-de-Paris",
+    "title": "Hôtel-Dieu de Paris",
+    "category": "location",
+    "summary": "The ancient, overcrowded city hospital on the Île de la Cité.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Hôtel-Dieu de Paris ## Overview Founded in 651, its constant bustle can make even a demanding patient anonymous. Injured investigators may appreciate interns too busy to question strange wounds. ## Investigation Use The anonymity that protects the characters also allows someone else to exchange a "
+  },
+  {
+    "id": "11:Hotel-Drouot",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Hotel-Drouot",
+    "title": "Hôtel Drouot",
+    "category": "location",
+    "summary": "The fashionable auction house where art, jewelry, and antiquities change hands.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "9th Arrondissement"
+    ],
+    "backlinks": [
+      "9th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "9th-Arrondissement",
+    "excerpt": "# Hôtel Drouot ## Overview Auctions draw intense attention and create a rare respectable setting where society women and courtesans compare collections and reputations. ## Investigation Use A dangerous object attracts rival bidders who know very different pieces of its history. ## Connections - [[9t"
+  },
+  {
+    "id": "11:Hotel-de-Ville",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Hotel-de-Ville",
+    "title": "Hôtel de Ville",
+    "category": "location",
+    "summary": "Paris City Hall, rebuilt after burning during the suppression of the Commune.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "4th Arrondissement"
+    ],
+    "backlinks": [
+      "4th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "4th-Arrondissement",
+    "excerpt": "# Hôtel de Ville ## Overview The restored building combines surviving sixteenth-century stone with an opulent modern interior. Investigators come here for permits, bureaucrats, and municipal records. ## Investigation Use A routine permission request exposes a file that officially burned with the old"
+  },
+  {
     "id": "11:House-Staff",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -978,6 +2141,7 @@
       "Madame Eugénie Voclain, Head Cook"
     ],
     "backlinks": [
+      "17th-Arrondissement",
       "Albert-de-Rochas",
       "Aristide-Bruant",
       "Claude-Debussy",
@@ -1006,6 +2170,33 @@
     ],
     "parent": "17th-Arrondissement",
     "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's [[17th arrondissement]]. It i"
+  },
+  {
+    "id": "11:Imperial-National-Library",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Imperial-National-Library",
+    "title": "Imperial National Library",
+    "category": "location",
+    "summary": "The Rue de Richelieu institution holding the world’s largest collection of books.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Imperial National Library ## Overview Known before and after this period as the Bibliothèque Nationale, its vast holdings make it the obvious destination for dangerous texts. ## Investigation Use The investigators must prevent a copy of The King in Yellow from entering the catalogue, or remove one"
   },
   {
     "id": "11:Jackson-Jay-Steerman-IV-David",
@@ -1061,6 +2252,33 @@
     "keyLinks": [],
     "parent": "Artists-and-Bohemians",
     "excerpt": "# James McNeill Whistler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Whistler carries himself as if every conversation is an arrangement in ego and acid. He is brilliant, vain, combative, and deeply invested in the story of himself as muc"
+  },
+  {
+    "id": "11:Jardin-des-Plantes",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Jardin-des-Plantes",
+    "title": "Jardin des Plantes",
+    "category": "location",
+    "summary": "A riverside botanical garden and zoological collection.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "5th Arrondissement"
+    ],
+    "backlinks": [
+      "5th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "5th-Arrondissement",
+    "excerpt": "# Jardin des Plantes ## Overview The Ménagerie du Jardin des Plantes has been rebuilt after starving Parisians ate much of its animal collection during the Siege. ## Investigation Use An animal recognizes a visitor, reacts to an invisible presence, or exhibits a Carcosan alteration. ## Connections -"
   },
   {
     "id": "11:Jean-Delville",
@@ -1272,6 +2490,168 @@
     "excerpt": "# La Goulue (Louise Weber) <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>La Goulue is laughter, appetite, movement, and defiance. She performs gaiety so forcefully that it takes a careful observer to notice when the mask slips.</p> </sectio"
   },
   {
+    "id": "11:La-Grande-Roquette",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "La-Grande-Roquette",
+    "title": "La Grande Roquette",
+    "category": "location",
+    "summary": "The prison holding condemned inmates before the guillotine.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "11th Arrondissement"
+    ],
+    "backlinks": [
+      "11th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "11th-Arrondissement",
+    "excerpt": "# La Grande Roquette ## Overview The fortress-like institution stands near its juvenile counterpart, making the district a landscape of punishment. ## Investigation Use A condemned prisoner insists the person awaiting execution is only wearing his face. ## Connections - [[11th Arrondissement]] ## So"
+  },
+  {
+    "id": "11:La-Madeleine",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "La-Madeleine",
+    "title": "La Madeleine",
+    "category": "location",
+    "summary": "A church whose neoclassical exterior resembles a pagan temple.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "8th Arrondissement"
+    ],
+    "backlinks": [
+      "8th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "8th-Arrondissement",
+    "excerpt": "# La Madeleine ## Overview Napoléon ordered the structure as a monument to his army before the Restoration redirected it toward its earlier intended use as a church. Its architecture retains both identities. ## Investigation Use Graeco-Roman figures answer prayers in a building never entirely certai"
+  },
+  {
+    "id": "11:La-Petite-Roquette",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "La-Petite-Roquette",
+    "title": "La Petite Roquette",
+    "category": "location",
+    "summary": "The Paris prison for juveniles.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "11th Arrondissement"
+    ],
+    "backlinks": [
+      "11th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "11th-Arrondissement",
+    "excerpt": "# La Petite Roquette ## Overview Its proximity to La Grande Roquette ties childhood confinement to the machinery of execution. ## Investigation Use A child prisoner knows where an adult murderer hid the evidence but speaks only through drawings. ## Connections - [[11th Arrondissement]] ## Sources - "
+  },
+  {
+    "id": "11:La-Sante-Prison",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "La-Sante-Prison",
+    "title": "La Santé Prison",
+    "category": "location",
+    "summary": "A prison for short sentences, appeals, and solitary confinement.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "14th Arrondissement"
+    ],
+    "backlinks": [
+      "14th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "14th-Arrondissement",
+    "excerpt": "# La Santé Prison ## Overview Its varied population and isolation cells make it useful for police interviews, hidden witnesses, and inmates who must not communicate. ## Investigation Use A prisoner in solitary knows details of events outside the cell that occurred after confinement began. ## Connect"
+  },
+  {
+    "id": "11:Lapin-Agile",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Lapin-Agile",
+    "title": "Lapin Agile",
+    "category": "location",
+    "summary": "A Montmartre cabaret shared by artists, pimps, criminals, and anarchists.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "18th Arrondissement"
+    ],
+    "backlinks": [
+      "18th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "18th-Arrondissement",
+    "excerpt": "# Lapin Agile ## Overview Older patrons still call it the Cabaret of Assassins. Its newer name comes from the sign of a rabbit escaping a frying pan; the artists have not yet fully displaced the underworld clientele. ## Investigation Use This is the natural place to establish criminal contacts or ar"
+  },
+  {
+    "id": "11:Lariboisiere-Hospital",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Lariboisiere-Hospital",
+    "title": "Lariboisière Hospital",
+    "category": "location",
+    "summary": "A large hospital founded after a cholera epidemic.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "10th Arrondissement"
+    ],
+    "backlinks": [
+      "10th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "10th-Arrondissement",
+    "excerpt": "# Lariboisière Hospital ## Overview Its institutional experience makes it the natural destination for advice about infectious disease and citywide outbreaks. ## Investigation Use A supposed epidemic follows a pattern based on theater attendance rather than contact. ## Connections - [[10th Arrondisse"
+  },
+  {
     "id": "11:Laurie-Shelby",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1293,6 +2673,114 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Laurie Shelby ```yellow-king-paris-sheet name: Laurie Shelby player: Richard field: Landscape Painter / Former Cadet drive: Curiosity pushes: 2 investigative: - Negotiation - Painting - Art History - Natural History general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mechanics: 0"
+  },
+  {
+    "id": "11:Le-Bon-Marche",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Le-Bon-Marche",
+    "title": "Le Bon Marché",
+    "category": "location",
+    "summary": "A vast department store employing thousands and reaching customers through advertising and mail-order catalogues.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "7th Arrondissement"
+    ],
+    "backlinks": [
+      "7th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "7th-Arrondissement",
+    "excerpt": "# Le Bon Marché ## Overview The modern retail system brings goods, workers, delivery records, and respectable shoppers together on an unprecedented scale. ## Investigation Use A catalogue lists an impossible object and records show that dozens have already been delivered. ## Connections - [[7th Arro"
+  },
+  {
+    "id": "11:Le-Chat-Noir",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Le-Chat-Noir",
+    "title": "Le Chat Noir",
+    "category": "location",
+    "summary": "Rodolphe Salis’s celebrated Montmartre cabaret of music, poetry, comedy, and shadow theater.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "18th Arrondissement"
+    ],
+    "backlinks": [
+      "18th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "18th-Arrondissement",
+    "excerpt": "# Le Chat Noir ## Overview Artists and occult-minded poets gather for performances and conversation, and its house literary journal offers a route into print. Satie, Toulouse-Lautrec, and Symbolist writers may all be found here. ## Investigation Use The venue and Salis have only a year left; a shado"
+  },
+  {
+    "id": "11:Le-Mirliton",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Le-Mirliton",
+    "title": "Le Mirliton",
+    "category": "location",
+    "summary": "Aristide Bruant’s Montmartre cabaret, built around songs, insults, and class performance.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "18th Arrondissement"
+    ],
+    "backlinks": [
+      "18th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "18th-Arrondissement",
+    "excerpt": "# Le Mirliton ## Overview Bruant performs for wealthy Parisians and foreign visitors who come to be abused. Chamber pots and a Louis XIII chair suspended from the ceiling announce the venue’s cultivated irreverence. ## Investigation Use Bruant embeds a real warning in an insulting song and waits to "
+  },
+  {
+    "id": "11:Le-Veau-Gras",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Le-Veau-Gras",
+    "title": "Le Veau Gras",
+    "category": "location",
+    "summary": "A cheap student tavern at 17 Rue Bonaparte, close to the École des Beaux-Arts.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "6th Arrondissement"
+    ],
+    "backlinks": [
+      "6th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "6th-Arrondissement",
+    "excerpt": "# Le Veau Gras ## Overview Its art-student and school-worker clientele eats simple food and drinks improbably cheap wine under the eye of Pierre, the florid, cleft-nosed proprietor. Behind the bar stands a vodka bottle containing tea leaves curled like a monkey’s paw. ## Investigation Use Pierre say"
   },
   {
     "id": "11:Leo-Taxil",
@@ -1322,6 +2810,87 @@
     "keyLinks": [],
     "parent": "Occultists",
     "excerpt": "# Léo Taxil <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Taxil grins like a man already composing tomorrow's denial. He is funny, venomous, and happiest when a respectable person cannot decide whether to strike him or quote him.</p> </sect"
+  },
+  {
+    "id": "11:Les-Deux-Magots",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Les-Deux-Magots",
+    "title": "Les Deux Magots",
+    "category": "location",
+    "summary": "A Saint-Germain-des-Prés café watched over by two carved Chinese mandarins.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "6th Arrondissement"
+    ],
+    "backlinks": [
+      "6th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "6th-Arrondissement",
+    "excerpt": "# Les Deux Magots ## Overview Its name comes from the wooden figures above the drinkers, though occult patrons may interpret them as magicians or alchemists. Mallarmé and other Symbolist poets frequent the café. ## Investigation Use One figure changes posture between visits, pointing toward a patron"
+  },
+  {
+    "id": "11:Librairie-de-lArt-Independant",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Librairie-de-lArt-Independant",
+    "title": "Librairie de l’Art Indépendant",
+    "category": "location",
+    "summary": "Edmond Bailly’s bookshop linking Symbolist art and ritual occultism.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "9th Arrondissement"
+    ],
+    "backlinks": [
+      "9th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "9th-Arrondissement",
+    "excerpt": "# Librairie de l’Art Indépendant ## Overview The shelves specialize in esoteric books, Symbolist literature, and conversations among artists, musicians, and seekers. ## Investigation Use A dangerous text arrives on consignment while several customers insist they ordered it. ## Connections - [[9th Ar"
+  },
+  {
+    "id": "11:Librairie-du-Merveilleux",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Librairie-du-Merveilleux",
+    "title": "Librairie du Merveilleux",
+    "category": "location",
+    "summary": "Lucien Chamuel’s occult bookshop and alchemical supply house.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "9th Arrondissement"
+    ],
+    "backlinks": [
+      "9th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "9th-Arrondissement",
+    "excerpt": "# Librairie du Merveilleux ## Overview Chamuel is a Catholic mystic, small publisher, and protégé of Papus, whose works he promotes. ## Investigation Use A mundane alchemical purchase becomes the missing component in a genuine ritual. ## Connections - [[9th Arrondissement]] ## Sources - Robin D. Law"
   },
   {
     "id": "11:Loie-Fuller",
@@ -1411,6 +2980,33 @@
     "excerpt": "# Luigi Parmeggiani <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Parmeggiani is elegant, erudite, and amused by ownership as a concept. He handles forged relics with more reverence than priests give real ones.</p> </section> <section class"
   },
   {
+    "id": "11:Luxembourg-Gallery",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Luxembourg-Gallery",
+    "title": "Luxembourg Gallery",
+    "category": "location",
+    "summary": "The museum devoted to living artists, housed in a former royal orangery.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "6th Arrondissement"
+    ],
+    "backlinks": [
+      "6th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "6th-Arrondissement",
+    "excerpt": "# Luxembourg Gallery ## Overview The gallery displays current work by figures such as Rodin and Monet and appears in Chambers’s “The Mask.” It has occupied this building since 1884. ## Investigation Use A sculpture or painting changes material overnight while guards insist nothing moved. ## Connecti"
+  },
+  {
     "id": "11:Madame-Eugenie-Voclain-Head-Cook",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1446,6 +3042,33 @@
     ],
     "parent": "House-Staff",
     "excerpt": "# Madame Eugénie Voclain, Head Cook <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Madame Voclain rules the kitchen as if it were a principality under siege. She is stout, practical, sharp-eyed, and capable of reducing a visiting aristocrat "
+  },
+  {
+    "id": "11:Maison-Fournaise",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Maison-Fournaise",
+    "title": "Maison Fournaise",
+    "category": "location",
+    "summary": "A bright riverside restaurant at Chatou, on an island in the Seine.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Paris Outskirts"
+    ],
+    "backlinks": [
+      "Paris-Outskirts"
+    ],
+    "keyLinks": [],
+    "parent": "Paris-Outskirts",
+    "excerpt": "# Maison Fournaise ## Overview Renoir favors its airy rooms and terraces, a marked contrast to the smoky, claustrophobic cafés of Montmartre. ## Investigation Use A pleasant excursion becomes isolating when the river carries in an object that should have remained in Paris. ## Connections - [[Paris O"
   },
   {
     "id": "11:Marcel-Proust",
@@ -1615,6 +3238,33 @@
     "excerpt": "# Maurice Maeterlinck <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Maurice Maeterlinck speaks as if ordinary life is a curtain and every emotion a draft from the other side. He is gentle, grave, and more interested in atmosphere than expla"
   },
   {
+    "id": "11:Mazas-Prison",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Mazas-Prison",
+    "title": "Mazas Prison",
+    "category": "location",
+    "summary": "A brutal prison holding roughly twelve hundred inmates shortly before its closure.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "12th Arrondissement"
+    ],
+    "backlinks": [
+      "12th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "12th-Arrondissement",
+    "excerpt": "# Mazas Prison ## Overview Its scale and misery make it a dangerous place for undercover work among prisoners. ## Investigation Use The investigators must enter as inmates to reach a witness who will not survive formal questioning. ## Connections - [[12th Arrondissement]] ## Sources - Robin D. Laws,"
+  },
+  {
     "id": "11:Moina-Mathers",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1644,6 +3294,87 @@
     "excerpt": "# Moina Mathers <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Moina Mathers moves like a Pre-Raphaelite painting that learned to speak French and conduct ritual. She is poised, artistic, feminist in bearing if not always in doctrine, and di"
   },
   {
+    "id": "11:Mont-de-Piete",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Mont-de-Piete",
+    "title": "Mont-de-Piété",
+    "category": "location",
+    "summary": "The municipal pawnshop network and its central warehouse.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "4th Arrondissement"
+    ],
+    "backlinks": [
+      "4th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "4th-Arrondissement",
+    "excerpt": "# Mont-de-Piété ## Overview Branches across Paris accept household goods, with reclaimed items taking days to arrive from headquarters. Mattresses are the most common pledge. ## Investigation Use A copy of The King in Yellow enters the warehouse, or an oracular carpet answers questions through its c"
+  },
+  {
+    "id": "11:Moulin-Rouge",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Moulin-Rouge",
+    "title": "Moulin Rouge",
+    "category": "location",
+    "summary": "The windmill-fronted pleasure palace where every social class gathers for spectacle and the can-can.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "18th Arrondissement"
+    ],
+    "backlinks": [
+      "18th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "18th-Arrondissement",
+    "excerpt": "# Moulin Rouge ## Overview Owner Joseph Oller and manager Charles Zidler run an extravagant revue hall that attracts dancers, aristocrats, tourists, artists, and criminals. Toulouse-Lautrec is a near-certain presence. ## Investigation Use A masked patron moves between social circles under different "
+  },
+  {
+    "id": "11:Musee-du-Louvre",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Musee-du-Louvre",
+    "title": "Musée du Louvre",
+    "category": "location",
+    "summary": "The former palace and revolutionary museum at the geographic and symbolic center of Paris.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Musée du Louvre ## Overview Its collections include the Venus de Milo, Mona Lisa, and the chapel from the tomb of Akhethetep. Living artists cannot yet expect their work to hang here. ## Investigation Use A dead artist’s newly accepted work changes after installation, or an antiquity no longer mat"
+  },
+  {
     "id": "11:Nadar",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1671,6 +3402,60 @@
     "keyLinks": [],
     "parent": "Scientists-and-Inventors",
     "excerpt": "# Nadar <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Nadar is huge in reputation and larger in conversation. He laughs loudly, remembers everyone, and treats peril as a logistical inconvenience on the way to a better view.</p> </section> <"
+  },
+  {
+    "id": "11:Notre-Dame-de-Paris",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Notre-Dame-de-Paris",
+    "title": "Notre-Dame de Paris",
+    "category": "location",
+    "summary": "The great Gothic cathedral on the Île de la Cité, overlooking courts, police, and morgue.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Notre-Dame de Paris ## Overview Begun in 1163 and repeatedly damaged, altered, and restored, it holds gargoyles, long-beaked chimeras, and relics identified as the Crown of Thorns, part of the True Cross, and a Holy Nail. ## Investigation Use Stone grotesques begin changing position while a relic "
+  },
+  {
+    "id": "11:Nouvelle-Athenes",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Nouvelle-Athenes",
+    "title": "Nouvelle Athènes",
+    "category": "location",
+    "summary": "A Pigalle café associated with Degas and the painters of modern Paris.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "9th Arrondissement"
+    ],
+    "backlinks": [
+      "9th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "9th-Arrondissement",
+    "excerpt": "# Nouvelle Athènes ## Overview Degas holds court here and used it as the setting for L’Absinthe. Gustave Moreau may dine after teaching at the École des Beaux-Arts. ## Investigation Use A familiar model appears in two places at once: in the café and in an unfinished canvas. ## Connections - [[9th Ar"
   },
   {
     "id": "11:Occultists",
@@ -1741,6 +3526,33 @@
     "excerpt": "# Odilon Redon <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Odilon Redon is quiet enough that others lean toward him, then regret what they hear. His art moves from delicacy into the grotesque without warning, as if beauty and nightmare sh"
   },
   {
+    "id": "11:Olympia-Music-Hall",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Olympia-Music-Hall",
+    "title": "Olympia Music Hall",
+    "category": "location",
+    "summary": "A large performance hall run by the team behind the Moulin Rouge.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "9th Arrondissement"
+    ],
+    "backlinks": [
+      "9th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "9th-Arrondissement",
+    "excerpt": "# Olympia Music Hall ## Overview Its stage can accommodate circus acts as well as ballet, operetta, concerts, and variety entertainment. ## Investigation Use A touring act brings a prop, animal, or performer that should never have crossed the city gates. ## Connections - [[9th Arrondissement]] ## So"
+  },
+  {
     "id": "11:Oswald-Wirth",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1768,6 +3580,60 @@
     "keyLinks": [],
     "parent": "Occultists",
     "excerpt": "# Oswald Wirth <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Wirth is patient, observant, and mildly amused by louder occultists. He watches hands as carefully as faces, and his own hands rarely stop sketching.</p> </section> <section class"
+  },
+  {
+    "id": "11:Palais-Garnier",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Palais-Garnier",
+    "title": "Palais Garnier",
+    "category": "location",
+    "summary": "The jeweled opera house whose backstage spaces form a district of their own.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "9th Arrondissement"
+    ],
+    "backlinks": [
+      "9th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "9th-Arrondissement",
+    "excerpt": "# Palais Garnier ## Overview Construction was interrupted by the Siege and Commune, when the unfinished building served as a fortress. Open since 1875, it contains grand stairs, velvet halls, and cisterns controlling water that invaded the foundations. ## Investigation Use The rumored underground la"
+  },
+  {
+    "id": "11:Palais-de-Justice",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Palais-de-Justice",
+    "title": "Palais de Justice",
+    "category": "location",
+    "summary": "The great court complex on the Île de la Cité.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Palais de Justice ## Overview Its neoclassical halls contain the Cour de Cassation, Cour d’Assises, Conciergerie, basement Souricière prison, and administrative Dépôt. ## Investigation Use A prisoner, court file, or hidden passage connects respectable justice to the city beneath it. ## Connections"
   },
   {
     "id": "11:Papus-Gerard-Encausse",
@@ -1799,6 +3665,105 @@
     "keyLinks": [],
     "parent": "Occultists",
     "excerpt": "# Papus (Gérard Encausse) <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Papus has the dark-eyed intensity of a man building an organization from smoke, doctrine, ambition, and correspondence. He wants every occultist in Paris to belong to a"
+  },
+  {
+    "id": "11:Paris-Catacombs",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Paris-Catacombs",
+    "title": "Paris Catacombs",
+    "category": "location",
+    "summary": "The regulated ossuary beneath Paris, assembled from displaced cemeteries and quarry tunnels.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "14th Arrondissement"
+    ],
+    "backlinks": [
+      "14th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "14th-Arrondissement",
+    "excerpt": "# Paris Catacombs ## Overview Bones have been stacked by type since 1810, with ornamental walls of skulls and long bones. Commune dead lie near an underground stream; legal visits occur only every other Saturday. ## Investigation Use Newly excavated evidence is transferred here, forcing investigator"
+  },
+  {
+    "id": "11:Paris-Morgue",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Paris-Morgue",
+    "title": "Paris Morgue",
+    "category": "location",
+    "summary": "The public morgue near Notre-Dame where unidentified bodies are displayed.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Paris Morgue ## Overview Freezing machinery preserves corpses for months or years. About nine hundred unidentified bodies arrive annually; photographers record each, and coroners have autopsy and toxicology facilities. ## Investigation Use A body changes between its photograph and the public viewi"
+  },
+  {
+    "id": "11:Paris-Outskirts",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Paris-Outskirts",
+    "title": "Paris Outskirts",
+    "category": "location",
+    "summary": "Suburbs, riverside retreats, institutions, and burial grounds beyond the walls, reached through customs gates and the octroi.",
+    "tags": [
+      "location",
+      "arrondissement"
+    ],
+    "aliases": [
+      "Paris Outskirts"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Maison Fournaise",
+      "Basilica of Saint-Denis",
+      "Saint-Ouen Cemetery",
+      "Dépôt de Mendicité",
+      "Charenton Asylum",
+      "Bicêtre Hospital"
+    ],
+    "backlinks": [
+      "Basilica-of-Saint-Denis",
+      "Bicetre-Hospital",
+      "Charenton-Asylum",
+      "Depot-de-Mendicite",
+      "Maison-Fournaise",
+      "Saint-Ouen-Cemetery"
+    ],
+    "keyLinks": [
+      "Maison Fournaise",
+      "Basilica of Saint-Denis",
+      "Saint-Ouen Cemetery",
+      "Dépôt de Mendicité",
+      "Charenton Asylum",
+      "Bicêtre Hospital"
+    ],
+    "excerpt": "# Paris Outskirts ## Public Face Suburbs, riverside retreats, institutions, and burial grounds beyond the walls, reached through customs gates and the octroi. ## Key Locations - [[Maison Fournaise]] - [[Basilica of Saint-Denis]] - [[Saint-Ouen Cemetery]] - [[Dépôt de Mendicité]] - [[Charenton Asylum"
   },
   {
     "id": "11:Paul-Cezanne",
@@ -1885,6 +3850,60 @@
     "excerpt": "# Paul Verlaine <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Paul Verlaine looks like a man aged by weather no one else stood under. He is revered, drunk, ruined, funny, bitter, tender, and capable of saying one line that makes the whole c"
   },
   {
+    "id": "11:Pere-Lachaise-Cemetery",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Pere-Lachaise-Cemetery",
+    "title": "Père-Lachaise Cemetery",
+    "category": "location",
+    "summary": "Paris’s largest and most picturesque cemetery, a hilltop city of tombs and famous dead.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "20th Arrondissement"
+    ],
+    "backlinks": [
+      "20th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "20th-Arrondissement",
+    "excerpt": "# Père-Lachaise Cemetery ## Overview Molière, Chopin, Balzac, Delacroix, Héloïse and Abelard, and the heart of Jacques-Louis David rest here, at least officially. Older remains were frequently moved and mislabeled, while a massive crematory furnace smokes among the monuments. ## Investigation Use A "
+  },
+  {
+    "id": "11:Picpus-Cemetery",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Picpus-Cemetery",
+    "title": "Picpus Cemetery",
+    "category": "location",
+    "summary": "Paris’s only private cemetery, founded around a mass grave of Revolutionary victims.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "12th Arrondissement"
+    ],
+    "backlinks": [
+      "12th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "12th-Arrondissement",
+    "excerpt": "# Picpus Cemetery ## Overview It contains 1,306 people guillotined during six weeks in 1794 and later became a burial place for aristocrats and dignitaries. Americans visit Lafayette; Talleyrand, André Chénier, and Montalembert also lie here. ## Investigation Use A family guarding access to the ceme"
+  },
+  {
     "id": "11:Pierre-Auguste-Renoir",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1949,6 +3968,87 @@
     "excerpt": "# Police and Thieves This parent page gathers investigators, police authorities, criminals, spies, journalists, and underworld figures who understand Paris through evidence, files, favors, blackmail, and escape routes. Use this group when the characters need official pressure, unofficial access, cri"
   },
   {
+    "id": "11:Printemps",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Printemps",
+    "title": "Printemps",
+    "category": "location",
+    "summary": "A modern department store whose flagship popularizes Art Nouveau design.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "9th Arrondissement"
+    ],
+    "backlinks": [
+      "9th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "9th-Arrondissement",
+    "excerpt": "# Printemps ## Overview Electric lighting, elevators, fixed prices, advertising, and catalogues turn shopping into a new kind of urban spectacle. ## Investigation Use A display changes after closing and depicts customers who have not yet arrived. ## Connections - [[9th Arrondissement]] ## Sources - "
+  },
+  {
+    "id": "11:Prison-Saint-Lazare",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Prison-Saint-Lazare",
+    "title": "Prison Saint-Lazare",
+    "category": "location",
+    "summary": "A notorious women’s prison, remand center, hospital, police station, and prison bakery.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "10th Arrondissement"
+    ],
+    "backlinks": [
+      "10th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "10th-Arrondissement",
+    "excerpt": "# Prison Saint-Lazare ## Overview Convicted women and those awaiting trial occupy separate sections under conditions frequently condemned as appalling. ## Investigation Use A witness vanishes between the hospital and prison ledgers while the bakery continues sending out coded loaves. ## Connections "
+  },
+  {
+    "id": "11:Protestant-Churches-of-Paris",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Protestant-Churches-of-Paris",
+    "title": "Protestant Churches of Paris",
+    "category": "location",
+    "summary": "A network of Anglican, Episcopal, Wesleyan, Congregationalist, and Baptist congregations serving foreign residents.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "8th Arrondissement"
+    ],
+    "backlinks": [
+      "8th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "8th-Arrondissement",
+    "excerpt": "# Protestant Churches of Paris ## Overview The British Embassy maintains an Anglican chapel; other English-speaking churches stand in Passy, on Rue Bayard, Rue Roquépine, Rue Royale, and Rue de Lille. ## Investigation Use A frightened foreign witness chooses a familiar church, forcing investigators "
+  },
+  {
     "id": "11:Pyotr-Rachkovsky",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1976,6 +4076,195 @@
     "keyLinks": [],
     "parent": "Police-and-Thieves",
     "excerpt": "# Pyotr Rachkovsky <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Rachkovsky is courteous, patient, and almost impossible to read. He never seems surprised, which may mean he knows everything, or that he has practiced the expression.</p> </s"
+  },
+  {
+    "id": "11:Sacre-C-ur",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Sacre-C-ur",
+    "title": "Sacré-Cœur",
+    "category": "location",
+    "summary": "The unfinished basilica rising over Montmartre as a rebuke to the Commune.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "18th Arrondissement"
+    ],
+    "backlinks": [
+      "18th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "18th-Arrondissement",
+    "excerpt": "# Sacré-Cœur ## Overview Construction began in 1874 on the hill where rebels were massacred. In 1895 it remains incomplete and politically charged, a religious monument to an unhealed civic wound. ## Investigation Use Workmen uncover a communal burial beneath a foundation meant to deny the dead. ## "
+  },
+  {
+    "id": "11:Saint-Ouen-Cemetery",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Saint-Ouen-Cemetery",
+    "title": "Saint-Ouen Cemetery",
+    "category": "location",
+    "summary": "A small cemetery near Montmartre used for criminals and the otherwise unwanted dead.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Paris Outskirts"
+    ],
+    "backlinks": [
+      "Paris-Outskirts"
+    ],
+    "keyLinks": [],
+    "parent": "Paris-Outskirts",
+    "excerpt": "# Saint-Ouen Cemetery ## Overview Bodies remain only five years before transfer to the Catacombs or Père-Lachaise crematory. Unmarked criminal graves and the nicknames Turnip Field and Cayenne give it a bleak reputation. ## Investigation Use Investigators must exhume a body before its scheduled remo"
+  },
+  {
+    "id": "11:Saint-Sulpice",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Saint-Sulpice",
+    "title": "Saint-Sulpice",
+    "category": "location",
+    "summary": "Paris’s second-largest church and home to one of the era’s great organs.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "6th Arrondissement"
+    ],
+    "backlinks": [
+      "6th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "6th-Arrondissement",
+    "excerpt": "# Saint-Sulpice ## Overview The current building began in 1646. Aristide Cavaillé-Coll rebuilt its organ in 1862, and composer Charles-Marie Widor holds the prestigious organist’s post. ## Investigation Use A musical clue requires access to Widor, the organ loft, or a tone that the instrument should"
+  },
+  {
+    "id": "11:Sainte-Chapelle",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Sainte-Chapelle",
+    "title": "Sainte-Chapelle",
+    "category": "location",
+    "summary": "The restored royal chapel famed for soaring vaults and walls of stained glass.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Sainte-Chapelle ## Overview Once part of the medieval royal palace, the chapel received an acclaimed restoration forty years ago and remains one of the island’s most concentrated displays of sacred kingship. ## Investigation Use A pane of glass introduces a crowned figure absent from every restora"
+  },
+  {
+    "id": "11:Sainte-Genevieve-Library",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Sainte-Genevieve-Library",
+    "title": "Sainte-Geneviève Library",
+    "category": "location",
+    "summary": "A scholarly library celebrated for its modern iron-and-glass reading room.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "5th Arrondissement"
+    ],
+    "backlinks": [
+      "5th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "5th-Arrondissement",
+    "excerpt": "# Sainte-Geneviève Library ## Overview Opened in 1843 around a monastic collection begun in the twelfth century, it now tries to recover important works sold away during the seventeenth century. ## Investigation Use A lost monastic book returns bearing fresh annotations in an impossible hand. ## Con"
+  },
+  {
+    "id": "11:Sainte-Pelagie-Prison",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Sainte-Pelagie-Prison",
+    "title": "Sainte-Pélagie Prison",
+    "category": "location",
+    "summary": "A small but prestigious prison for writers, artists, and political offenders.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "5th Arrondissement"
+    ],
+    "backlinks": [
+      "5th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "5th-Arrondissement",
+    "excerpt": "# Sainte-Pélagie Prison ## Overview Balzac, the Marquis de Sade, Gustave Moreau, and Eugène Sue number among former inmates, none praising its conditions. ## Investigation Use A jailed artist has covered a cell wall with an accurate map of Carcosa. ## Connections - [[5th Arrondissement]] ## Sources "
+  },
+  {
+    "id": "11:Salpetriere",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Salpetriere",
+    "title": "Salpêtrière",
+    "category": "location",
+    "summary": "A hospital for women, girls, young boys, and elderly men with a complicated neurological legacy.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "13th Arrondissement"
+    ],
+    "backlinks": [
+      "13th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "13th-Arrondissement",
+    "excerpt": "# Salpêtrière ## Overview Treatment includes sewing, artificial-flower making, concerts, and dance. Records from Jean-Martin Charcot’s mesmerism experiments may remain after his death two years ago. ## Investigation Use A moldering case file describes symptoms now appearing among the investigators. "
   },
   {
     "id": "11:Samuel-Liddell-MacGregor-Mathers",
@@ -2132,6 +4421,33 @@
     "excerpt": "# Silas Burke, Head Butler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Silas Burke is the man who appears before anyone has quite decided to ring. He is broad-shouldered, severe without being theatrical, and dressed with the immaculate re"
   },
   {
+    "id": "11:Sorbonne-Library",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Sorbonne-Library",
+    "title": "Sorbonne Library",
+    "category": "location",
+    "summary": "The University of Paris library in the Latin Quarter.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "5th Arrondissement"
+    ],
+    "backlinks": [
+      "5th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "5th-Arrondissement",
+    "excerpt": "# Sorbonne Library ## Overview The university is about to resume its traditional name, the Sorbonne. Its academic collections and scholars support broad historical and theoretical research. ## Investigation Use A scholar has checked out the only useful volume and disappeared with it. ## Connections "
+  },
+  {
     "id": "11:Stanislas-de-Guaita",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2187,6 +4503,168 @@
     "keyLinks": [],
     "parent": "Artists-and-Bohemians",
     "excerpt": "# Stéphane Mallarmé <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Stéphane Mallarmé speaks as if language is a veil that should never be lifted all at once. He can be warm, oblique, brilliant, broke, and maddeningly precise about the wrong "
+  },
+  {
+    "id": "11:Surete-Headquarters",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Surete-Headquarters",
+    "title": "Sûreté Headquarters",
+    "category": "location",
+    "summary": "The criminal-investigation headquarters at 36 Quai des Orfèvres.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Sûreté Headquarters ## Overview The restrained neoclassical building adjoins the Palais de Justice and replaced structures destroyed during the Commune. ## Investigation Use Investigators must obtain help without allowing the bureau to seize a clue it cannot safely understand. ## Connections - [[1"
+  },
+  {
+    "id": "11:Temple-Square",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Temple-Square",
+    "title": "Temple Square",
+    "category": "location",
+    "summary": "A botanical square occupying the demolished site of the Knights Templar fortress.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "3rd Arrondissement"
+    ],
+    "backlinks": [
+      "3rd-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "3rd-Arrondissement",
+    "excerpt": "# Temple Square ## Overview The Temple once imprisoned the royal family and attracted Royalist pilgrims until Napoléon ordered its destruction in 1808. Allegorical statues represent Hope, Justice, Abundance, and Prudence. ## Investigation Use A secret crypt or surviving foundation begins emitting un"
+  },
+  {
+    "id": "11:Theatre-Lyrique",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Theatre-Lyrique",
+    "title": "Théâtre Lyrique",
+    "category": "location",
+    "summary": "The Place du Châtelet theater currently occupied by the Opéra-Comique.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "1st Arrondissement"
+    ],
+    "backlinks": [
+      "1st-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "1st-Arrondissement",
+    "excerpt": "# Théâtre Lyrique ## Overview The Haussmann-era building burned during the Commune and was rebuilt to the same design in 1874. Spoken dialogue defines opéra-comique, not humor; Sarah Bernhardt will later take over the venue. ## Investigation Use A performance with spoken passages conceals a ritual t"
+  },
+  {
+    "id": "11:Theatre-de-lAmbigu-Comique",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Theatre-de-lAmbigu-Comique",
+    "title": "Théâtre de l’Ambigu-Comique",
+    "category": "location",
+    "summary": "A two-thousand-seat theater specializing in melodrama, spectacle, and reenacted crimes.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "10th Arrondissement"
+    ],
+    "backlinks": [
+      "10th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "10th-Arrondissement",
+    "excerpt": "# Théâtre de l’Ambigu-Comique ## Overview Popular novels and notorious murders become stage entertainment in the boulevard du crime tradition. ## Investigation Use A dramatized murder begins altering witnesses’ memories of the real case. ## Connections - [[10th Arrondissement]] ## Sources - Robin D."
+  },
+  {
+    "id": "11:Tour-Saint-Jacques",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Tour-Saint-Jacques",
+    "title": "Tour Saint-Jacques",
+    "category": "location",
+    "summary": "The Gothic tower left behind when Saint-Jacques-de-la-Boucherie was demolished.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "4th Arrondissement"
+    ],
+    "backlinks": [
+      "4th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "4th-Arrondissement",
+    "excerpt": "# Tour Saint-Jacques ## Overview After the Commune, the surrounding park served as a hurried mass grave, with reports of shallow burials and people interred alive. Nicolas Flamel was once buried beneath the vanished church. ## Investigation Use The dead stir around the tower as investigators search "
+  },
+  {
+    "id": "11:Val-de-Grace",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Val-de-Grace",
+    "title": "Val-de-Grâce",
+    "category": "location",
+    "summary": "A serene Baroque military hospital.",
+    "tags": [
+      "location",
+      "key-location"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "5th Arrondissement"
+    ],
+    "backlinks": [
+      "5th-Arrondissement"
+    ],
+    "keyLinks": [],
+    "parent": "5th-Arrondissement",
+    "excerpt": "# Val-de-Grâce ## Overview Built in the seventeenth century, it treats soldiers who often fear its care will be inferior to an expensive private hospital. ## Investigation Use A wounded officer brings battlefield evidence from a conflict France is not fighting. ## Connections - [[5th Arrondissement]"
   },
   {
     "id": "11:media:wiki/media/Albert-de-Rochas.png",
