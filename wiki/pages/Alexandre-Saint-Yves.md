@@ -39,6 +39,23 @@ cover: /wiki/media/Alexandre-Saint-Yves.png
 <h2>Campaign Use</h2>
 <p>He can connect occultism to diplomacy, conspiracies, utopian schemes, and aristocratic circles. His ideas make excellent bait for cults that want a divine mandate.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Joseph Alexandre Saint-Yves, Marquis d’Alveydre, coined “synarchy” for humanity’s secret governance by occult masters.</li>
+<li>He identifies Abraham with the Hindu figure Ram as a primordial lawgiver and father of all peoples.</li>
+<li>He teaches that millions live in subterranean Agarttha beneath Tibet, protected from the dark age and ruled by the Brahatmah, Mahatma, and Mahanga.</li>
+<li>He claims telepathic contact with Agartthan officials and the power of astral travel, though he becomes evasive when asked for practical detail.</li>
+<li>His Mission books instruct sovereigns, Jews, and other groups to establish synarchy on the surface.</li>
+<li>Marriage made him independently wealthy; San Marino granted his title fifteen years ago.</li>
+<li>His secondary interests include commercial uses for seaweed, and he presents as a dour man with a thick, thoughtful mustache.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Agartthan messages, astral claims, or a seaweed investment can each become the respectable surface of a Carcosan conspiracy.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -51,7 +68,8 @@ cover: /wiki/media/Alexandre-Saint-Yves.png
 <table>
 <tbody>
 <tr><th>Role</th><td>Esoteric theorist</td></tr>
-<tr><th>Age</th><td>50s</td></tr>
+<tr><th>Age</th><td>53</td></tr>
+<tr><th>Life</th><td>1842-1909</td></tr>
 <tr><th>Location</th><td>Private lectures and elite correspondence</td></tr>
 <tr><th>Public Manner</th><td>Grave, gracious, doctrinal</td></tr>
 <tr><th>Private Pressure</th><td>Someone is using his language for murder.</td></tr>
@@ -87,6 +105,8 @@ cover: /wiki/media/Alexandre-Saint-Yves.png
 | challenge his theories | treats dissent as a failure of initiation. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 131-132.
 
 - [Wikipedia: Alexandre Saint-Yves d’Alveydre](https://en.wikipedia.org/wiki/Alexandre_Saint-Yves_d%27Alveydre)
 

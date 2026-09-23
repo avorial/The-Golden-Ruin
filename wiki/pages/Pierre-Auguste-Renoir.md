@@ -39,6 +39,20 @@ cover: /wiki/media/Pierre-Auguste-Renoir.png
 <h2>Campaign Use</h2>
 <p>Renoir is useful precisely because he resists the weird. If he admits something is wrong, the characters should take it seriously.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>The tailor’s son endured poverty and ridicule before gaining respect as a leading Impressionist.</li>
+<li>Appeals to hard-won respectability are the best way to secure his cooperation.</li>
+<li>The serenity and beauty of his pictures mirror a comparatively calm private life.</li>
+<li>He has no interest in occultism, strangeness, or adventure and resists attempts to draw him into any of them.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Use him as a grounded artistic authority whose disbelief forces investigators to present a practical, respectable reason for involving him.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -52,6 +66,7 @@ cover: /wiki/media/Pierre-Auguste-Renoir.png
 <tbody>
 <tr><th>Role</th><td>Painter</td></tr>
 <tr><th>Age</th><td>54</td></tr>
+<tr><th>Life</th><td>1841-1919</td></tr>
 <tr><th>Circle</th><td>Impressionists, patrons, respectable collectors</td></tr>
 <tr><th>Public Manner</th><td>Warm, practical, beauty-loving</td></tr>
 <tr><th>Private Pressure</th><td>He has fought too hard for peace to welcome mystery.</td></tr>
@@ -87,6 +102,8 @@ cover: /wiki/media/Pierre-Auguste-Renoir.png
 | show him corrupted art | calls it ugly before calling it evil. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 123.
 
 - [Wikipedia: Pierre-Auguste Renoir](https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir)
 

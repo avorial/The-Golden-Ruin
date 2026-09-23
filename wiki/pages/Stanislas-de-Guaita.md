@@ -38,6 +38,22 @@ cover: /wiki/media/Stanislas-de-Guaita.png
 <h2>Campaign Use</h2>
 <p>De Guaita is a strong patron for occult combat. He can direct the characters against the King while understanding Carcosa as black magic, a misreading that may cause as many problems as it solves.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>An aristocratic poet and ritual magician who treats magic as a sincere, romantic spiritual crusade.</li>
+<li>He co-founded the Ordre Kabbalistique de la Rose-Croix seven years ago with Joséphin Péladan; the two are now bitterly estranged.</li>
+<li>His investigation of Abbé Boullan focused on allegations of magical sexual domination and reverse exorcisms that infested nuns with demons.</li>
+<li>Boullan supporter Joris-Karl Huysmans retaliated by accusing de Guaita and Péladan of attacking him with spells.</li>
+<li>He is feverishly completing The Key to Black Magic, a manual for opposing evil sorcerers, published shortly before his premature death.</li>
+<li>He also writes poetry, wears sandy hair closely cropped, and keeps only a modest mustache.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He identifies the Carcosan incursion either accurately or as earthly black magic, then asks the investigators to lead the fight while he finishes his book.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -50,6 +66,7 @@ cover: /wiki/media/Stanislas-de-Guaita.png
 <tbody>
 <tr><th>Role</th><td>Crusading Rosicrucian</td></tr>
 <tr><th>Age</th><td>34</td></tr>
+<tr><th>Life</th><td>1861-1897</td></tr>
 <tr><th>Circle</th><td>Rosicrucians, ritual magicians, occult polemicists</td></tr>
 <tr><th>Public Manner</th><td>Righteous, romantic, intense</td></tr>
 <tr><th>Private Pressure</th><td>He is racing death and unfinished work.</td></tr>
@@ -85,6 +102,8 @@ cover: /wiki/media/Stanislas-de-Guaita.png
 | bring Carcosan evidence | calls it black magic and prepares a counter-ritual. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 128-129.
 
 - [Wikipedia: Stanislas de Guaita](https://en.wikipedia.org/wiki/Stanislas_de_Guaita)
 

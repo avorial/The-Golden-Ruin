@@ -38,6 +38,20 @@ cover: /wiki/media/Ely-Star.png
 <h2>Campaign Use</h2>
 <p>Star can provide prophecies, horoscopes, and warnings that sound foolish until the third detail proves correct. He is ideal for foreshadowing without giving clean answers.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Born Eugène Jacob, the astrologer adopted a surname that suits his profession.</li>
+<li>He formerly worked as a butcher and as a stage conjurer alongside the famous Robert-Houdin.</li>
+<li>After turning from illusion to occultism, he combined Éliphas Lévi’s ideas with astrology, Kabbalah, and tarot.</li>
+<li>He has recently entered the Matherses’ Golden Dawn circle and will become its high priest by the end of the century.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His experience with both stage trickery and occult symbolism makes him useful for distinguishing fraud from genuine Carcosan effects.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -50,7 +64,8 @@ cover: /wiki/media/Ely-Star.png
 <table>
 <tbody>
 <tr><th>Role</th><td>Astrologer and magnetic healer</td></tr>
-<tr><th>Age</th><td>Middle-aged</td></tr>
+<tr><th>Age</th><td>48</td></tr>
+<tr><th>Life</th><td>1847-1942</td></tr>
 <tr><th>Location</th><td>Consulting rooms and salons</td></tr>
 <tr><th>Public Manner</th><td>Soothing, ceremonious, insinuating</td></tr>
 <tr><th>Private Pressure</th><td>A chart predicted its own destruction.</td></tr>
@@ -86,6 +101,8 @@ cover: /wiki/media/Ely-Star.png
 | seek healing | can calm symptoms, not remove the cause. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 132.
 
 - [Wikipedia: Ely Star](https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B8_%D0%A1%D1%82%D0%B0%D1%80)
 

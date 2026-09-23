@@ -39,6 +39,21 @@ cover: /wiki/media/Paul-Cezanne.png
 <h2>Campaign Use</h2>
 <p>Cézanne is useful when the campaign needs a painter who sees form beneath appearance. He may not explain the supernatural, but he may notice when an object has been painted as if viewed from a second, impossible angle.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>He lives in Provence but returns to Paris when his controversial, revolutionary paintings are exhibited.</li>
+<li>Shabby, difficult, intense-eyed, and marked by a drooping mustache, he may greet strange questions by complaining about diabetes or trouble with his wife Hortense.</li>
+<li>He is nearing the final period of his work, when stacked skulls become a recurring still-life subject.</li>
+<li>His childhood friendship with Émile Zola ended after Zola’s 1886 novel His Masterpiece portrayed an obvious Cézanne analogue as a failed artist driven to suicide.</li>
+<li>Zola professes not to understand why Cézanne took offense.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>The investigators’ actions may supply the experience that pushes him toward the skull paintings of his final period.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -52,6 +67,7 @@ cover: /wiki/media/Paul-Cezanne.png
 <tbody>
 <tr><th>Role</th><td>Painter</td></tr>
 <tr><th>Age</th><td>56</td></tr>
+<tr><th>Life</th><td>1839-1906</td></tr>
 <tr><th>Circle</th><td>Exhibitions, Provence, former friends of Zola</td></tr>
 <tr><th>Public Manner</th><td>Gruff, suspicious, intense</td></tr>
 <tr><th>Private Pressure</th><td>He fears his eye is changing faster than his hand.</td></tr>
@@ -87,6 +103,8 @@ cover: /wiki/media/Paul-Cezanne.png
 | need access to a difficult exhibition | grudgingly names who controls the wall space. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 117.
 
 - [Wikipedia: Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
 

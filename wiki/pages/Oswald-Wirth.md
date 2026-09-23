@@ -38,6 +38,23 @@ cover: /wiki/media/Oswald-Wirth.png
 <h2>Campaign Use</h2>
 <p>Use Wirth when symbols need interpretation without too much melodrama. He can read cards, decode ritual designs, or identify an occult forgery by its artistic laziness.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A Swiss tarot scholar, Freemason, Theosophist, and practitioner of hypnotic “curative magnetism.”</li>
+<li>Patients placed in healing trance occasionally reward him with prophecies from the other side.</li>
+<li>He was among the earliest occultists to investigate the abuses of the recently deceased Abbé Boullan.</li>
+<li>He serves as friend, collaborator, and occasional secretary to Stanislas de Guaita.</li>
+<li>Six years ago the pair created the Arcanes du Tarot Kabbalistique, the first tarot deck to incorporate overt magical symbolism.</li>
+<li>He sided with de Guaita in the Rosicrucian split and speaks openly contemptuously of Péladan.</li>
+<li>His forked beard and shaved temples give him a severe intensity.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Decide whether his healing works; if so, attach a cost, risk, or strict limit before allowing it to remove Injury cards. Trance prophecies can point toward Carcosa.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -50,7 +67,8 @@ cover: /wiki/media/Oswald-Wirth.png
 <table>
 <tbody>
 <tr><th>Role</th><td>Cartomancer and occult illustrator</td></tr>
-<tr><th>Age</th><td>30s</td></tr>
+<tr><th>Age</th><td>35</td></tr>
+<tr><th>Life</th><td>1860-1943</td></tr>
 <tr><th>Location</th><td>Occult meetings and artists' rooms</td></tr>
 <tr><th>Public Manner</th><td>Quiet, precise, dryly kind</td></tr>
 <tr><th>Private Pressure</th><td>His newest card draws itself differently each night.</td></tr>
@@ -86,6 +104,8 @@ cover: /wiki/media/Oswald-Wirth.png
 | mention the Yellow Sign | stops drawing and turns the paper over. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 133.
 
 - [Wikipedia: Oswald Wirth](https://en.wikipedia.org/wiki/Oswald_Wirth)
 

@@ -39,6 +39,21 @@ cover: /wiki/media/Camille-Flammarion.png
 <h2>Campaign Use</h2>
 <p>Flammarion can recruit investigators through scientific and occult networks. He is helpful, persuasive, and often wrong in a productive way.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>An astronomer, science-fiction writer, psychical researcher, and public intellectual who moves freely among scientific, occult, and artistic gatherings.</li>
+<li>He accepts evolution and the transmigration of souls, imagining souls improving through incarnations on other worlds.</li>
+<li>Books including Lumen and Real and Imaginary Worlds approach alien life through a naturalist lens.</li>
+<li>He applies scientific method to parapsychology but argues that séance manifestations arise from a medium’s extra-sensory powers rather than visiting spirits.</li>
+<li>His white mane, raised brows, and flowing Van Dyke reinforce a grand-old-man presence, and he eagerly supplies forewords or lectures.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He can recruit investigators to collect copies of the play through his scientific and occult contacts, but his favorite theories may misdirect their interpretation of Carcosa.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -52,6 +67,7 @@ cover: /wiki/media/Camille-Flammarion.png
 <tbody>
 <tr><th>Role</th><td>Astronomer and science fiction writer</td></tr>
 <tr><th>Age</th><td>53</td></tr>
+<tr><th>Life</th><td>1842-1925</td></tr>
 <tr><th>Circle</th><td>Astronomers, spiritists, occult lecturers</td></tr>
 <tr><th>Public Manner</th><td>Grand, curious, expansive</td></tr>
 <tr><th>Private Pressure</th><td>He needs the cosmos to be orderly enough to explain.</td></tr>
@@ -87,6 +103,8 @@ cover: /wiki/media/Camille-Flammarion.png
 | bring mediumistic evidence | attributes it to human powers before spirits. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 128.
 
 - [Wikipedia: Camille Flammarion](https://en.wikipedia.org/wiki/Camille_Flammarion)
 

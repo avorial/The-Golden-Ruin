@@ -39,6 +39,21 @@ cover: /wiki/media/Odilon-Redon.png
 <h2>Campaign Use</h2>
 <p>Redon can foreshadow horrors through images. His floating eyes, weeping spiders, and impossible heads may become things the characters later meet in the flesh.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>His work ranges from luminous delicacy to grotesque Symbolist visions that closely resemble possible manifestations of Carcosa.</li>
+<li>The Smiling Spider bears a human face, while The Eye Like a Strange Balloon Mounts Toward Infinity shows a floating eye with a skull-like basket.</li>
+<li>Joris-Karl Huysmans helped lift him from obscurity by praising him as a master of decadence in Against the Grain.</li>
+<li>Reticent and dour, he formerly frequented Edmond Bailly’s occult bookshop.</li>
+<li>A mysterious illness has kept him out of circulation for roughly a year; historically, recovery brings a striking change toward contentment and sociability.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His images may anticipate sights the investigators later encounter in Carcosa, and their intervention might cause his recovery and changed temperament.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -52,6 +67,7 @@ cover: /wiki/media/Odilon-Redon.png
 <tbody>
 <tr><th>Role</th><td>Painter</td></tr>
 <tr><th>Age</th><td>55</td></tr>
+<tr><th>Life</th><td>1840-1916</td></tr>
 <tr><th>Circle</th><td>Symbolists, occult bookshops, Huysmans</td></tr>
 <tr><th>Public Manner</th><td>Reticent, dour, visionary</td></tr>
 <tr><th>Private Pressure</th><td>His illness may be a visitation, not a weakness.</td></tr>
@@ -87,6 +103,8 @@ cover: /wiki/media/Odilon-Redon.png
 | ask for certainty | gives them an image, not an answer. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 122-123.
 
 - [Wikipedia: Odilon Redon](https://en.wikipedia.org/wiki/Odilon_Redon)
 

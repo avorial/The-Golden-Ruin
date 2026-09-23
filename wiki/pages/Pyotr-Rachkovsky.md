@@ -39,6 +39,23 @@ cover: /wiki/media/Pyotr-Rachkovsky.png
 <h2>Campaign Use</h2>
 <p>He is ideal for spy plots, forged documents, provocateurs, and political pressure. Rachkovsky can be patron, antagonist, or both within the same conversation.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Founder of the Okhrana foreign secret service, he operates from two modest rooms in the Russian consulate at 97 Rue de Grenelle.</li>
+<li>A cooperation agreement grants his small staff access to Sûreté Générale resources and files.</li>
+<li>He infiltrates, provokes, spies upon, and engineers arrests of exiled revolutionaries and anarchists.</li>
+<li>He may once have been a sincere revolutionary or may have been an infiltrator from the beginning; his personal history remains deliberately uncertain.</li>
+<li>He stays personally involved in operations, can order summary killing in Russia, and observes more restraint in France.</li>
+<li>A bushy mustache softens a small, bland face, but his gaze reveals a quick mind and his delight in layered schemes.</li>
+<li>He later commissions the antisemitic forgery The Protocols of the Elders of Zion, a legacy that should be handled plainly rather than romanticized.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>The Okhrana hires foreign detectives and journalists through cut-outs. Rachkovsky may employ the investigators unknowingly against an occult conspiracy or study the play as a model for weaponized, mind-corrupting text.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -51,7 +68,8 @@ cover: /wiki/media/Pyotr-Rachkovsky.png
 <table>
 <tbody>
 <tr><th>Role</th><td>Secret police operative</td></tr>
-<tr><th>Age</th><td>40s</td></tr>
+<tr><th>Age</th><td>42</td></tr>
+<tr><th>Life</th><td>1853-1910</td></tr>
 <tr><th>Location</th><td>Russian offices, cafés, informant rooms</td></tr>
 <tr><th>Public Manner</th><td>Polite, watchful, cultivated</td></tr>
 <tr><th>Private Pressure</th><td>His invented conspiracy found real members.</td></tr>
@@ -87,6 +105,8 @@ cover: /wiki/media/Pyotr-Rachkovsky.png
 | confront him | offers a calmer explanation than the truth. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 137.
 
 - [Wikipedia: Pyotr Rachkovsky](https://en.wikipedia.org/wiki/Pyotr_Rachkovsky)
 

@@ -39,6 +39,21 @@ cover: /wiki/media/Albert-de-Rochas.png
 <h2>Campaign Use</h2>
 <p>He is a strong contact for experiments, occult technology, and disciplined investigation. When other occultists embroider, de Rochas asks what happens if the phenomenon is repeated under pressure.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A pioneering parapsychologist who is also a historian, military engineer, and officer of the Legion of Honor.</li>
+<li>He investigates telekinesis, spirit photography, magnetic emanations, past lives, and Odic force.</li>
+<li>Odic force, named for Odin by Baron von Reichenbach, supposedly permeates living beings and the surrounding world.</li>
+<li>Investigators may know him through his 1887 book Undefined Forces.</li>
+<li>His erect carriage, high forehead, and disciplined upturned mustache make him appear more military than mystical.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He recruits young field agents against Carcosan phenomena and can obtain limited logistical support from army contacts, potentially including a covert raid against a formidable lair.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -51,7 +66,8 @@ cover: /wiki/media/Albert-de-Rochas.png
 <table>
 <tbody>
 <tr><th>Role</th><td>Occult experimenter</td></tr>
-<tr><th>Age</th><td>50s</td></tr>
+<tr><th>Age</th><td>58</td></tr>
+<tr><th>Life</th><td>1837-1914</td></tr>
 <tr><th>Location</th><td>Private studies and controlled demonstrations</td></tr>
 <tr><th>Public Manner</th><td>Measured, military, unsentimental</td></tr>
 <tr><th>Private Pressure</th><td>His subjects are remembering places that exist.</td></tr>
@@ -87,6 +103,8 @@ cover: /wiki/media/Albert-de-Rochas.png
 | need protection | brings discipline, not bravado. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 131.
 
 - [Wikipedia: Albert de Rochas](https://en.wikipedia.org/wiki/Albert_de_Rochas)
 

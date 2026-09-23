@@ -38,6 +38,22 @@ cover: /wiki/media/Alphonse-Bertillon.png
 <h2>Campaign Use</h2>
 <p>He can provide forensic analysis, police photographs, and official suspicion. Bertillon is especially useful when a crime scene contains evidence that refuses to stay consistent.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A self-trained forensic pioneer who standardized the modern police mug shot seven years ago.</li>
+<li>His bertillonage system measures faces and bodies and falsely claims to predict criminality, originally as a means of screening migrants.</li>
+<li>Its racial assumptions make it part of the emerging eugenics movement.</li>
+<li>Investigators may find him measuring prisoners at La Santé, indifferent to the hostility of inmates and jailers.</li>
+<li>Expelled from school in youth, he compensates with rigid bearing, a pointed goatee, and unshakable certainty.</li>
+<li>He soon gives bogus handwriting testimony against Alfred Dreyfus and later publishes work foundational to fingerprint analysis despite methods vulnerable to bad and fabricated data.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He can supply real procedural innovations while confidently producing false conclusions, forcing investigators to separate useful evidence from institutional pseudoscience.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -50,7 +66,8 @@ cover: /wiki/media/Alphonse-Bertillon.png
 <table>
 <tbody>
 <tr><th>Role</th><td>Police identification expert</td></tr>
-<tr><th>Age</th><td>40s</td></tr>
+<tr><th>Age</th><td>42</td></tr>
+<tr><th>Life</th><td>1853-1914</td></tr>
 <tr><th>Location</th><td>Préfecture de Police</td></tr>
 <tr><th>Public Manner</th><td>Cold, precise, severe</td></tr>
 <tr><th>Private Pressure</th><td>A set of measurements belongs to two different men.</td></tr>
@@ -86,6 +103,8 @@ cover: /wiki/media/Alphonse-Bertillon.png
 | fake an identity | may spot the deception from one photograph. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 134.
 
 - [Wikipedia: Alphonse Bertillon](https://en.wikipedia.org/wiki/Alphonse_Bertillon)
 

@@ -38,6 +38,22 @@ cover: /wiki/media/Charles-Richet.png
 <h2>Campaign Use</h2>
 <p>Richet can examine victims, test psychic claims, or provide a respectable cover for an investigation. He is useful precisely because he does not want to believe too quickly.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A gaunt, searching-eyed physiologist whose wide interests include medicine, aviation, theater, and psychical research.</li>
+<li>He will later receive the Nobel Prize for work on anaphylaxis.</li>
+<li>In 1894 he coined “ectoplasm” for the material supposedly produced by mediums during séances.</li>
+<li>He accepts paranormal powers but expects science to explain them without spirits or an afterlife.</li>
+<li>His confidence in mediums makes him vulnerable to fraud; in ordinary history he accepts and sometimes helps conceal hoaxes.</li>
+<li>He advocates pacifism and eugenics and holds virulently racist beliefs, especially toward Black people; this material requires deliberate table calibration.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>In a Carcosan reality he may correctly observe impossible effects while stubbornly refusing to recognize their supernatural cause.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -50,7 +66,8 @@ cover: /wiki/media/Charles-Richet.png
 <table>
 <tbody>
 <tr><th>Role</th><td>Physiologist and psychical researcher</td></tr>
-<tr><th>Age</th><td>40s</td></tr>
+<tr><th>Age</th><td>45</td></tr>
+<tr><th>Life</th><td>1850-1935</td></tr>
 <tr><th>Location</th><td>Laboratories, hospitals, controlled séances</td></tr>
 <tr><th>Public Manner</th><td>Calm, rigorous, politely skeptical</td></tr>
 <tr><th>Private Pressure</th><td>The results are becoming repeatable.</td></tr>
@@ -86,6 +103,8 @@ cover: /wiki/media/Charles-Richet.png
 | falsify evidence | becomes a cold and lasting enemy. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 131.
 
 - [Wikipedia: Charles Richet](https://en.wikipedia.org/wiki/Charles_Richet)
 

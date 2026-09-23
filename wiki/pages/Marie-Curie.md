@@ -44,6 +44,19 @@ cover: /wiki/media/Marie-Curie.png
 <h2>Campaign Use</h2>
 <p>Curie is useful when the supernatural leaves measurable traces. She can test materials, detect unusual emissions, or tell the characters that their impossible sample is dangerously real.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Marie Skłodowska returns to Paris in mid-1895 after failing to secure a position in Poland.</li>
+<li>She marries the older physicist Pierre Curie and begins investigating uranium rays.</li>
+<li>Even at twenty-eight she impresses everyone as unmistakably brilliant, focused, and single-minded.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Her instruments produce irreproducible readings around people who have read The King in Yellow. She and Pierre can provide laboratory analysis but recruit the investigators for fieldwork as they prepare to begin a family.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -56,7 +69,8 @@ cover: /wiki/media/Marie-Curie.png
 <table>
 <tbody>
 <tr><th>Role</th><td>Physicist</td></tr>
-<tr><th>Age</th><td>20s</td></tr>
+<tr><th>Age</th><td>28</td></tr>
+<tr><th>Life</th><td>1867-1934</td></tr>
 <tr><th>Location</th><td>Laboratories and university rooms</td></tr>
 <tr><th>Public Manner</th><td>Reserved, exact, relentless</td></tr>
 <tr><th>Private Pressure</th><td>The sample warms without a flame.</td></tr>
@@ -92,6 +106,8 @@ cover: /wiki/media/Marie-Curie.png
 | ask about occultism | treats it as a claim requiring proof. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 126.
 
 - [Wikipedia: Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie)
 

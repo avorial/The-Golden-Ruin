@@ -39,6 +39,21 @@ cover: /wiki/media/Colonel-Caoutchouc.png
 <h2>Campaign Use</h2>
 <p>Use him as a recurring thief, false patron, or social infiltrator. He is especially dangerous when the characters believe they have already met everyone important in the room.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A master of disguise pursued by police from London to Johannesburg; English speakers know him as Colonel Cuthbert Clay.</li>
+<li>A female accomplice matches his impersonation skills as they swindle wealthy targets who offend his socialist ideals.</li>
+<li>Aliases include Reverend Richard Peploe Brabazon, David Granton, Count von Lebenstein, Professor Schleiermacher, Dr. Quackenboss, and the psychic Antonio Herrera.</li>
+<li>He often victimizes the same mark repeatedly under different identities, especially the greedy diamond magnate Sir Charles Vandrift.</li>
+<li>He is adapted from Grant Allen’s 1897 novel An African Millionaire; one possible true name is Paul Finglemore.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His fascination with masks leads him to The King in Yellow. He tricks the investigators into taking the dangerous work, funds them with stolen wealth, and may stage a rescue in disguise without revealing himself.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -85,6 +100,10 @@ cover: /wiki/media/Colonel-Caoutchouc.png
 | guard an object | steals the reason it matters. |
 | seek an occult thief | may already be their employer. |
 | trust credentials | gives them excellent credentials. |
+
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 134.
 
 :::gm
 ## Hidden Truth

@@ -38,6 +38,20 @@ cover: /wiki/media/Antonio-Herrera.png
 <h2>Campaign Use</h2>
 <p>Herrera can be a false lead, a social key, or a disguised criminal intelligence probe. His readings should be useful enough that the lie becomes more dangerous.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A supposed Mexican psychic who periodically visits Paris and stays only in the best hotels.</li>
+<li>He reluctantly performs otherworldly feats for wealthy fellow guests.</li>
+<li>His delicate profile and halo of white hair invite comparison to pianist Ignacy Paderewski.</li>
+<li>Herrera is not a separate man at all, but one of Colonel Caoutchouc’s many disguises.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Every consultation is also a confidence trick, test, or intervention by Colonel Caoutchouc, allowing clues from two identities to converge.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -84,6 +98,10 @@ cover: /wiki/media/Antonio-Herrera.png
 | investigate his past | finds polished fog and paid witnesses. |
 | mention Colonel Caoutchouc | smiles with the wrong face for half a second. |
 | need entry to wealthy hotel circles | can provide it for a price he never states directly. |
+
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 129.
 
 :::gm
 ## Hidden Truth

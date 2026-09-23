@@ -38,6 +38,20 @@ cover: /wiki/media/Georges-Grison.png
 <h2>Campaign Use</h2>
 <p>He can tip the characters to a case, complicate an investigation by publishing too soon, or preserve a clue the authorities want buried.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Paris’s best-known police reporter roams the city for scoops with a pistol in his gray overcoat.</li>
+<li>He is never publicly without a top hat and white scarf, an incongruous figure among pickpockets and streetwalkers.</li>
+<li>People of the demimonde speak to him despite the contempt for the criminal poor evident in his Le Figaro articles.</li>
+<li>He enjoys embarrassing police during major investigations and can be played against them by someone with Demimonde.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>As patron, he finds an unread copy of the play at a crime scene and trades assignments for printable details. As antagonist, he reads it and begins murdering those he calls criminal vermin.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -50,7 +64,8 @@ cover: /wiki/media/Georges-Grison.png
 <table>
 <tbody>
 <tr><th>Role</th><td>Crime journalist</td></tr>
-<tr><th>Age</th><td>Middle-aged</td></tr>
+<tr><th>Age</th><td>54</td></tr>
+<tr><th>Life</th><td>1841-1928</td></tr>
 <tr><th>Location</th><td>Newsrooms, morgues, court corridors</td></tr>
 <tr><th>Public Manner</th><td>Curious, quick, shamelessly sociable</td></tr>
 <tr><th>Private Pressure</th><td>His best source has no reflection.</td></tr>
@@ -86,6 +101,8 @@ cover: /wiki/media/Georges-Grison.png
 | anger powerful people | admires them professionally. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 135.
 
 - [Wikipedia: Georges Grison](https://fr.wikipedia.org/wiki/Georges_Grison)
 

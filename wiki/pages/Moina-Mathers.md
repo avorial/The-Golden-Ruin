@@ -39,6 +39,21 @@ cover: /wiki/media/Moina-Mathers.png
 <h2>Campaign Use</h2>
 <p>Moina is the Mathers most likely to command a room. She can introduce English occult visitors, ritual art, and the couple's coming Isis-themed performances.</p>
 </section>
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Moina and Samuel Mathers moved from London to Paris four years ago, allegedly on orders from the Golden Dawn’s hidden Secret Chiefs.</li>
+<li>She is Samuel’s co-ritualist and the charismatic center of the pair, making feminist art and carrying herself like a living Pre-Raphaelite painting.</li>
+<li>Having spent part of her childhood in Paris, she speaks fluent French and mediates between English occult visitors and the Paris scene.</li>
+<li>Their Auteuil villa attracts visiting British occultists.</li>
+<li>The couple is approaching an Isis-themed phase of ritual performances involving white robes trimmed with leopard fur.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>The investigators may precipitate the Matherses’ Isis transformation or discover that Moina’s artistic symbolism predicts what their rituals will actually summon.</li>
+</ul>
+</section>
+
 
 </div>
 
@@ -52,6 +67,7 @@ cover: /wiki/media/Moina-Mathers.png
 <tbody>
 <tr><th>Role</th><td>Golden Dawn co-founder, artist, ritualist</td></tr>
 <tr><th>Age</th><td>30</td></tr>
+<tr><th>Life</th><td>1865-1928</td></tr>
 <tr><th>Circle</th><td>Golden Dawn, Auteuil villa, English occult visitors</td></tr>
 <tr><th>Public Manner</th><td>Charismatic, artistic, controlled</td></tr>
 <tr><th>Private Pressure</th><td>She must hold together ritual, marriage, and ambition.</td></tr>
@@ -87,6 +103,8 @@ cover: /wiki/media/Moina-Mathers.png
 | underestimate her | lets them reveal what they came to take. |
 
 ## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 129-130.
 
 - [Wikipedia: Moina Mathers](https://en.wikipedia.org/wiki/Moina_Mathers)
 
