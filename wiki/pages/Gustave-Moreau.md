@@ -18,6 +18,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Gustave-Moreau.png
 ---
 # Gustave Moreau
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Gustave-Moreau.png" alt="Portrait of Gustave Moreau in a dark suit and spotted bow tie" />
+<figcaption>Gustave Moreau</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter, illustrator, teacher</td></tr>

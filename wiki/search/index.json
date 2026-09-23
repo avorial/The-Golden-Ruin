@@ -853,34 +853,6 @@
     "excerpt": "# Gustave Moreau <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Gustave Moreau carries melancholy with the composure of a man who has turned grief into gold leaf, myth, and impossible architecture. He can be generous to students while seemin"
   },
   {
-    "id": "11:Henri-Matisse",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "Henri-Matisse",
-    "title": "Henri Matisse",
-    "category": "npc",
-    "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
-    "tags": [
-      "npc",
-      "people",
-      "artists-and-bohemians",
-      "painter",
-      "student"
-    ],
-    "aliases": [],
-    "visibility": "gm",
-    "approvalStatus": "unapproved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [
-      "Artists-and-Bohemians"
-    ],
-    "keyLinks": [],
-    "parent": "Artists-and-Bohemians",
-    "excerpt": "# Henri Matisse <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Henri Matisse is not yet a monument. He is a struggling student with talent, uncertainty, a father's disappointment behind him, and enough ambition to make failure feel like a mo"
-  },
-  {
     "id": "11:Henri-de-Toulouse-Lautrec",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -911,6 +883,34 @@
     "excerpt": "# Henri de Toulouse-Lautrec <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Toulouse-Lautrec sees the room from below its self-importance. He drinks hard, observes harder, and catches people at the moment when the pose begins to fail.</p> </s"
   },
   {
+    "id": "11:Henri-Matisse",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Henri-Matisse",
+    "title": "Henri Matisse",
+    "category": "npc",
+    "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "student"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Artists-and-Bohemians"
+    ],
+    "keyLinks": [],
+    "parent": "Artists-and-Bohemians",
+    "excerpt": "# Henri Matisse <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Henri Matisse is not yet a monument. He is a struggling student with talent, uncertainty, a father's disappointment behind him, and enough ambition to make failure feel like a mo"
+  },
+  {
     "id": "11:Henry-Pirece-Laura",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -932,27 +932,6 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Henry Pierce (Laura) ## History --- Character Picture ```yellow-king-paris-sheet name: Henry Pierce player: Laura Bee field: Belle-Lettrist / Tinker drive: Curiostity pushes: 2 investigative: - Bella Lettrist - History - Reassurance - Resarch general: Athletics: 3 Composure: 6 Fighting: 5 First Ai"
-  },
-  {
-    "id": "11:House-Staff",
-    "campaignId": 11,
-    "campaignName": "The Golden Ruin",
-    "slug": "House-Staff",
-    "title": "House Staff",
-    "category": "npc",
-    "summary": "",
-    "tags": [
-      "npc"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "",
-    "playerText": "",
-    "links": [],
-    "backlinks": [],
-    "keyLinks": [],
-    "excerpt": "# House Staff The House staff of the House of the North Star, have all been there for years."
   },
   {
     "id": "11:House-of-the-North-Star",
@@ -1006,6 +985,27 @@
     ],
     "parent": "17th-Arrondissement",
     "excerpt": "# House of the North Star ![The discreet street frontage of the House of the North Star.](/wiki/media/HotN-Street-View.png) ## Location The House of the North Star stands at the corner of Rue Théodule-Ribot and Avenue de Wagram, on the Plaine-de-Monceaux edge of Paris's [[17th arrondissement]]. It i"
+  },
+  {
+    "id": "11:House-Staff",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "House-Staff",
+    "title": "House Staff",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# House Staff The House staff of the House of the North Star, have all been there for years."
   },
   {
     "id": "11:Jackson-Jay-Steerman-IV-David",
@@ -2189,6 +2189,136 @@
     "excerpt": "# Stéphane Mallarmé <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Stéphane Mallarmé speaks as if language is a veil that should never be lifted all at once. He can be warm, oblique, brilliant, broke, and maddeningly precise about the wrong "
   },
   {
+    "id": "11:media:wiki/media/Alphonse-Mucha.jpg",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Alphonse-Mucha.jpg",
+    "title": "Portrait of Alphonse Mucha standing before one of his decorative figures",
+    "category": "media",
+    "summary": "Alphonse Mucha, Czech painter, illustrator, and master of the theatrical poster.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Alphonse-Mucha.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Anatole-France.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Anatole-France.png",
+    "title": "Portrait of Anatole France standing in his library",
+    "category": "media",
+    "summary": "Anatole France, novelist, journalist, and cultivated skeptic.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "author",
+      "portrait"
+    ],
+    "aliases": [
+      "Anatole-France.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Aristide-Bruant.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Aristide-Bruant.png",
+    "title": "Portrait of Aristide Bruant in his black hat, black coat, and red scarf",
+    "category": "media",
+    "summary": "Aristide Bruant, Montmartre performer, poet, and cabaret proprietor.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "performer",
+      "portrait"
+    ],
+    "aliases": [
+      "Aristide-Bruant.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Auguste-Rodin.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Auguste-Rodin.png",
+    "title": "Close portrait of Auguste Rodin with his long beard",
+    "category": "media",
+    "summary": "Auguste Rodin, sculptor of monumental bodies and private passions.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "sculptor",
+      "portrait"
+    ],
+    "aliases": [
+      "Auguste-Rodin.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Claude-Debussy.webp",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Claude-Debussy.webp",
+    "title": "Watercolor portrait of Claude Debussy",
+    "category": "media",
+    "summary": "Claude Debussy, composer at the edge of a new musical language.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "composer",
+      "portrait"
+    ],
+    "aliases": [
+      "Claude-Debussy.webp"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/CLPL-Floorplan.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2265,6 +2395,32 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Edgar-Degas.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Edgar-Degas.png",
+    "title": "Portrait of Edgar Degas in formal black dress holding a top hat",
+    "category": "media",
+    "summary": "Edgar Degas, painter and relentless observer of bodies in motion.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Edgar-Degas.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Elise-Marceau-Maid.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2291,6 +2447,58 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Emile-Zola.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Emile-Zola.png",
+    "title": "Portrait of Émile Zola in a dark suit with a watch chain",
+    "category": "media",
+    "summary": "Émile Zola, novelist, journalist, and chronicler of public corruption.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "author",
+      "portrait"
+    ],
+    "aliases": [
+      "Emile-Zola.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Erik-Satie.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Erik-Satie.png",
+    "title": "Portrait of Erik Satie in a brown corduroy suit and black hat",
+    "category": "media",
+    "summary": "Erik Satie, eccentric composer of Montmartre's cafés and cabarets.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "composer",
+      "portrait"
+    ],
+    "aliases": [
+      "Erik-Satie.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Etienne-Renaud-Valet.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2306,6 +2514,84 @@
     ],
     "aliases": [
       "Etienne-Renaud-Valet.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Gail-Loveless.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Gail-Loveless.png",
+    "title": "Portrait of Gail Loveless in burgundy velvet holding opera glasses",
+    "category": "media",
+    "summary": "Gail Loveless, an American patron moving confidently through Parisian society.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "patron",
+      "portrait"
+    ],
+    "aliases": [
+      "Gail-Loveless.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Gustave-Moreau.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Gustave-Moreau.png",
+    "title": "Portrait of Gustave Moreau in a dark suit and spotted bow tie",
+    "category": "media",
+    "summary": "Gustave Moreau, Symbolist painter and teacher of visionary artists.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Gustave-Moreau.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Henri-de-Toulouse-Lautrec.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Henri-de-Toulouse-Lautrec.png",
+    "title": "Full-length portrait of Henri de Toulouse-Lautrec with bowler hat and cane",
+    "category": "media",
+    "summary": "Henri de Toulouse-Lautrec, painter and chronicler of Montmartre nightlife.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Henri-de-Toulouse-Lautrec.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",

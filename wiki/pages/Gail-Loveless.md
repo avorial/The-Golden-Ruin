@@ -19,6 +19,7 @@ aliases:
   - Mrs. Loveless
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Gail-Loveless.png
 ---
 # Gail Loveless
 
@@ -43,6 +44,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Gail-Loveless.png" alt="Portrait of Gail Loveless in burgundy velvet holding opera glasses" />
+<figcaption>Gail Loveless</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Spy novelist</td></tr>

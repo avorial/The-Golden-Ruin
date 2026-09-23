@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Claude-Debussy.webp
 ---
 # Claude Debussy
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Claude-Debussy.webp" alt="Watercolor portrait of Claude Debussy" />
+<figcaption>Claude Debussy</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Composer</td></tr>

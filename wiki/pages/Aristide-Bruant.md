@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Aristide-Bruant.png
 ---
 # Aristide Bruant
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Aristide-Bruant.png" alt="Portrait of Aristide Bruant in his black hat, black coat, and red scarf" />
+<figcaption>Aristide Bruant</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Performer, cabaret owner, possible patron</td></tr>

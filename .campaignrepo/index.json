@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T15:52:39.615Z",
+  "generatedAt": "2026-09-23T16:00:21.200Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -100,7 +100,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Alphonse-Mucha.jpg"
     },
     {
       "id": "npc-Anatole-France",
@@ -119,7 +120,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Anatole-France.png"
     },
     {
       "id": "npc-Antonio-Herrera",
@@ -159,7 +161,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Aristide-Bruant.png"
     },
     {
       "id": "npc-Artists-and-Bohemians",
@@ -227,7 +230,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Auguste-Rodin.png"
     },
     {
       "id": "character-Bruce-Carter-Mark",
@@ -244,7 +248,8 @@
       "summary": "Paris-era Yellow King character sheet for Bruce Carter.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Camille-Flammarion",
@@ -350,7 +355,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "17th-Arrondissement"
+      "parent": "17th-Arrondissement",
+      "cover": "/wiki/media/CLPL-Setting.png"
     },
     {
       "id": "npc-Claude-Debussy",
@@ -371,7 +377,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Claude-Debussy.webp"
     },
     {
       "id": "npc-Colonel-Caoutchouc",
@@ -411,7 +418,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Edgar-Degas.png"
     },
     {
       "id": "npc-Edmond-Bailly",
@@ -451,7 +459,8 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Elise-Marceau-Maid",
@@ -479,7 +488,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Elise-Marceau-Maid.png"
     },
     {
       "id": "npc-Ely-Star",
@@ -519,7 +529,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Emile-Zola.png"
     },
     {
       "id": "npc-Erik-Satie",
@@ -541,7 +552,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Erik-Satie.png"
     },
     {
       "id": "npc-Etienne-Renaud-Valet",
@@ -570,7 +582,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Etienne-Renaud-Valet.png"
     },
     {
       "id": "npc-Gail-Loveless",
@@ -594,7 +607,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Gail-Loveless.png"
     },
     {
       "id": "npc-Georges-Grison",
@@ -633,7 +647,31 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Gustave-Moreau.png"
+    },
+    {
+      "id": "npc-Henri-de-Toulouse-Lautrec",
+      "title": "Henri de Toulouse-Lautrec",
+      "path": "wiki/pages/Henri-de-Toulouse-Lautrec.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "people",
+        "artists-and-bohemians",
+        "painter",
+        "printmaker"
+      ],
+      "links": [],
+      "aliases": [
+        "Toulouse-Lautrec"
+      ],
+      "summary": "Montmartre painter and printmaker who sees through performance because he lives inside it.",
+      "visibility": "gm",
+      "approvalStatus": "unapproved",
+      "keyLinks": [],
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Henri-de-Toulouse-Lautrec.png"
     },
     {
       "id": "npc-Henri-Matisse",
@@ -656,28 +694,6 @@
       "parent": "Artists-and-Bohemians"
     },
     {
-      "id": "npc-Henri-de-Toulouse-Lautrec",
-      "title": "Henri de Toulouse-Lautrec",
-      "path": "wiki/pages/Henri-de-Toulouse-Lautrec.md",
-      "type": "npc",
-      "tags": [
-        "npc",
-        "people",
-        "artists-and-bohemians",
-        "painter",
-        "printmaker"
-      ],
-      "links": [],
-      "aliases": [
-        "Toulouse-Lautrec"
-      ],
-      "summary": "Montmartre painter and printmaker who sees through performance because he lives inside it.",
-      "visibility": "gm",
-      "approvalStatus": "unapproved",
-      "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
-    },
-    {
       "id": "character-Henry-Pirece-Laura",
       "title": "Henry Pierce (Laura)",
       "path": "wiki/pages/Henry-Pirece-Laura.md",
@@ -692,22 +708,8 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "npc-House-Staff",
-      "title": "House Staff",
-      "path": "wiki/pages/House-Staff.md",
-      "type": "npc",
-      "tags": [
-        "npc"
-      ],
-      "links": [],
-      "aliases": [],
-      "summary": "",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "location-House-of-the-North-Star",
@@ -731,7 +733,23 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "17th-Arrondissement"
+      "parent": "17th-Arrondissement",
+      "cover": "/wiki/media/HotN-Street-View.png"
+    },
+    {
+      "id": "npc-House-Staff",
+      "title": "House Staff",
+      "path": "wiki/pages/House-Staff.md",
+      "type": "npc",
+      "tags": [
+        "npc"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
     },
     {
       "id": "character-Jackson-Jay-Steerman-IV-David",
@@ -748,7 +766,8 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-James-McNeill-Whistler",
@@ -942,7 +961,8 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Leo-Taxil",
@@ -1054,7 +1074,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Madame-Eugenie-Voclain-Head-Cook.png"
     },
     {
       "id": "npc-Marcel-Proust",
@@ -1092,7 +1113,8 @@
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Marie-Curie",
@@ -1558,7 +1580,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Silas-Burke.png"
     },
     {
       "id": "npc-Stanislas-de-Guaita",

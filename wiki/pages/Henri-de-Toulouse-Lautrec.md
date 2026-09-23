@@ -19,6 +19,7 @@ aliases:
   - Toulouse-Lautrec
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Henri-de-Toulouse-Lautrec.png
 ---
 # Henri de Toulouse-Lautrec
 
@@ -43,6 +44,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Henri-de-Toulouse-Lautrec.png" alt="Full-length portrait of Henri de Toulouse-Lautrec with bowler hat and cane" />
+<figcaption>Henri de Toulouse-Lautrec</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter and printmaker</td></tr>

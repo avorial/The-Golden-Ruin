@@ -18,6 +18,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Alphonse-Mucha.jpg
 ---
 # Alphonse Mucha
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Alphonse-Mucha.jpg" alt="Portrait of Alphonse Mucha standing before one of his decorative figures" />
+<figcaption>Alphonse Mucha</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter and illustrator</td></tr>

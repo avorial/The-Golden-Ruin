@@ -18,6 +18,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Erik-Satie.png
 ---
 # Erik Satie
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Erik-Satie.png" alt="Portrait of Erik Satie in a brown corduroy suit and black hat" />
+<figcaption>Erik Satie</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Composer</td></tr>

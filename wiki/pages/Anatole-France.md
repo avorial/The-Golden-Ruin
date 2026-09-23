@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Anatole-France.png
 ---
 # Anatole France
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Anatole-France.png" alt="Portrait of Anatole France standing in his library" />
+<figcaption>Anatole France</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Author, journalist, possible patron</td></tr>

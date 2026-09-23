@@ -18,6 +18,7 @@ aliases:
   - Emile Zola
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Emile-Zola.png
 ---
 # Émile Zola
 
@@ -42,6 +43,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Emile-Zola.png" alt="Portrait of Émile Zola in a dark suit with a watch chain" />
+<figcaption>Émile Zola</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Novelist</td></tr>

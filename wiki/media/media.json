@@ -85,6 +85,116 @@
       "portrait"
     ]
   },
+  "wiki/media/Alphonse-Mucha.jpg": {
+    "alt": "Portrait of Alphonse Mucha standing before one of his decorative figures",
+    "caption": "Alphonse Mucha, Czech painter, illustrator, and master of the theatrical poster.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
+  "wiki/media/Anatole-France.png": {
+    "alt": "Portrait of Anatole France standing in his library",
+    "caption": "Anatole France, novelist, journalist, and cultivated skeptic.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "author",
+      "portrait"
+    ]
+  },
+  "wiki/media/Aristide-Bruant.png": {
+    "alt": "Portrait of Aristide Bruant in his black hat, black coat, and red scarf",
+    "caption": "Aristide Bruant, Montmartre performer, poet, and cabaret proprietor.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "performer",
+      "portrait"
+    ]
+  },
+  "wiki/media/Auguste-Rodin.png": {
+    "alt": "Close portrait of Auguste Rodin with his long beard",
+    "caption": "Auguste Rodin, sculptor of monumental bodies and private passions.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "sculptor",
+      "portrait"
+    ]
+  },
+  "wiki/media/Claude-Debussy.webp": {
+    "alt": "Watercolor portrait of Claude Debussy",
+    "caption": "Claude Debussy, composer at the edge of a new musical language.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "composer",
+      "portrait"
+    ]
+  },
+  "wiki/media/Edgar-Degas.png": {
+    "alt": "Portrait of Edgar Degas in formal black dress holding a top hat",
+    "caption": "Edgar Degas, painter and relentless observer of bodies in motion.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
+  "wiki/media/Emile-Zola.png": {
+    "alt": "Portrait of Émile Zola in a dark suit with a watch chain",
+    "caption": "Émile Zola, novelist, journalist, and chronicler of public corruption.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "author",
+      "portrait"
+    ]
+  },
+  "wiki/media/Erik-Satie.png": {
+    "alt": "Portrait of Erik Satie in a brown corduroy suit and black hat",
+    "caption": "Erik Satie, eccentric composer of Montmartre's cafés and cabarets.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "composer",
+      "portrait"
+    ]
+  },
+  "wiki/media/Gail-Loveless.png": {
+    "alt": "Portrait of Gail Loveless in burgundy velvet holding opera glasses",
+    "caption": "Gail Loveless, an American patron moving confidently through Parisian society.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "patron",
+      "portrait"
+    ]
+  },
+  "wiki/media/Gustave-Moreau.png": {
+    "alt": "Portrait of Gustave Moreau in a dark suit and spotted bow tie",
+    "caption": "Gustave Moreau, Symbolist painter and teacher of visionary artists.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
+  "wiki/media/Henri-de-Toulouse-Lautrec.png": {
+    "alt": "Full-length portrait of Henri de Toulouse-Lautrec with bowler hat and cane",
+    "caption": "Henri de Toulouse-Lautrec, painter and chronicler of Montmartre nightlife.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

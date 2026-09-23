@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Auguste-Rodin.png
 ---
 # Auguste Rodin
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Auguste-Rodin.png" alt="Close portrait of Auguste Rodin with his long beard" />
+<figcaption>Auguste Rodin</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Sculptor</td></tr>

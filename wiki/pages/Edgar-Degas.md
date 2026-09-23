@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Edgar-Degas.png
 ---
 # Edgar Degas
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Edgar-Degas.png" alt="Portrait of Edgar Degas in formal black dress holding a top hat" />
+<figcaption>Edgar Degas</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter and sculptor</td></tr>
