@@ -17,6 +17,7 @@ aliases:
   - La Goulue
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/La-Goulue-Louise-Weber.png
 ---
 # La Goulue (Louise Weber)
 
@@ -41,6 +42,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/La-Goulue-Louise-Weber.png" alt="Full-length portrait of Louise Weber, La Goulue, in a pink stage dress" />
+<figcaption>La Goulue (Louise Weber)</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Can-can dancer and singer</td></tr>

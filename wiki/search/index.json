@@ -2802,5 +2802,83 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Jean-Leon-Gerome.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Jean-Leon-Gerome.png",
+    "title": "Portrait of Jean-Léon Gérôme in a formal dark suit",
+    "category": "media",
+    "summary": "Jean-Léon Gérôme, academic painter, sculptor, and formidable teacher.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ],
+    "aliases": [
+      "Jean-Leon-Gerome.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Joris-Karl-Huysmans.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Joris-Karl-Huysmans.png",
+    "title": "Seated portrait of Joris-Karl Huysmans in a black suit",
+    "category": "media",
+    "summary": "Joris-Karl Huysmans, novelist of decadence, faith, and occult unease.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "author",
+      "portrait"
+    ],
+    "aliases": [
+      "Joris-Karl-Huysmans.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/La-Goulue-Louise-Weber.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/La-Goulue-Louise-Weber.png",
+    "title": "Full-length portrait of Louise Weber, La Goulue, in a pink stage dress",
+    "category": "media",
+    "summary": "Louise Weber, known as La Goulue, celebrated dancer of the Moulin Rouge.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "performer",
+      "portrait"
+    ],
+    "aliases": [
+      "La-Goulue-Louise-Weber.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

@@ -19,6 +19,7 @@ aliases:
   - Charles-Marie-Georges Huysmans
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Joris-Karl-Huysmans.png
 ---
 # Joris-Karl Huysmans
 
@@ -43,6 +44,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Joris-Karl-Huysmans.png" alt="Seated portrait of Joris-Karl Huysmans in a black suit" />
+<figcaption>Joris-Karl Huysmans</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Novelist, occult witness, possible patron</td></tr>

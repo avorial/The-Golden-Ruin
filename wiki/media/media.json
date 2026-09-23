@@ -225,6 +225,36 @@
       "portrait"
     ]
   },
+  "wiki/media/Jean-Leon-Gerome.png": {
+    "alt": "Portrait of Jean-Léon Gérôme in a formal dark suit",
+    "caption": "Jean-Léon Gérôme, academic painter, sculptor, and formidable teacher.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "painter",
+      "portrait"
+    ]
+  },
+  "wiki/media/Joris-Karl-Huysmans.png": {
+    "alt": "Seated portrait of Joris-Karl Huysmans in a black suit",
+    "caption": "Joris-Karl Huysmans, novelist of decadence, faith, and occult unease.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "author",
+      "portrait"
+    ]
+  },
+  "wiki/media/La-Goulue-Louise-Weber.png": {
+    "alt": "Full-length portrait of Louise Weber, La Goulue, in a pink stage dress",
+    "caption": "Louise Weber, known as La Goulue, celebrated dancer of the Moulin Rouge.",
+    "tags": [
+      "npc",
+      "artists-and-bohemians",
+      "performer",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

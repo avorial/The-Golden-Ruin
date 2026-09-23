@@ -19,6 +19,7 @@ aliases:
   - Jean-Leon Gerome
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Jean-Leon-Gerome.png
 ---
 # Jean-Léon Gérôme
 
@@ -43,6 +44,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Jean-Leon-Gerome.png" alt="Portrait of Jean-Léon Gérôme in a formal dark suit" />
+<figcaption>Jean-Léon Gérôme</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter and art teacher</td></tr>
