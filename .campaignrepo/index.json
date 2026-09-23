@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T14:14:15.031Z",
+  "generatedAt": "2026-09-23T14:53:54.863Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -38,7 +38,7 @@
       ],
       "summary": "Military engineer, historian, and occult investigator who approaches magnetism and past lives like problems of artillery.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
@@ -59,7 +59,7 @@
       ],
       "summary": "Esoteric political thinker whose grand theories promise hidden order beneath civilization's apparent chaos.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
     },
