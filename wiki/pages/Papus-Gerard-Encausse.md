@@ -20,6 +20,7 @@ aliases:
   - Papus
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Papus-Gerard-Encausse.png
 ---
 # Papus (Gérard Encausse)
 
@@ -44,6 +45,10 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Papus-Gerard-Encausse.png" alt="Portrait of Papus (Gérard Encausse) with a dark beard and formal coat">
+<figcaption>Papus (Gérard Encausse), physician, occult author, and organizer of the Martinist Order.</figcaption>
+</figure>
 <table>
 <tbody>
 <tr><th>Role</th><td>Founder of Martinism</td></tr>

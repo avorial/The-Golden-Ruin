@@ -19,6 +19,7 @@ aliases:
   - MacGregor Mathers
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Samuel-Liddell-MacGregor-Mathers.png
 ---
 # Samuel Liddell “MacGregor” Mathers
 
@@ -43,6 +44,10 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Samuel-Liddell-MacGregor-Mathers.png" alt="Seated portrait of Samuel Liddell “MacGregor” Mathers in a brown suit">
+<figcaption>Samuel Liddell “MacGregor” Mathers, ceremonial magician and co-founder of the Hermetic Order of the Golden Dawn.</figcaption>
+</figure>
 <table>
 <tbody>
 <tr><th>Role</th><td>Golden Dawn founder</td></tr>

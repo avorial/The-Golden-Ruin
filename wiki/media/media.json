@@ -589,5 +589,35 @@
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",
     "tags": []
+  },
+  "wiki/media/Papus-Gerard-Encausse.png": {
+    "alt": "Portrait of Papus (Gérard Encausse) with a dark beard and formal coat",
+    "caption": "Papus (Gérard Encausse), physician, occult author, and organizer of the Martinist Order.",
+    "tags": [
+      "npc",
+      "occultists",
+      "martinist",
+      "portrait"
+    ]
+  },
+  "wiki/media/Samuel-Liddell-MacGregor-Mathers.png": {
+    "alt": "Seated portrait of Samuel Liddell “MacGregor” Mathers in a brown suit",
+    "caption": "Samuel Liddell “MacGregor” Mathers, ceremonial magician and co-founder of the Hermetic Order of the Golden Dawn.",
+    "tags": [
+      "npc",
+      "occultists",
+      "golden-dawn",
+      "portrait"
+    ]
+  },
+  "wiki/media/Stanislas-de-Guaita.png": {
+    "alt": "Portrait of Stanislas de Guaita as a young man in a dark suit",
+    "caption": "Stanislas de Guaita, poet, occultist, and founder of the Kabbalistic Order of the Rose-Cross.",
+    "tags": [
+      "npc",
+      "occultists",
+      "rosicrucian",
+      "portrait"
+    ]
   }
 }

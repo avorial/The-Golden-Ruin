@@ -3738,5 +3738,83 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Papus-Gerard-Encausse.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Papus-Gerard-Encausse.png",
+    "title": "Portrait of Papus (Gérard Encausse) with a dark beard and formal coat",
+    "category": "media",
+    "summary": "Papus (Gérard Encausse), physician, occult author, and organizer of the Martinist Order.",
+    "tags": [
+      "npc",
+      "occultists",
+      "martinist",
+      "portrait"
+    ],
+    "aliases": [
+      "Papus-Gerard-Encausse.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Samuel-Liddell-MacGregor-Mathers.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Samuel-Liddell-MacGregor-Mathers.png",
+    "title": "Seated portrait of Samuel Liddell “MacGregor” Mathers in a brown suit",
+    "category": "media",
+    "summary": "Samuel Liddell “MacGregor” Mathers, ceremonial magician and co-founder of the Hermetic Order of the Golden Dawn.",
+    "tags": [
+      "npc",
+      "occultists",
+      "golden-dawn",
+      "portrait"
+    ],
+    "aliases": [
+      "Samuel-Liddell-MacGregor-Mathers.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Stanislas-de-Guaita.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Stanislas-de-Guaita.png",
+    "title": "Portrait of Stanislas de Guaita as a young man in a dark suit",
+    "category": "media",
+    "summary": "Stanislas de Guaita, poet, occultist, and founder of the Kabbalistic Order of the Rose-Cross.",
+    "tags": [
+      "npc",
+      "occultists",
+      "rosicrucian",
+      "portrait"
+    ],
+    "aliases": [
+      "Stanislas-de-Guaita.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   }
 ]

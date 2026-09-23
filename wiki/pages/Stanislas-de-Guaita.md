@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Stanislas-de-Guaita.png
 ---
 # Stanislas de Guaita
 
@@ -41,6 +42,10 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Stanislas-de-Guaita.png" alt="Portrait of Stanislas de Guaita as a young man in a dark suit">
+<figcaption>Stanislas de Guaita, poet, occultist, and founder of the Kabbalistic Order of the Rose-Cross.</figcaption>
+</figure>
 <table>
 <tbody>
 <tr><th>Role</th><td>Crusading Rosicrucian</td></tr>
