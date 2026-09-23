@@ -375,6 +375,46 @@
       "portrait"
     ]
   },
+  "wiki/media/Albert-de-Rochas.png": {
+    "alt": "Portrait of Albert de Rochas in a decorated military uniform",
+    "caption": "Albert de Rochas, military engineer and investigator of psychic forces.",
+    "tags": [
+      "npc",
+      "occultists",
+      "psychical-research",
+      "portrait"
+    ]
+  },
+  "wiki/media/Alexandre-Saint-Yves.png": {
+    "alt": "Portrait of Alexandre Saint-Yves in a dark formal coat",
+    "caption": "Alexandre Saint-Yves, occult philosopher and architect of synarchic doctrine.",
+    "tags": [
+      "npc",
+      "occultists",
+      "esoteric-philosophy",
+      "portrait"
+    ]
+  },
+  "wiki/media/Antonio-Herrera.png": {
+    "alt": "Sepia portrait of Antonio Herrera with dark hair and beard",
+    "caption": "Antonio Herrera, occult practitioner moving through Parisian esoteric circles.",
+    "tags": [
+      "npc",
+      "occultists",
+      "esoteric-circle",
+      "portrait"
+    ]
+  },
+  "wiki/media/Camille-Flammarion.png": {
+    "alt": "Portrait of Camille Flammarion with white hair and beard",
+    "caption": "Camille Flammarion, astronomer and investigator of worlds both visible and unseen.",
+    "tags": [
+      "npc",
+      "occultists",
+      "astronomer",
+      "portrait"
+    ]
+  },
   "wiki/media/Paris-Map.webp": {
     "alt": "Paris City Map",
     "caption": "Paris Arrondissements",

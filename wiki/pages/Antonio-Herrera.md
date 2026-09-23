@@ -17,6 +17,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Antonio-Herrera.png
 ---
 # Antonio Herrera
 
@@ -41,6 +42,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Antonio-Herrera.png" alt="Sepia portrait of Antonio Herrera with dark hair and beard" />
+<figcaption>Antonio Herrera</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Mexican seer</td></tr>

@@ -17,6 +17,7 @@ aliases:
   - Eugène Auguste Albert de Rochas
 lastEditedBy: patricthomas via GM review
 parent: Occultists
+cover: /wiki/media/Albert-de-Rochas.png
 ---
 
 # Albert de Rochas
@@ -42,6 +43,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Albert-de-Rochas.png" alt="Portrait of Albert de Rochas in a decorated military uniform" />
+<figcaption>Albert de Rochas</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Occult experimenter</td></tr>

@@ -18,6 +18,7 @@ keyLinks: []
 aliases: []
 lastEditedBy: Codex
 parent: Occultists
+cover: /wiki/media/Camille-Flammarion.png
 ---
 # Camille Flammarion
 
@@ -42,6 +43,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Camille-Flammarion.png" alt="Portrait of Camille Flammarion with white hair and beard" />
+<figcaption>Camille Flammarion</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Astronomer and science fiction writer</td></tr>

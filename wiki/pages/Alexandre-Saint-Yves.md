@@ -17,6 +17,7 @@ aliases:
   - Saint-Yves d'Alveydre
 lastEditedBy: patricthomas via GM review
 parent: Occultists
+cover: /wiki/media/Alexandre-Saint-Yves.png
 ---
 
 # Alexandre Saint-Yves
@@ -42,6 +43,11 @@ parent: Occultists
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Alexandre-Saint-Yves.png" alt="Portrait of Alexandre Saint-Yves in a dark formal coat" />
+<figcaption>Alexandre Saint-Yves</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Esoteric theorist</td></tr>

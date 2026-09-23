@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T17:33:55.271Z",
+  "generatedAt": "2026-09-23T17:41:19.149Z",
   "pages": [
     {
       "id": "location-17th-Arrondissement",
@@ -40,7 +40,8 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Albert-de-Rochas.png"
     },
     {
       "id": "npc-Alexandre-Saint-Yves",
@@ -61,7 +62,8 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Alexandre-Saint-Yves.png"
     },
     {
       "id": "npc-Alphonse-Bertillon",
@@ -138,7 +140,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Antonio-Herrera.png"
     },
     {
       "id": "npc-Aristide-Bruant",
@@ -264,7 +267,8 @@
       "visibility": "gm",
       "approvalStatus": "unapproved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Camille-Flammarion.png"
     },
     {
       "id": "lore-Campaign",
