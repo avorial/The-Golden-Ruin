@@ -2,23 +2,23 @@
 category: npc
 type: npc
 name: Alexandre Saint-Yves
-summary: >-
-  Esoteric political thinker whose grand theories promise hidden order beneath
-  civilization's apparent chaos.
+summary: Esoteric political thinker whose grand theories promise hidden order
+  beneath civilization's apparent chaos.
 tags:
   - npc
   - people
   - occultists
   - politics
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Saint-Yves d'Alveydre
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: Occultists
 ---
+
 # Alexandre Saint-Yves
 
 <div class="wiki-layout">
