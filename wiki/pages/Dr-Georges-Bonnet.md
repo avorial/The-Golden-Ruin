@@ -14,6 +14,7 @@ visibility: players
 approvalStatus: approved
 knownToPlayers: true
 keyLinks:
+  - Dr. Ludwig Weiss
   - Eleanor “Nell” Whitcomb
   - Hôtel Bonnet
   - House of the North Star
@@ -133,7 +134,7 @@ He is fascinated by ambition and distrusts anyone who claims not to fear death. 
 | [[House of the North Star]] | Guest instructor, physician, patron, and recruiter of models | Its students offer both artistic promise and unusual susceptibility. |
 | [[Louis Lépine]] | Senior policeman investigating Nell's death | Bonnet welcomes the inquiry so he can learn what Nell revealed. |
 | Janine Du Bois | Lover and portrait subject | She gives him a future he cannot bear to lose. |
-| Dr. Ludwig Weiss | Old friend and medical collaborator | Weiss understands the treatment and increasingly wants it stopped. |
+| [[Dr. Ludwig Weiss]] | Old friend and medical collaborator | Weiss understands the treatment and increasingly wants it stopped. |
 | [[Eleanor “Nell” Whitcomb]] | Former model and murder victim | Her notes can expose more than her killer. |
 
 :::gm

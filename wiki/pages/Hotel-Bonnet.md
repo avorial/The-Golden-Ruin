@@ -14,6 +14,7 @@ approvalStatus: unapproved
 knownToPlayers: false
 keyLinks:
   - Dr. Georges Bonnet
+  - Dr. Ludwig Weiss
   - Eleanor “Nell” Whitcomb
   - 17th Arrondissement
   - House of the North Star
@@ -147,6 +148,7 @@ Bonnet keeps enough servants to maintain appearances but not enough to lose cont
 - **Émile Roussel, secretary:** Maintains appointments, correspondence, payments, and the coded patient ledger. He has begun copying certain entries because people return from evening appointments unable to remember him.
 - **Luc Favre, atelier assistant:** Strong, technically capable, and devoted to Bonnet's art. He prepares clay, moves armatures, and lowers sealed crates. He knows the subcellar exists and refuses to enter it alone.
 - **Dr. Henri Masson, occasional anesthetist:** A respectable colleague whose gambling debts make discretion purchasable. He tells himself that Bonnet's private procedures treat wealthy addicts and hysterics.
+- **[[Dr. Ludwig Weiss]], private collaborator:** Bonnet's oldest medical colleague knows the laboratory, the hidden routes below the atelier, and far more about the yellow drug than any servant suspects.
 - **Margot Leclerc, model:** A student recruited through artistic acquaintances near the North Star. She survived one dose and now draws the same corridor beneath every building she enters.
 
 ## Bonnet and the North Star
