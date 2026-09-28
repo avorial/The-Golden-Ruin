@@ -31,6 +31,7 @@ Use this group when an investigation passes through studios, cafés, cabarets, l
 - [[Auguste-Rodin|Auguste Rodin]]
 - [[Claude-Debussy|Claude Debussy]]
 - [[Edgar-Degas|Edgar Degas]]
+- [[Eleanor-Nell-Whitcomb|Eleanor “Nell” Whitcomb]]
 - [[Emile-Zola|Émile Zola]]
 - [[Erik-Satie|Erik Satie]]
 - [[Gail-Loveless|Gail Loveless]]

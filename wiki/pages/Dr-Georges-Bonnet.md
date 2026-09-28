@@ -14,6 +14,7 @@ visibility: players
 approvalStatus: approved
 knownToPlayers: true
 keyLinks:
+  - Eleanor “Nell” Whitcomb
   - Hôtel Bonnet
   - House of the North Star
   - Louis Lépine
@@ -46,7 +47,7 @@ cover: /wiki/media/Dr-Georges-Bonnet.png
 <section class="wiki-section">
 <h2>The Sculptor</h2>
 <p>Bonnet's sculpture is technically extraordinary. His portraits possess an uncomfortable degree of physical accuracy, capturing expressions his subjects did not realize they were making. His technique is strongly traditional but difficult to place within a single artistic generation. Some critics call him old-fashioned; others insist he can adopt nearly any school when he wishes.</p>
-<p>He works primarily from life, employing professional models, dancers, actors, and students from private academies. One model was <strong>Eleanor “Nell” Whitcomb</strong>, an American dancer and former North Star resident.</p>
+<p>He works primarily from life, employing professional models, dancers, actors, and students from private academies. One model was <strong>[[Eleanor “Nell” Whitcomb]]</strong>, an American dancer and former North Star resident.</p>
 <blockquote>“A photograph records a surface. Sculpture records a presence.”</blockquote>
 </section>
 
@@ -133,7 +134,7 @@ He is fascinated by ambition and distrusts anyone who claims not to fear death. 
 | [[Louis Lépine]] | Senior policeman investigating Nell's death | Bonnet welcomes the inquiry so he can learn what Nell revealed. |
 | Janine Du Bois | Lover and portrait subject | She gives him a future he cannot bear to lose. |
 | Dr. Ludwig Weiss | Old friend and medical collaborator | Weiss understands the treatment and increasingly wants it stopped. |
-| Eleanor “Nell” Whitcomb | Former model and murder victim | Her notes can expose more than her killer. |
+| [[Eleanor “Nell” Whitcomb]] | Former model and murder victim | Her notes can expose more than her killer. |
 
 :::gm
 

@@ -14,6 +14,7 @@ approvalStatus: unapproved
 knownToPlayers: false
 keyLinks:
   - Dr. Georges Bonnet
+  - Eleanor “Nell” Whitcomb
   - 17th Arrondissement
   - House of the North Star
 aliases:
