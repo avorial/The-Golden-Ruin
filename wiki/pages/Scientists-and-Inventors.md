@@ -25,6 +25,7 @@ Use this group when the characters need analysis, equipment, expert testimony, l
 
 ## People
 
+- [[Dr-Georges-Bonnet|Dr. Georges Bonnet]]
 - [[Marie-Curie|Marie Curie]]
 
 :::gm

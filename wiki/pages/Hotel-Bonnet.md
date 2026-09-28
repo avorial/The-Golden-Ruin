@@ -13,6 +13,7 @@ visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
 keyLinks:
+  - Dr. Georges Bonnet
   - 17th Arrondissement
   - House of the North Star
 aliases:
@@ -33,7 +34,7 @@ The address is fictional, deliberately placed among the elaborate hôtels partic
 
 ## Public Face
 
-Hôtel Bonnet is the home and professional address of **Dr. Georges Bonnet**, a prosperous physician, fashionable sculptor, salon guest, and familiar figure in the affluent artistic circles around Plaine-de-Monceaux and Avenue de Wagram.
+Hôtel Bonnet is the home and professional address of **[[Dr. Georges Bonnet]]**, a prosperous physician, fashionable sculptor, salon guest, and familiar figure in the affluent artistic circles around Plaine-de-Monceaux and Avenue de Wagram.
 
 The limestone house presents two compatible reputations. Patients know Bonnet as a discreet practitioner trusted with nervous disorders, exhaustion, sleeplessness, private dependencies, and ailments a respectable family would rather not discuss in a hospital. Artists and patrons know him as a serious sculptor whose anatomical training lends unusual conviction to his portrait busts and figures.
 
