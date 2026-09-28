@@ -16,6 +16,7 @@ knownToPlayers: true
 keyLinks:
   - Dr. Ludwig Weiss
   - Eleanor “Nell” Whitcomb
+  - Janine Du Bois
   - Hôtel Bonnet
   - House of the North Star
   - Louis Lépine
@@ -66,7 +67,7 @@ cover: /wiki/media/Dr-Georges-Bonnet.png
 
 <section class="wiki-section">
 <h2>Janine Du Bois</h2>
-<p>Bonnet has recently become romantically involved with <strong>Janine Du Bois</strong>, a successful opera singer moving through Parisian theatrical and salon society. Janine believes him intensely private, somewhat eccentric, and more fragile than he wishes anyone to know. She suspects illness or an unhappy past, not the truth.</p>
+<p>Bonnet has recently become romantically involved with <strong>[[Janine Du Bois]]</strong>, a successful opera singer moving through Parisian theatrical and salon society. Janine believes him intensely private, somewhat eccentric, and more fragile than he wishes anyone to know. She suspects illness or an unhappy past, not the truth.</p>
 <p>For perhaps the first time in many years, Bonnet is interested in constructing a future rather than merely continuing his present existence. He has begun sculpting Janine. The work is unfinished, and he refuses to exhibit it.</p>
 </section>
 
@@ -133,7 +134,7 @@ He is fascinated by ambition and distrusts anyone who claims not to fear death. 
 | [[Hôtel Bonnet]] | Residence, practice, atelier, and laboratory | The house contains every layer of his constructed identity. |
 | [[House of the North Star]] | Guest instructor, physician, patron, and recruiter of models | Its students offer both artistic promise and unusual susceptibility. |
 | [[Louis Lépine]] | Senior policeman investigating Nell's death | Bonnet welcomes the inquiry so he can learn what Nell revealed. |
-| Janine Du Bois | Lover and portrait subject | She gives him a future he cannot bear to lose. |
+| [[Janine Du Bois]] | Lover and portrait subject | She gives him a future he cannot bear to lose. |
 | [[Dr. Ludwig Weiss]] | Old friend and medical collaborator | Weiss understands the treatment and increasingly wants it stopped. |
 | [[Eleanor “Nell” Whitcomb]] | Former model and murder victim | Her notes can expose more than her killer. |
 

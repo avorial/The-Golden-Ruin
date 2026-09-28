@@ -25,6 +25,8 @@ Use this group when an investigation passes through studios, cafés, cabarets, l
 
 ## People
 
+- [[Janine-Du-Bois|Janine Du Bois]]
+
 - [[Alphonse-Mucha|Alphonse Mucha]]
 - [[Anatole-France|Anatole France]]
 - [[Aristide-Bruant|Aristide Bruant]]

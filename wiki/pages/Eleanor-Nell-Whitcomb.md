@@ -16,6 +16,7 @@ knownToPlayers: true
 keyLinks:
   - House of the North Star
   - Dr. Georges Bonnet
+  - Janine Du Bois
   - Hôtel Bonnet
   - Louis Lépine
 aliases:
@@ -62,7 +63,7 @@ cover: /wiki/media/Eleanor-Nell-Whitcomb.png
 
 <section class="wiki-section">
 <h2>Janine and Bonnet</h2>
-<p>The theatrical world introduced Nell to <strong>Janine Du Bois</strong>, a successful opera singer who liked the American's determination and lack of pretension. Their relationship settled somewhere between friendship and mentorship, with Janine helping Nell find work and Nell assisting with costumes, errands, and rehearsals.</p>
+<p>The theatrical world introduced Nell to <strong>[[Janine Du Bois]]</strong>, a successful opera singer who liked the American's determination and lack of pretension. Their relationship settled somewhere between friendship and mentorship, with Janine helping Nell find work and Nell assisting with costumes, errands, and rehearsals.</p>
 <p>Janine brought her into the orbit of [[Dr. Georges Bonnet]]. Bonnet sought dancers as models for their control of posture and musculature. He paid well, remembered Nell's work from a North Star exhibition, and discussed sculpture rather than treating her as furniture. Nell initially considered the arrangement an extraordinary piece of luck.</p>
 </section>
 
@@ -135,7 +136,7 @@ The investigation should not merely lead the characters to a corpse. It should l
 | [[House of the North Star]] | Former resident and beloved troublemaker | Friends, staff memories, library records, and old student work |
 | [[Dr. Georges Bonnet]] | Employer, teacher, and murderer | His lessons helped her recognize the lie in his own body. |
 | [[Hôtel Bonnet]] | Modeling work and final investigation | Her observations and the missing vial originate here. |
-| Janine Du Bois | Friend, mentor, and connection to Bonnet | Janine does not yet understand what her introduction caused. |
+| [[Janine Du Bois]] | Friend, mentor, and connection to Bonnet | Janine does not yet understand what her introduction caused. |
 | [[Louis Lépine]] | Investigator of her murder | Her family name makes the case politically dangerous. |
 | Ned Whitcomb | Protective older brother | He can identify private references in her letters. |
 
