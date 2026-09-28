@@ -11,6 +11,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - House of the North Star
+  - Hôtel Bonnet
   - Chez le Père Lathuile
   - Café Guerbois
 aliases:
@@ -28,6 +29,7 @@ Farther north and east, toward Batignolles and Place de Clichy, the atmosphere b
 ## Key Locations
 
 - [[House of the North Star]]
+- [[Hôtel Bonnet]]
 - [[Chez le Père Lathuile]]
 - [[Café Guerbois]]
 
