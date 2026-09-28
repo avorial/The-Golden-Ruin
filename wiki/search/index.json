@@ -220,16 +220,20 @@
     "playerText": "",
     "links": [
       "House of the North Star",
+      "Hôtel Bonnet",
       "Chez le Père Lathuile",
       "Café Guerbois"
     ],
     "backlinks": [
       "Cafe-Guerbois",
       "Chez-le-P-re-Lathuile",
+      "Hotel-Bonnet",
+      "Hotel-Bonnet",
       "House-of-the-North-Star"
     ],
     "keyLinks": [
       "House of the North Star",
+      "Hôtel Bonnet",
       "Chez le Père Lathuile",
       "Café Guerbois"
     ],
@@ -864,12 +868,14 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Janine-Du-Bois",
       "Alphonse-Mucha",
       "Anatole-France",
       "Aristide-Bruant",
       "Auguste-Rodin",
       "Claude-Debussy",
       "Edgar-Degas",
+      "Eleanor-Nell-Whitcomb",
       "Emile-Zola",
       "Erik-Satie",
       "Gail-Loveless",
@@ -1133,7 +1139,8 @@
     ],
     "backlinks": [
       "17th-Arrondissement",
-      "Chez-le-P-re-Lathuile"
+      "Chez-le-P-re-Lathuile",
+      "Hotel-Bonnet"
     ],
     "keyLinks": [],
     "parent": "17th-Arrondissement",
@@ -1324,7 +1331,8 @@
     ],
     "backlinks": [
       "17th-Arrondissement",
-      "Chez-le-P-re-Lathuile"
+      "Chez-le-P-re-Lathuile",
+      "Hotel-Bonnet"
     ],
     "keyLinks": [],
     "parent": "17th-Arrondissement",
@@ -1443,6 +1451,116 @@
     "excerpt": "# Dépôt de Mendicité ## Overview It houses about three thousand poor, sick, elderly, and unhoused people, some voluntary and some sentenced for vagrancy. Hat or ribbon colors distinguish the two groups. ## Historical Background Un dépôt de mendicité était un établissement de « réclusion des mendiant"
   },
   {
+    "id": "11:Dr-Georges-Bonnet",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Dr-Georges-Bonnet",
+    "title": "Dr. Georges Bonnet",
+    "category": "npc",
+    "summary": "A wealthy physician, accomplished sculptor, and generous patron whose impossible youth depends on a yellow drug learned in dreams of Carcosa.",
+    "tags": [
+      "npc",
+      "people",
+      "scientists",
+      "physician",
+      "sculptor",
+      "patron"
+    ],
+    "aliases": [
+      "Georges Bonnet",
+      "Doctor Bonnet"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star",
+      "Eleanor “Nell” Whitcomb",
+      "Hôtel Bonnet",
+      "Louis Lépine",
+      "Janine Du Bois",
+      "Hôtel Bonnet",
+      "Hôtel Bonnet",
+      "House of the North Star",
+      "Louis Lépine",
+      "Janine Du Bois",
+      "Dr. Ludwig Weiss",
+      "Eleanor “Nell” Whitcomb"
+    ],
+    "backlinks": [
+      "Dr-Ludwig-Weiss",
+      "Dr-Ludwig-Weiss",
+      "Eleanor-Nell-Whitcomb",
+      "Eleanor-Nell-Whitcomb",
+      "Hotel-Bonnet",
+      "Janine-Du-Bois",
+      "Janine-Du-Bois",
+      "Scientists-and-Inventors"
+    ],
+    "keyLinks": [
+      "Dr. Ludwig Weiss",
+      "Eleanor “Nell” Whitcomb",
+      "Janine Du Bois",
+      "Hôtel Bonnet",
+      "House of the North Star",
+      "Louis Lépine"
+    ],
+    "parent": "Scientists-and-Inventors",
+    "excerpt": "# Dr. Georges Bonnet <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Dr. Georges Bonnet is one of those men who seems to have arranged his life exactly as he wishes it. He is a successful physician with a discreet private practice, an accompl"
+  },
+  {
+    "id": "11:Dr-Ludwig-Weiss",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Dr-Ludwig-Weiss",
+    "title": "Dr. Ludwig Weiss",
+    "category": "npc",
+    "summary": "An elderly Austrian physician and chemist whose decades refining Georges Bonnet's impossible treatment have curdled scientific pride into guilt.",
+    "tags": [
+      "npc",
+      "people",
+      "scientists",
+      "physician",
+      "chemist"
+    ],
+    "aliases": [
+      "Ludwig Weiss",
+      "Doctor Weiss"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Dr. Georges Bonnet",
+      "Hôtel Bonnet",
+      "House of the North Star",
+      "Eleanor “Nell” Whitcomb",
+      "Louis Lépine",
+      "Hôtel Bonnet",
+      "Dr. Georges Bonnet",
+      "Hôtel Bonnet",
+      "Eleanor “Nell” Whitcomb",
+      "House of the North Star",
+      "Louis Lépine"
+    ],
+    "backlinks": [
+      "Dr-Georges-Bonnet",
+      "Hotel-Bonnet",
+      "Scientists-and-Inventors"
+    ],
+    "keyLinks": [
+      "Dr. Georges Bonnet",
+      "Hôtel Bonnet",
+      "House of the North Star",
+      "Eleanor “Nell” Whitcomb",
+      "Louis Lépine"
+    ],
+    "parent": "Scientists-and-Inventors",
+    "excerpt": "# Dr. Ludwig Weiss <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Dr. Ludwig Weiss is an elderly Austrian physician whose age seems to have settled into him rather than defeated him. He is thin, stooped, white-haired, and immaculately dresse"
+  },
+  {
     "id": "11:Ecole-des-Beaux-Arts",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1550,6 +1668,62 @@
     "backlinks": [],
     "keyLinks": [],
     "excerpt": "# Edward Vine (Jared) ```yellow-king-paris-sheet name: Edward Vine player: Jared field: Sculptor / Raised on the Strets drive: Inspiration pushes: 2 investigative: - Art History - Military History - Sculpture - Steel general: Athletics: 5 Composure: 6 Fighting: 7 First Aid: 0 Health: 4 Mechanics: 0 "
+  },
+  {
+    "id": "11:Eleanor-Nell-Whitcomb",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Eleanor-Nell-Whitcomb",
+    "title": "Eleanor “Nell” Whitcomb",
+    "category": "npc",
+    "summary": "A lively former North Star resident who became a professional dancer and model, then followed the impossible truth about Georges Bonnet far enough to be murdered for it.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "dancer",
+      "model",
+      "north-star"
+    ],
+    "aliases": [
+      "Nell Whitcomb",
+      "Nellie Whitcomb",
+      "Eleanor Whitcomb"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "House of the North Star",
+      "Janine Du Bois",
+      "Dr. Georges Bonnet",
+      "Louis Lépine",
+      "House of the North Star",
+      "Dr. Georges Bonnet",
+      "Hôtel Bonnet",
+      "Janine Du Bois",
+      "Louis Lépine",
+      "Hôtel Bonnet"
+    ],
+    "backlinks": [
+      "Artists-and-Bohemians",
+      "Dr-Georges-Bonnet",
+      "Dr-Georges-Bonnet",
+      "Dr-Ludwig-Weiss",
+      "Dr-Ludwig-Weiss",
+      "Janine-Du-Bois",
+      "Janine-Du-Bois"
+    ],
+    "keyLinks": [
+      "House of the North Star",
+      "Dr. Georges Bonnet",
+      "Janine Du Bois",
+      "Hôtel Bonnet",
+      "Louis Lépine"
+    ],
+    "parent": "Artists-and-Bohemians",
+    "excerpt": "# Eleanor “Nell” Whitcomb <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Eleanor Whitcomb was almost never called Eleanor. To her family she was <strong>Nellie</strong>; to her friends at the [[House of the North Star]], simply <strong>Nell<"
   },
   {
     "id": "11:Elise-Marceau-Maid",
@@ -2016,6 +2190,62 @@
     "excerpt": "# Hôpital de la Charité ## Overview Founded at Marie de’ Medici’s request, it joins indigent care with medical authority in the academy’s converted chapel offices. ## Historical Background Hôpital de la Charité (French pronunciation: [opital də la ʃaʁite], \"Charity Hospital\") was a hospital in Paris"
   },
   {
+    "id": "11:Hotel-Bonnet",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Hotel-Bonnet",
+    "title": "Hôtel Bonnet",
+    "category": "location",
+    "summary": "A fashionable Rue Fortuny mansion where Dr. Georges Bonnet keeps a discreet medical practice, a celebrated sculpture atelier, and laboratories omitted from every respectable plan.",
+    "tags": [
+      "location",
+      "key-location",
+      "medicine",
+      "art",
+      "investigation"
+    ],
+    "aliases": [
+      "33 bis, rue Fortuny",
+      "Bonnet residence",
+      "Bonnet atelier"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "unapproved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "17th Arrondissement",
+      "Dr. Georges Bonnet",
+      "House of the North Star",
+      "Dr. Ludwig Weiss",
+      "House of the North Star",
+      "17th Arrondissement",
+      "House of the North Star",
+      "Café Guerbois",
+      "Chez le Père Lathuile"
+    ],
+    "backlinks": [
+      "17th-Arrondissement",
+      "Dr-Georges-Bonnet",
+      "Dr-Georges-Bonnet",
+      "Dr-Georges-Bonnet",
+      "Dr-Ludwig-Weiss",
+      "Dr-Ludwig-Weiss",
+      "Dr-Ludwig-Weiss",
+      "Eleanor-Nell-Whitcomb",
+      "Eleanor-Nell-Whitcomb"
+    ],
+    "keyLinks": [
+      "Dr. Georges Bonnet",
+      "Dr. Ludwig Weiss",
+      "Eleanor “Nell” Whitcomb",
+      "17th Arrondissement",
+      "House of the North Star"
+    ],
+    "parent": "17th-Arrondissement",
+    "excerpt": "# Hôtel Bonnet ## Address **33 bis, rue Fortuny, [[17th Arrondissement]]** The address is fictional, deliberately placed among the elaborate hôtels particuliers of Rue Fortuny. The street's carved façades, private courtyards, artists' houses, and wealthy residents make Bonnet look established rather"
+  },
+  {
     "id": "11:Hotel-Dieu-de-Paris",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2145,14 +2375,25 @@
       "Albert-de-Rochas",
       "Aristide-Bruant",
       "Claude-Debussy",
+      "Dr-Georges-Bonnet",
+      "Dr-Georges-Bonnet",
+      "Dr-Ludwig-Weiss",
+      "Dr-Ludwig-Weiss",
       "Edmond-Bailly",
+      "Eleanor-Nell-Whitcomb",
+      "Eleanor-Nell-Whitcomb",
       "Elise-Marceau-Maid",
       "Elise-Marceau-Maid",
       "Erik-Satie",
       "Etienne-Renaud-Valet",
       "Etienne-Renaud-Valet",
       "Gail-Loveless",
+      "Hotel-Bonnet",
+      "Hotel-Bonnet",
+      "Hotel-Bonnet",
       "James-McNeill-Whistler",
+      "Janine-Du-Bois",
+      "Janine-Du-Bois",
       "Jean-Leon-Gerome",
       "Julien-Alerte",
       "Loie-Fuller",
@@ -2252,6 +2493,57 @@
     "keyLinks": [],
     "parent": "Artists-and-Bohemians",
     "excerpt": "# James McNeill Whistler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Whistler carries himself as if every conversation is an arrangement in ego and acid. He is brilliant, vain, combative, and deeply invested in the story of himself as muc"
+  },
+  {
+    "id": "11:Janine-Du-Bois",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Janine-Du-Bois",
+    "title": "Janine Du Bois",
+    "category": "npc",
+    "summary": "A poised Paris soprano, actress, and society favorite whose friendship with Nell Whitcomb and love for Georges Bonnet draw her into an impossible murder.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "singer",
+      "actress",
+      "opera"
+    ],
+    "aliases": [
+      "Mademoiselle Du Bois"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Eleanor “Nell” Whitcomb",
+      "House of the North Star",
+      "Dr. Georges Bonnet",
+      "Louis Lépine",
+      "Dr. Georges Bonnet",
+      "Eleanor “Nell” Whitcomb",
+      "House of the North Star",
+      "Palais Garnier",
+      "Louis Lépine"
+    ],
+    "backlinks": [
+      "Artists-and-Bohemians",
+      "Dr-Georges-Bonnet",
+      "Dr-Georges-Bonnet",
+      "Eleanor-Nell-Whitcomb",
+      "Eleanor-Nell-Whitcomb"
+    ],
+    "keyLinks": [
+      "Dr. Georges Bonnet",
+      "Eleanor “Nell” Whitcomb",
+      "House of the North Star",
+      "Palais Garnier",
+      "Louis Lépine"
+    ],
+    "parent": "Artists-and-Bohemians",
+    "excerpt": "# Janine Du Bois <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Janine Du Bois is thirty-two, elegant, poised, and accustomed to being watched. She is a successful soprano known more for intelligence, dramatic presence, and emotional control"
   },
   {
     "id": "11:Jardin-des-Plantes",
@@ -2944,6 +3236,14 @@
     "playerText": "",
     "links": [],
     "backlinks": [
+      "Dr-Georges-Bonnet",
+      "Dr-Georges-Bonnet",
+      "Dr-Ludwig-Weiss",
+      "Dr-Ludwig-Weiss",
+      "Eleanor-Nell-Whitcomb",
+      "Eleanor-Nell-Whitcomb",
+      "Janine-Du-Bois",
+      "Janine-Du-Bois",
       "Police-and-Thieves"
     ],
     "keyLinks": [],
@@ -3602,7 +3902,8 @@
       "9th Arrondissement"
     ],
     "backlinks": [
-      "9th-Arrondissement"
+      "9th-Arrondissement",
+      "Janine-Du-Bois"
     ],
     "keyLinks": [],
     "parent": "9th-Arrondissement",
@@ -4376,6 +4677,8 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Dr-Georges-Bonnet",
+      "Dr-Ludwig-Weiss",
       "Marie-Curie"
     ],
     "backlinks": [],
@@ -5055,6 +5358,48 @@
     "excerpt": ""
   },
   {
+    "id": "11:media:wiki/media/Dr-Georges-Bonnet.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Dr-Georges-Bonnet.png",
+    "title": "Dr-Georges-Bonnet.png",
+    "category": "media",
+    "summary": "wiki/media/Dr-Georges-Bonnet.png",
+    "tags": [],
+    "aliases": [
+      "Dr-Georges-Bonnet.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Dr-Ludwig-Weiss.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Dr-Ludwig-Weiss.png",
+    "title": "Dr-Ludwig-Weiss.png",
+    "category": "media",
+    "summary": "wiki/media/Dr-Ludwig-Weiss.png",
+    "tags": [],
+    "aliases": [
+      "Dr-Ludwig-Weiss.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
     "id": "11:media:wiki/media/Edgar-Degas.png",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -5096,6 +5441,27 @@
     ],
     "aliases": [
       "Edmond-Bailly.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Eleanor-Nell-Whitcomb.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Eleanor-Nell-Whitcomb.png",
+    "title": "Eleanor-Nell-Whitcomb.png",
+    "category": "media",
+    "summary": "wiki/media/Eleanor-Nell-Whitcomb.png",
+    "tags": [],
+    "aliases": [
+      "Eleanor-Nell-Whitcomb.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -5432,6 +5798,27 @@
     ],
     "aliases": [
       "James-McNeill-Whistler.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Janine-Du-Bois.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Janine-Du-Bois.png",
+    "title": "Janine-Du-Bois.png",
+    "category": "media",
+    "summary": "wiki/media/Janine-Du-Bois.png",
+    "tags": [],
+    "aliases": [
+      "Janine-Du-Bois.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
