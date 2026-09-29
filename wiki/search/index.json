@@ -1496,7 +1496,8 @@
       "Hotel-Bonnet",
       "Janine-Du-Bois",
       "Janine-Du-Bois",
-      "Scientists-and-Inventors"
+      "Scientists-and-Inventors",
+      "Session-One-Notes"
     ],
     "keyLinks": [
       "Dr. Ludwig Weiss",
@@ -1548,7 +1549,8 @@
     "backlinks": [
       "Dr-Georges-Bonnet",
       "Hotel-Bonnet",
-      "Scientists-and-Inventors"
+      "Scientists-and-Inventors",
+      "Session-One-Notes"
     ],
     "keyLinks": [
       "Dr. Georges Bonnet",
@@ -1713,7 +1715,8 @@
       "Dr-Ludwig-Weiss",
       "Dr-Ludwig-Weiss",
       "Janine-Du-Bois",
-      "Janine-Du-Bois"
+      "Janine-Du-Bois",
+      "Session-One-Notes"
     ],
     "keyLinks": [
       "House of the North Star",
@@ -1754,7 +1757,8 @@
     ],
     "backlinks": [
       "House-of-the-North-Star",
-      "Madame-Eugenie-Voclain-Head-Cook"
+      "Madame-Eugenie-Voclain-Head-Cook",
+      "Session-One-Notes"
     ],
     "keyLinks": [
       "House of the North Star"
@@ -1905,7 +1909,8 @@
       "House of the North Star"
     ],
     "backlinks": [
-      "House-of-the-North-Star"
+      "House-of-the-North-Star",
+      "Session-One-Notes"
     ],
     "keyLinks": [
       "House of the North Star"
@@ -2104,7 +2109,9 @@
     "text": "",
     "playerText": "",
     "links": [],
-    "backlinks": [],
+    "backlinks": [
+      "Session-One-Notes"
+    ],
     "keyLinks": [],
     "excerpt": "# Henry Pierce (Laura) ## History --- Character Picture ```yellow-king-paris-sheet name: Henry Pierce player: Laura Bee field: Belle-Lettrist / Tinker drive: Curiostity pushes: 2 investigative: - Bella Lettrist - History - Reassurance - Resarch general: Athletics: 3 Composure: 6 Fighting: 5 First Ai"
   },
@@ -2210,7 +2217,7 @@
       "Bonnet atelier"
     ],
     "visibility": "gm",
-    "approvalStatus": "unapproved",
+    "approvalStatus": "approved",
     "text": "",
     "playerText": "",
     "links": [
@@ -2233,7 +2240,8 @@
       "Dr-Ludwig-Weiss",
       "Dr-Ludwig-Weiss",
       "Eleanor-Nell-Whitcomb",
-      "Eleanor-Nell-Whitcomb"
+      "Eleanor-Nell-Whitcomb",
+      "Session-One-Notes"
     ],
     "keyLinks": [
       "Dr. Georges Bonnet",
@@ -2403,6 +2411,7 @@
       "Mary-Cassatt",
       "Oswald-Wirth",
       "Sarah-Bernhardt",
+      "Session-One-Notes",
       "Silas-Burke-Head-Butler",
       "Silas-Burke-Head-Butler"
     ],
@@ -2533,7 +2542,8 @@
       "Dr-Georges-Bonnet",
       "Dr-Georges-Bonnet",
       "Eleanor-Nell-Whitcomb",
-      "Eleanor-Nell-Whitcomb"
+      "Eleanor-Nell-Whitcomb",
+      "Session-One-Notes"
     ],
     "keyLinks": [
       "Dr. Georges Bonnet",
@@ -3244,7 +3254,8 @@
       "Eleanor-Nell-Whitcomb",
       "Janine-Du-Bois",
       "Janine-Du-Bois",
-      "Police-and-Thieves"
+      "Police-and-Thieves",
+      "Session-One-Notes"
     ],
     "keyLinks": [],
     "parent": "Police-and-Thieves",
@@ -3335,7 +3346,8 @@
     ],
     "backlinks": [
       "Elise-Marceau-Maid",
-      "House-of-the-North-Star"
+      "House-of-the-North-Star",
+      "Session-One-Notes"
     ],
     "keyLinks": [
       "House of the North Star"
@@ -4686,6 +4698,56 @@
     "excerpt": "# Scientists and Inventors This parent page gathers the people most likely to test the impossible with instruments, photographs, experiments, medical observation, or stubborn skepticism. Use this group when the characters need analysis, equipment, expert testimony, laboratory access, or the terrible"
   },
   {
+    "id": "11:Session-One-Notes",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Session-One-Notes",
+    "title": "Session One Notes",
+    "category": "game",
+    "summary": "The investigators arrive at the House of the North Star, uncover unsettling clues, attend Bonnet's sculpture unveiling, and learn that Nell Whitcomb is dead.",
+    "tags": [
+      "game",
+      "session-notes",
+      "bonnet-affair"
+    ],
+    "aliases": [
+      "Session 1",
+      "The Sculpture Unveiling"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Henry-Pirece-Laura",
+      "House of the North Star",
+      "Silas Burke, Head Butler",
+      "Silas Burke, Head Butler",
+      "Élise Marceau, Maid",
+      "Madame Eugénie Voclain, Head Cook",
+      "Étienne Renaud, Valet",
+      "Hôtel Bonnet",
+      "Dr. Georges Bonnet",
+      "Eleanor “Nell” Whitcomb",
+      "Janine Du Bois",
+      "Dr. Ludwig Weiss",
+      "Louis Lépine",
+      "Arsène Lupin",
+      "Arsène Lupin"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "House of the North Star",
+      "Hôtel Bonnet",
+      "Dr. Georges Bonnet",
+      "Eleanor “Nell” Whitcomb",
+      "Janine Du Bois",
+      "Dr. Ludwig Weiss",
+      "Louis Lépine"
+    ],
+    "excerpt": "# Session One Notes ## Players Present - Marcus - Edward - Jackson - [[Henry-Pirece-Laura|Henry Pierce (Laura)]] ## Arrival at the House of the North Star The characters arrived at the **[[House of the North Star]]**, where **[[Silas Burke, Head Butler|Silas Burke]]** welcomed them. Burke explained "
+  },
+  {
     "id": "11:Silas-Burke-Head-Butler",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -4715,7 +4777,9 @@
       "Elise-Marceau-Maid",
       "Etienne-Renaud-Valet",
       "House-of-the-North-Star",
-      "Madame-Eugenie-Voclain-Head-Cook"
+      "Madame-Eugenie-Voclain-Head-Cook",
+      "Session-One-Notes",
+      "Session-One-Notes"
     ],
     "keyLinks": [
       "House of the North Star"

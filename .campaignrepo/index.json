@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T16:59:20.937Z",
+  "generatedAt": "2026-09-29T17:11:55.832Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -1626,7 +1626,7 @@
       ],
       "summary": "A fashionable Rue Fortuny mansion where Dr. Georges Bonnet keeps a discreet medical practice, a celebrated sculpture atelier, and laboratories omitted from every respectable plan.",
       "visibility": "gm",
-      "approvalStatus": "unapproved",
+      "approvalStatus": "approved",
       "keyLinks": [
         "Dr. Georges Bonnet",
         "Dr. Ludwig Weiss",
@@ -3364,6 +3364,50 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "game-Session-One-Notes",
+      "title": "Session One Notes",
+      "path": "wiki/pages/Session-One-Notes.md",
+      "type": "game",
+      "tags": [
+        "game",
+        "session-notes",
+        "bonnet-affair"
+      ],
+      "links": [
+        "character-Henry-Pirece-Laura",
+        "location-House-of-the-North-Star",
+        "npc-Silas-Burke-Head-Butler",
+        "npc-Silas-Burke-Head-Butler",
+        "npc-Elise-Marceau-Maid",
+        "npc-Madame-Eugenie-Voclain-Head-Cook",
+        "npc-Etienne-Renaud-Valet",
+        "location-Hotel-Bonnet",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Janine-Du-Bois",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Louis-Lepine",
+        "unresolved:ars-ne-lupin",
+        "unresolved:ars-ne-lupin"
+      ],
+      "aliases": [
+        "Session 1",
+        "The Sculpture Unveiling"
+      ],
+      "summary": "The investigators arrive at the House of the North Star, uncover unsettling clues, attend Bonnet's sculpture unveiling, and learn that Nell Whitcomb is dead.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "House of the North Star",
+        "Hôtel Bonnet",
+        "Dr. Georges Bonnet",
+        "Eleanor “Nell” Whitcomb",
+        "Janine Du Bois",
+        "Dr. Ludwig Weiss",
+        "Louis Lépine"
+      ]
     },
     {
       "id": "npc-Silas-Burke-Head-Butler",
