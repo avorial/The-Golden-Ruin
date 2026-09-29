@@ -25,6 +25,8 @@ Use this group when an investigation passes through studios, cafés, cabarets, l
 
 ## People
 
+- [[Adrien-Mercier|Adrien Mercier]]
+- [[Camille-Roussel|Camille Roussel]]
 - [[Janine-Du-Bois|Janine Du Bois]]
 
 - [[Alphonse-Mucha|Alphonse Mucha]]
@@ -58,6 +60,7 @@ Use this group when an investigation passes through studios, cafés, cabarets, l
 - [[Sarah-Bernhardt|Sarah Bernhardt]]
 - [[Sarah-Brown|Sarah Brown]]
 - [[Stephane-Mallarme|Stéphane Mallarmé]]
+- [[Theo-Marchand|Théo Marchand]]
 
 :::gm
 Many of these people are not cultists, but they are exquisitely vulnerable to Carcosa: they recognize symbols, chase visions, repeat phrases, and mistake infection for inspiration.

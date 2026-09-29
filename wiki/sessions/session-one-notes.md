@@ -170,19 +170,19 @@ Janine performed during the evening. Her singing carried unnaturally through the
 
 Nell used Lépine's calling card for the drawing she gave Edward. Following Nell's death, Lépine became involved in the investigation.
 
-### Adrien Mercier
+### [[Adrien Mercier]]
 
 **Thirty-eight-year-old sculptor.**
 
 Mercier studied Bonnet's work and noticed that his sculpting techniques seemed generations out of date, resembling methods from a much earlier period.
 
-### Théo Marchand
+### [[Théo Marchand]]
 
 **Thirty-five-year-old painter and gossip.**
 
 Marchand had heard strange rumors about Bonnet's career and suggested there were inconsistencies in his history and artistic development.
 
-### Camille Roussel
+### [[Camille Roussel]]
 
 **Forty-six-year-old art critic.**
 

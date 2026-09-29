@@ -28,6 +28,9 @@ keyLinks:
   - Janine Du Bois
   - Dr. Ludwig Weiss
   - Louis Lépine
+  - Adrien Mercier
+  - Théo Marchand
+  - Camille Roussel
 aliases:
   - Session 1
   - The Sculpture Unveiling
@@ -110,15 +113,15 @@ Janine performed during the evening. Her singing carried unnaturally through the
 
 Nell used Lépine's calling card for the drawing she gave Edward. Following Nell's death, the Prefect of Police became involved in the investigation.
 
-### Adrien Mercier
+### [[Adrien Mercier]]
 
 The thirty-eight-year-old sculptor studied Bonnet's work and noticed that his techniques seemed generations out of date, resembling methods from a much earlier period.
 
-### Théo Marchand
+### [[Théo Marchand]]
 
 The thirty-five-year-old painter and gossip had heard strange rumors about Bonnet's career. He suggested that Bonnet's history and artistic development contained inconsistencies.
 
-### Camille Roussel
+### [[Camille Roussel]]
 
 The forty-six-year-old art critic knew Bonnet's earlier work. Roussel said the hidden sculpture of Janine was supposedly created about ten years ago, but Bonnet **was not skilled enough at that time to have produced a work of such quality**. Judged against his known career, the sculpture should have been impossible for him to create.
 
