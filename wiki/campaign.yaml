@@ -1,37 +1,37 @@
-name: "The Golden Ruin"
-gameType: "The King in Yellow RPG"
+name: The Golden Ruin
+gameType: The King in Yellow RPG
 categories:
   - id: character
-    label: "Characters"
+    label: Characters
   - id: npc
-    label: "NPCs"
+    label: NPCs
   - id: organization
-    label: "Organizations"
-  - id: species
-    label: "Species"
+    label: Organizations
+  - id: creatures
+    label: Creatures
   - id: location
-    label: "Locations"
+    label: Locations
   - id: item
-    label: "Items"
+    label: Items
   - id: spell
-    label: "Spells & Abilities"
+    label: Spells & Abilities
   - id: religion
-    label: "Religions & Cults"
+    label: Religions & Cults
   - id: vehicle
-    label: "Vehicles & Ships"
+    label: Vehicles & Ships
   - id: event
-    label: "Events"
+    label: Events
   - id: lore
-    label: "Lore"
+    label: Lore
   - id: game
-    label: "Games"
+    label: Games
 visibility:
   default: gm
 approvals:
   aiDefault: unapproved
 theme:
-  preset: "horror"
+  preset: horror
   accent: "#d4a957"
   accent2: "#a075ff"
-  displayFont: "Fraunces"
+  displayFont: Fraunces
   banner: ""
