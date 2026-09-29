@@ -19,6 +19,10 @@ keyLinks:
   - Henry Pierce
   - House of the North Star
   - Hôtel Bonnet
+  - Silas Burke, Head Butler
+  - Élise Marceau, Maid
+  - Madame Eugénie Voclain, Head Cook
+  - Étienne Renaud, Valet
   - Dr. Georges Bonnet
   - Eleanor “Nell” Whitcomb
   - Janine Du Bois
@@ -68,7 +72,7 @@ Jackson began studying occult books available at the North Star. He became parti
 
 The group attended a private sculpture unveiling at [[Hôtel Bonnet]], home of **[[Dr. Georges Bonnet]]**. The centerpiece was Bonnet's sculpture of **[[Eleanor “Nell” Whitcomb]]**, a former North Star resident.
 
-### Dr. Georges Bonnet
+### [[Dr. Georges Bonnet]]
 
 Bonnet hosted the evening and presented his new sculpture of Nell.
 
@@ -80,7 +84,7 @@ Bonnet had been romantically involved with Nell. He also had an earlier relation
 
 Bonnet also knows [[Dr. Ludwig Weiss]] from many years earlier. Their conversation suggested that Weiss might once have been Bonnet's medical teacher or mentor.
 
-### Eleanor “Nell” Whitcomb
+### [[Eleanor “Nell” Whitcomb]]
 
 Nell, a twenty-four-year-old American artist, dancer, and former North Star resident, was the model for Bonnet's sculpture. She recognized the name of **Edward's patron** and apparently knew him.
 
@@ -90,19 +94,19 @@ She also spoke about **Roberts**, another former North Star resident and sculpto
 
 At the end of the session, **[[Arsène Lupin]] arrived and announced that Nell Whitcomb was dead.**
 
-### Dr. Ludwig Weiss
+### [[Dr. Ludwig Weiss]]
 
 Weiss is an elderly Austrian physician famous for experimental surgery. He said that he had known Bonnet for many years and that they had worked together before. Their history appeared old enough that Weiss might once have served as Bonnet's medical teacher or mentor.
 
 Weiss had been expected in Paris **six weeks earlier**, but his arrival was delayed by a stroke.
 
-### Janine Du Bois
+### [[Janine Du Bois]]
 
 Janine is a thirty-two-year-old soprano and Bonnet's former lover. They were romantically involved years earlier, particularly during time spent together in **Venice**. A strong connection remains between them.
 
 Janine performed during the evening. Her singing carried unnaturally through the surrounding streets, reaching much farther than it reasonably should have. Bonnet secretly possesses an old sculpture of her.
 
-### Louis Lépine
+### [[Louis Lépine]]
 
 Nell used Lépine's calling card for the drawing she gave Edward. Following Nell's death, the Prefect of Police became involved in the investigation.
 

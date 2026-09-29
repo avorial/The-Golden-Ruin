@@ -105,19 +105,19 @@ This knowledge became important later during the gathering at Bonnet's house.
 
 ## House Staff
 
-### Silas Burke
+### [[Silas Burke, Head Butler|Silas Burke]]
 
 **Head Butler and House Manager.** Formal, controlled, and extremely observant. Burke seems to know nearly everything that enters or leaves the North Star.
 
-### Élise Marceau
+### [[Élise Marceau, Maid|Élise Marceau]]
 
 **Maid.** Friendly and observant. She notices emotional details and interpersonal tensions others overlook.
 
-### Madame Eugénie Voclain
+### [[Madame Eugénie Voclain, Head Cook|Madame Eugénie Voclain]]
 
 **Cook and Housekeeper.** Madame Voclain knew Nell Whitcomb during Nell's time at the North Star and remembers her fondly.
 
-### Étienne Renaud
+### [[Étienne Renaud, Valet|Étienne Renaud]]
 
 **Valet and Footman.** Renaud handles luggage, messages, errands, visitors, and dealings with outside servants.
 
@@ -125,7 +125,7 @@ This knowledge became important later during the gathering at Bonnet's house.
 
 The group attended a private sculpture unveiling at [[Hôtel Bonnet]], the home of **[[Dr. Georges Bonnet]]**. The centerpiece of the evening was Bonnet's sculpture of **[[Eleanor “Nell” Whitcomb]]**, a former North Star resident.
 
-### Dr. Georges Bonnet
+### [[Dr. Georges Bonnet]]
 
 **Physician, sculptor, and host.**
 
@@ -137,7 +137,7 @@ Bonnet had been romantically involved with Nell. He also had an earlier relation
 
 Bonnet also knows [[Dr. Ludwig Weiss]] from many years earlier. Their conversation suggested that Weiss might once have been Bonnet's medical teacher or mentor.
 
-### Eleanor “Nell” Whitcomb
+### [[Eleanor “Nell” Whitcomb]]
 
 **Twenty-four-year-old American artist, dancer, and former North Star resident.**
 
@@ -149,7 +149,7 @@ Nell also spoke about another former North Star resident named **Roberts**, a sc
 
 At the end of the session, **[[Arsène Lupin]] arrived and announced that Nell Whitcomb was dead.**
 
-### Dr. Ludwig Weiss
+### [[Dr. Ludwig Weiss]]
 
 **Elderly Austrian physician famous for experimental surgery.**
 
@@ -157,7 +157,7 @@ Weiss said he had known Bonnet for many years and that they had worked together 
 
 Weiss had been expected in Paris **six weeks earlier**, but his arrival was delayed by a stroke.
 
-### Janine Du Bois
+### [[Janine Du Bois]]
 
 **Thirty-two-year-old soprano and Bonnet's former lover.**
 
@@ -165,7 +165,7 @@ Janine and Bonnet had been romantically involved years earlier, particularly dur
 
 Janine performed during the evening. Her singing carried unnaturally through the surrounding streets, reaching much farther than it reasonably should have. Bonnet secretly possesses an old sculpture of her.
 
-### Louis Lépine
+### [[Louis Lépine]]
 
 **Prefect of Police.**
 
