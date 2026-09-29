@@ -13,6 +13,10 @@ visibility: players
 approvalStatus: approved
 knownToPlayers: true
 keyLinks:
+  - Marcus “Járn” Jensen
+  - Edward Vine
+  - Jackson “Jay” Steerman IV
+  - Henry Pierce
   - House of the North Star
   - Hôtel Bonnet
   - Dr. Georges Bonnet
@@ -30,26 +34,26 @@ lastEditedBy: patricthomas
 
 ## Players Present
 
-- Marcus
-- Edward
-- Jackson
+- [[Marcus-J-rn-Jensen-Yoshi|Marcus “Járn” Jensen (Yoshi)]]
+- [[Edward-Vine-Jarod|Edward Vine (Jared)]]
+- [[Jackson-Jay-Steerman-IV-David|Jackson “Jay” Steerman IV (David)]]
 - [[Henry-Pirece-Laura|Henry Pierce (Laura)]]
 
 ## Arrival at the House of the North Star
 
 The characters arrived at the **[[House of the North Star]]**, where **[[Silas Burke, Head Butler|Silas Burke]]** welcomed them. Burke explained the house rules, introduced the staff, and allowed everyone to choose their rooms.
 
-### Marcus
+### [[Marcus-J-rn-Jensen-Yoshi|Marcus “Járn” Jensen]]
 
 Marcus discovered a small collection of **gears made from a strange, unfamiliar metal** while wandering through the house. He kept them.
 
-### Edward
+### [[Edward-Vine-Jarod|Edward Vine]]
 
 Edward found a strange **pig pen** while exploring the grounds. One pig stood and stared at him in an unnerving manner. Inside its feeding trough he found a **bloodstained lumberjack shirt**.
 
 Edward secretly took the shirt back to the house, cleaned it, and hid it among his belongings.
 
-### Jackson
+### [[Jackson-Jay-Steerman-IV-David|Jackson “Jay” Steerman IV]]
 
 Jackson began studying occult books available at the North Star. He became particularly interested in **wards and protective symbols**, including wards used to exclude or restrain the undead. This became important during the gathering at Bonnet's house.
 
