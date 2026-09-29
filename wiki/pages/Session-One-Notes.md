@@ -92,7 +92,7 @@ Nell invited the group to meet her later at a restaurant near the North Star. Sh
 
 She also spoke about **Roberts**, another former North Star resident and sculptor. Roberts is currently in **Florence**, and his family made its fortune in the **Canadian lumber business**.
 
-At the end of the session, **[[Arsène Lupin]] arrived and announced that Nell Whitcomb was dead.**
+At the end of the session, **[[Louis Lépine]] arrived and announced that Nell Whitcomb was dead.**
 
 ### [[Dr. Ludwig Weiss]]
 
@@ -140,7 +140,7 @@ The forty-six-year-old art critic knew Bonnet's earlier work. Roussel said the h
 - Nell gave Edward a drawing on Louis Lépine's calling card.
 - Roberts, another North Star sculptor, is currently in Florence.
 - Roberts comes from a Canadian lumber family.
-- Arsène Lupin announced that **Nell Whitcomb is dead**.
+- Louis Lépine announced that **Nell Whitcomb is dead**.
 
 ## Open Threads
 
@@ -158,7 +158,7 @@ The forty-six-year-old art critic knew Bonnet's earlier work. Roussel said the h
 
 ## Session Ending
 
-The evening concluded with the sudden arrival of **[[Arsène Lupin]]**. His announcement cut through the aftermath of the gathering:
+The evening concluded with the sudden arrival of **[[Louis Lépine]]**. His announcement cut through the aftermath of the gathering:
 
 > **Nell Whitcomb is dead.**
 

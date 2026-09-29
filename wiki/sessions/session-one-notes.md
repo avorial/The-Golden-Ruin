@@ -30,7 +30,7 @@ agenda:
   - text: Learn that Nell Whitcomb is dead
     done: true
     sceneType: cliffhanger
-summary: The characters arrived at the House of the North Star, uncovered several unsettling clues, and attended Dr. Georges Bonnet's sculpture unveiling. The evening ended when Arsène Lupin announced that Nell Whitcomb was dead.
+summary: The characters arrived at the House of the North Star, uncovered several unsettling clues, and attended Dr. Georges Bonnet's sculpture unveiling. The evening ended when Louis Lépine announced that Nell Whitcomb was dead.
 npcs:
   - Silas Burke
   - Élise Marceau
@@ -44,7 +44,6 @@ npcs:
   - Adrien Mercier
   - Théo Marchand
   - Camille Roussel
-  - Arsène Lupin
 locations:
   - House of the North Star
   - Hôtel Bonnet
@@ -147,7 +146,7 @@ During the evening, Nell invited the group to meet her later at a restaurant nea
 
 Nell also spoke about another former North Star resident named **Roberts**, a sculptor currently in **Florence** whose family made its fortune in the **Canadian lumber business**.
 
-At the end of the session, **[[Arsène Lupin]] arrived and announced that Nell Whitcomb was dead.**
+At the end of the session, **[[Louis Lépine]] arrived and announced that Nell Whitcomb was dead.**
 
 ### [[Dr. Ludwig Weiss]]
 
@@ -207,11 +206,11 @@ Roussel was familiar with Bonnet's earlier work. He said the hidden sculpture of
 - Nell gave Edward a drawing on Louis Lépine's calling card.
 - Roberts, another North Star sculptor, is currently in Florence.
 - Roberts comes from a Canadian lumber family.
-- Arsène Lupin announced that **Nell Whitcomb is dead**.
+- Louis Lépine announced that **Nell Whitcomb is dead**.
 
 ## Session Ending
 
-The evening concluded with the sudden arrival of **[[Arsène Lupin]]**. His announcement cut through the aftermath of the gathering:
+The evening concluded with the sudden arrival of **[[Louis Lépine]]**. His announcement cut through the aftermath of the gathering:
 
 > **Nell Whitcomb is dead.**
 
