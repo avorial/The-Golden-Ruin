@@ -19,6 +19,7 @@ keyLinks:
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Camille-Roussel.png
 ---
 
 # Camille Roussel
@@ -47,6 +48,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Camille-Roussel.png" alt="Camille Roussel seated beside portfolios in his study" />
+<figcaption>Camille Roussel</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Art critic, archivist, and attribution expert</td></tr>

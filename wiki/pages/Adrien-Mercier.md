@@ -19,6 +19,7 @@ keyLinks:
 aliases: []
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Adrien-Mercier.png
 ---
 
 # Adrien Mercier
@@ -47,6 +48,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Adrien-Mercier.png" alt="Adrien Mercier seated among sculpture tools and plaster studies" />
+<figcaption>Adrien Mercier</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Sculptor and technical witness</td></tr>

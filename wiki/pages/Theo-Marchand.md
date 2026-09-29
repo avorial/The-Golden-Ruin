@@ -21,6 +21,7 @@ aliases:
   - Theo Marchand
 lastEditedBy: Codex
 parent: Artists-and-Bohemians
+cover: /wiki/media/Theo-Marchand.png
 ---
 
 # Théo Marchand
@@ -49,6 +50,11 @@ parent: Artists-and-Bohemians
 </div>
 
 <aside class="wiki-infobox">
+<figure>
+<img src="/wiki/media/Theo-Marchand.png" alt="Théo Marchand seated in his fashionable painting studio" />
+<figcaption>Théo Marchand</figcaption>
+</figure>
+
 <table>
 <tbody>
 <tr><th>Role</th><td>Painter, salon regular, and rumor broker</td></tr>
