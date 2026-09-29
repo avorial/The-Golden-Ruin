@@ -2,7 +2,9 @@
 category: location
 type: location
 name: Hôtel Bonnet
-summary: A fashionable Rue Fortuny mansion where Dr. Georges Bonnet keeps a discreet medical practice, a celebrated sculpture atelier, and laboratories omitted from every respectable plan.
+summary: A fashionable Rue Fortuny mansion where Dr. Georges Bonnet keeps a
+  discreet medical practice, a celebrated sculpture atelier, and laboratories
+  omitted from every respectable plan.
 tags:
   - location
   - key-location
@@ -10,7 +12,7 @@ tags:
   - art
   - investigation
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks:
   - Dr. Georges Bonnet
@@ -22,7 +24,7 @@ aliases:
   - 33 bis, rue Fortuny
   - Bonnet residence
   - Bonnet atelier
-lastEditedBy: Codex
+lastEditedBy: patricthomas via GM review
 parent: 17th-Arrondissement
 ---
 
