@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T17:16:59.459Z",
+  "generatedAt": "2026-09-29T20:12:18.137Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -470,6 +470,38 @@
       ]
     },
     {
+      "id": "npc-Adrien-Mercier",
+      "title": "Adrien Mercier",
+      "path": "wiki/pages/Adrien-Mercier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "people",
+        "artists-and-bohemians",
+        "sculptor"
+      ],
+      "links": [
+        "npc-Dr-Georges-Bonnet",
+        "location-Hotel-Bonnet",
+        "npc-Dr-Georges-Bonnet",
+        "location-Hotel-Bonnet",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Camille-Roussel",
+        "npc-Theo-Marchand"
+      ],
+      "aliases": [],
+      "summary": "A technically exacting Paris sculptor whose trained eye recognizes that Georges Bonnet works in the methods of a vanished generation.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "Dr. Georges Bonnet",
+        "Hôtel Bonnet",
+        "Eleanor “Nell” Whitcomb",
+        "Session One Notes"
+      ],
+      "parent": "Artists-and-Bohemians"
+    },
+    {
       "id": "npc-Albert-de-Rochas",
       "title": "Albert de Rochas",
       "path": "wiki/pages/Albert-de-Rochas.md",
@@ -621,6 +653,8 @@
         "artists-and-bohemians"
       ],
       "links": [
+        "npc-Adrien-Mercier",
+        "npc-Camille-Roussel",
         "npc-Janine-Du-Bois",
         "npc-Alphonse-Mucha",
         "npc-Anatole-France",
@@ -652,7 +686,8 @@
         "npc-Pierre-Auguste-Renoir",
         "npc-Sarah-Bernhardt",
         "npc-Sarah-Brown",
-        "npc-Stephane-Mallarme"
+        "npc-Stephane-Mallarme",
+        "npc-Theo-Marchand"
       ],
       "aliases": [
         "Artists"
@@ -869,6 +904,39 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Occultists"
+    },
+    {
+      "id": "npc-Camille-Roussel",
+      "title": "Camille Roussel",
+      "path": "wiki/pages/Camille-Roussel.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "people",
+        "artists-and-bohemians",
+        "critic"
+      ],
+      "links": [
+        "location-Hotel-Bonnet",
+        "npc-Janine-Du-Bois",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Janine-Du-Bois",
+        "location-Hotel-Bonnet",
+        "npc-Adrien-Mercier",
+        "npc-Theo-Marchand"
+      ],
+      "aliases": [],
+      "summary": "A formidable Paris art critic whose dated reviews prove that Bonnet's hidden sculpture of Janine Du Bois exceeds the ability he possessed when it was supposedly made.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "Dr. Georges Bonnet",
+        "Janine Du Bois",
+        "Hôtel Bonnet",
+        "Session One Notes"
+      ],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "lore-Campaign",
@@ -3376,9 +3444,15 @@
         "bonnet-affair"
       ],
       "links": [
+        "character-Marcus-J-rn-Jensen-Yoshi",
+        "character-Edward-Vine-Jarod",
+        "character-Jackson-Jay-Steerman-IV-David",
         "character-Henry-Pirece-Laura",
         "location-House-of-the-North-Star",
         "npc-Silas-Burke-Head-Butler",
+        "character-Marcus-J-rn-Jensen-Yoshi",
+        "character-Edward-Vine-Jarod",
+        "character-Jackson-Jay-Steerman-IV-David",
         "npc-Silas-Burke-Head-Butler",
         "npc-Elise-Marceau-Maid",
         "npc-Madame-Eugenie-Voclain-Head-Cook",
@@ -3386,10 +3460,18 @@
         "location-Hotel-Bonnet",
         "npc-Dr-Georges-Bonnet",
         "npc-Eleanor-Nell-Whitcomb",
+        "npc-Dr-Georges-Bonnet",
         "npc-Janine-Du-Bois",
         "npc-Dr-Ludwig-Weiss",
+        "npc-Eleanor-Nell-Whitcomb",
         "npc-Louis-Lepine",
         "npc-Louis-Lepine",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Janine-Du-Bois",
+        "npc-Louis-Lepine",
+        "npc-Adrien-Mercier",
+        "npc-Theo-Marchand",
+        "npc-Camille-Roussel",
         "npc-Louis-Lepine"
       ],
       "aliases": [
@@ -3400,13 +3482,24 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
+        "Marcus “Járn” Jensen",
+        "Edward Vine",
+        "Jackson “Jay” Steerman IV",
+        "Henry Pierce",
         "House of the North Star",
         "Hôtel Bonnet",
+        "Silas Burke, Head Butler",
+        "Élise Marceau, Maid",
+        "Madame Eugénie Voclain, Head Cook",
+        "Étienne Renaud, Valet",
         "Dr. Georges Bonnet",
         "Eleanor “Nell” Whitcomb",
         "Janine Du Bois",
         "Dr. Ludwig Weiss",
-        "Louis Lépine"
+        "Louis Lépine",
+        "Adrien Mercier",
+        "Théo Marchand",
+        "Camille Roussel"
       ]
     },
     {
@@ -3571,6 +3664,39 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "10th-Arrondissement"
+    },
+    {
+      "id": "npc-Theo-Marchand",
+      "title": "Théo Marchand",
+      "path": "wiki/pages/Theo-Marchand.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "people",
+        "artists-and-bohemians",
+        "painter",
+        "gossip"
+      ],
+      "links": [
+        "npc-Dr-Georges-Bonnet",
+        "location-Hotel-Bonnet",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Camille-Roussel",
+        "npc-Adrien-Mercier"
+      ],
+      "aliases": [
+        "Theo Marchand"
+      ],
+      "summary": "A sociable painter and disciplined gossip who remembers every contradiction in Georges Bonnet's career because inconsistency is the raw material of his trade.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "Dr. Georges Bonnet",
+        "Hôtel Bonnet",
+        "Eleanor “Nell” Whitcomb",
+        "Session One Notes"
+      ],
+      "parent": "Artists-and-Bohemians"
     },
     {
       "id": "location-Tour-Saint-Jacques",

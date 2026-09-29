@@ -651,6 +651,49 @@
     "excerpt": "# 9th Arrondissement ## Public Face A dense crossroads of theaters, opera, auctions, department stores, cafés, publishers, and occult bookshops. ## Key Locations - [[Folies Bergère]] - [[Nouvelle Athènes]] - [[Hôtel Drouot]] - [[Olympia Music Hall]] - [[Palais Garnier]] - [[Librairie de l’Art Indépe"
   },
   {
+    "id": "11:Adrien-Mercier",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Adrien-Mercier",
+    "title": "Adrien Mercier",
+    "category": "npc",
+    "summary": "A technically exacting Paris sculptor whose trained eye recognizes that Georges Bonnet works in the methods of a vanished generation.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "sculptor"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Dr. Georges Bonnet",
+      "Hôtel Bonnet",
+      "Dr. Georges Bonnet",
+      "Hôtel Bonnet",
+      "Eleanor “Nell” Whitcomb",
+      "Camille Roussel",
+      "Théo Marchand"
+    ],
+    "backlinks": [
+      "Artists-and-Bohemians",
+      "Camille-Roussel",
+      "Session-One-Notes",
+      "Theo-Marchand"
+    ],
+    "keyLinks": [
+      "Dr. Georges Bonnet",
+      "Hôtel Bonnet",
+      "Eleanor “Nell” Whitcomb",
+      "Session One Notes"
+    ],
+    "parent": "Artists-and-Bohemians",
+    "excerpt": "# Adrien Mercier <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Adrien Mercier is a thirty-eight-year-old sculptor with the powerful hands, damaged cuffs, and patient concentration of a man who spends more time looking at surfaces than faces"
+  },
+  {
     "id": "11:Albert-de-Rochas",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -868,6 +911,8 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Adrien-Mercier",
+      "Camille-Roussel",
       "Janine-Du-Bois",
       "Alphonse-Mucha",
       "Anatole-France",
@@ -899,7 +944,8 @@
       "Pierre-Auguste-Renoir",
       "Sarah-Bernhardt",
       "Sarah-Brown",
-      "Stephane-Mallarme"
+      "Stephane-Mallarme",
+      "Theo-Marchand"
     ],
     "backlinks": [],
     "keyLinks": [],
@@ -1202,6 +1248,50 @@
     "excerpt": "# Camille Flammarion <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Camille Flammarion has the grand air of a man who expects the universe to be interesting and is rarely disappointed. He moves easily between astronomy, spiritism, fiction, a"
   },
   {
+    "id": "11:Camille-Roussel",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Camille-Roussel",
+    "title": "Camille Roussel",
+    "category": "npc",
+    "summary": "A formidable Paris art critic whose dated reviews prove that Bonnet's hidden sculpture of Janine Du Bois exceeds the ability he possessed when it was supposedly made.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "critic"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Hôtel Bonnet",
+      "Janine Du Bois",
+      "Dr. Georges Bonnet",
+      "Dr. Georges Bonnet",
+      "Janine Du Bois",
+      "Hôtel Bonnet",
+      "Adrien Mercier",
+      "Théo Marchand"
+    ],
+    "backlinks": [
+      "Adrien-Mercier",
+      "Artists-and-Bohemians",
+      "Session-One-Notes",
+      "Theo-Marchand"
+    ],
+    "keyLinks": [
+      "Dr. Georges Bonnet",
+      "Janine Du Bois",
+      "Hôtel Bonnet",
+      "Session One Notes"
+    ],
+    "parent": "Artists-and-Bohemians",
+    "excerpt": "# Camille Roussel <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Camille Roussel is a forty-six-year-old critic with an exact memory for exhibitions, reputations, and the awkward distance between an artist's ambitions and abilities. Roussel "
+  },
+  {
     "id": "11:Campaign",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1489,6 +1579,10 @@
       "Eleanor “Nell” Whitcomb"
     ],
     "backlinks": [
+      "Adrien-Mercier",
+      "Adrien-Mercier",
+      "Camille-Roussel",
+      "Camille-Roussel",
       "Dr-Ludwig-Weiss",
       "Dr-Ludwig-Weiss",
       "Eleanor-Nell-Whitcomb",
@@ -1497,7 +1591,9 @@
       "Janine-Du-Bois",
       "Janine-Du-Bois",
       "Scientists-and-Inventors",
-      "Session-One-Notes"
+      "Session-One-Notes",
+      "Session-One-Notes",
+      "Theo-Marchand"
     ],
     "keyLinks": [
       "Dr. Ludwig Weiss",
@@ -1550,6 +1646,7 @@
       "Dr-Georges-Bonnet",
       "Hotel-Bonnet",
       "Scientists-and-Inventors",
+      "Session-One-Notes",
       "Session-One-Notes"
     ],
     "keyLinks": [
@@ -1667,7 +1764,10 @@
     "text": "",
     "playerText": "",
     "links": [],
-    "backlinks": [],
+    "backlinks": [
+      "Session-One-Notes",
+      "Session-One-Notes"
+    ],
     "keyLinks": [],
     "excerpt": "# Edward Vine (Jared) ```yellow-king-paris-sheet name: Edward Vine player: Jared field: Sculptor / Raised on the Strets drive: Inspiration pushes: 2 investigative: - Art History - Military History - Sculpture - Steel general: Athletics: 5 Composure: 6 Fighting: 7 First Aid: 0 Health: 4 Mechanics: 0 "
   },
@@ -1709,6 +1809,7 @@
       "Hôtel Bonnet"
     ],
     "backlinks": [
+      "Adrien-Mercier",
       "Artists-and-Bohemians",
       "Dr-Georges-Bonnet",
       "Dr-Georges-Bonnet",
@@ -1716,7 +1817,9 @@
       "Dr-Ludwig-Weiss",
       "Janine-Du-Bois",
       "Janine-Du-Bois",
-      "Session-One-Notes"
+      "Session-One-Notes",
+      "Session-One-Notes",
+      "Theo-Marchand"
     ],
     "keyLinks": [
       "House of the North Star",
@@ -2233,6 +2336,10 @@
     ],
     "backlinks": [
       "17th-Arrondissement",
+      "Adrien-Mercier",
+      "Adrien-Mercier",
+      "Camille-Roussel",
+      "Camille-Roussel",
       "Dr-Georges-Bonnet",
       "Dr-Georges-Bonnet",
       "Dr-Georges-Bonnet",
@@ -2241,7 +2348,8 @@
       "Dr-Ludwig-Weiss",
       "Eleanor-Nell-Whitcomb",
       "Eleanor-Nell-Whitcomb",
-      "Session-One-Notes"
+      "Session-One-Notes",
+      "Theo-Marchand"
     ],
     "keyLinks": [
       "Dr. Georges Bonnet",
@@ -2467,7 +2575,10 @@
     "text": "",
     "playerText": "",
     "links": [],
-    "backlinks": [],
+    "backlinks": [
+      "Session-One-Notes",
+      "Session-One-Notes"
+    ],
     "keyLinks": [],
     "excerpt": "# Jackson (Jay) Steerman IV (David) ```yellow-king-paris-sheet name: Jackson (Jay) Steerman IV player: David Urvig field: Poet /Scrounger drive: Seeker pushes: 2 investigative: - Demimonde - Intuition - Occultism - Poetry general: Athletics: 3 Composure: 7 Fighting: 6 First Aid: 0 Health: 3 Mechanic"
   },
@@ -2539,10 +2650,13 @@
     ],
     "backlinks": [
       "Artists-and-Bohemians",
+      "Camille-Roussel",
+      "Camille-Roussel",
       "Dr-Georges-Bonnet",
       "Dr-Georges-Bonnet",
       "Eleanor-Nell-Whitcomb",
       "Eleanor-Nell-Whitcomb",
+      "Session-One-Notes",
       "Session-One-Notes"
     ],
     "keyLinks": [
@@ -3255,6 +3369,9 @@
       "Janine-Du-Bois",
       "Janine-Du-Bois",
       "Police-and-Thieves",
+      "Session-One-Notes",
+      "Session-One-Notes",
+      "Session-One-Notes",
       "Session-One-Notes"
     ],
     "keyLinks": [],
@@ -3430,7 +3547,10 @@
     "text": "",
     "playerText": "",
     "links": [],
-    "backlinks": [],
+    "backlinks": [
+      "Session-One-Notes",
+      "Session-One-Notes"
+    ],
     "keyLinks": [],
     "excerpt": "# Marcus \"Járn\" Jensen (Yoshi) ## History Born and raised in the Midwest, Marcus was named after the Roman god Mars by his parents, who always wanted him to become someone strong and successful. He eventually rejected the name, adopting Járn, norse for 'iron', showing his unwillingness to bend and a"
   },
@@ -4719,9 +4839,15 @@
     "text": "",
     "playerText": "",
     "links": [
+      "Marcus-J-rn-Jensen-Yoshi",
+      "Edward-Vine-Jarod",
+      "Jackson-Jay-Steerman-IV-David",
       "Henry-Pirece-Laura",
       "House of the North Star",
       "Silas Burke, Head Butler",
+      "Marcus-J-rn-Jensen-Yoshi",
+      "Edward-Vine-Jarod",
+      "Jackson-Jay-Steerman-IV-David",
       "Silas Burke, Head Butler",
       "Élise Marceau, Maid",
       "Madame Eugénie Voclain, Head Cook",
@@ -4729,23 +4855,42 @@
       "Hôtel Bonnet",
       "Dr. Georges Bonnet",
       "Eleanor “Nell” Whitcomb",
+      "Dr. Georges Bonnet",
       "Janine Du Bois",
       "Dr. Ludwig Weiss",
+      "Eleanor “Nell” Whitcomb",
       "Louis Lépine",
       "Louis Lépine",
+      "Dr. Ludwig Weiss",
+      "Janine Du Bois",
+      "Louis Lépine",
+      "Adrien Mercier",
+      "Théo Marchand",
+      "Camille Roussel",
       "Louis Lépine"
     ],
     "backlinks": [],
     "keyLinks": [
+      "Marcus “Járn” Jensen",
+      "Edward Vine",
+      "Jackson “Jay” Steerman IV",
+      "Henry Pierce",
       "House of the North Star",
       "Hôtel Bonnet",
+      "Silas Burke, Head Butler",
+      "Élise Marceau, Maid",
+      "Madame Eugénie Voclain, Head Cook",
+      "Étienne Renaud, Valet",
       "Dr. Georges Bonnet",
       "Eleanor “Nell” Whitcomb",
       "Janine Du Bois",
       "Dr. Ludwig Weiss",
-      "Louis Lépine"
+      "Louis Lépine",
+      "Adrien Mercier",
+      "Théo Marchand",
+      "Camille Roussel"
     ],
-    "excerpt": "# Session One Notes ## Players Present - Marcus - Edward - Jackson - [[Henry-Pirece-Laura|Henry Pierce (Laura)]] ## Arrival at the House of the North Star The characters arrived at the **[[House of the North Star]]**, where **[[Silas Burke, Head Butler|Silas Burke]]** welcomed them. Burke explained "
+    "excerpt": "# Session One Notes ## Players Present - [[Marcus-J-rn-Jensen-Yoshi|Marcus “Járn” Jensen (Yoshi)]] - [[Edward-Vine-Jarod|Edward Vine (Jared)]] - [[Jackson-Jay-Steerman-IV-David|Jackson “Jay” Steerman IV (David)]] - [[Henry-Pirece-Laura|Henry Pierce (Laura)]] ## Arrival at the House of the North Star"
   },
   {
     "id": "11:Silas-Burke-Head-Butler",
@@ -4980,6 +5125,50 @@
     "excerpt": "# Théâtre de l’Ambigu-Comique ## Overview Popular novels and notorious murders become stage entertainment in the boulevard du crime tradition. ## Historical Background Le théâtre de l’Ambigu-Comique est une ancienne salle de spectacle parisienne, fondée en 1769 sur le boulevard du Temple par Nicolas"
   },
   {
+    "id": "11:Theo-Marchand",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Theo-Marchand",
+    "title": "Théo Marchand",
+    "category": "npc",
+    "summary": "A sociable painter and disciplined gossip who remembers every contradiction in Georges Bonnet's career because inconsistency is the raw material of his trade.",
+    "tags": [
+      "npc",
+      "people",
+      "artists-and-bohemians",
+      "painter",
+      "gossip"
+    ],
+    "aliases": [
+      "Theo Marchand"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Dr. Georges Bonnet",
+      "Hôtel Bonnet",
+      "Eleanor “Nell” Whitcomb",
+      "Camille Roussel",
+      "Adrien Mercier"
+    ],
+    "backlinks": [
+      "Adrien-Mercier",
+      "Artists-and-Bohemians",
+      "Camille-Roussel",
+      "Session-One-Notes"
+    ],
+    "keyLinks": [
+      "Dr. Georges Bonnet",
+      "Hôtel Bonnet",
+      "Eleanor “Nell” Whitcomb",
+      "Session One Notes"
+    ],
+    "parent": "Artists-and-Bohemians",
+    "excerpt": "# Théo Marchand <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Théo Marchand is a thirty-five-year-old painter, dinner guest, and collector of other people's inconsistencies. He is charming enough to be invited, amusing enough to remain, and"
+  },
+  {
     "id": "11:Tour-Saint-Jacques",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -5032,6 +5221,27 @@
     "keyLinks": [],
     "parent": "5th-Arrondissement",
     "excerpt": "# Val-de-Grâce ## Overview Built in the seventeenth century, it treats soldiers who often fear its care will be inferior to an expensive private hospital. ## Historical Background The Val-de-Grâce (French pronunciation: [val də ɡʁɑs]; Hôpital d'instruction des armées du Val-de-Grâce or HIA Val-de-Gr"
+  },
+  {
+    "id": "11:media:wiki/media/Adrien-Mercier.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Adrien-Mercier.png",
+    "title": "Adrien-Mercier.png",
+    "category": "media",
+    "summary": "wiki/media/Adrien-Mercier.png",
+    "tags": [],
+    "aliases": [
+      "Adrien-Mercier.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
   },
   {
     "id": "11:media:wiki/media/Albert-de-Rochas.png",
@@ -5333,6 +5543,27 @@
     ],
     "aliases": [
       "Camille-Flammarion.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Camille-Roussel.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Camille-Roussel.png",
+    "title": "Camille-Roussel.png",
+    "category": "media",
+    "summary": "wiki/media/Camille-Roussel.png",
+    "tags": [],
+    "aliases": [
+      "Camille-Roussel.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
@@ -7386,6 +7617,27 @@
     ],
     "aliases": [
       "Stephane-Mallarme.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Theo-Marchand.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Theo-Marchand.png",
+    "title": "Theo-Marchand.png",
+    "category": "media",
+    "summary": "wiki/media/Theo-Marchand.png",
+    "tags": [],
+    "aliases": [
+      "Theo-Marchand.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
