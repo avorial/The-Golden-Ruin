@@ -11,6 +11,8 @@ attendees:
     status: present
   - name: Jackson
     status: present
+  - name: Henry Pierce (Laura)
+    status: present
 assets: []
 agenda:
   - text: Arrive at the House of the North Star and choose rooms
