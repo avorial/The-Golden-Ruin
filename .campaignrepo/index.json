@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T17:11:55.832Z",
+  "generatedAt": "2026-09-29T17:16:59.459Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -3397,7 +3397,7 @@
         "The Sculpture Unveiling"
       ],
       "summary": "The investigators arrive at the House of the North Star, uncover unsettling clues, attend Bonnet's sculpture unveiling, and learn that Nell Whitcomb is dead.",
-      "visibility": "gm",
+      "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
         "House of the North Star",
