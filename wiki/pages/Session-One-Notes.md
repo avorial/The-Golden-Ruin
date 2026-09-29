@@ -2,14 +2,16 @@
 category: game
 type: game
 name: Session One Notes
-summary: The investigators arrive at the House of the North Star, uncover unsettling clues, attend Bonnet's sculpture unveiling, and learn that Nell Whitcomb is dead.
+summary: The investigators arrive at the House of the North Star, uncover
+  unsettling clues, attend Bonnet's sculpture unveiling, and learn that Nell
+  Whitcomb is dead.
 tags:
   - game
   - session-notes
   - bonnet-affair
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks:
   - House of the North Star
   - Hôtel Bonnet
@@ -21,7 +23,7 @@ keyLinks:
 aliases:
   - Session 1
   - The Sculpture Unveiling
-lastEditedBy: Codex
+lastEditedBy: patricthomas
 ---
 
 # Session One Notes
