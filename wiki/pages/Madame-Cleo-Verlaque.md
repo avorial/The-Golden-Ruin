@@ -7,6 +7,7 @@ tags: [creature, human, medium, occultist]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Madame-Cleo-Verlaque.png
 keyLinks: []
 aliases: [Cleo Verlaque]
 lastEditedBy: Codex

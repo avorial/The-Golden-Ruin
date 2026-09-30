@@ -7,6 +7,7 @@ tags: [creature, construct, catacombs]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Bonepile.png
 keyLinks: [Paris-Catacombs]
 aliases: []
 lastEditedBy: Codex

@@ -7,6 +7,7 @@ tags: [creature, carcosa, seine, death-mask]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Unknown-of-the-Seine.png
 keyLinks: []
 aliases: [L'Inconnue de la Seine, The Unknown Woman of the Seine]
 lastEditedBy: Codex

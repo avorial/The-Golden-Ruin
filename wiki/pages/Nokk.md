@@ -7,6 +7,7 @@ tags: [creature, mutant, aquatic]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Nokk.png
 keyLinks: [Jardin-des-Plantes]
 aliases: []
 lastEditedBy: Codex

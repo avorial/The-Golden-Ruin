@@ -7,6 +7,7 @@ tags: [creature, construct, art]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Marble-Dancer.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

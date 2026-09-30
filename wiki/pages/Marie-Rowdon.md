@@ -7,6 +7,7 @@ tags: [creature, human, artist, king-in-yellow]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Marie-Rowdon.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

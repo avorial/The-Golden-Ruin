@@ -7,6 +7,7 @@ tags: [creature, invasive, parasite, art]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Inkblot.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

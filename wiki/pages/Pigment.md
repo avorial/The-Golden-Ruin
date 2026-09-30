@@ -7,6 +7,7 @@ tags: [creature, human, art, conspiracy]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Pigment.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

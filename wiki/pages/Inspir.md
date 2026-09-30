@@ -7,6 +7,7 @@ tags: [creature, carcosa, art]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Inspir.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

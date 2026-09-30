@@ -7,6 +7,7 @@ tags: [creature, human, occultist]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-The-Dollmaker.png
 keyLinks: []
 aliases: [Evelyn Royer]
 lastEditedBy: Codex

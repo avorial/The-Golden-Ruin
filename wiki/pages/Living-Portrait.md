@@ -7,6 +7,7 @@ tags: [creature, construct, art]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Living-Portrait.png
 keyLinks: []
 aliases: [Clement Medin's Portraits]
 lastEditedBy: Codex

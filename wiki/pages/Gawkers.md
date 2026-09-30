@@ -7,6 +7,7 @@ tags: [creature, alt, crowds]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Gawkers.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

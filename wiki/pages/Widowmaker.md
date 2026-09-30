@@ -7,6 +7,7 @@ tags: [creature, human, society, murderer]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Widowmaker.png
 keyLinks: []
 aliases: [Sebastian Beaumont]
 lastEditedBy: Codex

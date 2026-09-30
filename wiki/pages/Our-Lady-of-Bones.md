@@ -7,6 +7,7 @@ tags: [creature, carcosa, cult]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Our-Lady-of-Bones.png
 keyLinks: [Notre-Dame-de-Paris]
 aliases: [Notre Dame des Os]
 lastEditedBy: Codex

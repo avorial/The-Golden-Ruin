@@ -7,6 +7,7 @@ tags: [creature, carcosa, flaneur]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Wanderer.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

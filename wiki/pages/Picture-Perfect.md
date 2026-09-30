@@ -7,6 +7,7 @@ tags: [creature, alt, art, ghost]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Picture-Perfect.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

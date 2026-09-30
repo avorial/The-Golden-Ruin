@@ -7,6 +7,7 @@ tags: [creature, conjureling, mythology, content-warning]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Pan.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

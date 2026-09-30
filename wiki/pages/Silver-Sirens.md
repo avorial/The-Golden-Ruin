@@ -7,6 +7,7 @@ tags: [creature, mutant, aquatic, seine]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Silver-Sirens.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

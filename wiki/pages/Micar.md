@@ -7,6 +7,7 @@ tags: [creature, invasive, carcosa]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Micar.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

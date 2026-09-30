@@ -7,6 +7,7 @@ tags: [creature, human, conspiracy, police]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-The-Doombringers.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

@@ -7,6 +7,7 @@ tags: [creature, human, occultist, fashion]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-The-Dressmaker.png
 keyLinks: []
 aliases: [Claudia Martin]
 lastEditedBy: Codex

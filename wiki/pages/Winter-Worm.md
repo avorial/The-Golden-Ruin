@@ -7,6 +7,7 @@ tags: [creature, invasive, parasite, cult]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Winter-Worm.png
 keyLinks: []
 aliases: []
 lastEditedBy: Codex

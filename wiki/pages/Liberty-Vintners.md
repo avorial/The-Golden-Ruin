@@ -7,6 +7,7 @@ tags: [creature, human, conspiracy, wine]
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
+cover: /wiki/media/Creature-Liberty-Vintners.png
 keyLinks: []
 aliases: [Vin de la Liberté]
 lastEditedBy: Codex
