@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T22:01:03.247Z",
+  "generatedAt": "2026-10-05T13:51:22.246Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -3735,6 +3735,24 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "5th-Arrondissement"
+    },
+    {
+      "id": "character-Dr-Theodore-Blackwell-Sam",
+      "title": "Dr. Theodore Blackwell (Sam)",
+      "path": "wiki/pages/Dr-Theodore-Blackwell-Sam.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     }
   ]
 }
