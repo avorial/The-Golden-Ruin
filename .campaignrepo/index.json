@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T13:51:22.246Z",
+  "generatedAt": "2026-10-05T13:51:40.853Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -793,6 +793,28 @@
       "parent": "Paris-Outskirts"
     },
     {
+      "id": "creatures-Bonepile",
+      "title": "Bonepile",
+      "path": "wiki/pages/Bonepile.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "construct",
+        "catacombs"
+      ],
+      "links": [
+        "location-Paris-Catacombs"
+      ],
+      "aliases": [],
+      "summary": "A crawling assembly of neglected human remains that rebuilds itself in the dark.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "Paris-Catacombs"
+      ],
+      "parent": "Creatures"
+    },
+    {
       "id": "character-Bruce-Carter-Mark",
       "title": "Bruce Carter (Mark)",
       "path": "wiki/pages/Bruce-Carter-Mark.md",
@@ -1105,6 +1127,89 @@
       "parent": "Police-and-Thieves"
     },
     {
+      "id": "creatures-Creatures",
+      "title": "Creatures",
+      "path": "wiki/pages/Creatures.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "gm-reference",
+        "carcosa"
+      ],
+      "links": [
+        "creatures-Bonepile",
+        "creatures-Creeping-Beast",
+        "creatures-Dark-Dweller",
+        "creatures-The-Dollmaker",
+        "creatures-The-Doombringers",
+        "creatures-The-Dressmaker",
+        "creatures-Gawkers",
+        "creatures-Green-Fairy",
+        "creatures-Inkblot",
+        "creatures-Inspir",
+        "creatures-Liberty-Vintners",
+        "creatures-Living-Portrait",
+        "creatures-Marble-Dancer",
+        "creatures-Marie-Rowdon",
+        "creatures-Micar",
+        "creatures-Nokk",
+        "creatures-Our-Lady-of-Bones",
+        "creatures-Pan",
+        "creatures-Picture-Perfect",
+        "creatures-Pigment",
+        "creatures-Silver-Sirens",
+        "creatures-Unknown-of-the-Seine",
+        "creatures-Madame-Cleo-Verlaque",
+        "creatures-Wanderer",
+        "creatures-Widowmaker",
+        "creatures-Winter-Worm",
+        "creatures-Yellow-Carnation"
+      ],
+      "aliases": [],
+      "summary": "A GM reference to the unnatural beings, human agents, and Carcosan threats haunting Paris.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "creatures-Creeping-Beast",
+      "title": "Creeping Beast",
+      "path": "wiki/pages/Creeping-Beast.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "art",
+        "carcosa"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A painted leopard that stalks its chosen viewer through reflections and other images.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
+      "id": "creatures-Dark-Dweller",
+      "title": "Dark Dweller",
+      "path": "wiki/pages/Dark-Dweller.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "mutant",
+        "catacombs"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A person or animal transformed by prolonged, absolute subterranean darkness.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "Paris-Catacombs"
+      ],
+      "parent": "Creatures"
+    },
+    {
       "id": "location-Depot-de-Mendicite",
       "title": "Dépôt de Mendicité",
       "path": "wiki/pages/Depot-de-Mendicite.md",
@@ -1207,6 +1312,23 @@
         "Louis Lépine"
       ],
       "parent": "Scientists-and-Inventors"
+    },
+    {
+      "id": "character-Dr-Theodore-Blackwell-Sam",
+      "title": "Dr. Theodore Blackwell (Sam)",
+      "path": "wiki/pages/Dr-Theodore-Blackwell-Sam.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
     },
     {
       "id": "location-Ecole-des-Beaux-Arts",
@@ -1510,6 +1632,24 @@
       "parent": "Artists-and-Bohemians"
     },
     {
+      "id": "creatures-Gawkers",
+      "title": "Gawkers",
+      "path": "wiki/pages/Gawkers.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "alt",
+        "crowds"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "Featureless pseudo-people that appear in fascinated crowds and erase isolated witnesses.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
       "id": "npc-Georges-Grison",
       "title": "Georges Grison",
       "path": "wiki/pages/Georges-Grison.md",
@@ -1527,6 +1667,24 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Police-and-Thieves"
+    },
+    {
+      "id": "creatures-Green-Fairy",
+      "title": "Green Fairy",
+      "path": "wiki/pages/Green-Fairy.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "carcosa",
+        "absinthe"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "An energy-feeding Carcosan predator exposed by absinthe and hidden behind a human guise.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
     },
     {
       "id": "npc-Gustave-Moreau",
@@ -1818,6 +1976,43 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
+    },
+    {
+      "id": "creatures-Inkblot",
+      "title": "Inkblot",
+      "path": "wiki/pages/Inkblot.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "invasive",
+        "parasite",
+        "art"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "Minute Carcosan parasites carried in artistic liquids that drive infected artists into contagious mania.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
+      "id": "creatures-Inspir",
+      "title": "Inspir",
+      "path": "wiki/pages/Inspir.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "carcosa",
+        "art"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A beautiful Carcosan muse that grants inspiration while hollowing out an artist's will.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
     },
     {
       "id": "character-Jackson-Jay-Steerman-IV-David",
@@ -2319,6 +2514,27 @@
       "parent": "6th-Arrondissement"
     },
     {
+      "id": "creatures-Liberty-Vintners",
+      "title": "Liberty Vintners",
+      "path": "wiki/pages/Liberty-Vintners.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "human",
+        "conspiracy",
+        "wine"
+      ],
+      "links": [],
+      "aliases": [
+        "Vin de la Liberté"
+      ],
+      "summary": "Winemakers whose Carcosan ruby vines produce an inhibition-stripping wine used for influence and blackmail.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
       "id": "location-Librairie-de-lArt-Independant",
       "title": "Librairie de l’Art Indépendant",
       "path": "wiki/pages/Librairie-de-lArt-Independant.md",
@@ -2355,6 +2571,26 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "9th-Arrondissement"
+    },
+    {
+      "id": "creatures-Living-Portrait",
+      "title": "Living Portrait",
+      "path": "wiki/pages/Living-Portrait.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "construct",
+        "art"
+      ],
+      "links": [],
+      "aliases": [
+        "Clement Medin's Portraits"
+      ],
+      "summary": "Clement Medin's portraits open into hungry pocket worlds through the use of Carcosan turpentine.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
     },
     {
       "id": "npc-Loie-Fuller",
@@ -2439,6 +2675,27 @@
       "parent": "6th-Arrondissement"
     },
     {
+      "id": "creatures-Madame-Cleo-Verlaque",
+      "title": "Madame Cleo Verlaque",
+      "path": "wiki/pages/Madame-Cleo-Verlaque.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "human",
+        "medium",
+        "occultist"
+      ],
+      "links": [],
+      "aliases": [
+        "Cleo Verlaque"
+      ],
+      "summary": "An elite medium who turns fashionable séances into doors for extra-dimensional Carcosan minds.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
       "id": "npc-Madame-Eugenie-Voclain-Head-Cook",
       "title": "Madame Eugénie Voclain, Head Cook",
       "path": "wiki/pages/Madame-Eugenie-Voclain-Head-Cook.md",
@@ -2484,6 +2741,24 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Paris-Outskirts"
+    },
+    {
+      "id": "creatures-Marble-Dancer",
+      "title": "Marble Dancer",
+      "path": "wiki/pages/Marble-Dancer.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "construct",
+        "art"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "An animated statue that dances at night and drains a lover's life in pursuit of humanity.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
     },
     {
       "id": "npc-Marcel-Proust",
@@ -2566,6 +2841,25 @@
       "parent": "Police-and-Thieves"
     },
     {
+      "id": "creatures-Marie-Rowdon",
+      "title": "Marie Rowdon",
+      "path": "wiki/pages/Marie-Rowdon.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "human",
+        "artist",
+        "king-in-yellow"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A fashionable painter whose private intoxication salons implant fragments of The King in Yellow.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
       "id": "npc-Mary-Cassatt",
       "title": "Mary Cassatt",
       "path": "wiki/pages/Mary-Cassatt.md",
@@ -2624,6 +2918,24 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "12th-Arrondissement"
+    },
+    {
+      "id": "creatures-Micar",
+      "title": "Micar",
+      "path": "wiki/pages/Micar.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "invasive",
+        "carcosa"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "An obsidian-skinned Carcosan predator whose dead hide becomes a bloody mirror of the past.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
     },
     {
       "id": "npc-Moina-Mathers",
@@ -2723,6 +3035,28 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Scientists-and-Inventors"
+    },
+    {
+      "id": "creatures-Nokk",
+      "title": "Nokk",
+      "path": "wiki/pages/Nokk.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "mutant",
+        "aquatic"
+      ],
+      "links": [
+        "location-Jardin-des-Plantes"
+      ],
+      "aliases": [],
+      "summary": "An aquatic mutant whose spine-song disguises a fishlike hunter as a compelling human presence.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "Jardin-des-Plantes"
+      ],
+      "parent": "Creatures"
     },
     {
       "id": "location-Notre-Dame-de-Paris",
@@ -2857,6 +3191,30 @@
       "parent": "Occultists"
     },
     {
+      "id": "creatures-Our-Lady-of-Bones",
+      "title": "Our Lady of Bones",
+      "path": "wiki/pages/Our-Lady-of-Bones.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "carcosa",
+        "cult"
+      ],
+      "links": [
+        "location-Notre-Dame-de-Paris"
+      ],
+      "aliases": [
+        "Notre Dame des Os"
+      ],
+      "summary": "A newly invented saint that feeds on grief beneath an illusion of Catholic sanctity.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "Notre-Dame-de-Paris"
+      ],
+      "parent": "Creatures"
+    },
+    {
       "id": "location-Palais-Garnier",
       "title": "Palais Garnier",
       "path": "wiki/pages/Palais-Garnier.md",
@@ -2893,6 +3251,25 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "1st-Arrondissement"
+    },
+    {
+      "id": "creatures-Pan",
+      "title": "Pan",
+      "path": "wiki/pages/Pan.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "conjureling",
+        "mythology",
+        "content-warning"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A Carcosan reality has made the myth of Pan and Syrinx brutally real in Paris.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
     },
     {
       "id": "npc-Papus-Gerard-Encausse",
@@ -3086,6 +3463,25 @@
       "parent": "12th-Arrondissement"
     },
     {
+      "id": "creatures-Picture-Perfect",
+      "title": "Picture Perfect",
+      "path": "wiki/pages/Picture-Perfect.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "alt",
+        "art",
+        "ghost"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "Collective artistic belief manifests a dead master's shade, which grows more real with every new devotee.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
       "id": "npc-Pierre-Auguste-Renoir",
       "title": "Pierre-Auguste Renoir",
       "path": "wiki/pages/Pierre-Auguste-Renoir.md",
@@ -3105,6 +3501,25 @@
       "approvalStatus": "approved",
       "keyLinks": [],
       "parent": "Artists-and-Bohemians"
+    },
+    {
+      "id": "creatures-Pigment",
+      "title": "Pigment",
+      "path": "wiki/pages/Pigment.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "human",
+        "art",
+        "conspiracy"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "Paint manufacturers mix Carcosan materials into oils that induce nightmares, frenzy, or unnatural sleep.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
     },
     {
       "id": "npc-Police-and-Thieves",
@@ -3530,6 +3945,25 @@
       "parent": "House-Staff"
     },
     {
+      "id": "creatures-Silver-Sirens",
+      "title": "Silver Sirens",
+      "path": "wiki/pages/Silver-Sirens.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "mutant",
+        "aquatic",
+        "seine"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "Seine predators that become women by night and hunt men guilty of violence.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
       "id": "location-Sorbonne-Library",
       "title": "Sorbonne Library",
       "path": "wiki/pages/Sorbonne-Library.md",
@@ -3628,6 +4062,66 @@
       "parent": "3rd-Arrondissement"
     },
     {
+      "id": "creatures-The-Dollmaker",
+      "title": "The Dollmaker",
+      "path": "wiki/pages/The-Dollmaker.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "human",
+        "occultist"
+      ],
+      "links": [],
+      "aliases": [
+        "Evelyn Royer"
+      ],
+      "summary": "Evelyn Royer traps living souls inside unnervingly accurate dolls beneath her Pigalle shop.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
+      "id": "creatures-The-Doombringers",
+      "title": "The Doombringers",
+      "path": "wiki/pages/The-Doombringers.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "human",
+        "conspiracy",
+        "police"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A secret fraternity of Paris gendarmes serving the King in Yellow and the end of ordinary reality.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
+      "id": "creatures-The-Dressmaker",
+      "title": "The Dressmaker",
+      "path": "wiki/pages/The-Dressmaker.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "human",
+        "occultist",
+        "fashion"
+      ],
+      "links": [],
+      "aliases": [
+        "Claudia Martin"
+      ],
+      "summary": "Claudia Martin sews beautiful gowns that turn fashionable clients into suggestible thralls.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
       "id": "location-Theatre-Lyrique",
       "title": "Théâtre Lyrique",
       "path": "wiki/pages/Theatre-Lyrique.md",
@@ -3718,6 +4212,28 @@
       "parent": "4th-Arrondissement"
     },
     {
+      "id": "creatures-Unknown-of-the-Seine",
+      "title": "Unknown of the Seine",
+      "path": "wiki/pages/Unknown-of-the-Seine.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "carcosa",
+        "seine",
+        "death-mask"
+      ],
+      "links": [],
+      "aliases": [
+        "L'Inconnue de la Seine",
+        "The Unknown Woman of the Seine"
+      ],
+      "summary": "The consciousness behind the famous death mask spreads through its copies and borrowed bodies.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
       "id": "location-Val-de-Grace",
       "title": "Val-de-Grâce",
       "path": "wiki/pages/Val-de-Grace.md",
@@ -3737,22 +4253,81 @@
       "parent": "5th-Arrondissement"
     },
     {
-      "id": "character-Dr-Theodore-Blackwell-Sam",
-      "title": "Dr. Theodore Blackwell (Sam)",
-      "path": "wiki/pages/Dr-Theodore-Blackwell-Sam.md",
-      "type": "character",
+      "id": "creatures-Wanderer",
+      "title": "Wanderer",
+      "path": "wiki/pages/Wanderer.md",
+      "type": "creatures",
       "tags": [
-        "pc",
-        "character",
-        "sheet"
+        "creature",
+        "carcosa",
+        "flaneur"
       ],
       "links": [],
       "aliases": [],
-      "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
-      "visibility": "players",
+      "summary": "A transformed flâneur who talks victims into a labyrinthine imitation of Paris.",
+      "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "cover": "/wiki/media/REPLACE.jpg"
+      "parent": "Creatures"
+    },
+    {
+      "id": "creatures-Widowmaker",
+      "title": "Widowmaker",
+      "path": "wiki/pages/Widowmaker.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "human",
+        "society",
+        "murderer"
+      ],
+      "links": [],
+      "aliases": [
+        "Sebastian Beaumont"
+      ],
+      "summary": "Aristocrat Sebastian Beaumont unknowingly murders his lovers while sincerely assisting the investigation.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
+      "id": "creatures-Winter-Worm",
+      "title": "Winter Worm",
+      "path": "wiki/pages/Winter-Worm.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "invasive",
+        "parasite",
+        "cult"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A parasitic false healer that suppresses pain while its euphoric hosts waste away.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
+    },
+    {
+      "id": "creatures-Yellow-Carnation",
+      "title": "Yellow Carnation",
+      "path": "wiki/pages/Yellow-Carnation.md",
+      "type": "creatures",
+      "tags": [
+        "creature",
+        "invasive",
+        "parasite",
+        "carcosa"
+      ],
+      "links": [],
+      "aliases": [],
+      "summary": "A fashionable Carcosan flower that roots inside decadent wearers and turns them into infectious hosts.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [],
+      "parent": "Creatures"
     }
   ]
 }

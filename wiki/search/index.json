@@ -1087,6 +1087,36 @@
     "excerpt": "# Bicêtre Hospital ## Overview The hospital offers another destination for those whose minds have been permanently damaged by an investigation. ## Historical Background The Bicêtre Hospital is located in Le Kremlin-Bicêtre, a commune in the southern suburbs of Paris, France. It lies 4.5 km (2.8 mile"
   },
   {
+    "id": "11:Bonepile",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Bonepile",
+    "title": "Bonepile",
+    "category": "creatures",
+    "summary": "A crawling assembly of neglected human remains that rebuilds itself in the dark.",
+    "tags": [
+      "creature",
+      "construct",
+      "catacombs"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Paris Catacombs"
+    ],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [
+      "Paris-Catacombs"
+    ],
+    "parent": "Creatures",
+    "excerpt": "# Bonepile ## Overview A Bonepile is a heap of human remains animated by a compulsion to make itself whole. It drags loose bones into its body, rises in a clattering approximation of a person, and attacks anyone who disturbs its work. ## Signs and Investigation - Ossuary stacks have been rearranged "
+  },
+  {
     "id": "11:Bruce-Carter-Mark",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1514,6 +1544,111 @@
     "excerpt": "# Colonel Caoutchouc <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Caoutchouc is never the same man twice, but each version is charming enough to make doubt feel rude. His greatest weapon is the pause before someone says, \"surely not.\"</p> "
   },
   {
+    "id": "11:Creatures",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Creatures",
+    "title": "Creatures",
+    "category": "creatures",
+    "summary": "A GM reference to the unnatural beings, human agents, and Carcosan threats haunting Paris.",
+    "tags": [
+      "creature",
+      "gm-reference",
+      "carcosa"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Bonepile",
+      "Creeping Beast",
+      "Dark Dweller",
+      "The Dollmaker",
+      "The Doombringers",
+      "The Dressmaker",
+      "Gawkers",
+      "Green Fairy",
+      "Inkblot",
+      "Inspir",
+      "Liberty Vintners",
+      "Living Portrait",
+      "Marble Dancer",
+      "Marie Rowdon",
+      "Micar",
+      "Nokk",
+      "Our Lady of Bones",
+      "Pan",
+      "Picture Perfect",
+      "Pigment",
+      "Silver Sirens",
+      "Unknown of the Seine",
+      "Madame Cleo Verlaque",
+      "Wanderer",
+      "Widowmaker",
+      "Winter Worm",
+      "Yellow Carnation"
+    ],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Creatures These entries collect the Paris manifestations from *The Yellow King RPG*. Each page gives the threat's outward signs, hidden nature, investigative trail, means of resistance, and QuickShock statistics. ## Carcosan and Supernatural Threats - [[Bonepile]] - [[Creeping Beast]] - [[Dark Dwe"
+  },
+  {
+    "id": "11:Creeping-Beast",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Creeping-Beast",
+    "title": "Creeping Beast",
+    "category": "creatures",
+    "summary": "A painted leopard that stalks its chosen viewer through reflections and other images.",
+    "tags": [
+      "creature",
+      "art",
+      "carcosa"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Creeping Beast ## Overview The beast begins as a leopard in a post-impressionist canvas. Only its chosen victim notices that it looks back. Soon it appears in mirrors, photographs, advertisements, and unrelated paintings, edging closer each time. ## Signs and Investigation - Witnesses insist an an"
+  },
+  {
+    "id": "11:Dark-Dweller",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Dark-Dweller",
+    "title": "Dark Dweller",
+    "category": "creatures",
+    "summary": "A person or animal transformed by prolonged, absolute subterranean darkness.",
+    "tags": [
+      "creature",
+      "mutant",
+      "catacombs"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [
+      "Paris-Catacombs"
+    ],
+    "parent": "Creatures",
+    "excerpt": "# Dark Dweller ## Overview Someone lost beneath Paris can become a Dark Dweller: hairless, feral, uncannily strong, and unable to endure daylight. The change is gradual enough that a missing person may still be rescued before the darkness finishes remaking them. ## Signs and Investigation - Supplies"
+  },
+  {
     "id": "11:Depot-de-Mendicite",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -1658,6 +1793,29 @@
     ],
     "parent": "Scientists-and-Inventors",
     "excerpt": "# Dr. Ludwig Weiss <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Dr. Ludwig Weiss is an elderly Austrian physician whose age seems to have settled into him rather than defeated him. He is thin, stooped, white-haired, and immaculately dresse"
+  },
+  {
+    "id": "11:Dr-Theodore-Blackwell-Sam",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Dr-Theodore-Blackwell-Sam",
+    "title": "Dr. Theodore Blackwell (Sam)",
+    "category": "character",
+    "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
+    "tags": [
+      "pc",
+      "character",
+      "sheet"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": "# Dr. Theodore Blackwell (Sam) ```yellow-king-paris-sheet name: player: field: drive: pushes: 2 investigative: - - - - general: Athletics: Composure: Fighting: First Aid: Health: Mechanics: Preparedness: Riding: Sense Trouble: Sneaking: relyOn: seekToProtect: peculiarBusiness: ```"
   },
   {
     "id": "11:Ecole-des-Beaux-Arts",
@@ -2081,6 +2239,32 @@
     "excerpt": "# Gail Loveless <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Gail Loveless has the matronly solidity of a woman people underestimate only once. She writes sensational spy fiction and lets readers argue over how much of it she invented.</p>"
   },
   {
+    "id": "11:Gawkers",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Gawkers",
+    "title": "Gawkers",
+    "category": "creatures",
+    "summary": "Featureless pseudo-people that appear in fascinated crowds and erase isolated witnesses.",
+    "tags": [
+      "creature",
+      "alt",
+      "crowds"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Gawkers ## Overview Gawkers materialize wherever a crowd gathers around an accident, scandal, salon sensation, or public spectacle. At a glance they seem ordinary. Seen clearly, their faces are waxy and unfinished. They close around isolated onlookers and erase them into nothing. ## Signs and Inve"
+  },
+  {
     "id": "11:Georges-Grison",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2106,6 +2290,32 @@
     "keyLinks": [],
     "parent": "Police-and-Thieves",
     "excerpt": "# Georges Grison <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Grison is all ink-stained cuffs and bright, hungry attention. He talks like a friend, listens like a prosecutor, and files the best line before anyone else reaches the door.</p>"
+  },
+  {
+    "id": "11:Green-Fairy",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Green-Fairy",
+    "title": "Green Fairy",
+    "category": "creatures",
+    "summary": "An energy-feeding Carcosan predator exposed by absinthe and hidden behind a human guise.",
+    "tags": [
+      "creature",
+      "carcosa",
+      "absinthe"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Green Fairy ## Overview Absinthe does not create this hallucination; it lets the drinker see through it. A Green Fairy passes as human until intoxicated eyes reveal rippling green skin, iron claws, predatory teeth, and the webbing of a spawning lair. ## Signs and Investigation - Different drinkers"
   },
   {
     "id": "11:Gustave-Moreau",
@@ -2557,6 +2767,59 @@
     "excerpt": "# Imperial National Library ## Overview Known before and after this period as the Bibliothèque Nationale, its vast holdings make it the obvious destination for dangerous texts. ## Historical Background The Richelieu complex fills the block bounded by rues de Richelieu, Vivienne, Colbert, and des Pet"
   },
   {
+    "id": "11:Inkblot",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Inkblot",
+    "title": "Inkblot",
+    "category": "creatures",
+    "summary": "Minute Carcosan parasites carried in artistic liquids that drive infected artists into contagious mania.",
+    "tags": [
+      "creature",
+      "invasive",
+      "parasite",
+      "art"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Inkblot ## Overview Inkblots are threadlike parasites concealed in ink, paint, and other artistic liquids. They enter through the skin, migrate toward the skull, and induce feverish bursts of creation. The resulting work and physical contact spread fresh larvae. ## Investigation and Response - Inf"
+  },
+  {
+    "id": "11:Inspir",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Inspir",
+    "title": "Inspir",
+    "category": "creatures",
+    "summary": "A beautiful Carcosan muse that grants inspiration while hollowing out an artist's will.",
+    "tags": [
+      "creature",
+      "carcosa",
+      "art"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Inspir ## Overview An Inspir attaches itself to as many as four artists. Its presence first feels like miraculous inspiration. Dream-whispers then foster obsession, dependence, and violence until the artists care only for pleasing their muse. ## Investigation and Response - Several artists describ"
+  },
+  {
     "id": "11:Jackson-Jay-Steerman-IV-David",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -2690,7 +2953,8 @@
       "5th Arrondissement"
     ],
     "backlinks": [
-      "5th-Arrondissement"
+      "5th-Arrondissement",
+      "Nokk"
     ],
     "keyLinks": [],
     "parent": "5th-Arrondissement",
@@ -3255,6 +3519,35 @@
     "excerpt": "# Les Deux Magots ## Overview Its name comes from the wooden figures above the drinkers, though occult patrons may interpret them as magicians or alchemists. Mallarmé and other Symbolist poets frequent the café. ## Historical Background Les Deux Magots (French pronunciation: [le dø maɡo]) is a café "
   },
   {
+    "id": "11:Liberty-Vintners",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Liberty-Vintners",
+    "title": "Liberty Vintners",
+    "category": "creatures",
+    "summary": "Winemakers whose Carcosan ruby vines produce an inhibition-stripping wine used for influence and blackmail.",
+    "tags": [
+      "creature",
+      "human",
+      "conspiracy",
+      "wine"
+    ],
+    "aliases": [
+      "Vin de la Liberté"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Liberty Vintners ## Overview After blight ruined their ordinary vines, six vintners grafted in ruby cuttings from Carcosa. Their Vin de la Liberté removes inhibition and restraint, making fashionable drinkers easy to compromise. Daily use also halts aging. ## Investigation and Response - Important"
+  },
+  {
     "id": "11:Librairie-de-lArt-Independant",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -3307,6 +3600,34 @@
     "keyLinks": [],
     "parent": "9th-Arrondissement",
     "excerpt": "# Librairie du Merveilleux ## Overview Chamuel is a Catholic mystic, small publisher, and protégé of Papus, whose works he promotes. ## Investigation Use A mundane alchemical purchase becomes the missing component in a genuine ritual. ## Connections - [[9th Arrondissement]] ## Sources - Robin D. Law"
+  },
+  {
+    "id": "11:Living-Portrait",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Living-Portrait",
+    "title": "Living Portrait",
+    "category": "creatures",
+    "summary": "Clement Medin's portraits open into hungry pocket worlds through the use of Carcosan turpentine.",
+    "tags": [
+      "creature",
+      "construct",
+      "art"
+    ],
+    "aliases": [
+      "Clement Medin's Portraits"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Living Portrait ## Overview Painter Clement Medin mixes a yellowish Carcosan solvent into his work. Finished portraits breathe, change expression, and conceal skull motifs. Each is a doorway into a pocket dimension capable of swallowing salon guests. ## Investigation and Response - A subject's pai"
   },
   {
     "id": "11:Loie-Fuller",
@@ -3435,6 +3756,35 @@
     "excerpt": "# Luxembourg Gallery ## Overview The gallery displays current work by figures such as Rodin and Monet and appears in Chambers’s “The Mask.” It has occupied this building since 1884. ## Investigation Use A sculpture or painting changes material overnight while guards insist nothing moved. ## Connecti"
   },
   {
+    "id": "11:Madame-Cleo-Verlaque",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Madame-Cleo-Verlaque",
+    "title": "Madame Cleo Verlaque",
+    "category": "creatures",
+    "summary": "An elite medium who turns fashionable séances into doors for extra-dimensional Carcosan minds.",
+    "tags": [
+      "creature",
+      "human",
+      "medium",
+      "occultist"
+    ],
+    "aliases": [
+      "Cleo Verlaque"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Madame Cleo Verlaque ## Overview Madame Verlaque cultivates grieving, wealthy clients through private séances. Yellow flowers, pungent herbs, a black metallic bowl, and lines from *The King in Yellow* allow extra-dimensional Carcosan entities to enter through her body. ## Investigation and Respons"
+  },
+  {
     "id": "11:Madame-Eugenie-Voclain-Head-Cook",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -3498,6 +3848,32 @@
     "keyLinks": [],
     "parent": "Paris-Outskirts",
     "excerpt": "# Maison Fournaise ## Overview Renoir favors its airy rooms and terraces, a marked contrast to the smoky, claustrophobic cafés of Montmartre. ## Historical Background Maison Fournaise (French: [mɛzɔ̃ fuʁnɛz]; lit. 'Fournaise House') is a restaurant and museum located on the Île des Impressionnistes,"
+  },
+  {
+    "id": "11:Marble-Dancer",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Marble-Dancer",
+    "title": "Marble Dancer",
+    "category": "creatures",
+    "summary": "An animated statue that dances at night and drains a lover's life in pursuit of humanity.",
+    "tags": [
+      "creature",
+      "construct",
+      "art"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Marble Dancer ## Overview By day the Marble Dancer is an androgynous statue. At night it moves with impossible grace and searches for a lover whose vitality might make it human. Each meeting ages the victim until death returns the Dancer to its pedestal. ## Investigation and Response - Museum staf"
   },
   {
     "id": "11:Marcel-Proust",
@@ -3613,6 +3989,33 @@
     "excerpt": "# Marie-François Goron <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Goron is genial until the room turns criminal, then his attention narrows with alarming pleasure. He likes stories, especially the ones that end with someone clever in cha"
   },
   {
+    "id": "11:Marie-Rowdon",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Marie-Rowdon",
+    "title": "Marie Rowdon",
+    "category": "creatures",
+    "summary": "A fashionable painter whose private intoxication salons implant fragments of The King in Yellow.",
+    "tags": [
+      "creature",
+      "human",
+      "artist",
+      "king-in-yellow"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Marie Rowdon ## Overview Marie Rowdon is a successful painter and hostess of elite private parties fueled by absinthe and opium. When her guests are most altered, she recites fragments of *The King in Yellow*, planting the play in minds unprepared to resist it. ## Investigation and Response - Soci"
+  },
+  {
     "id": "11:Mary-Cassatt",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -3695,6 +4098,32 @@
     "keyLinks": [],
     "parent": "12th-Arrondissement",
     "excerpt": "# Mazas Prison ## Overview Its scale and misery make it a dangerous place for undercover work among prisoners. ## Historical Background The Mazas Prison (French: Prison Mazas) was a prison in Paris, France. Designed by architects Émile Gilbert and Jean-François-Joseph Lecointe, it was inaugurated in"
+  },
+  {
+    "id": "11:Micar",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Micar",
+    "title": "Micar",
+    "category": "creatures",
+    "summary": "An obsidian-skinned Carcosan predator whose dead hide becomes a bloody mirror of the past.",
+    "tags": [
+      "creature",
+      "invasive",
+      "carcosa"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Micar ## Overview Medieval gargoyles imitate the Micar, not the reverse. Its glossy black skin resembles carved obsidian, encouraging witnesses to mistake a living predator for architectural stone. ## Investigation and Response - A supposed gargoyle changes rooflines between sightings. - Scratches"
   },
   {
     "id": "11:Moina-Mathers",
@@ -3836,6 +4265,36 @@
     "excerpt": "# Nadar <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Nadar is huge in reputation and larger in conversation. He laughs loudly, remembers everyone, and treats peril as a logistical inconvenience on the way to a better view.</p> </section> <"
   },
   {
+    "id": "11:Nokk",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Nokk",
+    "title": "Nokk",
+    "category": "creatures",
+    "summary": "An aquatic mutant whose spine-song disguises a fishlike hunter as a compelling human presence.",
+    "tags": [
+      "creature",
+      "mutant",
+      "aquatic"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Jardin des Plantes"
+    ],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [
+      "Jardin-des-Plantes"
+    ],
+    "parent": "Creatures",
+    "excerpt": "# Nokk ## Overview A Nokk is a fish, crustacean, and humanoid predator associated with corrupted waters near the [[Jardin des Plantes]]. By plucking its dorsal spines it produces an enchanting music and a perceptual glamour that makes witnesses accept it as human. ## Investigation and Response - Mus"
+  },
+  {
     "id": "11:Notre-Dame-de-Paris",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -3856,7 +4315,8 @@
       "1st Arrondissement"
     ],
     "backlinks": [
-      "1st-Arrondissement"
+      "1st-Arrondissement",
+      "Our-Lady-of-Bones"
     ],
     "keyLinks": [],
     "parent": "1st-Arrondissement",
@@ -4014,6 +4474,38 @@
     "excerpt": "# Oswald Wirth <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Wirth is patient, observant, and mildly amused by louder occultists. He watches hands as carefully as faces, and his own hands rarely stop sketching.</p> </section> <section class"
   },
   {
+    "id": "11:Our-Lady-of-Bones",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Our-Lady-of-Bones",
+    "title": "Our Lady of Bones",
+    "category": "creatures",
+    "summary": "A newly invented saint that feeds on grief beneath an illusion of Catholic sanctity.",
+    "tags": [
+      "creature",
+      "carcosa",
+      "cult"
+    ],
+    "aliases": [
+      "Notre Dame des Os"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Notre-Dame de Paris"
+    ],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [
+      "Notre-Dame-de-Paris"
+    ],
+    "parent": "Creatures",
+    "excerpt": "# Our Lady of Bones ## Overview Our Lady of Bones is not an old saint but a recent Carcosan invention. She appears as a petite, consoling woman when sated and gathers mourners into a private devotion. While feeding, her true form is a mass of worms, bones, organs, and tallow. ## Investigation and Re"
+  },
+  {
     "id": "11:Palais-Garnier",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -4069,6 +4561,33 @@
     "excerpt": "# Palais de Justice ## Overview Its neoclassical halls contain the Cour de Cassation, Cour d’Assises, Conciergerie, basement Souricière prison, and administrative Dépôt. ## Historical Background The courthouse occupies much of the medieval Palais de la Cité beside Sainte-Chapelle and the Conciergeri"
   },
   {
+    "id": "11:Pan",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Pan",
+    "title": "Pan",
+    "category": "creatures",
+    "summary": "A Carcosan reality has made the myth of Pan and Syrinx brutally real in Paris.",
+    "tags": [
+      "creature",
+      "conjureling",
+      "mythology",
+      "content-warning"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Pan > Content warning: this entry involves stalking, coercion, and sexual violence. ## Overview Carcosan influence has made Pan and Syrinx real. Pan hunts Syrinx while deceiving outsiders into helping him. Syrinx's living body has been transformed into flutes; her song prevents Pan from perceiving"
+  },
+  {
     "id": "11:Papus-Gerard-Encausse",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -4120,7 +4639,8 @@
       "14th Arrondissement"
     ],
     "backlinks": [
-      "14th-Arrondissement"
+      "14th-Arrondissement",
+      "Bonepile"
     ],
     "keyLinks": [],
     "parent": "14th-Arrondissement",
@@ -4337,6 +4857,33 @@
     "excerpt": "# Picpus Cemetery ## Overview It contains 1,306 people guillotined during six weeks in 1794 and later became a burial place for aristocrats and dignitaries. Americans visit Lafayette; Talleyrand, André Chénier, and Montalembert also lie here. ## Historical Background Picpus Cemetery (French: Cimetiè"
   },
   {
+    "id": "11:Picture-Perfect",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Picture-Perfect",
+    "title": "Picture Perfect",
+    "category": "creatures",
+    "summary": "Collective artistic belief manifests a dead master's shade, which grows more real with every new devotee.",
+    "tags": [
+      "creature",
+      "alt",
+      "art",
+      "ghost"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Picture Perfect ## Overview Admiration for a dead artistic giant condenses into a personalized shade. At first only devoted artists can perceive it. As it recruits new followers, it gains substance, strength, and the ability to impose an alien ideal of beauty. ## Investigation and Response - Artis"
+  },
+  {
     "id": "11:Pierre-Auguste-Renoir",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -4365,6 +4912,33 @@
     "keyLinks": [],
     "parent": "Artists-and-Bohemians",
     "excerpt": "# Pierre-Auguste Renoir <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Renoir prefers warmth, flesh, sunlight, and ordinary happiness. He has little patience for theatrical dread and less interest in being dragged into someone else's occult "
+  },
+  {
+    "id": "11:Pigment",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Pigment",
+    "title": "Pigment",
+    "category": "creatures",
+    "summary": "Paint manufacturers mix Carcosan materials into oils that induce nightmares, frenzy, or unnatural sleep.",
+    "tags": [
+      "creature",
+      "human",
+      "art",
+      "conspiracy"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Pigment ## Overview A subversive paint concern imports Carcosan ingredients and sells colors engineered to induce frenzy, nightmares, or sleep. Its clients use the paints to ruin aristocrats and destabilize respectable institutions. ## Investigation and Response - Different paintings provoke the s"
   },
   {
     "id": "11:Police-and-Thieves",
@@ -4933,6 +5507,33 @@
     "excerpt": "# Silas Burke, Head Butler <div class=\"wiki-layout\"> <div class=\"wiki-main\"> <section class=\"wiki-section\"> <h2>At The Table</h2> <p>Silas Burke is the man who appears before anyone has quite decided to ring. He is broad-shouldered, severe without being theatrical, and dressed with the immaculate re"
   },
   {
+    "id": "11:Silver-Sirens",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Silver-Sirens",
+    "title": "Silver Sirens",
+    "category": "creatures",
+    "summary": "Seine predators that become women by night and hunt men guilty of violence.",
+    "tags": [
+      "creature",
+      "mutant",
+      "aquatic",
+      "seine"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Silver Sirens ## Overview Silver Sirens are fish by day, women by night, and disturbing hybrids at twilight. Their psychic sonar identifies men who have committed violence against women or fish. They lure those targets from the banks of the Seine, kill them, and feed. ## Investigation and Response"
+  },
+  {
     "id": "11:Sorbonne-Library",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -5071,6 +5672,90 @@
     "excerpt": "# Temple Square ## Overview The Temple once imprisoned the royal family and attracted Royalist pilgrims until Napoléon ordered its destruction in 1808. Allegorical statues represent Hope, Justice, Abundance, and Prudence. ## Historical Background Created in 1857, the Square du Temple was one of the "
   },
   {
+    "id": "11:The-Dollmaker",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "The-Dollmaker",
+    "title": "The Dollmaker",
+    "category": "creatures",
+    "summary": "Evelyn Royer traps living souls inside unnervingly accurate dolls beneath her Pigalle shop.",
+    "tags": [
+      "creature",
+      "human",
+      "occultist"
+    ],
+    "aliases": [
+      "Evelyn Royer"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# The Dollmaker ## Overview Evelyn Royer's shop sells exquisite dolls with disquietingly familiar faces. In the basement she uses a bodily token from each victim and a Carcosan altar to bind a soul into its likeness, leaving the original body alive but vacant. ## Signs and Investigation - A doll res"
+  },
+  {
+    "id": "11:The-Doombringers",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "The-Doombringers",
+    "title": "The Doombringers",
+    "category": "creatures",
+    "summary": "A secret fraternity of Paris gendarmes serving the King in Yellow and the end of ordinary reality.",
+    "tags": [
+      "creature",
+      "human",
+      "conspiracy",
+      "police"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# The Doombringers ## Overview Thirteen gendarmes form a clandestine faction devoted to the King in Yellow. They erase evidence, redirect witnesses, protect Carcosan agents, and exploit the authority of the uniform to isolate investigators. ## Signs and Investigation - Reports vanish or return with "
+  },
+  {
+    "id": "11:The-Dressmaker",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "The-Dressmaker",
+    "title": "The Dressmaker",
+    "category": "creatures",
+    "summary": "Claudia Martin sews beautiful gowns that turn fashionable clients into suggestible thralls.",
+    "tags": [
+      "creature",
+      "human",
+      "occultist",
+      "fashion"
+    ],
+    "aliases": [
+      "Claudia Martin"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# The Dressmaker ## Overview Claudia Martin is a gifted Latin Quarter tailor whose gowns confer beauty, confidence, and social success. They also infect their wearers with a compulsion to obey her. Dreams sent through the King in Yellow convince Martin that her work serves a higher art. ## Signs and"
+  },
+  {
     "id": "11:Theatre-Lyrique",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -5196,6 +5881,36 @@
     "excerpt": "# Tour Saint-Jacques ## Overview After the Commune, the surrounding park served as a hurried mass grave, with reports of shallow burials and people interred alive. Nicolas Flamel was once buried beneath the vanished church. ## Historical Background Tour Saint-Jacques (French: [tuʁ sɛ̃ʒak], 'Saint Ja"
   },
   {
+    "id": "11:Unknown-of-the-Seine",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Unknown-of-the-Seine",
+    "title": "Unknown of the Seine",
+    "category": "creatures",
+    "summary": "The consciousness behind the famous death mask spreads through its copies and borrowed bodies.",
+    "tags": [
+      "creature",
+      "carcosa",
+      "seine",
+      "death-mask"
+    ],
+    "aliases": [
+      "L'Inconnue de la Seine",
+      "The Unknown Woman of the Seine"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Unknown of the Seine ## Overview The serene death mask of the Unknown Woman of the Seine owes its fame to Carcosan design. Every copy gives the entity another point of awareness and another route into Paris. A mask placed upon the dead can become more than a memorial. ## Investigation and Response"
+  },
+  {
     "id": "11:Val-de-Grace",
     "campaignId": 11,
     "campaignName": "The Golden Ruin",
@@ -5221,6 +5936,115 @@
     "keyLinks": [],
     "parent": "5th-Arrondissement",
     "excerpt": "# Val-de-Grâce ## Overview Built in the seventeenth century, it treats soldiers who often fear its care will be inferior to an expensive private hospital. ## Historical Background The Val-de-Grâce (French pronunciation: [val də ɡʁɑs]; Hôpital d'instruction des armées du Val-de-Grâce or HIA Val-de-Gr"
+  },
+  {
+    "id": "11:Wanderer",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Wanderer",
+    "title": "Wanderer",
+    "category": "creatures",
+    "summary": "A transformed flâneur who talks victims into a labyrinthine imitation of Paris.",
+    "tags": [
+      "creature",
+      "carcosa",
+      "flaneur"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Wanderer ## Overview The Wanderer appears as a fashionable flâneur with a skull mask and sword cane. His mesmerizing conversation guides a target through familiar streets that gradually become a quasi-Paris: an endless, Carcosan demi-city from which ordinary routes no longer lead home. ## Investig"
+  },
+  {
+    "id": "11:Widowmaker",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Widowmaker",
+    "title": "Widowmaker",
+    "category": "creatures",
+    "summary": "Aristocrat Sebastian Beaumont unknowingly murders his lovers while sincerely assisting the investigation.",
+    "tags": [
+      "creature",
+      "human",
+      "society",
+      "murderer"
+    ],
+    "aliases": [
+      "Sebastian Beaumont"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Widowmaker ## Overview Sebastian Beaumont is a handsome aristocrat celebrated as a tragic romantic. His lovers die, evidence disappears, and Beaumont then offers every appearance of sincere cooperation to the Sûreté. He does not consciously know that he commits the murders. ## Investigation and Re"
+  },
+  {
+    "id": "11:Winter-Worm",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Winter-Worm",
+    "title": "Winter Worm",
+    "category": "creatures",
+    "summary": "A parasitic false healer that suppresses pain while its euphoric hosts waste away.",
+    "tags": [
+      "creature",
+      "invasive",
+      "parasite",
+      "cult"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Winter Worm ## Overview The Winter Worm poses as a priest or healer. Through a psychic bond it removes hunger and pain, earning worship from sick or desperate hosts while their bodies waste away in bliss. Its pale, scarf-like adult form carries egg sacs along its spine. ## Investigation and Respon"
+  },
+  {
+    "id": "11:Yellow-Carnation",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Yellow-Carnation",
+    "title": "Yellow Carnation",
+    "category": "creatures",
+    "summary": "A fashionable Carcosan flower that roots inside decadent wearers and turns them into infectious hosts.",
+    "tags": [
+      "creature",
+      "invasive",
+      "parasite",
+      "carcosa"
+    ],
+    "aliases": [],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [
+      "Creatures"
+    ],
+    "keyLinks": [],
+    "parent": "Creatures",
+    "excerpt": "# Yellow Carnation ## Overview A florist near the Palais Bourbon launches a yellow-carnation fashion using Carcosan seed. On a susceptible wearer, the flower enters through the chest, encourages escalating indulgence, and grows roots throughout the body. After roughly two weeks it controls the host "
   },
   {
     "id": "11:media:wiki/media/Adrien-Mercier.png",
@@ -5642,6 +6466,573 @@
     ],
     "aliases": [
       "Colonel-Caoutchouc.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Bonepile.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Bonepile.png",
+    "title": "Creature-Bonepile.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Bonepile.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Bonepile.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Creeping-Beast.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Creeping-Beast.png",
+    "title": "Creature-Creeping-Beast.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Creeping-Beast.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Creeping-Beast.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Dark-Dweller.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Dark-Dweller.png",
+    "title": "Creature-Dark-Dweller.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Dark-Dweller.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Dark-Dweller.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Gawkers.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Gawkers.png",
+    "title": "Creature-Gawkers.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Gawkers.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Gawkers.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Green-Fairy.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Green-Fairy.png",
+    "title": "Creature-Green-Fairy.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Green-Fairy.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Green-Fairy.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Inkblot.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Inkblot.png",
+    "title": "Creature-Inkblot.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Inkblot.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Inkblot.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Inspir.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Inspir.png",
+    "title": "Creature-Inspir.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Inspir.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Inspir.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Liberty-Vintners.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Liberty-Vintners.png",
+    "title": "Creature-Liberty-Vintners.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Liberty-Vintners.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Liberty-Vintners.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Living-Portrait.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Living-Portrait.png",
+    "title": "Creature-Living-Portrait.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Living-Portrait.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Living-Portrait.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Madame-Cleo-Verlaque.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Madame-Cleo-Verlaque.png",
+    "title": "Creature-Madame-Cleo-Verlaque.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Madame-Cleo-Verlaque.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Madame-Cleo-Verlaque.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Marble-Dancer.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Marble-Dancer.png",
+    "title": "Creature-Marble-Dancer.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Marble-Dancer.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Marble-Dancer.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Marie-Rowdon.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Marie-Rowdon.png",
+    "title": "Creature-Marie-Rowdon.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Marie-Rowdon.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Marie-Rowdon.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Micar.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Micar.png",
+    "title": "Creature-Micar.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Micar.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Micar.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Nokk.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Nokk.png",
+    "title": "Creature-Nokk.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Nokk.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Nokk.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Our-Lady-of-Bones.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Our-Lady-of-Bones.png",
+    "title": "Creature-Our-Lady-of-Bones.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Our-Lady-of-Bones.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Our-Lady-of-Bones.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Pan.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Pan.png",
+    "title": "Creature-Pan.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Pan.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Pan.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Picture-Perfect.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Picture-Perfect.png",
+    "title": "Creature-Picture-Perfect.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Picture-Perfect.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Picture-Perfect.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Pigment.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Pigment.png",
+    "title": "Creature-Pigment.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Pigment.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Pigment.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Silver-Sirens.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Silver-Sirens.png",
+    "title": "Creature-Silver-Sirens.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Silver-Sirens.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Silver-Sirens.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-The-Dollmaker.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-The-Dollmaker.png",
+    "title": "Creature-The-Dollmaker.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-The-Dollmaker.png",
+    "tags": [],
+    "aliases": [
+      "Creature-The-Dollmaker.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-The-Doombringers.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-The-Doombringers.png",
+    "title": "Creature-The-Doombringers.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-The-Doombringers.png",
+    "tags": [],
+    "aliases": [
+      "Creature-The-Doombringers.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-The-Dressmaker.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-The-Dressmaker.png",
+    "title": "Creature-The-Dressmaker.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-The-Dressmaker.png",
+    "tags": [],
+    "aliases": [
+      "Creature-The-Dressmaker.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Unknown-of-the-Seine.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Unknown-of-the-Seine.png",
+    "title": "Creature-Unknown-of-the-Seine.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Unknown-of-the-Seine.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Unknown-of-the-Seine.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Wanderer.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Wanderer.png",
+    "title": "Creature-Wanderer.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Wanderer.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Wanderer.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Widowmaker.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Widowmaker.png",
+    "title": "Creature-Widowmaker.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Widowmaker.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Widowmaker.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Winter-Worm.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Winter-Worm.png",
+    "title": "Creature-Winter-Worm.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Winter-Worm.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Winter-Worm.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Creature-Yellow-Carnation.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Creature-Yellow-Carnation.png",
+    "title": "Creature-Yellow-Carnation.png",
+    "category": "media",
+    "summary": "wiki/media/Creature-Yellow-Carnation.png",
+    "tags": [],
+    "aliases": [
+      "Creature-Yellow-Carnation.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
