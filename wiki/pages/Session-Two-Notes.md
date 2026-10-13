@@ -2,7 +2,10 @@
 category: game
 type: game
 name: Session Two Notes
-summary: The investigators examine Nell Whitcomb's death and apartment, recover a self-completing wall-poem, hear Janine Du Bois's account of a fatal party, and learn from Marie Curie that researchers are disappearing from the timeline.
+summary: The investigators examine Nell Whitcomb's death and apartment, recover
+  a self-completing wall-poem, hear Janine Du Bois's account of a fatal party,
+  and learn from Marie Curie that researchers are disappearing from the
+  timeline.
 tags:
   - game
   - session-notes
@@ -27,7 +30,7 @@ keyLinks:
 aliases:
   - Session 2
   - Game 2 Notes
-lastEditedBy: Codex
+lastEditedBy: GM review via MCP
 ---
 
 # Session Two Notes
