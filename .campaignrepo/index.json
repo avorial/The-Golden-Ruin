@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T13:56:53.313Z",
+  "generatedAt": "2026-10-13T13:33:11.977Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -3915,6 +3915,58 @@
         "Adrien Mercier",
         "Théo Marchand",
         "Camille Roussel"
+      ]
+    },
+    {
+      "id": "game-Session-Two-Notes",
+      "title": "Session Two Notes",
+      "path": "wiki/pages/Session-Two-Notes.md",
+      "type": "game",
+      "tags": [
+        "game",
+        "session-notes",
+        "bonnet-affair"
+      ],
+      "links": [
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Louis-Lepine",
+        "location-House-of-the-North-Star",
+        "character-Jackson-Jay-Steerman-IV-David",
+        "character-Laurie-Shelby",
+        "character-Jackson-Jay-Steerman-IV-David",
+        "location-7th-Arrondissement",
+        "npc-Janine-Du-Bois",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Marie-Curie",
+        "character-Edward-Vine-Jarod",
+        "location-House-of-the-North-Star",
+        "character-Henry-Pirece-Laura",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Henri-de-Toulouse-Lautrec"
+      ],
+      "aliases": [
+        "Session 2",
+        "Game 2 Notes"
+      ],
+      "summary": "The investigators examine Nell Whitcomb's death and apartment, recover a self-completing wall-poem, hear Janine Du Bois's account of a fatal party, and learn from Marie Curie that researchers are disappearing from the timeline.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "Edward Vine",
+        "Jackson \"Jay\" Steerman IV",
+        "Henry Pierce",
+        "Laurie Shelby",
+        "House of the North Star",
+        "Eleanor \"Nell\" Whitcomb",
+        "Louis Lépine",
+        "Janine Du Bois",
+        "Dr. Ludwig Weiss",
+        "Dr. Georges Bonnet",
+        "Marie Curie",
+        "Henri de Toulouse-Lautrec",
+        "7th Arrondissement"
       ]
     },
     {

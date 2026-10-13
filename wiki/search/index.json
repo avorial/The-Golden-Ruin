@@ -559,7 +559,8 @@
       "Le Bon Marché"
     ],
     "backlinks": [
-      "Le-Bon-Marche"
+      "Le-Bon-Marche",
+      "Session-Two-Notes"
     ],
     "keyLinks": [
       "Le Bon Marché"
@@ -1728,6 +1729,8 @@
       "Scientists-and-Inventors",
       "Session-One-Notes",
       "Session-One-Notes",
+      "Session-Two-Notes",
+      "Session-Two-Notes",
       "Theo-Marchand"
     ],
     "keyLinks": [
@@ -1782,7 +1785,9 @@
       "Hotel-Bonnet",
       "Scientists-and-Inventors",
       "Session-One-Notes",
-      "Session-One-Notes"
+      "Session-One-Notes",
+      "Session-Two-Notes",
+      "Session-Two-Notes"
     ],
     "keyLinks": [
       "Dr. Georges Bonnet",
@@ -1924,7 +1929,8 @@
     "links": [],
     "backlinks": [
       "Session-One-Notes",
-      "Session-One-Notes"
+      "Session-One-Notes",
+      "Session-Two-Notes"
     ],
     "keyLinks": [],
     "excerpt": "# Edward Vine (Jared) ```yellow-king-paris-sheet name: Edward Vine player: Jared field: Sculptor / Raised on the Strets drive: Inspiration pushes: 2 investigative: - Art History - Military History - Sculpture - Steel general: Athletics: 5 Composure: 6 Fighting: 7 First Aid: 0 Health: 4 Mechanics: 0 "
@@ -1977,6 +1983,7 @@
       "Janine-Du-Bois",
       "Session-One-Notes",
       "Session-One-Notes",
+      "Session-Two-Notes",
       "Theo-Marchand"
     ],
     "keyLinks": [
@@ -2397,7 +2404,8 @@
     "playerText": "",
     "links": [],
     "backlinks": [
-      "Artists-and-Bohemians"
+      "Artists-and-Bohemians",
+      "Session-Two-Notes"
     ],
     "keyLinks": [],
     "parent": "Artists-and-Bohemians",
@@ -2423,7 +2431,8 @@
     "playerText": "",
     "links": [],
     "backlinks": [
-      "Session-One-Notes"
+      "Session-One-Notes",
+      "Session-Two-Notes"
     ],
     "keyLinks": [],
     "excerpt": "# Henry Pierce (Laura) ## History --- Character Picture ```yellow-king-paris-sheet name: Henry Pierce player: Laura Bee field: Belle-Lettrist / Tinker drive: Curiostity pushes: 2 investigative: - Bella Lettrist - History - Reassurance - Resarch general: Athletics: 3 Composure: 6 Fighting: 5 First Ai"
@@ -2730,6 +2739,8 @@
       "Oswald-Wirth",
       "Sarah-Bernhardt",
       "Session-One-Notes",
+      "Session-Two-Notes",
+      "Session-Two-Notes",
       "Silas-Burke-Head-Butler",
       "Silas-Burke-Head-Butler"
     ],
@@ -2840,7 +2851,9 @@
     "links": [],
     "backlinks": [
       "Session-One-Notes",
-      "Session-One-Notes"
+      "Session-One-Notes",
+      "Session-Two-Notes",
+      "Session-Two-Notes"
     ],
     "keyLinks": [],
     "excerpt": "# Jackson (Jay) Steerman IV (David) ```yellow-king-paris-sheet name: Jackson (Jay) Steerman IV player: David Urvig field: Poet /Scrounger drive: Seeker pushes: 2 investigative: - Demimonde - Intuition - Occultism - Poetry general: Athletics: 3 Composure: 7 Fighting: 6 First Aid: 0 Health: 3 Mechanic"
@@ -2920,7 +2933,8 @@
       "Eleanor-Nell-Whitcomb",
       "Eleanor-Nell-Whitcomb",
       "Session-One-Notes",
-      "Session-One-Notes"
+      "Session-One-Notes",
+      "Session-Two-Notes"
     ],
     "keyLinks": [
       "Dr. Georges Bonnet",
@@ -3350,7 +3364,9 @@
     "text": "",
     "playerText": "",
     "links": [],
-    "backlinks": [],
+    "backlinks": [
+      "Session-Two-Notes"
+    ],
     "keyLinks": [],
     "excerpt": "# Laurie Shelby ```yellow-king-paris-sheet name: Laurie Shelby player: Richard field: Landscape Painter / Former Cadet drive: Curiosity pushes: 2 investigative: - Negotiation - Painting - Art History - Natural History general: Athletics: 6 Composure: 6 Fighting: 7 First Aid: 2 Health: 3 Mechanics: 0"
   },
@@ -3693,7 +3709,8 @@
       "Session-One-Notes",
       "Session-One-Notes",
       "Session-One-Notes",
-      "Session-One-Notes"
+      "Session-One-Notes",
+      "Session-Two-Notes"
     ],
     "keyLinks": [],
     "parent": "Police-and-Thieves",
@@ -3953,7 +3970,8 @@
     "playerText": "",
     "links": [],
     "backlinks": [
-      "Scientists-and-Inventors"
+      "Scientists-and-Inventors",
+      "Session-Two-Notes"
     ],
     "keyLinks": [],
     "parent": "Scientists-and-Inventors",
@@ -5465,6 +5483,64 @@
       "Camille Roussel"
     ],
     "excerpt": "# Session One Notes ## Players Present - [[Marcus-J-rn-Jensen-Yoshi|Marcus “Járn” Jensen (Yoshi)]] - [[Edward-Vine-Jarod|Edward Vine (Jared)]] - [[Jackson-Jay-Steerman-IV-David|Jackson “Jay” Steerman IV (David)]] - [[Henry-Pirece-Laura|Henry Pierce (Laura)]] ## Arrival at the House of the North Star"
+  },
+  {
+    "id": "11:Session-Two-Notes",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "Session-Two-Notes",
+    "title": "Session Two Notes",
+    "category": "game",
+    "summary": "The investigators examine Nell Whitcomb's death and apartment, recover a self-completing wall-poem, hear Janine Du Bois's account of a fatal party, and learn from Marie Curie that researchers are disappearing from the timeline.",
+    "tags": [
+      "game",
+      "session-notes",
+      "bonnet-affair"
+    ],
+    "aliases": [
+      "Session 2",
+      "Game 2 Notes"
+    ],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [
+      "Eleanor “Nell” Whitcomb",
+      "Louis Lépine",
+      "House of the North Star",
+      "Jackson-Jay-Steerman-IV-David",
+      "Laurie Shelby",
+      "Jackson-Jay-Steerman-IV-David",
+      "7th Arrondissement",
+      "Janine Du Bois",
+      "Dr. Ludwig Weiss",
+      "Dr. Georges Bonnet",
+      "Marie Curie",
+      "Edward-Vine-Jarod",
+      "House of the North Star",
+      "Henry-Pirece-Laura",
+      "Dr. Ludwig Weiss",
+      "Dr. Georges Bonnet",
+      "Henri-de-Toulouse-Lautrec"
+    ],
+    "backlinks": [],
+    "keyLinks": [
+      "Edward Vine",
+      "Jackson \"Jay\" Steerman IV",
+      "Henry Pierce",
+      "Laurie Shelby",
+      "House of the North Star",
+      "Eleanor \"Nell\" Whitcomb",
+      "Louis Lépine",
+      "Janine Du Bois",
+      "Dr. Ludwig Weiss",
+      "Dr. Georges Bonnet",
+      "Marie Curie",
+      "Henri de Toulouse-Lautrec",
+      "7th Arrondissement"
+    ],
+    "excerpt": "# Session Two Notes ## The Immediate Case [[Eleanor “Nell” Whitcomb]] is confirmed dead. [[Louis Lépine]] reports that she suffered many stab wounds and that organs are missing. Later details suggest that what was taken may be stranger than ordinary organ removal. Lépine notes that, although many pe"
   },
   {
     "id": "11:Silas-Burke-Head-Butler",
@@ -8930,6 +9006,27 @@
     ],
     "aliases": [
       "Sarah-Brown.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": [],
+    "excerpt": ""
+  },
+  {
+    "id": "11:media:wiki/media/Session-Two-Wall-Poem.png",
+    "campaignId": 11,
+    "campaignName": "The Golden Ruin",
+    "slug": "media/Session-Two-Wall-Poem.png",
+    "title": "Session-Two-Wall-Poem.png",
+    "category": "media",
+    "summary": "wiki/media/Session-Two-Wall-Poem.png",
+    "tags": [],
+    "aliases": [
+      "Session-Two-Wall-Poem.png"
     ],
     "visibility": "gm",
     "approvalStatus": "approved",
