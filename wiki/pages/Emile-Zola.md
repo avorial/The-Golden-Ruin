@@ -35,25 +35,8 @@ cover: /wiki/media/Emile-Zola.png
 <p>Zola's Naturalist novels earned scorn before winning him recognition as a central literary force. His friendship with Cézanne has been wounded by <em>His Masterpiece</em>, and his future political courage in the Dreyfus affair has not yet fully arrived.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Zola is useful when the campaign needs social analysis, press attention, or a realist who tries to explain horror through class, appetite, inheritance, and environment before admitting the impossible.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Once reviled like his Impressionist friends, he is now an established literary giant whose Naturalism scrutinizes society without sentiment.</li>
-<li>Success has transformed earlier reserve into a comfortable grandiosity, especially around young artists.</li>
-<li>His novel His Masterpiece alienated painter friends by portraying recognizable versions of them with cruel honesty.</li>
-<li>He openly appears with his extramarital family despite social convention.</li>
-<li>His realism leaves little patience for occult or supernatural claims, making him unlikely to read The King in Yellow willingly.</li>
-<li>The approaching Dreyfus affair will draw him into exhausting public controversy.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>He can expose institutional wrongdoing or publicly defend an accused investigator, but only when presented with social evidence rather than occult explanation.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +54,7 @@ cover: /wiki/media/Emile-Zola.png
 <tr><th>Life</th><td>1840-1902</td></tr>
 <tr><th>Circle</th><td>Novelists, artists, journalists, reformers</td></tr>
 <tr><th>Public Manner</th><td>Confident, analytical, blunt</td></tr>
-<tr><th>Private Pressure</th><td>He fears his honesty wounds friends more than enemies.</td></tr>
+
 <tr><th>Tell</th><td>Explains the social mechanism before the personal cost.</td></tr>
 </tbody>
 </table>
@@ -94,6 +77,44 @@ cover: /wiki/media/Emile-Zola.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 124-125.
+
+- [Wikipedia: Émile Zola](https://en.wikipedia.org/wiki/%C3%89mile_Zola)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He fears his honesty wounds friends more than enemies.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Zola is useful when the campaign needs social analysis, press attention, or a realist who tries to explain horror through class, appetite, inheritance, and environment before admitting the impossible.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Once reviled like his Impressionist friends, he is now an established literary giant whose Naturalism scrutinizes society without sentiment.</li>
+<li>Success has transformed earlier reserve into a comfortable grandiosity, especially around young artists.</li>
+<li>His novel His Masterpiece alienated painter friends by portraying recognizable versions of them with cruel honesty.</li>
+<li>He openly appears with his extramarital family despite social convention.</li>
+<li>His realism leaves little patience for occult or supernatural claims, making him unlikely to read The King in Yellow willingly.</li>
+<li>The approaching Dreyfus affair will draw him into exhausting public controversy.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He can expose institutional wrongdoing or publicly defend an accused investigator, but only when presented with social evidence rather than occult explanation.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Zola... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Emile-Zola.png
 | bring supernatural evidence | tries three social explanations first. |
 | need a scandal understood | sees who profits and who pays. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 124-125.
-
-- [Wikipedia: Émile Zola](https://en.wikipedia.org/wiki/%C3%89mile_Zola)
-
-:::gm
 ## Hidden Truth
 
 Zola's Naturalism can become a weapon against Carcosa if aimed correctly: trace the contagion through money, rooms, inheritance, and institutions rather than symbols alone.

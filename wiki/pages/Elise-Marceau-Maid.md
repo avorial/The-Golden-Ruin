@@ -84,15 +84,6 @@ cover: /wiki/media/Elise-Marceau-Maid.png
 </aside>
 </div>
 
-## Scene Use
-
-| If the characters... | Élise... |
-| --- | --- |
-| treat her like furniture | remembers every word and tells the kitchen. |
-| ask kindly about a student | tells them what she has seen, but not what was said in confidence. |
-| need a route through the house | knows one, though it may pass through laundry or servants' stairs. |
-| show her a strange drawing | admits she has found others like it. |
-
 ## Relationships
 
 | Person or Place | Bond | Complication |
@@ -102,6 +93,19 @@ cover: /wiki/media/Elise-Marceau-Maid.png
 | [[House of the North Star]] | Knows the intimate mess of its private rooms | The house sometimes seems to shift around her routes. |
 
 :::gm
+
+
+## Private Reference
+
+## Scene Use
+
+| If the characters... | Élise... |
+| --- | --- |
+| treat her like furniture | remembers every word and tells the kitchen. |
+| ask kindly about a student | tells them what she has seen, but not what was said in confidence. |
+| need a route through the house | knows one, though it may pass through laundry or servants' stairs. |
+| show her a strange drawing | admits she has found others like it. |
+
 ## Hidden Truth
 
 Élise is not a Caretaker, though Burke has deliberately kept her close because she sees patterns before others do. She has noticed that certain students draw the North Star before they know its story, and that those drawings often appear after a night when the main courtyard sounds wrong.

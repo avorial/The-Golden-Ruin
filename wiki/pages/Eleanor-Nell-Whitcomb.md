@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Eleanor “Nell” Whitcomb
-summary: A lively former North Star resident who became a professional dancer and model, then followed the impossible truth about Georges Bonnet far enough to be murdered for it.
+summary: A lively former North Star resident who became a professional dancer and model in Paris.
 tags:
   - npc
   - people
@@ -129,6 +129,11 @@ Nell has been gone from the house for almost a year, but traces remain. Madame V
 
 The investigation should not merely lead the characters to a corpse. It should let them discover **Nell**.
 
+:::gm
+
+**GM synopsis:** A lively former North Star resident who became a professional dancer and model, then followed the impossible truth about Georges Bonnet far enough to be murdered for it.
+## Private Reference
+
 ## Relationships
 
 | Person or place | Relationship | What remains |
@@ -139,8 +144,6 @@ The investigation should not merely lead the characters to a corpse. It should l
 | [[Janine Du Bois]] | Friend, mentor, and connection to Bonnet | Janine does not yet understand what her introduction caused. |
 | [[Louis Lépine]] | Investigator of her murder | Her family name makes the case politically dangerous. |
 | Ned Whitcomb | Protective older brother | He can identify private references in her letters. |
-
-:::gm
 
 ## Nell Starts Asking Questions
 

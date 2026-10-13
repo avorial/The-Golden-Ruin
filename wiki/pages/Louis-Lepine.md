@@ -35,25 +35,8 @@ cover: /wiki/media/Louis-Lepine.png
 <p>As Prefect of Police, Lépine works to modernize policing and manage the public pressures of Paris. He balances reform, order, politics, and the city's talent for sudden spectacle.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Lépine can open doors or close the entire city around the characters. Use him when an investigation becomes too visible for unofficial handling.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>The bald, diminutive prefect of police is called the “Little Man with the Big Stick” and accepts the phrase as praise.</li>
-<li>He gained office after his predecessor failed to suppress student riots; conservatives admire his control while the left expects a disastrous overreaction.</li>
-<li>He deliberately blurs the distinction between police and soldiers, requiring military training and demanding military-style deference for officers.</li>
-<li>His reforms removed many corrupt or idle policemen, creating a resentful body of former officers who want him disgraced.</li>
-<li>He mandates modern forensic methods, including fingerprints, and established bicycle patrols.</li>
-<li>His hostility to disorder makes him deeply resistant to supernatural explanations, and ordinary police contacts fear crossing him.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>He can mobilize an efficient modern police response, but investigators must frame occult threats as concrete crimes or risk becoming the disturbance he decides to crush.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +54,7 @@ cover: /wiki/media/Louis-Lepine.png
 <tr><th>Life</th><td>1846-1933</td></tr>
 <tr><th>Location</th><td>Préfecture de Police</td></tr>
 <tr><th>Public Manner</th><td>Controlled, direct, administrative</td></tr>
-<tr><th>Private Pressure</th><td>A scandal could break public confidence.</td></tr>
+
 <tr><th>Tell</th><td>Asks who must be informed before asking who is guilty.</td></tr>
 </tbody>
 </table>
@@ -94,6 +77,44 @@ cover: /wiki/media/Louis-Lepine.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 136.
+
+- [Wikipedia: Louis Lépine](https://en.wikipedia.org/wiki/Louis_L%C3%A9pine)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>A scandal could break public confidence.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Lépine can open doors or close the entire city around the characters. Use him when an investigation becomes too visible for unofficial handling.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>The bald, diminutive prefect of police is called the “Little Man with the Big Stick” and accepts the phrase as praise.</li>
+<li>He gained office after his predecessor failed to suppress student riots; conservatives admire his control while the left expects a disastrous overreaction.</li>
+<li>He deliberately blurs the distinction between police and soldiers, requiring military training and demanding military-style deference for officers.</li>
+<li>His reforms removed many corrupt or idle policemen, creating a resentful body of former officers who want him disgraced.</li>
+<li>He mandates modern forensic methods, including fingerprints, and established bicycle patrols.</li>
+<li>His hostility to disorder makes him deeply resistant to supernatural explanations, and ordinary police contacts fear crossing him.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He can mobilize an efficient modern police response, but investigators must frame occult threats as concrete crimes or risk becoming the disturbance he decides to crush.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Lépine... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Louis-Lepine.png
 | need official cover | grants it only with accountability. |
 | accuse elites | demands evidence that can survive politics. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 136.
-
-- [Wikipedia: Louis Lépine](https://en.wikipedia.org/wiki/Louis_L%C3%A9pine)
-
-:::gm
 ## Hidden Truth
 
 Lépine knows certain cases cannot be explained publicly. He keeps a private drawer of impossible reports, each stamped with a false mundane classification.

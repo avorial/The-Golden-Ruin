@@ -35,25 +35,8 @@ cover: /wiki/media/Luigi-Parmeggiani.png
 <p>Parmeggiani is tied to anarchist networks, smuggling, and the trade in art objects whose histories improve dramatically after purchase. His contacts span criminals, collectors, exiles, and political police.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Use him for stolen objects, false provenance, political fugitives, and criminal elegance. He may know whether an artifact is genuine, forged, or genuine in the wrong universe.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Luigi Giovanni Francesco Parmeggiani once hosted an Italian anarchist salon in the 11th arrondissement.</li>
-<li>His circle argued that if property is theft, stealing from the rich is the purest anti-capitalism.</li>
-<li>With Vittorio Pini he led a theft, propaganda, and terror group known by several names, including L’Anomito, L’Anonymat, L’Initiative Libre, Les Intransigeant, and Le Groupe des Introuvables.</li>
-<li>After the pair stabbed an Italian Socialist deputy who called them police provocateurs, Pini was captured and sent to Devil’s Island while Parmeggiani escaped to England.</li>
-<li>In England he became the womanizing antiquarian Louis Marcy and traffics in forged silver, books, paintings, arms, and armor.</li>
-<li>His Maison Marcy gallery and smuggling network sell fakes to museums and magnates, including J. P. Morgan.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>A wealthy family connection can hire the investigators to expose his forgery and smuggling operation, never knowing whether they face an anarchist, antiquarian, or police provocateur.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +54,7 @@ cover: /wiki/media/Luigi-Parmeggiani.png
 <tr><th>Life</th><td>1860-1945</td></tr>
 <tr><th>Location</th><td>Dealers' rooms, docks, exile cafés</td></tr>
 <tr><th>Public Manner</th><td>Cultured, ironic, insinuating</td></tr>
-<tr><th>Private Pressure</th><td>A forged antiquity has acquired a real curse.</td></tr>
+
 <tr><th>Tell</th><td>Describes theft as liberation from bad taste.</td></tr>
 </tbody>
 </table>
@@ -94,6 +77,44 @@ cover: /wiki/media/Luigi-Parmeggiani.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 136-137.
+
+- [Wikipedia: Luigi Parmeggiani](https://it.wikipedia.org/wiki/Luigi_Parmeggiani)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>A forged antiquity has acquired a real curse.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Use him for stolen objects, false provenance, political fugitives, and criminal elegance. He may know whether an artifact is genuine, forged, or genuine in the wrong universe.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Luigi Giovanni Francesco Parmeggiani once hosted an Italian anarchist salon in the 11th arrondissement.</li>
+<li>His circle argued that if property is theft, stealing from the rich is the purest anti-capitalism.</li>
+<li>With Vittorio Pini he led a theft, propaganda, and terror group known by several names, including L’Anomito, L’Anonymat, L’Initiative Libre, Les Intransigeant, and Le Groupe des Introuvables.</li>
+<li>After the pair stabbed an Italian Socialist deputy who called them police provocateurs, Pini was captured and sent to Devil’s Island while Parmeggiani escaped to England.</li>
+<li>In England he became the womanizing antiquarian Louis Marcy and traffics in forged silver, books, paintings, arms, and armor.</li>
+<li>His Maison Marcy gallery and smuggling network sell fakes to museums and magnates, including J. P. Morgan.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>A wealthy family connection can hire the investigators to expose his forgery and smuggling operation, never knowing whether they face an anarchist, antiquarian, or police provocateur.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Parmeggiani... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Luigi-Parmeggiani.png
 | threaten police action | names three policemen already compromised. |
 | ask about authenticity | answers with philosophy before evidence. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 136-137.
-
-- [Wikipedia: Luigi Parmeggiani](https://it.wikipedia.org/wiki/Luigi_Parmeggiani)
-
-:::gm
 ## Hidden Truth
 
 Parmeggiani sold a fake Carcosan relic that began altering nearby inscriptions to match its invented provenance. He wants it recovered before collectors realize he forged something alive.

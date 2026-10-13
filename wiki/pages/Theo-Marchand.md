@@ -94,16 +94,6 @@ cover: /wiki/media/Theo-Marchand.png
 
 **Obstacle:** If treated as a fool or mere gossip, he retaliates by letting an embarrassing truth reach the least convenient ears.
 
-## Scene Use
-
-| If the investigators... | Marchand... |
-| --- | --- |
-| ask about Bonnet | supplies names, dates, and contradictions disguised as amusing stories. |
-| need a social introduction | knows a critic, dealer, model, servant, or patron who can open the next door. |
-| share evidence | identifies who would pay, panic, deny it, or quietly make it disappear. |
-| demand confidentiality | negotiates exactly what “confidential” means. |
-| become targets of rumor | can redirect the story, but only with a more attractive version. |
-
 ## Relationships
 
 | Person or place | Relationship | Pressure |
@@ -115,6 +105,19 @@ cover: /wiki/media/Theo-Marchand.png
 | [[Adrien Mercier]] | Technical expert | Mercier considers him frivolous but uses his contacts. |
 
 :::gm
+
+
+## Private Reference
+
+## Scene Use
+
+| If the investigators... | Marchand... |
+| --- | --- |
+| ask about Bonnet | supplies names, dates, and contradictions disguised as amusing stories. |
+| need a social introduction | knows a critic, dealer, model, servant, or patron who can open the next door. |
+| share evidence | identifies who would pay, panic, deny it, or quietly make it disappear. |
+| demand confidentiality | negotiates exactly what “confidential” means. |
+| become targets of rumor | can redirect the story, but only with a more attractive version. |
 
 ## What Marchand Has Heard
 

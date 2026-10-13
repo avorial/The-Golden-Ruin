@@ -37,26 +37,8 @@ cover: /wiki/media/Papus-Gerard-Encausse.png
 <p>Gérard Encausse, writing and organizing as Papus, is a Martinist and ally of Stanislas de Guaita against Joséphin Péladan. He co-edits <em>L'Initiation</em>, builds occult study networks, and seeks to unify esoteric groups through ranked structures and lodges.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Papus is a connector. He can provide allies, journals, lodge contacts, and a flood of theory. His greatest weakness is believing a network can contain anything if properly named.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Gérard Encausse uses the occult name Papus and attributes his spontaneous initiation as prophet, tarot reader, and palm reader to his Romani ancestry.</li>
-<li>A Martinist, he sides with Stanislas de Guaita and the Kabbalistic Rose-Cross against Joséphin Péladan.</li>
-<li>He co-edits the dense monthly journal L’Initiation with his protégé Lucien Chamuel, proprietor of the Librairie du Merveilleux.</li>
-<li>The journal is a useful record of the Paris occult scene’s constantly shifting alliances and betrayals.</li>
-<li>His Groupe Indépendant d’Études Ésotériques seeks to unify occultists through Masonic-style ranks: Servant of Work, Equerry, Knight, and Commander.</li>
-<li>The organization claims fifty lodges worldwide, reaching as far as Argentina.</li>
-<li>He earned a conventional medical degree in 1894 and already commands a formidable dark-eyed stare.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>Papus eagerly recruits promising young artists and scholars into his network and may aid a hunt for the play before grasping the true scale of Carcosa.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -73,7 +55,7 @@ cover: /wiki/media/Papus-Gerard-Encausse.png
 <tr><th>Life</th><td>1865-1916</td></tr>
 <tr><th>Circle</th><td>Martinists, Rosicrucians, occult journals, lodges</td></tr>
 <tr><th>Public Manner</th><td>Intense, organizing, doctrinal</td></tr>
-<tr><th>Private Pressure</th><td>He wants unity before Paris devours itself with rivalries.</td></tr>
+
 <tr><th>Tell</th><td>Draws organizational charts during crises.</td></tr>
 </tbody>
 </table>
@@ -96,6 +78,45 @@ cover: /wiki/media/Papus-Gerard-Encausse.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 130.
+
+- [Wikipedia: Papus](https://en.wikipedia.org/wiki/Papus)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He wants unity before Paris devours itself with rivalries.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Papus is a connector. He can provide allies, journals, lodge contacts, and a flood of theory. His greatest weakness is believing a network can contain anything if properly named.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Gérard Encausse uses the occult name Papus and attributes his spontaneous initiation as prophet, tarot reader, and palm reader to his Romani ancestry.</li>
+<li>A Martinist, he sides with Stanislas de Guaita and the Kabbalistic Rose-Cross against Joséphin Péladan.</li>
+<li>He co-edits the dense monthly journal L’Initiation with his protégé Lucien Chamuel, proprietor of the Librairie du Merveilleux.</li>
+<li>The journal is a useful record of the Paris occult scene’s constantly shifting alliances and betrayals.</li>
+<li>His Groupe Indépendant d’Études Ésotériques seeks to unify occultists through Masonic-style ranks: Servant of Work, Equerry, Knight, and Commander.</li>
+<li>The organization claims fifty lodges worldwide, reaching as far as Argentina.</li>
+<li>He earned a conventional medical degree in 1894 and already commands a formidable dark-eyed stare.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Papus eagerly recruits promising young artists and scholars into his network and may aid a hunt for the play before grasping the true scale of Carcosa.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Papus... |
@@ -105,13 +126,6 @@ cover: /wiki/media/Papus-Gerard-Encausse.png
 | need medical respectability | reminds them he has a conventional degree. |
 | bring Carcosan chaos | tries to make it part of a teachable system. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 130.
-
-- [Wikipedia: Papus](https://en.wikipedia.org/wiki/Papus)
-
-:::gm
 ## Hidden Truth
 
 Papus can rally occultists quickly, but any coalition he builds becomes an attractive target for Carcosa's reality contagion.

@@ -35,24 +35,8 @@ cover: /wiki/media/Alphonse-Mucha.jpg
 <p>After years of struggle in Paris, Mucha's poster for Sarah Bernhardt has made him a sensation. His delicate line, ornamental frames, and luminous figures are rapidly defining the look of the new style. In private he remains connected to Slavic nationalist concerns, but in French company he often lets the art speak first.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Mucha can connect the investigators to Bernhardt, spiritual seekers, poster printers, and a growing informal salon. His studio is an ideal place for art, ambition, occult talk, and commerce to cross.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>After seven difficult years in Paris, his January 1895 poster for a Sarah Bernhardt performance made him an overnight success.</li>
-<li>His delicate line, muted color, and filigreed image frames are rapidly becoming synonymous with Art Nouveau.</li>
-<li>Although committed to Slavic nationalism, he rarely discusses it in French company and is concentrating on his sudden opportunity.</li>
-<li>He soon establishes an informal studio salon where artists and spiritual seekers mingle.</li>
-<li>His friendship with Joris-Karl Huysmans connects that salon directly to decadent literature and occult Paris.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>His studio can bring together Bernhardt, Huysmans, printers, artists, and occult seekers while a corrupted poster design provides a visible Carcosan clue.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -70,7 +54,7 @@ cover: /wiki/media/Alphonse-Mucha.jpg
 <tr><th>Life</th><td>1860-1939</td></tr>
 <tr><th>Circle</th><td>Bernhardt, poster printers, artists, spiritual seekers</td></tr>
 <tr><th>Public Manner</th><td>Gracious, focused, newly famous</td></tr>
-<tr><th>Private Pressure</th><td>He knows fame can become a cage very quickly.</td></tr>
+
 <tr><th>Tell</th><td>Sketches borders around ideas before answering.</td></tr>
 </tbody>
 </table>
@@ -93,6 +77,43 @@ cover: /wiki/media/Alphonse-Mucha.jpg
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 122.
+
+- [Wikipedia: Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He knows fame can become a cage very quickly.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Mucha can connect the investigators to Bernhardt, spiritual seekers, poster printers, and a growing informal salon. His studio is an ideal place for art, ambition, occult talk, and commerce to cross.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>After seven difficult years in Paris, his January 1895 poster for a Sarah Bernhardt performance made him an overnight success.</li>
+<li>His delicate line, muted color, and filigreed image frames are rapidly becoming synonymous with Art Nouveau.</li>
+<li>Although committed to Slavic nationalism, he rarely discusses it in French company and is concentrating on his sudden opportunity.</li>
+<li>He soon establishes an informal studio salon where artists and spiritual seekers mingle.</li>
+<li>His friendship with Joris-Karl Huysmans connects that salon directly to decadent literature and occult Paris.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His studio can bring together Bernhardt, Huysmans, printers, artists, and occult seekers while a corrupted poster design provides a visible Carcosan clue.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Mucha... |
@@ -102,13 +123,6 @@ cover: /wiki/media/Alphonse-Mucha.jpg
 | bring a poster with a hidden sign | checks the printer's stone before blaming the artist. |
 | need a studio gathering | provides one full of useful eavesdropping. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 122.
-
-- [Wikipedia: Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha)
-
-:::gm
 ## Hidden Truth
 
 Mucha's ornamental borders sometimes form symbols before he intends them. One rejected poster frame repeats the North Star motif in a way he cannot explain.

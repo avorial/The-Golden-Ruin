@@ -83,15 +83,6 @@ parent: House-Staff
 </aside>
 </div>
 
-## Scene Use
-
-| If the characters... | Renaud... |
-| --- | --- |
-| ask about Lucien's habits | gives a correct but incomplete answer. |
-| arrive disheveled or bloodied | fixes their appearance before asking what happened. |
-| search a bedroom | notices the drawer that was opened first. |
-| mention Burke | becomes more formal and less amusing. |
-
 ## Relationships
 
 | Person or Place | Bond | Complication |
@@ -101,6 +92,19 @@ parent: House-Staff
 | [[House of the North Star]] | Moves between guest rooms, dressing rooms, and private corridors | He sees what patrons leave behind. |
 
 :::gm
+
+
+## Private Reference
+
+## Scene Use
+
+| If the characters... | Renaud... |
+| --- | --- |
+| ask about Lucien's habits | gives a correct but incomplete answer. |
+| arrive disheveled or bloodied | fixes their appearance before asking what happened. |
+| search a bedroom | notices the drawer that was opened first. |
+| mention Burke | becomes more formal and less amusing. |
+
 ## Hidden Truth
 
 Renaud is not a full member of the Caretakers, but Burke has begun preparing him. He has been taught to recognize certain signs: repeated star sketches, cold rooms where no window is open, letters whose ink changes under candlelight, and students who wake speaking in voices not their own.

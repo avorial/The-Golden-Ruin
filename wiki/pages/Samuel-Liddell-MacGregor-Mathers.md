@@ -36,24 +36,8 @@ cover: /wiki/media/Samuel-Liddell-MacGregor-Mathers.png
 <p>Founder of the Hermetic Order of the Golden Dawn, Mathers came to Paris with Moina under instructions he attributes to hidden Secret Chiefs. He researches ritual magic and Kabbalah while fighting to maintain authority over ambitious members back in London and beyond.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Mathers can provide ritual frameworks, English occult connections, and messages from questionable invisible authorities. He is helpful when respected and difficult when doubted.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Founder of the London-based Hermetic Order of the Golden Dawn, he relocated to Paris with Moina four years ago on supposed instructions from the Secret Chiefs.</li>
-<li>He researches ritual magic and Kabbalah while struggling to preserve authority over ambitious order members who hope to displace him.</li>
-<li>English occult visitors regularly call at the couple’s villa in Auteuil.</li>
-<li>Despite his order’s dramatic reputation, Samuel can seem gray, retiring, and burdened; Moina supplies the more immediate charisma.</li>
-<li>The couple is nearing an Isis-centered ritual phase with white robes and leopard-fur trim.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>Messages from the Secret Chiefs can launch investigations, while the investigators’ Carcosan discoveries may trigger the couple’s new Isis rites and worsen Samuel’s struggle for authority.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -70,7 +54,7 @@ cover: /wiki/media/Samuel-Liddell-MacGregor-Mathers.png
 <tr><th>Life</th><td>1854-1918</td></tr>
 <tr><th>Circle</th><td>Golden Dawn, Auteuil villa, ritual magicians</td></tr>
 <tr><th>Public Manner</th><td>Reserved, authoritative, embattled</td></tr>
-<tr><th>Private Pressure</th><td>He fears losing command of his own revelation.</td></tr>
+
 <tr><th>Tell</th><td>Invokes hidden authority when personally threatened.</td></tr>
 </tbody>
 </table>
@@ -93,6 +77,43 @@ cover: /wiki/media/Samuel-Liddell-MacGregor-Mathers.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 129-130.
+
+- [Wikipedia: S. L. MacGregor Mathers](https://en.wikipedia.org/wiki/Samuel_Liddell_MacGregor_Mathers)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He fears losing command of his own revelation.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Mathers can provide ritual frameworks, English occult connections, and messages from questionable invisible authorities. He is helpful when respected and difficult when doubted.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Founder of the London-based Hermetic Order of the Golden Dawn, he relocated to Paris with Moina four years ago on supposed instructions from the Secret Chiefs.</li>
+<li>He researches ritual magic and Kabbalah while struggling to preserve authority over ambitious order members who hope to displace him.</li>
+<li>English occult visitors regularly call at the couple’s villa in Auteuil.</li>
+<li>Despite his order’s dramatic reputation, Samuel can seem gray, retiring, and burdened; Moina supplies the more immediate charisma.</li>
+<li>The couple is nearing an Isis-centered ritual phase with white robes and leopard-fur trim.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Messages from the Secret Chiefs can launch investigations, while the investigators’ Carcosan discoveries may trigger the couple’s new Isis rites and worsen Samuel’s struggle for authority.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Mathers... |
@@ -102,13 +123,6 @@ cover: /wiki/media/Samuel-Liddell-MacGregor-Mathers.png
 | need English occult visitors | can summon or identify them. |
 | bring Carcosan ritual evidence | tries to place it in Golden Dawn terms. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 129-130.
-
-- [Wikipedia: S. L. MacGregor Mathers](https://en.wikipedia.org/wiki/Samuel_Liddell_MacGregor_Mathers)
-
-:::gm
 ## Hidden Truth
 
 One message Mathers attributes to the Secret Chiefs did not come from any source he recognizes. It names a pallid court and urges an Isis rite at the wrong hour.

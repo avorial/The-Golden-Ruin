@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Dr. Ludwig Weiss
-summary: An elderly Austrian physician and chemist whose decades refining Georges Bonnet's impossible treatment have curdled scientific pride into guilt.
+summary: An elderly Austrian physician and chemist with a long professional association with Georges Bonnet.
 tags:
   - npc
   - people
@@ -84,7 +84,7 @@ cover: /wiki/media/Dr-Ludwig-Weiss.png
 <tr><th>Origin</th><td>Austria; formerly of Vienna</td></tr>
 <tr><th>Residence</th><td>A furnished room near [[Hôtel Bonnet]]</td></tr>
 <tr><th>Public Manner</th><td>Formal, exact, courteous, reserved</td></tr>
-<tr><th>Private Pressure</th><td>His health is failing while Bonnet's dependence grows.</td></tr>
+
 <tr><th>Tell</th><td>Polishes his spectacles before deciding how much truth to tell.</td></tr>
 </tbody>
 </table>
@@ -111,6 +111,17 @@ cover: /wiki/media/Dr-Ludwig-Weiss.png
 
 Weiss is tall but bent with age, with deep-set pale eyes, a narrow face, and a close-trimmed white beard. He wears conservative dark clothing and carries a silver-headed cane for balance rather than display. His fingers smell faintly of tobacco, alcohol, antiseptic, or chemical reagents.
 
+:::gm
+
+**GM synopsis:** An elderly Austrian physician and chemist whose decades refining Georges Bonnet's impossible treatment have curdled scientific pride into guilt.
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>His health is failing while Bonnet's dependence grows.</td></tr>
+</tbody>
+</table>
+
 ## Scene Use
 
 | If the characters... | Weiss... |
@@ -122,6 +133,8 @@ Weiss is tall but bent with age, with deep-set pale eyes, a narrow face, and a c
 | threaten exposure | becomes coldly exact about the ruin awaiting everyone involved. |
 | reveal another intended victim | finally chooses a side and offers practical help against Bonnet. |
 
+
+
 ## Relationships
 
 | Person or place | Relationship | Pressure |
@@ -131,8 +144,6 @@ Weiss is tall but bent with age, with deep-set pale eyes, a narrow face, and a c
 | [[Eleanor “Nell” Whitcomb]] | Persistent questioner he failed to warn | Her death has made his silence impossible to excuse. |
 | [[House of the North Star]] | A gathering of dramatic but perceptive observers | Its artists may notice what physicians dismiss. |
 | [[Louis Lépine]] | Dangerous police attention | Lépine sees that Weiss's fear is older than Nell's murder. |
-
-:::gm
 
 ## Bonnet's True Age
 

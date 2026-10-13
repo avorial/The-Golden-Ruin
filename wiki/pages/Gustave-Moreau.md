@@ -35,24 +35,8 @@ cover: /wiki/media/Gustave-Moreau.png
 <p>A prolific painter of mythological and Symbolist works, Moreau teaches at the École des Beaux-Arts and is transforming his home into a museum devoted to his own art. The death of Alexandrine Dureux, his longtime model and lover, still shadows him.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Moreau can mentor painter PCs, identify mythic motifs, and supply access to a house crowded with symbolic art. His museum project makes a wonderful place for a strange object to be misplaced, hidden, or awakened.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>A prolific Symbolist painter of eerie mythological scenes and a teacher at the École des Beaux-Arts.</li>
-<li>He may teach the group’s painters and recruit them for physical work converting his 9th-arrondissement home into a museum.</li>
-<li>The museum opens in 1895; he donates it to the state while continuing to live on its main floor.</li>
-<li>His melancholy follows the death of his longtime model and lover Alexandrine Dureux five years ago.</li>
-<li>He dies from stomach cancer three years after the campaign date.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>His mythic imagery, school access, private museum, and grief make him an ideal source of ominous art objects and student assignments.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -70,7 +54,7 @@ cover: /wiki/media/Gustave-Moreau.png
 <tr><th>Life</th><td>1826-1898</td></tr>
 <tr><th>Circle</th><td>École des Beaux-Arts, Symbolists, students</td></tr>
 <tr><th>Public Manner</th><td>Melancholy, formal, generous to talent</td></tr>
-<tr><th>Private Pressure</th><td>He is building a temple to memory before time takes him.</td></tr>
+
 <tr><th>Tell</th><td>Touches a frame when grief enters the room.</td></tr>
 </tbody>
 </table>
@@ -93,6 +77,43 @@ cover: /wiki/media/Gustave-Moreau.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 122.
+
+- [Wikipedia: Gustave Moreau](https://en.wikipedia.org/wiki/Gustave_Moreau)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He is building a temple to memory before time takes him.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Moreau can mentor painter PCs, identify mythic motifs, and supply access to a house crowded with symbolic art. His museum project makes a wonderful place for a strange object to be misplaced, hidden, or awakened.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A prolific Symbolist painter of eerie mythological scenes and a teacher at the École des Beaux-Arts.</li>
+<li>He may teach the group’s painters and recruit them for physical work converting his 9th-arrondissement home into a museum.</li>
+<li>The museum opens in 1895; he donates it to the state while continuing to live on its main floor.</li>
+<li>His melancholy follows the death of his longtime model and lover Alexandrine Dureux five years ago.</li>
+<li>He dies from stomach cancer three years after the campaign date.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His mythic imagery, school access, private museum, and grief make him an ideal source of ominous art objects and student assignments.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Moreau... |
@@ -102,13 +123,6 @@ cover: /wiki/media/Gustave-Moreau.png
 | mention Alexandrine | grows gentler and less guarded. |
 | show him Carcosan imagery | recognizes the mythic grammar but not the source. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 122.
-
-- [Wikipedia: Gustave Moreau](https://en.wikipedia.org/wiki/Gustave_Moreau)
-
-:::gm
 ## Hidden Truth
 
 Moreau's museum contains one work he does not remember beginning. It depicts a king-shaped absence receiving tribute from mythic figures.

@@ -33,26 +33,8 @@ parent: Police-and-Thieves
 <p>Alerte works in the trade of finding missing people, threading together letters, railway sightings, servants' gossip, and debt records. His clients often want discretion more than justice.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>He is a good bridge between private inquiry and street-level Paris. Julien can bring the characters a missing-person case, or cross their path while following the same trail from another angle.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>A Martinique-born former medical student who arrived in Paris in 1892.</li>
-<li>Like other fashionable Martiniquean students, he is a celebrated presence at dances and is known for immaculate clothing and social confidence.</li>
-<li>He abandoned medicine for work better suited to his deduction and research skills.</li>
-<li>After a short but excellent apprenticeship he now runs the Paris office of Keen and Company, the American missing-person agency founded by New Yorker Westrel Keen.</li>
-<li>Most of his cases involve finding lost lovers and end in successful engagements.</li>
-<li>Away from detective work he pursues dancing, tailoring, philosophy, and political science.</li>
-<li>In one later game timeline, he helps establish the independent African-American nation of Suanee in 1919.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>The investigators introduce him to Carcosa and turn a gifted romantic detective into an ally against disappearances no ordinary missing-person method can explain.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -64,7 +46,7 @@ parent: Police-and-Thieves
 <tr><th>Age</th><td>25</td></tr>
 <tr><th>Location</th><td>Detective offices, stations, lodging houses</td></tr>
 <tr><th>Public Manner</th><td>Earnest, quick, ambitious</td></tr>
-<tr><th>Private Pressure</th><td>One missing client sent a postcard after death.</td></tr>
+
 <tr><th>Tell</th><td>Repeats a clue under his breath until it fits.</td></tr>
 </tbody>
 </table>
@@ -87,6 +69,43 @@ parent: Police-and-Thieves
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 133-134.
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>One missing client sent a postcard after death.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>He is a good bridge between private inquiry and street-level Paris. Julien can bring the characters a missing-person case, or cross their path while following the same trail from another angle.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A Martinique-born former medical student who arrived in Paris in 1892.</li>
+<li>Like other fashionable Martiniquean students, he is a celebrated presence at dances and is known for immaculate clothing and social confidence.</li>
+<li>He abandoned medicine for work better suited to his deduction and research skills.</li>
+<li>After a short but excellent apprenticeship he now runs the Paris office of Keen and Company, the American missing-person agency founded by New Yorker Westrel Keen.</li>
+<li>Most of his cases involve finding lost lovers and end in successful engagements.</li>
+<li>Away from detective work he pursues dancing, tailoring, philosophy, and political science.</li>
+<li>In one later game timeline, he helps establish the independent African-American nation of Suanee in 1919.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>The investigators introduce him to Carcosa and turn a gifted romantic detective into an ally against disappearances no ordinary missing-person method can explain.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Julien... |
@@ -96,11 +115,6 @@ parent: Police-and-Thieves
 | share a clue | repays it with two from his own notebook. |
 | endanger him | tries to prove he belongs there. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 133-134.
-
-:::gm
 ## Hidden Truth
 
 Julien has noticed that several vanished artists last appeared near patrons connected to [[House of the North Star]]. He thinks it is coincidence because the alternative is too large.

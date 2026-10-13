@@ -35,25 +35,8 @@ cover: /wiki/media/Leo-Taxil.png
 <p>Taxil built a career on provocation, fraud, and public scandal, especially around religion and secret societies. His talent is knowing which audience wants to be outraged and which wants to be fooled.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>He is a magnificent unreliable witness. A Taxil story may be false in every detail while still pointing directly at the monster he used as decoration.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Born Gabriel Jogand-Pagès, he is a publicity-seeking hoaxer who repeatedly adopts extreme ideological positions to sell books.</li>
-<li>He began as an anti-clerical provocateur publishing attacks on scripture and lurid tales of clerical vice, then infiltrated occult circles and deceived Jules Doinel.</li>
-<li>His staged return to Catholicism shifted his targets to Freemasonry; he permanently linked Éliphas Lévi’s Baphomet image with Satanism.</li>
-<li>He invented the Palladium, a global Masonic-Satanic conspiracy supposedly led by Albert Pike in Charleston.</li>
-<li>His best-selling The Devil in the 19th Century introduced the fictional reformed Satanist Diana Vaughan and demons including a piano-playing crocodilian creature.</li>
-<li>In 1897 he publicly reveals the entire affair as a hoax and claims he meant to expose Catholic credulity.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>Carcosa may give independent life to the demons and conspiracies he fabricated, leaving the master hoaxer unable to control his own inventions.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +54,7 @@ cover: /wiki/media/Leo-Taxil.png
 <tr><th>Life</th><td>1854-1907</td></tr>
 <tr><th>Location</th><td>Newspaper offices, cafés, rented lecture halls</td></tr>
 <tr><th>Public Manner</th><td>Mocking, nimble, shameless</td></tr>
-<tr><th>Private Pressure</th><td>One fabricated source has begun answering letters.</td></tr>
+
 <tr><th>Tell</th><td>Laughs too early at his own trap.</td></tr>
 </tbody>
 </table>
@@ -94,6 +77,44 @@ cover: /wiki/media/Leo-Taxil.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 132-133.
+
+- [Wikipedia: Léo Taxil](https://en.wikipedia.org/wiki/L%C3%A9o_Taxil)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>One fabricated source has begun answering letters.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>He is a magnificent unreliable witness. A Taxil story may be false in every detail while still pointing directly at the monster he used as decoration.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Born Gabriel Jogand-Pagès, he is a publicity-seeking hoaxer who repeatedly adopts extreme ideological positions to sell books.</li>
+<li>He began as an anti-clerical provocateur publishing attacks on scripture and lurid tales of clerical vice, then infiltrated occult circles and deceived Jules Doinel.</li>
+<li>His staged return to Catholicism shifted his targets to Freemasonry; he permanently linked Éliphas Lévi’s Baphomet image with Satanism.</li>
+<li>He invented the Palladium, a global Masonic-Satanic conspiracy supposedly led by Albert Pike in Charleston.</li>
+<li>His best-selling The Devil in the 19th Century introduced the fictional reformed Satanist Diana Vaughan and demons including a piano-playing crocodilian creature.</li>
+<li>In 1897 he publicly reveals the entire affair as a hoax and claims he meant to expose Catholic credulity.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Carcosa may give independent life to the demons and conspiracies he fabricated, leaving the master hoaxer unable to control his own inventions.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Taxil... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Leo-Taxil.png
 | threaten him | threatens to make them famous. |
 | expose a hoax | applauds, then asks what they missed. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 132-133.
-
-- [Wikipedia: Léo Taxil](https://en.wikipedia.org/wiki/L%C3%A9o_Taxil)
-
-:::gm
 ## Hidden Truth
 
 Taxil invented a demon for a pamphlet and later found its name scratched into his own desk. He refuses to decide whether this proves him brilliant or doomed.

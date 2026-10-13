@@ -92,16 +92,6 @@ cover: /wiki/media/Camille-Roussel.png
 
 **Obstacle:** Roussel will distinguish suspicion from proof even when that caution frustrates the investigators.
 
-## Scene Use
-
-| If the investigators... | Roussel... |
-| --- | --- |
-| ask about Bonnet's career | constructs a dated sequence of exhibitions, advances, absences, and contradictions. |
-| show an old catalogue | recognizes critics, patrons, galleries, and euphemisms concealing scandal. |
-| request a public accusation | refuses until the evidence would survive hostile scrutiny. |
-| need archival access | provides introductions to journals, dealers, collectors, and exhibition offices. |
-| prove the impossible | revises the chronology instead of denying the evidence. |
-
 ## Relationships
 
 | Person or place | Relationship | Pressure |
@@ -113,6 +103,19 @@ cover: /wiki/media/Camille-Roussel.png
 | [[Théo Marchand]] | Gossip and source | Marchand finds leads; Roussel separates useful fact from performance. |
 
 :::gm
+
+
+## Private Reference
+
+## Scene Use
+
+| If the investigators... | Roussel... |
+| --- | --- |
+| ask about Bonnet's career | constructs a dated sequence of exhibitions, advances, absences, and contradictions. |
+| show an old catalogue | recognizes critics, patrons, galleries, and euphemisms concealing scandal. |
+| request a public accusation | refuses until the evidence would survive hostile scrutiny. |
+| need archival access | provides introductions to journals, dealers, collectors, and exhibition offices. |
+| prove the impossible | revises the chronology instead of denying the evidence. |
 
 ## The Documentary Witness
 

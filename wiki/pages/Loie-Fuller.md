@@ -34,24 +34,8 @@ cover: /wiki/media/Loie-Fuller.png
 <p>Born in Illinois, Fuller passed through circus, vaudeville, and touring American spectacle before transforming herself into a Parisian sensation. Her dances depend on fabric, motion, colored light, and an almost scientific curiosity about what an audience can be made to see.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Fuller can connect the characters to backstage spaces, American expatriate circles, theatrical inventors, and astronomical societies. She is perfect for scenes where beauty becomes a technical problem before becoming a supernatural one.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>An American-born dancer whose circus and vaudeville career included work with Buffalo Bill Cody.</li>
-<li>Her modern dance combines fabric, movement, stage machinery, and spectacular lighting effects.</li>
-<li>Signature pieces include the Dance of Fire and Dance of the Butterfly, ending with her revealed as the center of an opening flower.</li>
-<li>She applies practical chemistry to theatrical light and luminescent fabric paint.</li>
-<li>Membership in the French Astronomical Society gives her an unexpected connection to celestial phenomena.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>Her lighting experiments or astronomical contacts can reveal black-star imagery, anomalous spectra, or a performance transformed by Carcosan light.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -69,7 +53,7 @@ cover: /wiki/media/Loie-Fuller.png
 <tr><th>Life</th><td>1862-1928</td></tr>
 <tr><th>Circle</th><td>Theatres, inventors, astronomers, expatriates</td></tr>
 <tr><th>Public Manner</th><td>Vivacious, experimental, fearless</td></tr>
-<tr><th>Private Pressure</th><td>She wants the next effect to be impossible.</td></tr>
+
 <tr><th>Tell</th><td>Watches reflections instead of faces.</td></tr>
 </tbody>
 </table>
@@ -92,6 +76,43 @@ cover: /wiki/media/Loie-Fuller.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 118.
+
+- [Wikipedia: Loie Fuller](https://en.wikipedia.org/wiki/Loie_Fuller)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>She wants the next effect to be impossible.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Fuller can connect the characters to backstage spaces, American expatriate circles, theatrical inventors, and astronomical societies. She is perfect for scenes where beauty becomes a technical problem before becoming a supernatural one.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>An American-born dancer whose circus and vaudeville career included work with Buffalo Bill Cody.</li>
+<li>Her modern dance combines fabric, movement, stage machinery, and spectacular lighting effects.</li>
+<li>Signature pieces include the Dance of Fire and Dance of the Butterfly, ending with her revealed as the center of an opening flower.</li>
+<li>She applies practical chemistry to theatrical light and luminescent fabric paint.</li>
+<li>Membership in the French Astronomical Society gives her an unexpected connection to celestial phenomena.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Her lighting experiments or astronomical contacts can reveal black-star imagery, anomalous spectra, or a performance transformed by Carcosan light.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Fuller... |
@@ -101,13 +122,6 @@ cover: /wiki/media/Loie-Fuller.png
 | bring news of black stars | checks her astronomical notes. |
 | need a distraction | can make an entire audience look the wrong way. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 118.
-
-- [Wikipedia: Loie Fuller](https://en.wikipedia.org/wiki/Loie_Fuller)
-
-:::gm
 ## Hidden Truth
 
 Fuller's experiments with luminescent fabric have produced one color that cannot be reproduced and should not have appeared under the lamps used. Dancers exposed to it report dreams of vast black constellations.

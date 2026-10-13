@@ -35,23 +35,8 @@ cover: /wiki/media/Jean-Delville.png
 <p>A Belgian painter moving through Rosicrucian and mystical circles, Delville paints in a Symbolist mode dense with bodies, portals, flames, and spiritual peril. His occult confidence makes him attractive to seekers and vulnerable to forces that reward confidence first.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Delville is the artist most likely in this batch to have looked straight toward Carcosa and called it revelation. He can be a warning, an informant, a rival initiate, or the person who gives the characters their first explicit occult lead.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>A young Belgian Symbolist painter, Freemason, and Rosicrucian who attends mystical gatherings.</li>
-<li>His regal manner and dark beard support a deliberate magician-like presence.</li>
-<li>He frequents Joséphin Péladan’s occult salons.</li>
-<li>In 1895 he paints Satan’s Treasures, a hellscape of writhing nudes drawn toward a portal of suckered tentacles.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>His imagery may represent a genuine glimpse of Carcosa, making the unfinished painting a clue, portal, or record of something he cannot consciously explain.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -69,7 +54,7 @@ cover: /wiki/media/Jean-Delville.png
 <tr><th>Life</th><td>1867-1953</td></tr>
 <tr><th>Circle</th><td>Symbolists, Rosicrucians, mystical salons</td></tr>
 <tr><th>Public Manner</th><td>Regal, intense, initiated</td></tr>
-<tr><th>Private Pressure</th><td>He wants proof that his visions are chosen, not contagious.</td></tr>
+
 <tr><th>Tell</th><td>Names symbols before naming people.</td></tr>
 </tbody>
 </table>
@@ -92,6 +77,42 @@ cover: /wiki/media/Jean-Delville.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 117.
+
+- [Wikipedia: Jean Delville](https://en.wikipedia.org/wiki/Jean_Delville)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He wants proof that his visions are chosen, not contagious.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Delville is the artist most likely in this batch to have looked straight toward Carcosa and called it revelation. He can be a warning, an informant, a rival initiate, or the person who gives the characters their first explicit occult lead.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A young Belgian Symbolist painter, Freemason, and Rosicrucian who attends mystical gatherings.</li>
+<li>His regal manner and dark beard support a deliberate magician-like presence.</li>
+<li>He frequents Joséphin Péladan’s occult salons.</li>
+<li>In 1895 he paints Satan’s Treasures, a hellscape of writhing nudes drawn toward a portal of suckered tentacles.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His imagery may represent a genuine glimpse of Carcosa, making the unfinished painting a clue, portal, or record of something he cannot consciously explain.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Delville... |
@@ -101,13 +122,6 @@ cover: /wiki/media/Jean-Delville.png
 | show him Carcosan art | recognizes the temptation before the threat. |
 | need an introduction to Joséphin Péladan | may provide one for a symbolic favor. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 117.
-
-- [Wikipedia: Jean Delville](https://en.wikipedia.org/wiki/Jean_Delville)
-
-:::gm
 ## Hidden Truth
 
 Delville has painted a portal before seeing one. Something in Carcosa noticed the resemblance and now answers when he works too late by lamplight.

@@ -35,21 +35,8 @@ cover: /wiki/media/Sarah-Brown.png
 <p>Born Marie-Florentine Royer, she renamed herself in homage to Sarah Bernhardt and gave herself an English surname to suit her looks and legend. By 1895 she is one of the most in-demand models in Paris, able to charge fashionable painters outrageous fees or punish them by posing elsewhere for nothing.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Sarah hears things because people speak freely around models, mistresses, and beautiful trouble. She can point investigators toward studios, lovers, debts, and scandals no directory will list.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Born Marie-Florentine Royer, she adopted “Sarah” in homage to Bernhardt and an English surname to suit her Celtic appearance.</li>
-<li>She is Paris’s most sought-after artist’s model; established painters pay immense fees for her time.</li>
-<li>When irritated by a client she may leave to pose free at the École des Beaux-Arts or simply disrupt the place.</li>
-<li>She demands attention at parties, sometimes climbing onto the nearest table, and has a long succession of lovers among artists and models.</li>
-<li>Her allegedly nude appearance in the 1893 art-student parade led to arrest and widespread rioting.</li>
-<li>Her hard living leaves her vulnerable to tuberculosis, which kills her three years after the campaign date.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -67,7 +54,7 @@ cover: /wiki/media/Sarah-Brown.png
 <tr><th>Life</th><td>1869-1898</td></tr>
 <tr><th>Circle</th><td>Studios, balls, cafés, École des Beaux-Arts</td></tr>
 <tr><th>Public Manner</th><td>Brilliant, provocative, hungry for attention</td></tr>
-<tr><th>Private Pressure</th><td>She knows the candle is burning fast.</td></tr>
+
 <tr><th>Tell</th><td>Laughs too loudly when illness or death is mentioned.</td></tr>
 </tbody>
 </table>
@@ -90,6 +77,38 @@ cover: /wiki/media/Sarah-Brown.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 116.
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>She knows the candle is burning fast.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Sarah hears things because people speak freely around models, mistresses, and beautiful trouble. She can point investigators toward studios, lovers, debts, and scandals no directory will list.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Born Marie-Florentine Royer, she adopted “Sarah” in homage to Bernhardt and an English surname to suit her Celtic appearance.</li>
+<li>She is Paris’s most sought-after artist’s model; established painters pay immense fees for her time.</li>
+<li>When irritated by a client she may leave to pose free at the École des Beaux-Arts or simply disrupt the place.</li>
+<li>She demands attention at parties, sometimes climbing onto the nearest table, and has a long succession of lovers among artists and models.</li>
+<li>Her allegedly nude appearance in the 1893 art-student parade led to arrest and widespread rioting.</li>
+<li>Her hard living leaves her vulnerable to tuberculosis, which kills her three years after the campaign date.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Sarah... |
@@ -99,11 +118,6 @@ cover: /wiki/media/Sarah-Brown.png
 | treat her kindly when she is ill | shows them a letter she meant to burn. |
 | ask about a painter | names the lover, creditor, and dealer before the style. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 116.
-
-:::gm
 ## Hidden Truth
 
 Sarah has posed for at least one painting that now gives viewers the same dream: a masked audience applauding from a shore under black stars. She thinks the painter caused it. The painter thinks Sarah brought the dream into the studio.

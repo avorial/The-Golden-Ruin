@@ -36,24 +36,8 @@ cover: /wiki/media/Gail-Loveless.png
 <p>An American author living full-time in Paris, Gail writes Civil War espionage novels starring clever women who pry secrets out of arrogant men. She claims personal experience with Allan Pinkerton's service under the code name Secret Service Operator 13. Most dismiss this as marketing. They may be wrong.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Gail is an excellent bridge between American PCs, old spycraft, and Parisian literary society. She may insist on joining an investigation if told too much, forcing the GM to decide whether she needs rescue or provides it.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>An American expatriate novelist celebrated for Civil War spy stories led by clever women who manipulate Confederate officers.</li>
-<li>She claims the novels derive from her own service under Allan Pinkerton as Secret Service Operator 13.</li>
-<li>Most listeners dismiss the claim, though perceptive investigators may realize she hides truth in plain sight.</li>
-<li>Now formidable and matronly rather than athletic, she remains skilled with a pistol and alert to danger.</li>
-<li>If told too much about a case, she may insist on joining the investigation herself.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>Depending on the scenario, the investigators may need to rescue her after she joins a case, or discover that her old tradecraft makes her the one rescuing them.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -70,7 +54,7 @@ cover: /wiki/media/Gail-Loveless.png
 <tr><th>Age</th><td>53</td></tr>
 <tr><th>Circle</th><td>American expatriates, publishers, old intelligence contacts</td></tr>
 <tr><th>Public Manner</th><td>Warm, formidable, amused by disbelief</td></tr>
-<tr><th>Private Pressure</th><td>She misses danger more than she admits.</td></tr>
+
 <tr><th>Tell</th><td>Checks exits before correcting someone's assumption.</td></tr>
 </tbody>
 </table>
@@ -93,6 +77,41 @@ cover: /wiki/media/Gail-Loveless.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 119-120.
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>She misses danger more than she admits.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Gail is an excellent bridge between American PCs, old spycraft, and Parisian literary society. She may insist on joining an investigation if told too much, forcing the GM to decide whether she needs rescue or provides it.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>An American expatriate novelist celebrated for Civil War spy stories led by clever women who manipulate Confederate officers.</li>
+<li>She claims the novels derive from her own service under Allan Pinkerton as Secret Service Operator 13.</li>
+<li>Most listeners dismiss the claim, though perceptive investigators may realize she hides truth in plain sight.</li>
+<li>Now formidable and matronly rather than athletic, she remains skilled with a pistol and alert to danger.</li>
+<li>If told too much about a case, she may insist on joining the investigation herself.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Depending on the scenario, the investigators may need to rescue her after she joins a case, or discover that her old tradecraft makes her the one rescuing them.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Gail... |
@@ -102,11 +121,6 @@ cover: /wiki/media/Gail-Loveless.png
 | underestimate her | lets them, briefly. |
 | tell her about Carcosa | starts preparing a bag before the explanation ends. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 119-120.
-
-:::gm
 ## Hidden Truth
 
 Gail's novels hide real tradecraft, names, and methods in plain sight. One chapter describes a dead-drop technique now being used by a Carcosan cell in Paris.

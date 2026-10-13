@@ -36,24 +36,8 @@ cover: /wiki/media/Jean-Leon-Gerome.png
 <p>A powerful representative of academic painting at the École des Beaux-Arts, Gérôme has spent a lifetime defending precision, history, myth, and Orientalist spectacle against changing taste. He remains formidable, respected, and unexpectedly energetic when student revelry suits him.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Gérôme can serve as a harsh teacher, old-guard gatekeeper, or patron who understands mythological horror better than he wants to admit. He is especially useful for PC painters.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>A leading defender of the Academic tradition as Impressionism eclipses it, and a teacher at the École des Beaux-Arts.</li>
-<li>His criticism is severe but often accurate, making him a formidable instructor for painter investigators.</li>
-<li>Despite his stern manner he enthusiastically joins the annual art-student ball, supervising a float and carousing with the students.</li>
-<li>White hair and a neat mustache make him resemble an elderly Edgar Allan Poe.</li>
-<li>His fascination with mythological and Orientalist subjects gives him reason to encounter dangerous books and symbols.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>He may have recoiled from the play or watched earlier students succumb to it, prompting him to guide the new class without relaxing academic demands.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +55,7 @@ cover: /wiki/media/Jean-Leon-Gerome.png
 <tr><th>Life</th><td>1825-1904</td></tr>
 <tr><th>Circle</th><td>École des Beaux-Arts, academic painters, patrons</td></tr>
 <tr><th>Public Manner</th><td>Stern, precise, unforgiving</td></tr>
-<tr><th>Private Pressure</th><td>He has seen students ruined by beauty without discipline.</td></tr>
+
 <tr><th>Tell</th><td>Critiques technique to avoid discussing terror.</td></tr>
 </tbody>
 </table>
@@ -94,6 +78,43 @@ cover: /wiki/media/Jean-Leon-Gerome.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 118-119.
+
+- [Wikipedia: Jean-Léon Gérôme](https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He has seen students ruined by beauty without discipline.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Gérôme can serve as a harsh teacher, old-guard gatekeeper, or patron who understands mythological horror better than he wants to admit. He is especially useful for PC painters.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A leading defender of the Academic tradition as Impressionism eclipses it, and a teacher at the École des Beaux-Arts.</li>
+<li>His criticism is severe but often accurate, making him a formidable instructor for painter investigators.</li>
+<li>Despite his stern manner he enthusiastically joins the annual art-student ball, supervising a float and carousing with the students.</li>
+<li>White hair and a neat mustache make him resemble an elderly Edgar Allan Poe.</li>
+<li>His fascination with mythological and Orientalist subjects gives him reason to encounter dangerous books and symbols.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He may have recoiled from the play or watched earlier students succumb to it, prompting him to guide the new class without relaxing academic demands.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Gérôme... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Jean-Leon-Gerome.png
 | need an academic introduction | demands proof of discipline first. |
 | show him Carcosan art | identifies its power before condemning it. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 118-119.
-
-- [Wikipedia: Jean-Léon Gérôme](https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me)
-
-:::gm
 ## Hidden Truth
 
 Gérôme investigated a copy of *The King in Yellow* after losing a student to artistic obsession. He still thinks the correct education might help young artists resist it.

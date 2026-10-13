@@ -36,25 +36,8 @@ cover: /wiki/media/Josephin-Peladan.png
 <p>Péladan is a novelist, occult lecturer, and Rosicrucian organizer whose public rites blur art show, church service, and self-mythology. His salons draw painters, composers, mystics, frauds, and ambitious believers hoping to borrow his aura.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Use him when the characters need entry into Paris's ceremonial occult scene. He may provide an invitation, an enemy, or a magnificently unreliable interpretation of a supernatural sign.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>A fervent Wagnerian who claims initiation during Parsifal at Bayreuth and styles himself Sâr, an Assyrian title meaning king.</li>
-<li>After breaking with Stanislas de Guaita and their Ordre Kabbalistique de la Rose-Croix, he founded the similarly named Mystic Order of the Rose + Cross.</li>
-<li>His Christian mysticism rejects non-Western occult influences, and he claims women’s participation is anti-magical.</li>
-<li>He stages salons and exhibitions of Symbolist art, poetry, and music and collaborates with Erik Satie.</li>
-<li>He once offered remote-viewing services to the French president and published How to Become a Magus three years ago.</li>
-<li>In September 1895 his homeopath father Adrien dies after testing mislabeled concentrated strychnine; Joséphin blames the German pharmacist who shipped it.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>The father’s poisoning can conceal a supernatural attack, drawing investigators into Péladan’s rivalries, grandiosity, and Rosicrucian art world.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -72,7 +55,7 @@ cover: /wiki/media/Josephin-Peladan.png
 <tr><th>Life</th><td>1858-1918</td></tr>
 <tr><th>Location</th><td>Occult salons and art exhibitions</td></tr>
 <tr><th>Public Manner</th><td>Theatrical, aristocratic, stinging</td></tr>
-<tr><th>Private Pressure</th><td>He must remain the prophet in every room.</td></tr>
+
 <tr><th>Tell</th><td>Turns a simple answer into an invocation.</td></tr>
 </tbody>
 </table>
@@ -95,6 +78,44 @@ cover: /wiki/media/Josephin-Peladan.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 130-131.
+
+- [Wikipedia: Joséphin Péladan](https://en.wikipedia.org/wiki/Jos%C3%A9phin_P%C3%A9ladan)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He must remain the prophet in every room.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Use him when the characters need entry into Paris's ceremonial occult scene. He may provide an invitation, an enemy, or a magnificently unreliable interpretation of a supernatural sign.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A fervent Wagnerian who claims initiation during Parsifal at Bayreuth and styles himself Sâr, an Assyrian title meaning king.</li>
+<li>After breaking with Stanislas de Guaita and their Ordre Kabbalistique de la Rose-Croix, he founded the similarly named Mystic Order of the Rose + Cross.</li>
+<li>His Christian mysticism rejects non-Western occult influences, and he claims women’s participation is anti-magical.</li>
+<li>He stages salons and exhibitions of Symbolist art, poetry, and music and collaborates with Erik Satie.</li>
+<li>He once offered remote-viewing services to the French president and published How to Become a Magus three years ago.</li>
+<li>In September 1895 his homeopath father Adrien dies after testing mislabeled concentrated strychnine; Joséphin blames the German pharmacist who shipped it.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>The father’s poisoning can conceal a supernatural attack, drawing investigators into Péladan’s rivalries, grandiosity, and Rosicrucian art world.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Péladan... |
@@ -104,13 +125,6 @@ cover: /wiki/media/Josephin-Peladan.png
 | bring art to him | judges the soul before the brushwork. |
 | embarrass him | makes the insult famous by morning. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 130-131.
-
-- [Wikipedia: Joséphin Péladan](https://en.wikipedia.org/wiki/Jos%C3%A9phin_P%C3%A9ladan)
-
-:::gm
 ## Hidden Truth
 
 Péladan has seen a yellow sign in a dream and refuses to admit that it frightened him. He is trying to fold the omen into his own myth before anyone else understands it.

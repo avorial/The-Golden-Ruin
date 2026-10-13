@@ -34,24 +34,8 @@ cover: /wiki/media/Edgar-Degas.png
 <p>Degas comes from bourgeois money and carries several traditionalist convictions alongside artistic radicalism. He is close to Mary Cassatt, skeptical of many colleagues, and happiest when arranging an exhibition down to details no one else has permission to notice.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Degas can solve problems of observation. He sees posture, weight, staging, and deception. He may be unbearable, but he notices when a figure in a painting has been posed by something other than a human hand.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Like many artists grouped under the label, he dislikes being called an Impressionist.</li>
-<li>His wealthy bourgeois background and traditionalist opinions separate him from colleagues, including a personal dislike of Monet.</li>
-<li>Prickly and cutting, he makes a practice of refusing flattery, especially toward women.</li>
-<li>He appears asexual and maintains a close friendship with Mary Cassatt.</li>
-<li>Investigators may encounter him micromanaging an exhibition while his colleagues suppress their irritation.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>He can diagnose a forged composition or exhibition anomaly, but securing cooperation means enduring criticism and interpersonal conflict.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -69,7 +53,7 @@ cover: /wiki/media/Edgar-Degas.png
 <tr><th>Life</th><td>1834-1917</td></tr>
 <tr><th>Circle</th><td>Exhibitions, studios, Cassatt's circle</td></tr>
 <tr><th>Public Manner</th><td>Sharp, controlling, unsentimental</td></tr>
-<tr><th>Private Pressure</th><td>He trusts sight more than people.</td></tr>
+
 <tr><th>Tell</th><td>Corrects a minor detail before admitting concern.</td></tr>
 </tbody>
 </table>
@@ -92,6 +76,43 @@ cover: /wiki/media/Edgar-Degas.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 117.
+
+- [Wikipedia: Edgar Degas](https://en.wikipedia.org/wiki/Edgar_Degas)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He trusts sight more than people.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Degas can solve problems of observation. He sees posture, weight, staging, and deception. He may be unbearable, but he notices when a figure in a painting has been posed by something other than a human hand.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Like many artists grouped under the label, he dislikes being called an Impressionist.</li>
+<li>His wealthy bourgeois background and traditionalist opinions separate him from colleagues, including a personal dislike of Monet.</li>
+<li>Prickly and cutting, he makes a practice of refusing flattery, especially toward women.</li>
+<li>He appears asexual and maintains a close friendship with Mary Cassatt.</li>
+<li>Investigators may encounter him micromanaging an exhibition while his colleagues suppress their irritation.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He can diagnose a forged composition or exhibition anomaly, but securing cooperation means enduring criticism and interpersonal conflict.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Degas... |
@@ -101,13 +122,6 @@ cover: /wiki/media/Edgar-Degas.png
 | bring Cassatt's name | becomes marginally less impossible. |
 | waste his time | remembers and retaliates socially. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 117.
-
-- [Wikipedia: Edgar Degas](https://en.wikipedia.org/wiki/Edgar_Degas)
-
-:::gm
 ## Hidden Truth
 
 Degas has noticed that certain recent studies of dancers show repeated poses no dancer can hold without injury. He suspects fraud or incompetence, not yet possession.

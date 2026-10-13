@@ -34,23 +34,8 @@ cover: /wiki/media/Mary-Cassatt.jpg
 <p>An American painter and printmaker established among the Impressionists, Cassatt moves through Paris with the confidence of someone whose family wealth, talent, and foreignness have combined into freedom. She is close to Edgar Degas and to the circle of women artists and patrons often treated as peripheral by men who should know better.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Cassatt can ground the campaign when everyone else is performing. She understands studios, dealers, American patrons, and the quiet politics around which women are permitted to be serious artists.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>An American painter and printmaker who has exhibited with the Impressionists for roughly fifteen years.</li>
-<li>Family wealth from her Philadelphia land-speculator father and her outsider status allow her to ignore many social constraints.</li>
-<li>Her closest artistic relationships are with Edgar Degas and Berthe Morisot, who dies in March 1895.</li>
-<li>Rather than Decadent or Symbolist subjects, she depicts women’s social world with disciplined line and composition.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>She can offer American introductions, sober artistic judgment, and a woman’s view of circles investigators might otherwise misunderstand, with Morisot’s death adding immediate grief.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -68,7 +53,7 @@ cover: /wiki/media/Mary-Cassatt.jpg
 <tr><th>Life</th><td>1844-1926</td></tr>
 <tr><th>Circle</th><td>Impressionists, American expatriates, collectors</td></tr>
 <tr><th>Public Manner</th><td>Clear, controlled, perceptive</td></tr>
-<tr><th>Private Pressure</th><td>Grief for Berthe Morisot is still fresh.</td></tr>
+
 <tr><th>Tell</th><td>Goes quiet when someone mistakes sentiment for weakness.</td></tr>
 </tbody>
 </table>
@@ -91,6 +76,42 @@ cover: /wiki/media/Mary-Cassatt.jpg
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 116-117.
+
+- [Wikipedia: Mary Cassatt](https://en.wikipedia.org/wiki/Mary_Cassatt)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>Grief for Berthe Morisot is still fresh.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Cassatt can ground the campaign when everyone else is performing. She understands studios, dealers, American patrons, and the quiet politics around which women are permitted to be serious artists.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>An American painter and printmaker who has exhibited with the Impressionists for roughly fifteen years.</li>
+<li>Family wealth from her Philadelphia land-speculator father and her outsider status allow her to ignore many social constraints.</li>
+<li>Her closest artistic relationships are with Edgar Degas and Berthe Morisot, who dies in March 1895.</li>
+<li>Rather than Decadent or Symbolist subjects, she depicts women’s social world with disciplined line and composition.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>She can offer American introductions, sober artistic judgment, and a woman’s view of circles investigators might otherwise misunderstand, with Morisot’s death adding immediate grief.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Cassatt... |
@@ -100,13 +121,6 @@ cover: /wiki/media/Mary-Cassatt.jpg
 | show her a disturbing image | studies the hand that made it before the horror it depicts. |
 | need a sober witness | gives them one precise observation. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 116-117.
-
-- [Wikipedia: Mary Cassatt](https://en.wikipedia.org/wiki/Mary_Cassatt)
-
-:::gm
 ## Hidden Truth
 
 Cassatt has seen several recent works by young artists whose treatment of mothers and children feels wrong in the same way: figures turned toward an unseen stage, faces caught between tenderness and command.

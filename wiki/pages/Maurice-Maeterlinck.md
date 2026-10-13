@@ -35,25 +35,8 @@ cover: /wiki/media/Maurice-Maeterlinck.png
 <p>Maeterlinck has come to Paris from Belgium with Georgette Leblanc, whose marriage cannot be dissolved by the Church. His plays move through fairy-tale melancholy, doomed love, mysticism, and the sense that chaos wins because it understands the stage better than human beings do.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Maeterlinck can connect the characters to Symbolist theatre, impossible love, Pythagorean mysticism, and scripts whose silences matter as much as spoken lines.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>The Belgian Symbolist playwright has newly settled in Paris with actor and singer Georgette Leblanc.</li>
-<li>Because the church will not grant Leblanc a divorce, the couple lives openly outside marriage and faces disapproval.</li>
-<li>His plays construct fairy-tale worlds of melancholy mysticism.</li>
-<li>Pelléas and Mélisande, first staged three years ago, treats love and chaos as eternal Pythagorean forces with chaos ultimately victorious.</li>
-<li>He is writing The Treasure of the Humble, essays on awakening the soul, inner beauty, and everyday tragedy.</li>
-<li>His friends include Alphonse Mucha and, through Mucha, Joris-Karl Huysmans.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>His mystical dramaturgy and friendships provide a direct route from Symbolist theater into Carcosa, especially if a new play begins predicting real tragedy.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +54,7 @@ cover: /wiki/media/Maurice-Maeterlinck.png
 <tr><th>Life</th><td>1862-1949</td></tr>
 <tr><th>Circle</th><td>Symbolists, theatre, Georgette Leblanc, Mucha, Huysmans</td></tr>
 <tr><th>Public Manner</th><td>Melancholy, mystical, inward</td></tr>
-<tr><th>Private Pressure</th><td>He worries that drama invites what it names.</td></tr>
+
 <tr><th>Tell</th><td>Answers practical questions with images.</td></tr>
 </tbody>
 </table>
@@ -94,6 +77,44 @@ cover: /wiki/media/Maurice-Maeterlinck.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 120.
+
+- [Wikipedia: Maurice Maeterlinck](https://en.wikipedia.org/wiki/Maurice_Maeterlinck)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He worries that drama invites what it names.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Maeterlinck can connect the characters to Symbolist theatre, impossible love, Pythagorean mysticism, and scripts whose silences matter as much as spoken lines.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>The Belgian Symbolist playwright has newly settled in Paris with actor and singer Georgette Leblanc.</li>
+<li>Because the church will not grant Leblanc a divorce, the couple lives openly outside marriage and faces disapproval.</li>
+<li>His plays construct fairy-tale worlds of melancholy mysticism.</li>
+<li>Pelléas and Mélisande, first staged three years ago, treats love and chaos as eternal Pythagorean forces with chaos ultimately victorious.</li>
+<li>He is writing The Treasure of the Humble, essays on awakening the soul, inner beauty, and everyday tragedy.</li>
+<li>His friends include Alphonse Mucha and, through Mucha, Joris-Karl Huysmans.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His mystical dramaturgy and friendships provide a direct route from Symbolist theater into Carcosa, especially if a new play begins predicting real tragedy.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Maeterlinck... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Maurice-Maeterlinck.png
 | need Symbolist introductions | can reach Mucha, Huysmans, or theatre people. |
 | demand clarity | gives them a metaphor that proves useful later. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 120.
-
-- [Wikipedia: Maurice Maeterlinck](https://en.wikipedia.org/wiki/Maurice_Maeterlinck)
-
-:::gm
 ## Hidden Truth
 
 Maeterlinck is sensitive to dramatic structures. He may recognize that the characters are being arranged into acts, entrances, exits, and revelations by an intelligence that thinks like theatre.

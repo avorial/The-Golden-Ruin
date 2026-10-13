@@ -36,25 +36,8 @@ cover: /wiki/media/James-McNeill-Whistler.png
 <p>An American-born painter with international standing, Whistler lives in Paris with his wife Beatrice. He prefers the legend of Southern aristocratic origin to the messier facts of Massachusetts birth and family money, and he remains famous for both art and quarrels.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Whistler can provide American artistic prestige, studio access, technical advice on color photography, and useful enemies. He is easiest to engage by insulting someone he already hates.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>The internationally famous American painter lives in Paris with his wife and former student Beatrice, known as Trixie.</li>
-<li>He romanticizes his origins as Southern aristocracy and resents reminders that he was born in Massachusetts to a newly wealthy railroad family.</li>
-<li>Famously combative, he once sued critic John Ruskin over a hostile review.</li>
-<li>He currently experiments with color photography and may advise an investigator interested in the medium.</li>
-<li>Hatred of Oscar Wilde offers a reliable lever for gaining his cooperation.</li>
-<li>He moves to London in February 1896.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>A photographic anomaly, American social connection, or errand against Wilde can draw him into a case, but his vanity and quarrelsomeness shape every exchange.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -72,7 +55,7 @@ cover: /wiki/media/James-McNeill-Whistler.png
 <tr><th>Life</th><td>1834-1903</td></tr>
 <tr><th>Circle</th><td>American expatriates, Montparnasse, collectors</td></tr>
 <tr><th>Public Manner</th><td>Prickly, elegant, self-mythologizing</td></tr>
-<tr><th>Private Pressure</th><td>He cannot resist turning life into a lawsuit or legend.</td></tr>
+
 <tr><th>Tell</th><td>Corrects biography as if repainting a portrait.</td></tr>
 </tbody>
 </table>
@@ -95,6 +78,44 @@ cover: /wiki/media/James-McNeill-Whistler.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 124.
+
+- [Wikipedia: James McNeill Whistler](https://en.wikipedia.org/wiki/James_Abbott_McNeill_Whistler)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He cannot resist turning life into a lawsuit or legend.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Whistler can provide American artistic prestige, studio access, technical advice on color photography, and useful enemies. He is easiest to engage by insulting someone he already hates.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>The internationally famous American painter lives in Paris with his wife and former student Beatrice, known as Trixie.</li>
+<li>He romanticizes his origins as Southern aristocracy and resents reminders that he was born in Massachusetts to a newly wealthy railroad family.</li>
+<li>Famously combative, he once sued critic John Ruskin over a hostile review.</li>
+<li>He currently experiments with color photography and may advise an investigator interested in the medium.</li>
+<li>Hatred of Oscar Wilde offers a reliable lever for gaining his cooperation.</li>
+<li>He moves to London in February 1896.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>A photographic anomaly, American social connection, or errand against Wilde can draw him into a case, but his vanity and quarrelsomeness shape every exchange.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Whistler... |
@@ -104,13 +125,6 @@ cover: /wiki/media/James-McNeill-Whistler.png
 | ask about photography | grows technical and possessive. |
 | challenge his origin story | turns hostile immediately. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 124.
-
-- [Wikipedia: James McNeill Whistler](https://en.wikipedia.org/wiki/James_Abbott_McNeill_Whistler)
-
-:::gm
 ## Hidden Truth
 
 Whistler's experiments with color photography have captured a tint no chemical process should record. The plate shows a room in Paris under a sky that is not above Paris.

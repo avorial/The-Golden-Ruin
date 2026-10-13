@@ -35,23 +35,8 @@ cover: /wiki/media/Edmond-Bailly.png
 <p>Bailly runs the Librairie de l'art indépendant at 11 Rue de la Chaussée d'Antin, a meeting point for Symbolist literature, ritual magic, and artistic gossip. Born Henri-Edmond Limet, he has been a publisher, composer, theosophist, and former Communard.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Bailly is a natural patron for investigations involving books, scores, Symbolist art, or occult contacts. His shop can introduce almost anyone in the esoteric side of Paris.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Born Henri-Edmond Limet, he is a bookseller, publisher, composer, Theosophist, and former Communard.</li>
-<li>His Librairie de l’art indépendant at 11 Rue de la Chaussée d’Antin connects the Paris art and occult communities.</li>
-<li>The shop specializes in Symbolist literature and ritual magic and serves as an informal meeting place for both circles.</li>
-<li>A captivating conversationalist, Bailly writes about the esoteric power of music and can advise on musical, symphonic, or operatic mysteries.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>A cloaked figure tried to consign a case of copies of The King in Yellow to his shop. Bailly refused, has suffered terrifying dreams since, and can guide a hunt for other copies through his contacts.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -69,7 +54,7 @@ cover: /wiki/media/Edmond-Bailly.png
 <tr><th>Life</th><td>1850-1916</td></tr>
 <tr><th>Location</th><td>Librairie de l'art indépendant</td></tr>
 <tr><th>Public Manner</th><td>Captivating, learned, conspiratorial</td></tr>
-<tr><th>Private Pressure</th><td>He refused the wrong consignment.</td></tr>
+
 <tr><th>Tell</th><td>Quotes music when prose would be safer.</td></tr>
 </tbody>
 </table>
@@ -92,6 +77,42 @@ cover: /wiki/media/Edmond-Bailly.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 127.
+
+- [Wikipedia: Edmond Bailly](https://en.wikipedia.org/wiki/Edmond_Bailly_%28composer%29)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He refused the wrong consignment.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Bailly is a natural patron for investigations involving books, scores, Symbolist art, or occult contacts. His shop can introduce almost anyone in the esoteric side of Paris.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Born Henri-Edmond Limet, he is a bookseller, publisher, composer, Theosophist, and former Communard.</li>
+<li>His Librairie de l’art indépendant at 11 Rue de la Chaussée d’Antin connects the Paris art and occult communities.</li>
+<li>The shop specializes in Symbolist literature and ritual magic and serves as an informal meeting place for both circles.</li>
+<li>A captivating conversationalist, Bailly writes about the esoteric power of music and can advise on musical, symphonic, or operatic mysteries.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>A cloaked figure tried to consign a case of copies of The King in Yellow to his shop. Bailly refused, has suffered terrifying dreams since, and can guide a hunt for other copies through his contacts.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Bailly... |
@@ -101,13 +122,6 @@ cover: /wiki/media/Edmond-Bailly.png
 | mention a cloaked visitor | shuts the shop door before answering. |
 | need an occult introduction | names three rivals and the insult each requires. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 127.
-
-- [Wikipedia: Edmond Bailly](https://en.wikipedia.org/wiki/Edmond_Bailly_%28composer%29)
-
-:::gm
 ## Hidden Truth
 
 A cloaked figure tried to place copies of *The King in Yellow* with Bailly on consignment. He refused, and has since endured dreams of shelves filling with wet yellow paper.

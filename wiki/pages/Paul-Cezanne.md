@@ -35,24 +35,8 @@ cover: /wiki/media/Paul-Cezanne.png
 <p>Cézanne lives mostly away from Paris, returning when exhibitions or obligations drag him back. His paintings divide buyers and painters alike, and his old friendship with Émile Zola has curdled since Zola's fiction seemed to turn a version of him into a doomed failure.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Cézanne is useful when the campaign needs a painter who sees form beneath appearance. He may not explain the supernatural, but he may notice when an object has been painted as if viewed from a second, impossible angle.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>He lives in Provence but returns to Paris when his controversial, revolutionary paintings are exhibited.</li>
-<li>Shabby, difficult, intense-eyed, and marked by a drooping mustache, he may greet strange questions by complaining about diabetes or trouble with his wife Hortense.</li>
-<li>He is nearing the final period of his work, when stacked skulls become a recurring still-life subject.</li>
-<li>His childhood friendship with Émile Zola ended after Zola’s 1886 novel His Masterpiece portrayed an obvious Cézanne analogue as a failed artist driven to suicide.</li>
-<li>Zola professes not to understand why Cézanne took offense.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>The investigators’ actions may supply the experience that pushes him toward the skull paintings of his final period.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -70,7 +54,7 @@ cover: /wiki/media/Paul-Cezanne.png
 <tr><th>Life</th><td>1839-1906</td></tr>
 <tr><th>Circle</th><td>Exhibitions, Provence, former friends of Zola</td></tr>
 <tr><th>Public Manner</th><td>Gruff, suspicious, intense</td></tr>
-<tr><th>Private Pressure</th><td>He fears his eye is changing faster than his hand.</td></tr>
+
 <tr><th>Tell</th><td>Dismisses a question before answering it accurately.</td></tr>
 </tbody>
 </table>
@@ -93,6 +77,43 @@ cover: /wiki/media/Paul-Cezanne.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 117.
+
+- [Wikipedia: Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He fears his eye is changing faster than his hand.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Cézanne is useful when the campaign needs a painter who sees form beneath appearance. He may not explain the supernatural, but he may notice when an object has been painted as if viewed from a second, impossible angle.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>He lives in Provence but returns to Paris when his controversial, revolutionary paintings are exhibited.</li>
+<li>Shabby, difficult, intense-eyed, and marked by a drooping mustache, he may greet strange questions by complaining about diabetes or trouble with his wife Hortense.</li>
+<li>He is nearing the final period of his work, when stacked skulls become a recurring still-life subject.</li>
+<li>His childhood friendship with Émile Zola ended after Zola’s 1886 novel His Masterpiece portrayed an obvious Cézanne analogue as a failed artist driven to suicide.</li>
+<li>Zola professes not to understand why Cézanne took offense.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>The investigators’ actions may supply the experience that pushes him toward the skull paintings of his final period.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Cézanne... |
@@ -102,13 +123,6 @@ cover: /wiki/media/Paul-Cezanne.png
 | show him a Carcosan still life | points out the impossible structure, then denies caring. |
 | need access to a difficult exhibition | grudgingly names who controls the wall space. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 117.
-
-- [Wikipedia: Paul Cézanne](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
-
-:::gm
 ## Hidden Truth
 
 Cézanne has begun dreaming of skulls arranged like fruit. The dreams are not prophetic exactly; they are compositional, teaching him how death occupies space.

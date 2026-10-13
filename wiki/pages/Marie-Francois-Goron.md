@@ -35,25 +35,8 @@ cover: /wiki/media/Marie-Francois-Goron.png
 <p>Goron served in high police office and later became a writer of detective tales and memoirs. He knows procedure, scandal, and the vanity of criminals who think themselves artists.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Goron can be a patron, consultant, rival investigator, or dangerous enthusiast. He may pursue the truth because justice demands it, or because the case is too delicious to ignore.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>The energetic former head of the Sûreté has retired to private detection and the writing of memoirs.</li>
-<li>He speaks in rapid bursts and constantly produces anecdotes from his police career.</li>
-<li>He investigated the 1889 Gouffé trunk murder, including a discarded theory that hypnosis controlled the killer’s mistress.</li>
-<li>As deputy chief he worked the Régine de Montille murder; scandal followed revelations that senior officers had objects bound in the alleged killer’s skin.</li>
-<li>He eats with startling speed and then complains of chronic stomach trouble.</li>
-<li>His later writing includes four volumes of memoirs, sensational detective fiction about an evil alchemist with a flying machine, and The Memoirs of Poum, Police Dog.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>He hires the art students when a private case crosses into the occult, and their exploits may inspire the fantastic machinery of his later fiction.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +54,7 @@ cover: /wiki/media/Marie-Francois-Goron.png
 <tr><th>Life</th><td>1847-1933</td></tr>
 <tr><th>Location</th><td>Police circles, publishers, salons</td></tr>
 <tr><th>Public Manner</th><td>Warm, forceful, story-hungry</td></tr>
-<tr><th>Private Pressure</th><td>He wants the perfect crime to be real.</td></tr>
+
 <tr><th>Tell</th><td>Smiles when a case worsens.</td></tr>
 </tbody>
 </table>
@@ -94,6 +77,44 @@ cover: /wiki/media/Marie-Francois-Goron.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 135-136.
+
+- [Wikipedia: Marie-François Goron](https://en.wikipedia.org/wiki/Marie-Fran%C3%A7ois_Goron)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He wants the perfect crime to be real.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Goron can be a patron, consultant, rival investigator, or dangerous enthusiast. He may pursue the truth because justice demands it, or because the case is too delicious to ignore.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>The energetic former head of the Sûreté has retired to private detection and the writing of memoirs.</li>
+<li>He speaks in rapid bursts and constantly produces anecdotes from his police career.</li>
+<li>He investigated the 1889 Gouffé trunk murder, including a discarded theory that hypnosis controlled the killer’s mistress.</li>
+<li>As deputy chief he worked the Régine de Montille murder; scandal followed revelations that senior officers had objects bound in the alleged killer’s skin.</li>
+<li>He eats with startling speed and then complains of chronic stomach trouble.</li>
+<li>His later writing includes four volumes of memoirs, sensational detective fiction about an evil alchemist with a flying machine, and The Memoirs of Poum, Police Dog.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He hires the art students when a private case crosses into the occult, and their exploits may inspire the fantastic machinery of his later fiction.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Goron... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Marie-Francois-Goron.png
 | uncover a bizarre crime | becomes immediately invested. |
 | seem incompetent | takes over and calls it kindness. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 135-136.
-
-- [Wikipedia: Marie-François Goron](https://en.wikipedia.org/wiki/Marie-Fran%C3%A7ois_Goron)
-
-:::gm
 ## Hidden Truth
 
 Goron is being tempted by a Carcosan pattern: crimes arranged not for profit or hatred, but for narrative beauty. He is horrified by how well he understands it.

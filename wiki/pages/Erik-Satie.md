@@ -35,25 +35,8 @@ cover: /wiki/media/Erik-Satie.png
 <p>Satie has already written piano pieces that will outlast most of his contemporaries. In 1895 he serves as chapel master and composer for Joséphin Péladan's Rosicrucian order and spends time among occult bookshops and artistic radicals.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Satie is useful at the crossroads of music, occult theatre, bookshops, and future avant-garde sensibility. He can be drawn toward the play or require rescue from music that seems to compose him back.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>The young composer has already written the Gymnopédies and Gnossiennes that will secure his later reputation.</li>
-<li>He serves as chapel master and resident composer to Joséphin Péladan’s Rosicrucian order.</li>
-<li>He regularly joins artistic and occult discussions at Edmond Bailly’s bookshop.</li>
-<li>His confidence and authority make him seem older than twenty-nine.</li>
-<li>Wit and poise conceal an early awareness of mortality rooted in his mother’s death when he was six.</li>
-<li>His appetite for new artistic movements will later lead him toward Dada and influence the Surrealists.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>His attraction to new creative forms may draw him to the play, requiring rescue before its music or imagery takes root in his work.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +54,7 @@ cover: /wiki/media/Erik-Satie.png
 <tr><th>Life</th><td>1866-1925</td></tr>
 <tr><th>Circle</th><td>Rosicrucians, occult bookshops, composers</td></tr>
 <tr><th>Public Manner</th><td>Wry, poised, deceptively grave</td></tr>
-<tr><th>Private Pressure</th><td>His mother's death left him listening for absence.</td></tr>
+
 <tr><th>Tell</th><td>Answers terror with a joke too precise to be casual.</td></tr>
 </tbody>
 </table>
@@ -94,6 +77,44 @@ cover: /wiki/media/Erik-Satie.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 123.
+
+- [Wikipedia: Erik Satie](https://en.wikipedia.org/wiki/Erik_Satie)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>His mother's death left him listening for absence.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Satie is useful at the crossroads of music, occult theatre, bookshops, and future avant-garde sensibility. He can be drawn toward the play or require rescue from music that seems to compose him back.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>The young composer has already written the Gymnopédies and Gnossiennes that will secure his later reputation.</li>
+<li>He serves as chapel master and resident composer to Joséphin Péladan’s Rosicrucian order.</li>
+<li>He regularly joins artistic and occult discussions at Edmond Bailly’s bookshop.</li>
+<li>His confidence and authority make him seem older than twenty-nine.</li>
+<li>Wit and poise conceal an early awareness of mortality rooted in his mother’s death when he was six.</li>
+<li>His appetite for new artistic movements will later lead him toward Dada and influence the Surrealists.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His attraction to new creative forms may draw him to the play, requiring rescue before its music or imagery takes root in his work.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Satie... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Erik-Satie.png
 | need occult bookshop access | knows who lingers there and who buys secretly. |
 | mention grief | stops joking for one sentence. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 123.
-
-- [Wikipedia: Erik Satie](https://en.wikipedia.org/wiki/Erik_Satie)
-
-:::gm
 ## Hidden Truth
 
 Satie has written a short piece that should be harmless, but anyone who plays it three times dreams of a chapel with no altar and a throne behind the choir.

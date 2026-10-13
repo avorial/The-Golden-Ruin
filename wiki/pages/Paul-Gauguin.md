@@ -34,23 +34,8 @@ cover: /wiki/media/Paul-Gauguin.png
 <p>Gauguin has passed through finance, family life, Brittany, poverty, Symbolism, and the long shock of Vincent van Gogh's death. In 1895 he is near the edge of another departure from France, still carrying stories and visual habits from Pont-Aven and the Breton coast.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Gauguin can supply Brittany folklore, painterly rivalry, and volatile access to circles where Symbolist ideas turn into bad decisions. He is useful as an informant who must be managed rather than trusted.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>A hard-living, irascible Symbolist painter, frustrated with Paris and still haunted by Vincent van Gogh’s suicide.</li>
-<li>He leaves for Tahiti halfway through 1895, creating a narrow window in which investigators can find him in the city.</li>
-<li>His years living and painting in Brittany make him a useful source on the region’s secret folklore.</li>
-<li>Dark curls and a lush mustache give him a world-weary romantic appearance until drink turns him belligerent.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>He can connect a Paris investigation to Breton folklore, but a meeting may end in a drunken challenge or fight.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -68,7 +53,7 @@ cover: /wiki/media/Paul-Gauguin.png
 <tr><th>Life</th><td>1848-1903</td></tr>
 <tr><th>Circle</th><td>Symbolists, Pont-Aven painters, hard-drinking cafés</td></tr>
 <tr><th>Public Manner</th><td>Romantic, combative, self-mythologizing</td></tr>
-<tr><th>Private Pressure</th><td>Van Gogh's death still follows him.</td></tr>
+
 <tr><th>Tell</th><td>Turns grief into contempt before anyone can see it.</td></tr>
 </tbody>
 </table>
@@ -91,6 +76,42 @@ cover: /wiki/media/Paul-Gauguin.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 118.
+
+- [Wikipedia: Paul Gauguin](https://en.wikipedia.org/wiki/Paul_Gauguin)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>Van Gogh's death still follows him.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Gauguin can supply Brittany folklore, painterly rivalry, and volatile access to circles where Symbolist ideas turn into bad decisions. He is useful as an informant who must be managed rather than trusted.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A hard-living, irascible Symbolist painter, frustrated with Paris and still haunted by Vincent van Gogh’s suicide.</li>
+<li>He leaves for Tahiti halfway through 1895, creating a narrow window in which investigators can find him in the city.</li>
+<li>His years living and painting in Brittany make him a useful source on the region’s secret folklore.</li>
+<li>Dark curls and a lush mustache give him a world-weary romantic appearance until drink turns him belligerent.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He can connect a Paris investigation to Breton folklore, but a meeting may end in a drunken challenge or fight.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Gauguin... |
@@ -100,13 +121,6 @@ cover: /wiki/media/Paul-Gauguin.png
 | mention van Gogh | becomes dangerous in a quieter way. |
 | need a Symbolist contact | names one, then insults them. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 118.
-
-- [Wikipedia: Paul Gauguin](https://en.wikipedia.org/wiki/Paul_Gauguin)
-
-:::gm
 ## Hidden Truth
 
 Gauguin heard a Breton tale of a drowned city that resembles Carcosa too closely. He has painted versions of it without admitting what source he used.

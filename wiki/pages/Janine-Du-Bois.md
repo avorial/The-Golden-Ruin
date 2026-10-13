@@ -129,17 +129,6 @@ Janine may approach current North Star residents herself. They are people who mi
 
 Janine can take investigators into rehearsal rooms, backstage corridors, costume workshops, private boxes, artists' entrances, managers' offices, patrons' salons, and late-night restaurants full of performers. She knows who fears losing a role, who owes money, who is having an affair, and which gentlemen mistake payment for discretion.
 
-## Scene Use
-
-| If the characters... | Janine... |
-| --- | --- |
-| ask about Nell | answers frankly, then tests whether they cared about her as a person. |
-| accuse Bonnet too early | defends him and demands evidence rather than assurances. |
-| need theatrical access | opens the door, but expects discretion and professional behavior. |
-| show her a contradiction | remembers precise details from performances, dinners, and sittings. |
-| patronize her | ends the conversation with flawless courtesy. |
-| prove Bonnet killed Nell | turns against him without hesitation. |
-
 ## Relationships
 
 | Person or place | Relationship | Pressure |
@@ -155,6 +144,20 @@ Janine can take investigators into rehearsal rooms, backstage corridors, costume
 Janine should survive the Bonnet affair and become a recurring ally. She continues performing and working after learning the impossible. If anything, she becomes harder to frighten. Strange costume designs, unexplained music, a patron's insistence upon an unused box, or singing in an empty theatre can bring her back to the North Star with a mystery of her own.
 
 :::gm
+
+
+## Private Reference
+
+## Scene Use
+
+| If the characters... | Janine... |
+| --- | --- |
+| ask about Nell | answers frankly, then tests whether they cared about her as a person. |
+| accuse Bonnet too early | defends him and demands evidence rather than assurances. |
+| need theatrical access | opens the door, but expects discretion and professional behavior. |
+| show her a contradiction | remembers precise details from performances, dinners, and sittings. |
+| patronize her | ends the conversation with flawless courtesy. |
+| prove Bonnet killed Nell | turns against him without hesitation. |
 
 ## Janine Is Innocent
 

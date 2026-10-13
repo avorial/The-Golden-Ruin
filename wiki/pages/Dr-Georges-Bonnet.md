@@ -2,7 +2,7 @@
 category: npc
 type: npc
 name: Dr. Georges Bonnet
-summary: A wealthy physician, accomplished sculptor, and generous patron whose impossible youth depends on a yellow drug learned in dreams of Carcosa.
+summary: A wealthy physician, accomplished sculptor, and generous patron connected to the House of the North Star.
 tags:
   - npc
   - people
@@ -83,11 +83,11 @@ cover: /wiki/media/Dr-Georges-Bonnet.png
 <tbody>
 <tr><th>Role</th><td>Physician, sculptor, and patron</td></tr>
 <tr><th>Apparent Age</th><td>About 40</td></tr>
-<tr><th>True Age</th><td>104</td></tr>
-<tr><th>Born</th><td>1786</td></tr>
+
+
 <tr><th>Residence</th><td>[[Hôtel Bonnet]], 33 bis Rue Fortuny</td></tr>
 <tr><th>Public Manner</th><td>Calm, cultivated, generous, exacting</td></tr>
-<tr><th>Private Pressure</th><td>The treatment is failing faster each month.</td></tr>
+
 <tr><th>Tell</th><td>Becomes softer-spoken as his anger rises.</td></tr>
 </tbody>
 </table>
@@ -116,6 +116,19 @@ Bonnet dislikes fashionable cynicism and has little patience for people who mist
 
 He is fascinated by ambition and distrusts anyone who claims not to fear death. Bonnet believes most people waste enormous portions of their lives and then complain that life is too short. He does not.
 
+:::gm
+
+**GM synopsis:** A wealthy physician, accomplished sculptor, and generous patron whose impossible youth depends on a yellow drug learned in dreams of Carcosa.
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>True Age</th><td>104</td></tr>
+<tr><th>Born</th><td>1786</td></tr>
+<tr><th>Private Pressure</th><td>The treatment is failing faster each month.</td></tr>
+</tbody>
+</table>
+
 ## Scene Use
 
 | If the characters... | Bonnet... |
@@ -127,6 +140,8 @@ He is fascinated by ambition and distrusts anyone who claims not to fear death. 
 | accuse him openly | treats the accusation as evidence of shock, exhaustion, or hysteria. |
 | threaten Janine | abandons his composure and acts with frightening speed. |
 
+
+
 ## Relationships
 
 | Person or place | Relationship | Pressure |
@@ -137,8 +152,6 @@ He is fascinated by ambition and distrusts anyone who claims not to fear death. 
 | [[Janine Du Bois]] | Lover and portrait subject | She gives him a future he cannot bear to lose. |
 | [[Dr. Ludwig Weiss]] | Old friend and medical collaborator | Weiss understands the treatment and increasingly wants it stopped. |
 | [[Eleanor “Nell” Whitcomb]] | Former model and murder victim | Her notes can expose more than her killer. |
-
-:::gm
 
 ## Georges Bonnet Is 104 Years Old
 

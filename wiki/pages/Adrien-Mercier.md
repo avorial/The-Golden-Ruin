@@ -92,16 +92,6 @@ cover: /wiki/media/Adrien-Mercier.png
 
 **Obstacle:** He refuses claims of sorcery or immortality until the material record eliminates fraud, inherited technique, and misattribution.
 
-## Scene Use
-
-| If the investigators... | Mercier... |
-| --- | --- |
-| ask about Bonnet's technique | identifies specific obsolete habits and explains why they cannot be learned from appearances alone. |
-| bring him a sculpture fragment | determines tools, sequence, repairs, and whether the maker tried to disguise age. |
-| seek studio access | introduces foundrymen, suppliers, models, and laborers who distrust society patrons. |
-| make a supernatural claim | demands a physical object he can test. |
-| prove Bonnet's longevity | becomes frightened, then methodical. |
-
 ## Relationships
 
 | Person or place | Relationship | Pressure |
@@ -113,6 +103,19 @@ cover: /wiki/media/Adrien-Mercier.png
 | [[Théo Marchand]] | Irritating but useful gossip | Marchand hears where suspicious work changes hands. |
 
 :::gm
+
+
+## Private Reference
+
+## Scene Use
+
+| If the investigators... | Mercier... |
+| --- | --- |
+| ask about Bonnet's technique | identifies specific obsolete habits and explains why they cannot be learned from appearances alone. |
+| bring him a sculpture fragment | determines tools, sequence, repairs, and whether the maker tried to disguise age. |
+| seek studio access | introduces foundrymen, suppliers, models, and laborers who distrust society patrons. |
+| make a supernatural claim | demands a physical object he can test. |
+| prove Bonnet's longevity | becomes frightened, then methodical. |
 
 ## The Technical Witness
 

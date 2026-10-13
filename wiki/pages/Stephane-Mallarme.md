@@ -36,24 +36,8 @@ cover: /wiki/media/Stephane-Mallarme.png
 <p>A central Symbolist poet with occult leanings, Mallarmé presides over literary gatherings where reputation, experiment, and metaphysics mingle. In 1895 wider recognition has brought him some sunnier confidence, though money remains a problem and the future is shorter than he knows.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Mallarmé is an excellent source for Symbolist circles, poetic codes, occult allusion, and the idea that meaning can be dangerous when approached too directly.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>A Symbolist poet with occult leanings whose verse depends as much on verbal music as literal meaning.</li>
-<li>Despite his reputation he still scrambles for money, making payment and Negotiation practical means of gaining his help.</li>
-<li>He presides over literary salons attended by prominent artists and occult-minded writers, including W. B. Yeats when Yeats visits Paris.</li>
-<li>Growing recognition has recently made him sunnier and more approachable.</li>
-<li>He dies suddenly from uncertain causes three years after the campaign date.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>His salon can introduce investigators to the Symbolist and occult worlds, while his financial need makes him a plausible paid consultant.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +55,7 @@ cover: /wiki/media/Stephane-Mallarme.png
 <tr><th>Life</th><td>1842-1898</td></tr>
 <tr><th>Circle</th><td>Symbolists, poets, occult-minded visitors</td></tr>
 <tr><th>Public Manner</th><td>Oblique, musical, gracious</td></tr>
-<tr><th>Private Pressure</th><td>He knows symbols are not obedient servants.</td></tr>
+
 <tr><th>Tell</th><td>Repeats a phrase until its meaning changes.</td></tr>
 </tbody>
 </table>
@@ -94,6 +78,43 @@ cover: /wiki/media/Stephane-Mallarme.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 120.
+
+- [Wikipedia: Stéphane Mallarmé](https://en.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He knows symbols are not obedient servants.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Mallarmé is an excellent source for Symbolist circles, poetic codes, occult allusion, and the idea that meaning can be dangerous when approached too directly.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A Symbolist poet with occult leanings whose verse depends as much on verbal music as literal meaning.</li>
+<li>Despite his reputation he still scrambles for money, making payment and Negotiation practical means of gaining his help.</li>
+<li>He presides over literary salons attended by prominent artists and occult-minded writers, including W. B. Yeats when Yeats visits Paris.</li>
+<li>Growing recognition has recently made him sunnier and more approachable.</li>
+<li>He dies suddenly from uncertain causes three years after the campaign date.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His salon can introduce investigators to the Symbolist and occult worlds, while his financial need makes him a plausible paid consultant.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Mallarmé... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Stephane-Mallarme.png
 | need money | sympathizes without being able to help much. |
 | mention Carcosa | says the name should not be made too clear. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 120.
-
-- [Wikipedia: Stéphane Mallarmé](https://en.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9)
-
-:::gm
 ## Hidden Truth
 
 Mallarmé has seen a stanza whose blank spaces convey more than the words. He burned the paper and still remembers the shape of the silence.

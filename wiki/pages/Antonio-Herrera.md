@@ -2,8 +2,7 @@
 category: npc
 type: npc
 name: Antonio Herrera
-summary: Elegant Mexican seer visiting grand hotels, and perhaps not a real
-  person at all.
+summary: An elegant Mexican seer who visits Parisian grand hotels and offers readings to wealthy guests.
 tags:
   - npc
   - people
@@ -34,23 +33,8 @@ cover: /wiki/media/Antonio-Herrera.png
 <p>Herrera appears occasionally in Paris, staying in fine hotels and agreeing, with apparent hesitation, to deploy psychic gifts for fellow guests. His mystique depends on scarcity, elegance, and the feeling that he has been persuaded against his better judgment.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Herrera can be a false lead, a social key, or a disguised criminal intelligence probe. His readings should be useful enough that the lie becomes more dangerous.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>A supposed Mexican psychic who periodically visits Paris and stays only in the best hotels.</li>
-<li>He reluctantly performs otherworldly feats for wealthy fellow guests.</li>
-<li>His delicate profile and halo of white hair invite comparison to pianist Ignacy Paderewski.</li>
-<li>Herrera is not a separate man at all, but one of Colonel Caoutchouc’s many disguises.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>Every consultation is also a confidence trick, test, or intervention by Colonel Caoutchouc, allowing clues from two identities to converge.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -67,7 +51,7 @@ cover: /wiki/media/Antonio-Herrera.png
 <tr><th>Age</th><td>Unknown</td></tr>
 <tr><th>Circle</th><td>Grand hotels, wealthy occult dabblers</td></tr>
 <tr><th>Public Manner</th><td>Elegant, reluctant, cultivated</td></tr>
-<tr><th>Private Pressure</th><td>The persona must remain useful.</td></tr>
+
 <tr><th>Tell</th><td>Knows hotel gossip before any vision begins.</td></tr>
 </tbody>
 </table>
@@ -90,6 +74,40 @@ cover: /wiki/media/Antonio-Herrera.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 129.
+
+:::gm
+
+**GM synopsis:** Elegant Mexican seer visiting grand hotels, and perhaps not a real person at all.
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>The persona must remain useful.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Herrera can be a false lead, a social key, or a disguised criminal intelligence probe. His readings should be useful enough that the lie becomes more dangerous.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A supposed Mexican psychic who periodically visits Paris and stays only in the best hotels.</li>
+<li>He reluctantly performs otherworldly feats for wealthy fellow guests.</li>
+<li>His delicate profile and halo of white hair invite comparison to pianist Ignacy Paderewski.</li>
+<li>Herrera is not a separate man at all, but one of Colonel Caoutchouc’s many disguises.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Every consultation is also a confidence trick, test, or intervention by Colonel Caoutchouc, allowing clues from two identities to converge.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Herrera... |
@@ -99,11 +117,6 @@ cover: /wiki/media/Antonio-Herrera.png
 | mention Colonel Caoutchouc | smiles with the wrong face for half a second. |
 | need entry to wealthy hotel circles | can provide it for a price he never states directly. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 129.
-
-:::gm
 ## Hidden Truth
 
 Antonio Herrera is one of the disguises used by Colonel Caoutchouc. Whether he has any genuine psychic flashes is up to the GM; the danger is that his fraud may accidentally touch something real.

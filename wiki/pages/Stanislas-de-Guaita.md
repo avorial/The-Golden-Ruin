@@ -34,25 +34,8 @@ cover: /wiki/media/Stanislas-de-Guaita.png
 <p>De Guaita co-founded the Ordre Kabbalistique de la Rose-Croix with Joséphin Péladan before their schism. He investigated Abbé Boullan and became embroiled in accusations of magical warfare with Huysmans and rival occultists.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>De Guaita is a strong patron for occult combat. He can direct the characters against the King while understanding Carcosa as black magic, a misreading that may cause as many problems as it solves.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>An aristocratic poet and ritual magician who treats magic as a sincere, romantic spiritual crusade.</li>
-<li>He co-founded the Ordre Kabbalistique de la Rose-Croix seven years ago with Joséphin Péladan; the two are now bitterly estranged.</li>
-<li>His investigation of Abbé Boullan focused on allegations of magical sexual domination and reverse exorcisms that infested nuns with demons.</li>
-<li>Boullan supporter Joris-Karl Huysmans retaliated by accusing de Guaita and Péladan of attacking him with spells.</li>
-<li>He is feverishly completing The Key to Black Magic, a manual for opposing evil sorcerers, published shortly before his premature death.</li>
-<li>He also writes poetry, wears sandy hair closely cropped, and keeps only a modest mustache.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>He identifies the Carcosan incursion either accurately or as earthly black magic, then asks the investigators to lead the fight while he finishes his book.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -69,7 +52,7 @@ cover: /wiki/media/Stanislas-de-Guaita.png
 <tr><th>Life</th><td>1861-1897</td></tr>
 <tr><th>Circle</th><td>Rosicrucians, ritual magicians, occult polemicists</td></tr>
 <tr><th>Public Manner</th><td>Righteous, romantic, intense</td></tr>
-<tr><th>Private Pressure</th><td>He is racing death and unfinished work.</td></tr>
+
 <tr><th>Tell</th><td>Frames personal grudges as cosmic necessity.</td></tr>
 </tbody>
 </table>
@@ -92,6 +75,44 @@ cover: /wiki/media/Stanislas-de-Guaita.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 128-129.
+
+- [Wikipedia: Stanislas de Guaita](https://en.wikipedia.org/wiki/Stanislas_de_Guaita)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>He is racing death and unfinished work.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>De Guaita is a strong patron for occult combat. He can direct the characters against the King while understanding Carcosa as black magic, a misreading that may cause as many problems as it solves.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>An aristocratic poet and ritual magician who treats magic as a sincere, romantic spiritual crusade.</li>
+<li>He co-founded the Ordre Kabbalistique de la Rose-Croix seven years ago with Joséphin Péladan; the two are now bitterly estranged.</li>
+<li>His investigation of Abbé Boullan focused on allegations of magical sexual domination and reverse exorcisms that infested nuns with demons.</li>
+<li>Boullan supporter Joris-Karl Huysmans retaliated by accusing de Guaita and Péladan of attacking him with spells.</li>
+<li>He is feverishly completing The Key to Black Magic, a manual for opposing evil sorcerers, published shortly before his premature death.</li>
+<li>He also writes poetry, wears sandy hair closely cropped, and keeps only a modest mustache.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He identifies the Carcosan incursion either accurately or as earthly black magic, then asks the investigators to lead the fight while he finishes his book.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | de Guaita... |
@@ -101,13 +122,6 @@ cover: /wiki/media/Stanislas-de-Guaita.png
 | ask about Boullan | gives too much detail and too little mercy. |
 | bring Carcosan evidence | calls it black magic and prepares a counter-ritual. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 128-129.
-
-- [Wikipedia: Stanislas de Guaita](https://en.wikipedia.org/wiki/Stanislas_de_Guaita)
-
-:::gm
 ## Hidden Truth
 
 De Guaita's battle against black magic is sincere, but his framework cannot contain Carcosa. If the PCs rely on him too completely, they may fight the wrong war beautifully.

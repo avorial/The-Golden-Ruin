@@ -84,15 +84,6 @@ cover: /wiki/media/Madame-Eugenie-Voclain-Head-Cook.png
 </aside>
 </div>
 
-## Scene Use
-
-| If the characters... | Madame Voclain... |
-| --- | --- |
-| ask who has been eating badly | names three people and knows why for two of them. |
-| need somewhere private | puts them to work shelling peas in the pantry. |
-| arrive frightened | feeds them first, questions them second. |
-| insult the staff | turns the whole service side of the house cold against them. |
-
 ## Relationships
 
 | Person or Place | Bond | Complication |
@@ -102,6 +93,19 @@ cover: /wiki/media/Madame-Eugenie-Voclain-Head-Cook.png
 | [[House of the North Star]] | Feeds and measures the household | She can read the house's mood by what returns uneaten. |
 
 :::gm
+
+
+## Private Reference
+
+## Scene Use
+
+| If the characters... | Madame Voclain... |
+| --- | --- |
+| ask who has been eating badly | names three people and knows why for two of them. |
+| need somewhere private | puts them to work shelling peas in the pantry. |
+| arrive frightened | feeds them first, questions them second. |
+| insult the staff | turns the whole service side of the house cold against them. |
+
 ## Hidden Truth
 
 Madame Voclain is not formally one of the Caretakers. She knows they exist, calls them "Burke's solemn little brotherhood," and thinks mystical societies would do better work if they ate at regular hours.

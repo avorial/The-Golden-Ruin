@@ -40,27 +40,8 @@ cover: /wiki/media/Nadar.png
 <p>Historically, Gaspard-Félix Tournachon (1820-1910), known as Nadar, was a French photographer, caricaturist, journalist, novelist, and balloonist. His portrait studio, experiments with aerial photography, and wide artistic network make him a natural contact for evidence, introductions, and impossible images.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Nadar can provide photographs, introductions, aerial perspective, and old stories of Paris. He is also useful when an investigation needs a public excuse to be somewhere private.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Gaspard-Félix Tournachon, known as Nadar, is an elderly, corpulent raconteur who remains energetically involved in photography and flight.</li>
-<li>The son of a Paris bookseller abandoned medical training for literary journalism, cartoons, magazine publishing, and then portrait photography.</li>
-<li>His famous sitters include Sarah Bernhardt, Alexandre Dumas, Jacques Offenbach, and Charles Baudelaire.</li>
-<li>He devised the method for the world’s first aerial photography and flew the huge double-decker balloon The Giant, charging tourists for alarming rides.</li>
-<li>Napoléon III hired him to conduct aerial reconnaissance during the 1859 Battle of Solférino.</li>
-<li>Jules Verne placed an anagrammatic version of him in From the Earth to the Moon.</li>
-<li>Though supposedly in Marseilles during 1895, he can plausibly appear in Paris if the investigators later need to conceal the truth.</li>
-<li>He remembers old Paris and still shudders at Haussmann’s rapid transformation of the city.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>Consult him about unexplained aerial phenomena, early photography, ballooning, famous sitters, or the vanished city beneath modern Paris.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -78,7 +59,7 @@ cover: /wiki/media/Nadar.png
 <tr><th>Life</th><td>1820-1910</td></tr>
 <tr><th>Location</th><td>Studio, exhibitions, cafés</td></tr>
 <tr><th>Public Manner</th><td>Expansive, witty, fearless</td></tr>
-<tr><th>Private Pressure</th><td>One negative shows what the studio did not contain.</td></tr>
+
 <tr><th>Tell</th><td>Frames people with his fingers while talking.</td></tr>
 </tbody>
 </table>
@@ -101,6 +82,46 @@ cover: /wiki/media/Nadar.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 126-127.
+
+- [Wikipedia: Nadar](https://en.wikipedia.org/wiki/Nadar)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>One negative shows what the studio did not contain.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Nadar can provide photographs, introductions, aerial perspective, and old stories of Paris. He is also useful when an investigation needs a public excuse to be somewhere private.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Gaspard-Félix Tournachon, known as Nadar, is an elderly, corpulent raconteur who remains energetically involved in photography and flight.</li>
+<li>The son of a Paris bookseller abandoned medical training for literary journalism, cartoons, magazine publishing, and then portrait photography.</li>
+<li>His famous sitters include Sarah Bernhardt, Alexandre Dumas, Jacques Offenbach, and Charles Baudelaire.</li>
+<li>He devised the method for the world’s first aerial photography and flew the huge double-decker balloon The Giant, charging tourists for alarming rides.</li>
+<li>Napoléon III hired him to conduct aerial reconnaissance during the 1859 Battle of Solférino.</li>
+<li>Jules Verne placed an anagrammatic version of him in From the Earth to the Moon.</li>
+<li>Though supposedly in Marseilles during 1895, he can plausibly appear in Paris if the investigators later need to conceal the truth.</li>
+<li>He remembers old Paris and still shudders at Haussmann’s rapid transformation of the city.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>Consult him about unexplained aerial phenomena, early photography, ballooning, famous sitters, or the vanished city beneath modern Paris.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Nadar... |
@@ -110,13 +131,6 @@ cover: /wiki/media/Nadar.png
 | need access | arrives loudly enough to distract everyone. |
 | mention aerial observation | becomes twenty years younger for an hour. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 126-127.
-
-- [Wikipedia: Nadar](https://en.wikipedia.org/wiki/Nadar)
-
-:::gm
 ## Hidden Truth
 
 Nadar possesses a plate from an old balloon ascent showing Paris beneath a second, impossible skyline. He has never exhibited it.

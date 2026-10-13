@@ -35,24 +35,8 @@ cover: /wiki/media/Colonel-Caoutchouc.png
 <p>The name Colonel Caoutchouc attaches to a slippery international criminal, con artist, and disguise expert. He moves through occult, aristocratic, and underworld circles by becoming exactly the guest expected.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Use him as a recurring thief, false patron, or social infiltrator. He is especially dangerous when the characters believe they have already met everyone important in the room.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>A master of disguise pursued by police from London to Johannesburg; English speakers know him as Colonel Cuthbert Clay.</li>
-<li>A female accomplice matches his impersonation skills as they swindle wealthy targets who offend his socialist ideals.</li>
-<li>Aliases include Reverend Richard Peploe Brabazon, David Granton, Count von Lebenstein, Professor Schleiermacher, Dr. Quackenboss, and the psychic Antonio Herrera.</li>
-<li>He often victimizes the same mark repeatedly under different identities, especially the greedy diamond magnate Sir Charles Vandrift.</li>
-<li>He is adapted from Grant Allen’s 1897 novel An African Millionaire; one possible true name is Paul Finglemore.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>His fascination with masks leads him to The King in Yellow. He tricks the investigators into taking the dangerous work, funds them with stolen wealth, and may stage a rescue in disguise without revealing himself.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -69,7 +53,7 @@ cover: /wiki/media/Colonel-Caoutchouc.png
 <tr><th>Age</th><td>Unknown</td></tr>
 <tr><th>Location</th><td>Wherever trust is profitable</td></tr>
 <tr><th>Public Manner</th><td>Variable, magnetic, perfectly pitched</td></tr>
-<tr><th>Private Pressure</th><td>One stolen identity is becoming real.</td></tr>
+
 <tr><th>Tell</th><td>Knows too much etiquette for the role he plays.</td></tr>
 </tbody>
 </table>
@@ -92,6 +76,41 @@ cover: /wiki/media/Colonel-Caoutchouc.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 134.
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>One stolen identity is becoming real.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Use him as a recurring thief, false patron, or social infiltrator. He is especially dangerous when the characters believe they have already met everyone important in the room.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>A master of disguise pursued by police from London to Johannesburg; English speakers know him as Colonel Cuthbert Clay.</li>
+<li>A female accomplice matches his impersonation skills as they swindle wealthy targets who offend his socialist ideals.</li>
+<li>Aliases include Reverend Richard Peploe Brabazon, David Granton, Count von Lebenstein, Professor Schleiermacher, Dr. Quackenboss, and the psychic Antonio Herrera.</li>
+<li>He often victimizes the same mark repeatedly under different identities, especially the greedy diamond magnate Sir Charles Vandrift.</li>
+<li>He is adapted from Grant Allen’s 1897 novel An African Millionaire; one possible true name is Paul Finglemore.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>His fascination with masks leads him to The King in Yellow. He tricks the investigators into taking the dangerous work, funds them with stolen wealth, and may stage a rescue in disguise without revealing himself.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Caoutchouc... |
@@ -101,11 +120,6 @@ cover: /wiki/media/Colonel-Caoutchouc.png
 | seek an occult thief | may already be their employer. |
 | trust credentials | gives them excellent credentials. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 134.
-
-:::gm
 ## Hidden Truth
 
 Caoutchouc once used the name Antonio Herrera to move among occultists, and something from that masquerade now recognizes him no matter what face he wears.

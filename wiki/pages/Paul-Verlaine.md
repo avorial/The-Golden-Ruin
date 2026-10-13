@@ -35,25 +35,8 @@ cover: /wiki/media/Paul-Verlaine.png
 <p>Verlaine's life has passed through poetry, scandal, the Commune, love, violence, poverty, absinthe, and illness. By 1895 he appears in cafés and clubs where the demimonde and literati greet him with reverence despite, or because of, his collapse.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Verlaine can provide poetic prophecy, unreliable memory, or access to the lowest and highest literary circles at once. His companion Bibi-la-Purée can become a clue-bearer, nuisance, or tragic witness.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Stooped, bald, hollow-eyed, and white-bearded, he appears twenty years older than he is.</li>
-<li>The revered Symbolist poet now lives in poverty and drinks absinthe heavily, appearing at venues such as the Soleil d’Or.</li>
-<li>The demimonde and literary set still greet him with reverence.</li>
-<li>His constant companion is the clownish ragamuffin Bibi-la-Purée, who accepts humiliation for food or drink.</li>
-<li>Earlier chapters of his life include service as a Commune press attaché, his relationship with Arthur Rimbaud, teaching in the United States, and musical settings of his poetry by Debussy, Fauré, and others.</li>
-<li>Alcohol and drug addiction kill him in January 1896.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>He offers access to café gossip, Commune memories, poetry, and a tragic countdown that can sharpen any Carcosan temptation.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -71,7 +54,7 @@ cover: /wiki/media/Paul-Verlaine.png
 <tr><th>Life</th><td>1844-1896</td></tr>
 <tr><th>Circle</th><td>Cafés, clubs, poets, demimonde</td></tr>
 <tr><th>Public Manner</th><td>Ruinous, revered, volatile</td></tr>
-<tr><th>Private Pressure</th><td>His body is reaching the end before his voice is done.</td></tr>
+
 <tr><th>Tell</th><td>Quotes himself when too tired to lie.</td></tr>
 </tbody>
 </table>
@@ -94,6 +77,44 @@ cover: /wiki/media/Paul-Verlaine.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 124.
+
+- [Wikipedia: Paul Verlaine](https://en.wikipedia.org/wiki/Paul_Verlaine)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>His body is reaching the end before his voice is done.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Verlaine can provide poetic prophecy, unreliable memory, or access to the lowest and highest literary circles at once. His companion Bibi-la-Purée can become a clue-bearer, nuisance, or tragic witness.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Stooped, bald, hollow-eyed, and white-bearded, he appears twenty years older than he is.</li>
+<li>The revered Symbolist poet now lives in poverty and drinks absinthe heavily, appearing at venues such as the Soleil d’Or.</li>
+<li>The demimonde and literary set still greet him with reverence.</li>
+<li>His constant companion is the clownish ragamuffin Bibi-la-Purée, who accepts humiliation for food or drink.</li>
+<li>Earlier chapters of his life include service as a Commune press attaché, his relationship with Arthur Rimbaud, teaching in the United States, and musical settings of his poetry by Debussy, Fauré, and others.</li>
+<li>Alcohol and drug addiction kill him in January 1896.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>He offers access to café gossip, Commune memories, poetry, and a tragic countdown that can sharpen any Carcosan temptation.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Verlaine... |
@@ -103,13 +124,6 @@ cover: /wiki/media/Paul-Verlaine.png
 | need a demimonde introduction | points to Bibi-la-Purée. |
 | mention the King | recites a line he insists he never wrote. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 124.
-
-- [Wikipedia: Paul Verlaine](https://en.wikipedia.org/wiki/Paul_Verlaine)
-
-:::gm
 ## Hidden Truth
 
 Verlaine has dreamed of a poem after his own death, attributed to him but written in a hand he does not know. Its final line is a direction to Carcosa.

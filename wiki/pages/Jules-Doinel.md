@@ -36,25 +36,8 @@ cover: /wiki/media/Jules-Doinel.png
 <p>Doinel founded the Universal Gnostic Church after encounters with entities and Cathar spirits. His séances center on medieval shades and heretical Catholic theology. In 1895 he stands near a crisis that will drive him toward conventional Catholic condemnation of the occult.</p>
 </section>
 
-<section class="wiki-section">
-<h2>Campaign Use</h2>
-<p>Doinel can provide Cathar lore, séance access, and a fragile occult authority. His coming renunciation can be tied directly to something the investigators uncover.</p>
-</section>
-<section class="wiki-section">
-<h2>Sourcebook Profile</h2>
-<ul>
-<li>Jules-Benoît Stanislas Doinel du Val-Michel claims the Aeon Jesus charged him with reviving the Gnostic church in France.</li>
-<li>His séances regularly receive medieval Cathar spirits, especially the theologian Guilhabert de Castres.</li>
-<li>His Universal Gnostic Church, founded five years ago, combines spiritualism with heretical Catholic theology for a small but loyal congregation.</li>
-<li>He sorts people into pneumatics, psychics, and hylics: the spiritually advanced, the undecided, and those trapped in gross materiality.</li>
-<li>Calling himself Bishop of Montségur, he wears spectacles, backswept hair, a salt-and-pepper beard, and a magnificent black mustache.</li>
-<li>In 1895 he is close to renouncing Gnosticism for conventional Catholicism; under the name Jean Kostka he later publishes Lucifer Unmasked against Gnosticism and Freemasonry.</li>
-</ul>
-<h3>Published Scenario Uses</h3>
-<ul>
-<li>The investigators may witness or cause the terrifying experience that drives his sudden religious reversal.</li>
-</ul>
-</section>
+
+
 
 
 </div>
@@ -72,7 +55,7 @@ cover: /wiki/media/Jules-Doinel.png
 <tr><th>Life</th><td>1842-1903</td></tr>
 <tr><th>Circle</th><td>Gnostics, spiritualists, heretical Catholics</td></tr>
 <tr><th>Public Manner</th><td>Judgmental, mystical, ceremonial</td></tr>
-<tr><th>Private Pressure</th><td>His visions may not come from where he thinks.</td></tr>
+
 <tr><th>Tell</th><td>Names a person's spiritual category before their danger.</td></tr>
 </tbody>
 </table>
@@ -95,6 +78,44 @@ cover: /wiki/media/Jules-Doinel.png
 </aside>
 </div>
 
+## Sources
+
+- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 128.
+
+- [Wikipedia: Jules Doinel](https://en.wikipedia.org/wiki/Jules_Doinel)
+
+:::gm
+
+
+## Private Reference
+
+<table>
+<tbody>
+<tr><th>Private Pressure</th><td>His visions may not come from where he thinks.</td></tr>
+</tbody>
+</table>
+
+<section class="wiki-section">
+<h2>Campaign Use</h2>
+<p>Doinel can provide Cathar lore, séance access, and a fragile occult authority. His coming renunciation can be tied directly to something the investigators uncover.</p>
+</section>
+
+<section class="wiki-section">
+<h2>Sourcebook Profile</h2>
+<ul>
+<li>Jules-Benoît Stanislas Doinel du Val-Michel claims the Aeon Jesus charged him with reviving the Gnostic church in France.</li>
+<li>His séances regularly receive medieval Cathar spirits, especially the theologian Guilhabert de Castres.</li>
+<li>His Universal Gnostic Church, founded five years ago, combines spiritualism with heretical Catholic theology for a small but loyal congregation.</li>
+<li>He sorts people into pneumatics, psychics, and hylics: the spiritually advanced, the undecided, and those trapped in gross materiality.</li>
+<li>Calling himself Bishop of Montségur, he wears spectacles, backswept hair, a salt-and-pepper beard, and a magnificent black mustache.</li>
+<li>In 1895 he is close to renouncing Gnosticism for conventional Catholicism; under the name Jean Kostka he later publishes Lucifer Unmasked against Gnosticism and Freemasonry.</li>
+</ul>
+<h3>Published Scenario Uses</h3>
+<ul>
+<li>The investigators may witness or cause the terrifying experience that drives his sudden religious reversal.</li>
+</ul>
+</section>
+
 ## Scene Use
 
 | If the characters... | Doinel... |
@@ -104,13 +125,6 @@ cover: /wiki/media/Jules-Doinel.png
 | mention Carcosa | tries to fit it into Gnostic cosmology. |
 | need Cathar lore | provides useful fragments and invented certainty. |
 
-## Sources
-
-- Robin D. Laws, *The Yellow King RPG: Paris*, “People,” pp. 128.
-
-- [Wikipedia: Jules Doinel](https://en.wikipedia.org/wiki/Jules_Doinel)
-
-:::gm
 ## Hidden Truth
 
 One of Doinel's Cathar spirits has been replaced by something that learned the names and dates from his own mind. It now feeds him revelations designed to drive him from occultism in terror.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T13:33:11.977Z",
+  "generatedAt": "2026-10-13T15:22:52.264Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -12,6 +12,12 @@
         "arrondissement"
       ],
       "links": [
+        "location-Theatre-de-lAmbigu-Comique",
+        "location-Prison-Saint-Lazare",
+        "location-Hopital-Saint-Louis",
+        "location-Lariboisiere-Hospital"
+      ],
+      "playerLinks": [
         "location-Theatre-de-lAmbigu-Comique",
         "location-Prison-Saint-Lazare",
         "location-Hopital-Saint-Louis",
@@ -43,6 +49,10 @@
         "location-La-Petite-Roquette",
         "location-La-Grande-Roquette"
       ],
+      "playerLinks": [
+        "location-La-Petite-Roquette",
+        "location-La-Grande-Roquette"
+      ],
       "aliases": [
         "11th"
       ],
@@ -64,6 +74,10 @@
         "arrondissement"
       ],
       "links": [
+        "location-Picpus-Cemetery",
+        "location-Mazas-Prison"
+      ],
+      "playerLinks": [
         "location-Picpus-Cemetery",
         "location-Mazas-Prison"
       ],
@@ -90,6 +104,9 @@
       "links": [
         "location-Salpetriere"
       ],
+      "playerLinks": [
+        "location-Salpetriere"
+      ],
       "aliases": [
         "13th"
       ],
@@ -110,6 +127,11 @@
         "arrondissement"
       ],
       "links": [
+        "location-La-Sante-Prison",
+        "location-Hopital-Cochin",
+        "location-Paris-Catacombs"
+      ],
+      "playerLinks": [
         "location-La-Sante-Prison",
         "location-Hopital-Cochin",
         "location-Paris-Catacombs"
@@ -138,6 +160,9 @@
       "links": [
         "location-English-Chapel-of-Passy"
       ],
+      "playerLinks": [
+        "location-English-Chapel-of-Passy"
+      ],
       "aliases": [
         "16th"
       ],
@@ -157,6 +182,12 @@
         "Location"
       ],
       "links": [
+        "location-House-of-the-North-Star",
+        "location-Hotel-Bonnet",
+        "location-Chez-le-P-re-Lathuile",
+        "location-Cafe-Guerbois"
+      ],
+      "playerLinks": [
         "location-House-of-the-North-Star",
         "location-Hotel-Bonnet",
         "location-Chez-le-P-re-Lathuile",
@@ -185,6 +216,16 @@
         "arrondissement"
       ],
       "links": [
+        "location-Cabaret-du-Neant",
+        "location-Cabaret-de-lEnfer",
+        "location-Le-Chat-Noir",
+        "location-Cafe-du-Tambourin",
+        "location-Lapin-Agile",
+        "location-Le-Mirliton",
+        "location-Moulin-Rouge",
+        "location-Sacre-C-ur"
+      ],
+      "playerLinks": [
         "location-Cabaret-du-Neant",
         "location-Cabaret-de-lEnfer",
         "location-Le-Chat-Noir",
@@ -232,6 +273,18 @@
         "location-Paris-Morgue",
         "location-Hotel-Dieu-de-Paris"
       ],
+      "playerLinks": [
+        "location-Church-of-St-Barnabe",
+        "location-Notre-Dame-de-Paris",
+        "location-Sainte-Chapelle",
+        "location-Imperial-National-Library",
+        "location-Musee-du-Louvre",
+        "location-Theatre-Lyrique",
+        "location-Palais-de-Justice",
+        "location-Surete-Headquarters",
+        "location-Paris-Morgue",
+        "location-Hotel-Dieu-de-Paris"
+      ],
       "aliases": [
         "1st"
       ],
@@ -263,6 +316,9 @@
       "links": [
         "location-Pere-Lachaise-Cemetery"
       ],
+      "playerLinks": [
+        "location-Pere-Lachaise-Cemetery"
+      ],
       "aliases": [
         "20th"
       ],
@@ -283,6 +339,10 @@
         "arrondissement"
       ],
       "links": [
+        "location-Bibliotheque-Historique-de-la-Ville-de-Paris",
+        "location-Temple-Square"
+      ],
+      "playerLinks": [
         "location-Bibliotheque-Historique-de-la-Ville-de-Paris",
         "location-Temple-Square"
       ],
@@ -311,6 +371,11 @@
         "location-Mont-de-Piete",
         "location-Tour-Saint-Jacques"
       ],
+      "playerLinks": [
+        "location-Hotel-de-Ville",
+        "location-Mont-de-Piete",
+        "location-Tour-Saint-Jacques"
+      ],
       "aliases": [
         "4th"
       ],
@@ -333,6 +398,13 @@
         "arrondissement"
       ],
       "links": [
+        "location-Sorbonne-Library",
+        "location-Sainte-Genevieve-Library",
+        "location-Jardin-des-Plantes",
+        "location-Sainte-Pelagie-Prison",
+        "location-Val-de-Grace"
+      ],
+      "playerLinks": [
         "location-Sorbonne-Library",
         "location-Sainte-Genevieve-Library",
         "location-Jardin-des-Plantes",
@@ -371,6 +443,15 @@
         "location-Luxembourg-Gallery",
         "location-Hopital-de-la-Charite"
       ],
+      "playerLinks": [
+        "location-Le-Veau-Gras",
+        "location-Les-Deux-Magots",
+        "location-Saint-Sulpice",
+        "location-Ecole-des-Beaux-Arts",
+        "location-Bibliotheque-Mazarine",
+        "location-Luxembourg-Gallery",
+        "location-Hopital-de-la-Charite"
+      ],
       "aliases": [
         "6th"
       ],
@@ -399,6 +480,9 @@
       "links": [
         "location-Le-Bon-Marche"
       ],
+      "playerLinks": [
+        "location-Le-Bon-Marche"
+      ],
       "aliases": [
         "7th"
       ],
@@ -419,6 +503,10 @@
         "arrondissement"
       ],
       "links": [
+        "location-La-Madeleine",
+        "location-Protestant-Churches-of-Paris"
+      ],
+      "playerLinks": [
         "location-La-Madeleine",
         "location-Protestant-Churches-of-Paris"
       ],
@@ -443,6 +531,16 @@
         "arrondissement"
       ],
       "links": [
+        "location-Folies-Bergere",
+        "location-Nouvelle-Athenes",
+        "location-Hotel-Drouot",
+        "location-Olympia-Music-Hall",
+        "location-Palais-Garnier",
+        "location-Librairie-de-lArt-Independant",
+        "location-Librairie-du-Merveilleux",
+        "location-Printemps"
+      ],
+      "playerLinks": [
         "location-Folies-Bergere",
         "location-Nouvelle-Athenes",
         "location-Hotel-Drouot",
@@ -489,6 +587,15 @@
         "npc-Camille-Roussel",
         "npc-Theo-Marchand"
       ],
+      "playerLinks": [
+        "npc-Dr-Georges-Bonnet",
+        "location-Hotel-Bonnet",
+        "npc-Dr-Georges-Bonnet",
+        "location-Hotel-Bonnet",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Camille-Roussel",
+        "npc-Theo-Marchand"
+      ],
       "aliases": [],
       "summary": "A technically exacting Paris sculptor whose trained eye recognizes that Georges Bonnet works in the methods of a vanished generation.",
       "visibility": "players",
@@ -499,7 +606,8 @@
         "Eleanor “Nell” Whitcomb",
         "Session One Notes"
       ],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Adrien-Mercier.png"
     },
     {
       "id": "npc-Albert-de-Rochas",
@@ -515,6 +623,7 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [
         "Eugène Auguste Albert de Rochas"
       ],
@@ -522,7 +631,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Albert-de-Rochas.png"
     },
     {
       "id": "npc-Alexandre-Saint-Yves",
@@ -536,6 +646,7 @@
         "politics"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Saint-Yves d'Alveydre"
       ],
@@ -543,7 +654,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Alexandre-Saint-Yves.png"
     },
     {
       "id": "npc-Alphonse-Bertillon",
@@ -557,12 +669,14 @@
         "forensics"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Forensic pioneer whose measurement system turns bodies, criminals, and clues into sortable facts.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves"
+      "parent": "Police-and-Thieves",
+      "cover": "/wiki/media/Alphonse-Bertillon.png"
     },
     {
       "id": "npc-Alphonse-Mucha",
@@ -577,12 +691,14 @@
         "illustrator"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Newly famous Czech artist whose Art Nouveau linework and salon connections attract seekers.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Alphonse-Mucha.jpg"
     },
     {
       "id": "npc-Anatole-France",
@@ -596,12 +712,14 @@
         "author"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Elegant skeptic and author whose public disbelief may be a shield against the Yellow Sign.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Anatole-France.png"
     },
     {
       "id": "npc-Antonio-Herrera",
@@ -615,12 +733,14 @@
         "seer"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
-      "summary": "Elegant Mexican seer visiting grand hotels, and perhaps not a real person at all.",
+      "summary": "An elegant Mexican seer who visits Parisian grand hotels and offers readings to wealthy guests.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Antonio-Herrera.png"
     },
     {
       "id": "npc-Aristide-Bruant",
@@ -636,12 +756,14 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Montmartre performer, impresario, and poet of the gutter with a citywide ear for rumor.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Aristide-Bruant.png"
     },
     {
       "id": "npc-Artists-and-Bohemians",
@@ -653,6 +775,43 @@
         "artists-and-bohemians"
       ],
       "links": [
+        "npc-Adrien-Mercier",
+        "npc-Camille-Roussel",
+        "npc-Janine-Du-Bois",
+        "npc-Alphonse-Mucha",
+        "npc-Anatole-France",
+        "npc-Aristide-Bruant",
+        "npc-Auguste-Rodin",
+        "npc-Claude-Debussy",
+        "npc-Edgar-Degas",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Emile-Zola",
+        "npc-Erik-Satie",
+        "npc-Gail-Loveless",
+        "npc-Gustave-Moreau",
+        "npc-Henri-de-Toulouse-Lautrec",
+        "npc-Henri-Matisse",
+        "npc-James-McNeill-Whistler",
+        "npc-Jean-Delville",
+        "npc-Jean-Leon-Gerome",
+        "npc-Joris-Karl-Huysmans",
+        "npc-La-Goulue-Louise-Weber",
+        "npc-Loie-Fuller",
+        "npc-Marcel-Proust",
+        "npc-Mary-Cassatt",
+        "npc-Maurice-Maeterlinck",
+        "npc-Nadar",
+        "npc-Odilon-Redon",
+        "npc-Paul-Cezanne",
+        "npc-Paul-Gauguin",
+        "npc-Paul-Verlaine",
+        "npc-Pierre-Auguste-Renoir",
+        "npc-Sarah-Bernhardt",
+        "npc-Sarah-Brown",
+        "npc-Stephane-Mallarme",
+        "npc-Theo-Marchand"
+      ],
+      "playerLinks": [
         "npc-Adrien-Mercier",
         "npc-Camille-Roussel",
         "npc-Janine-Du-Bois",
@@ -709,12 +868,14 @@
         "sculptor"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Controversial sculptor whose forceful work and temper make him a dangerous witness to embodied horror.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Auguste-Rodin.png"
     },
     {
       "id": "location-Basilica-of-Saint-Denis",
@@ -728,12 +889,16 @@
       "links": [
         "location-Paris-Outskirts"
       ],
+      "playerLinks": [
+        "location-Paris-Outskirts"
+      ],
       "aliases": [],
       "summary": "The Gothic royal necropolis containing centuries of French monarchs.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Paris-Outskirts"
+      "parent": "Paris-Outskirts",
+      "cover": "/wiki/media/Location-Basilica-of-Saint-Denis.jpg"
     },
     {
       "id": "location-Bibliotheque-Historique-de-la-Ville-de-Paris",
@@ -747,12 +912,16 @@
       "links": [
         "location-3rd-Arrondissement"
       ],
+      "playerLinks": [
+        "location-3rd-Arrondissement"
+      ],
       "aliases": [],
       "summary": "The city’s historical library, housed in the sixteenth-century Carnavalet building.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "3rd-Arrondissement"
+      "parent": "3rd-Arrondissement",
+      "cover": "/wiki/media/Location-Bibliotheque-Historique-de-la-Ville-de-Paris.jpg"
     },
     {
       "id": "location-Bibliotheque-Mazarine",
@@ -766,12 +935,16 @@
       "links": [
         "location-6th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-6th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A learned library near the Louvre with strong scientific and scholarly holdings.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "6th-Arrondissement"
+      "parent": "6th-Arrondissement",
+      "cover": "/wiki/media/Location-Bibliotheque-Mazarine.jpg"
     },
     {
       "id": "location-Bicetre-Hospital",
@@ -785,12 +958,16 @@
       "links": [
         "location-Paris-Outskirts"
       ],
+      "playerLinks": [
+        "location-Paris-Outskirts"
+      ],
       "aliases": [],
       "summary": "A southern suburban institution suitable for long-term confinement and care.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Paris-Outskirts"
+      "parent": "Paris-Outskirts",
+      "cover": "/wiki/media/Location-Bicetre-Hospital.jpg"
     },
     {
       "id": "creatures-Bonepile",
@@ -805,6 +982,9 @@
       "links": [
         "location-Paris-Catacombs"
       ],
+      "playerLinks": [
+        "location-Paris-Catacombs"
+      ],
       "aliases": [],
       "summary": "A crawling assembly of neglected human remains that rebuilds itself in the dark.",
       "visibility": "gm",
@@ -812,7 +992,8 @@
       "keyLinks": [
         "Paris-Catacombs"
       ],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Bonepile.png"
     },
     {
       "id": "character-Bruce-Carter-Mark",
@@ -825,11 +1006,13 @@
         "sheet"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Paris-era Yellow King character sheet for Bruce Carter.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "location-Cabaret-de-lEnfer",
@@ -841,6 +1024,9 @@
         "key-location"
       ],
       "links": [
+        "location-18th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-18th-Arrondissement"
       ],
       "aliases": [],
@@ -862,12 +1048,16 @@
       "links": [
         "location-18th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-18th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A Montmartre death-themed cabaret where patrons drink at coffin tables.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "18th-Arrondissement"
+      "parent": "18th-Arrondissement",
+      "cover": "/wiki/media/Location-Cabaret-du-Neant.jpg"
     },
     {
       "id": "location-Cafe-Guerbois",
@@ -881,12 +1071,16 @@
       "links": [
         "location-17th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-17th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "The Batignolles café where Manet and the early Impressionist circle once argued twice a week.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "17th-Arrondissement"
+      "parent": "17th-Arrondissement",
+      "cover": "/wiki/media/Location-Cafe-Guerbois.jpg"
     },
     {
       "id": "location-Cafe-du-Tambourin",
@@ -900,12 +1094,16 @@
       "links": [
         "location-18th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-18th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A café near the Moulin Rouge once decorated by Vincent van Gogh.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "18th-Arrondissement"
+      "parent": "18th-Arrondissement",
+      "cover": "/wiki/media/Location-Cafe-du-Tambourin.jpg"
     },
     {
       "id": "npc-Camille-Flammarion",
@@ -920,12 +1118,14 @@
         "astronomer"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Astronomer, science fiction writer, and spiritist whose cosmic theories can mislead as much as illuminate.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Camille-Flammarion.png"
     },
     {
       "id": "npc-Camille-Roussel",
@@ -948,6 +1148,16 @@
         "npc-Adrien-Mercier",
         "npc-Theo-Marchand"
       ],
+      "playerLinks": [
+        "location-Hotel-Bonnet",
+        "npc-Janine-Du-Bois",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Janine-Du-Bois",
+        "location-Hotel-Bonnet",
+        "npc-Adrien-Mercier",
+        "npc-Theo-Marchand"
+      ],
       "aliases": [],
       "summary": "A formidable Paris art critic whose dated reviews prove that Bonnet's hidden sculpture of Janine Du Bois exceeds the ability he possessed when it was supposedly made.",
       "visibility": "players",
@@ -958,7 +1168,8 @@
         "Hôtel Bonnet",
         "Session One Notes"
       ],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Camille-Roussel.png"
     },
     {
       "id": "lore-Campaign",
@@ -969,6 +1180,10 @@
         "lore"
       ],
       "links": [
+        "unresolved:character",
+        "unresolved:npc"
+      ],
+      "playerLinks": [
         "unresolved:character",
         "unresolved:npc"
       ],
@@ -990,12 +1205,16 @@
       "links": [
         "location-Paris-Outskirts"
       ],
+      "playerLinks": [
+        "location-Paris-Outskirts"
+      ],
       "aliases": [],
       "summary": "The reformed asylum once associated with the Marquis de Sade.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Paris-Outskirts"
+      "parent": "Paris-Outskirts",
+      "cover": "/wiki/media/Location-Charenton-Asylum.jpg"
     },
     {
       "id": "npc-Charles-Richet",
@@ -1009,12 +1228,14 @@
         "scientists"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Physiologist and psychical researcher who tries to measure the impossible without admitting how badly it has shaken him.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Charles-Richet.png"
     },
     {
       "id": "location-Chez-le-P-re-Lathuile",
@@ -1058,12 +1279,39 @@
         "unresolved:colette-mercier",
         "unresolved:the-house-of-the-north-star"
       ],
+      "playerLinks": [
+        "location-Chez-le-P-re-Lathuile",
+        "unresolved:7-avenue-de-clichy",
+        "unresolved:place-de-clichy",
+        "location-17th-Arrondissement",
+        "unresolved:lathuile-family",
+        "unresolved:marshal-bon-adrien-jeannot-de-moncey",
+        "unresolved:barri-re-de-clichy",
+        "unresolved:douard-manet",
+        "npc-Edgar-Degas",
+        "unresolved:claude-monet",
+        "npc-Pierre-Auguste-Renoir",
+        "npc-Emile-Zola",
+        "location-Cafe-Guerbois",
+        "unresolved:douard-manet",
+        "unresolved:chez-le-p-re-lathuile-en-plein-air",
+        "unresolved:louis-gauthier-lathuile",
+        "unresolved:barri-re-de-clichy",
+        "unresolved:poulet-p-re-lathuile",
+        "unresolved:louis-gauthier-lathuile",
+        "unresolved:baptiste-renaud",
+        "unresolved:madeleine-fournier",
+        "unresolved:mile-caron",
+        "unresolved:camille-arnaud",
+        "unresolved:colette-mercier"
+      ],
       "aliases": [],
       "summary": "An old Avenue de Clichy restaurant and garden café where artists, patrons, lovers, and the dead keep overlapping reservations.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "17th-Arrondissement"
+      "parent": "17th-Arrondissement",
+      "cover": "/wiki/media/CLPL-Setting.png"
     },
     {
       "id": "location-Church-of-St-Barnabe",
@@ -1075,6 +1323,9 @@
         "key-location"
       ],
       "links": [
+        "location-1st-Arrondissement"
+      ],
+      "playerLinks": [
         "location-1st-Arrondissement"
       ],
       "aliases": [],
@@ -1098,12 +1349,14 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Brilliant young composer whose Symbolist connections and mystical interests may draw him toward dangerous music.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Claude-Debussy.webp"
     },
     {
       "id": "npc-Colonel-Caoutchouc",
@@ -1117,6 +1370,7 @@
         "criminal"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Antonio Herrera"
       ],
@@ -1124,7 +1378,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves"
+      "parent": "Police-and-Thieves",
+      "cover": "/wiki/media/Colonel-Caoutchouc.png"
     },
     {
       "id": "creatures-Creatures",
@@ -1137,6 +1392,35 @@
         "carcosa"
       ],
       "links": [
+        "creatures-Bonepile",
+        "creatures-Creeping-Beast",
+        "creatures-Dark-Dweller",
+        "creatures-The-Dollmaker",
+        "creatures-The-Doombringers",
+        "creatures-The-Dressmaker",
+        "creatures-Gawkers",
+        "creatures-Green-Fairy",
+        "creatures-Inkblot",
+        "creatures-Inspir",
+        "creatures-Liberty-Vintners",
+        "creatures-Living-Portrait",
+        "creatures-Marble-Dancer",
+        "creatures-Marie-Rowdon",
+        "creatures-Micar",
+        "creatures-Nokk",
+        "creatures-Our-Lady-of-Bones",
+        "creatures-Pan",
+        "creatures-Picture-Perfect",
+        "creatures-Pigment",
+        "creatures-Silver-Sirens",
+        "creatures-Unknown-of-the-Seine",
+        "creatures-Madame-Cleo-Verlaque",
+        "creatures-Wanderer",
+        "creatures-Widowmaker",
+        "creatures-Winter-Worm",
+        "creatures-Yellow-Carnation"
+      ],
+      "playerLinks": [
         "creatures-Bonepile",
         "creatures-Creeping-Beast",
         "creatures-Dark-Dweller",
@@ -1182,12 +1466,14 @@
         "carcosa"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A painted leopard that stalks its chosen viewer through reflections and other images.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Creeping-Beast.png"
     },
     {
       "id": "creatures-Dark-Dweller",
@@ -1200,6 +1486,7 @@
         "catacombs"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A person or animal transformed by prolonged, absolute subterranean darkness.",
       "visibility": "gm",
@@ -1207,7 +1494,8 @@
       "keyLinks": [
         "Paris-Catacombs"
       ],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Dark-Dweller.png"
     },
     {
       "id": "location-Depot-de-Mendicite",
@@ -1219,6 +1507,9 @@
         "key-location"
       ],
       "links": [
+        "location-Paris-Outskirts"
+      ],
+      "playerLinks": [
         "location-Paris-Outskirts"
       ],
       "aliases": [],
@@ -1255,11 +1546,19 @@
         "npc-Dr-Ludwig-Weiss",
         "npc-Eleanor-Nell-Whitcomb"
       ],
+      "playerLinks": [
+        "location-House-of-the-North-Star",
+        "npc-Eleanor-Nell-Whitcomb",
+        "location-Hotel-Bonnet",
+        "npc-Louis-Lepine",
+        "npc-Janine-Du-Bois",
+        "location-Hotel-Bonnet"
+      ],
       "aliases": [
         "Georges Bonnet",
         "Doctor Bonnet"
       ],
-      "summary": "A wealthy physician, accomplished sculptor, and generous patron whose impossible youth depends on a yellow drug learned in dreams of Carcosa.",
+      "summary": "A wealthy physician, accomplished sculptor, and generous patron connected to the House of the North Star.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
@@ -1270,7 +1569,8 @@
         "House of the North Star",
         "Louis Lépine"
       ],
-      "parent": "Scientists-and-Inventors"
+      "parent": "Scientists-and-Inventors",
+      "cover": "/wiki/media/Dr-Georges-Bonnet.png"
     },
     {
       "id": "npc-Dr-Ludwig-Weiss",
@@ -1297,11 +1597,19 @@
         "location-House-of-the-North-Star",
         "npc-Louis-Lepine"
       ],
+      "playerLinks": [
+        "npc-Dr-Georges-Bonnet",
+        "location-Hotel-Bonnet",
+        "location-House-of-the-North-Star",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Louis-Lepine",
+        "location-Hotel-Bonnet"
+      ],
       "aliases": [
         "Ludwig Weiss",
         "Doctor Weiss"
       ],
-      "summary": "An elderly Austrian physician and chemist whose decades refining Georges Bonnet's impossible treatment have curdled scientific pride into guilt.",
+      "summary": "An elderly Austrian physician and chemist with a long professional association with Georges Bonnet.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
@@ -1311,7 +1619,8 @@
         "Eleanor “Nell” Whitcomb",
         "Louis Lépine"
       ],
-      "parent": "Scientists-and-Inventors"
+      "parent": "Scientists-and-Inventors",
+      "cover": "/wiki/media/Dr-Ludwig-Weiss.png"
     },
     {
       "id": "character-Dr-Theodore-Blackwell-Sam",
@@ -1324,11 +1633,13 @@
         "sheet"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "location-Ecole-des-Beaux-Arts",
@@ -1340,6 +1651,9 @@
         "key-location"
       ],
       "links": [
+        "location-6th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-6th-Arrondissement"
       ],
       "aliases": [],
@@ -1361,12 +1675,14 @@
         "painter"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Prickly painter and sculptor whose precision makes him a harsh but valuable witness.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Edgar-Degas.png"
     },
     {
       "id": "npc-Edmond-Bailly",
@@ -1382,6 +1698,7 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [
         "Henri-Edmond Limet"
       ],
@@ -1389,7 +1706,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Edmond-Bailly.png"
     },
     {
       "id": "character-Edward-Vine-Jarod",
@@ -1402,11 +1720,13 @@
         "sheet"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Eleanor-Nell-Whitcomb",
@@ -1433,12 +1753,18 @@
         "npc-Louis-Lepine",
         "location-Hotel-Bonnet"
       ],
+      "playerLinks": [
+        "location-House-of-the-North-Star",
+        "npc-Janine-Du-Bois",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Louis-Lepine"
+      ],
       "aliases": [
         "Nell Whitcomb",
         "Nellie Whitcomb",
         "Eleanor Whitcomb"
       ],
-      "summary": "A lively former North Star resident who became a professional dancer and model, then followed the impossible truth about Georges Bonnet far enough to be murdered for it.",
+      "summary": "A lively former North Star resident who became a professional dancer and model in Paris.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [
@@ -1448,7 +1774,8 @@
         "Hôtel Bonnet",
         "Louis Lépine"
       ],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Eleanor-Nell-Whitcomb.png"
     },
     {
       "id": "npc-Elise-Marceau-Maid",
@@ -1466,6 +1793,12 @@
         "npc-Madame-Eugenie-Voclain-Head-Cook",
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [
+        "location-House-of-the-North-Star",
+        "npc-Silas-Burke-Head-Butler",
+        "npc-Madame-Eugenie-Voclain-Head-Cook",
+        "location-House-of-the-North-Star"
+      ],
       "aliases": [
         "Élise Marceau",
         "Elise Marceau"
@@ -1476,7 +1809,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Elise-Marceau-Maid.png"
     },
     {
       "id": "npc-Ely-Star",
@@ -1490,12 +1824,14 @@
         "astrology"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Astrologer, magnetizer, and occult adviser whose predictions are half performance and half unnerving accuracy.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Ely-Star.png"
     },
     {
       "id": "npc-Emile-Zola",
@@ -1509,6 +1845,7 @@
         "novelist"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Emile Zola"
       ],
@@ -1516,7 +1853,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Emile-Zola.png"
     },
     {
       "id": "location-English-Chapel-of-Passy",
@@ -1528,6 +1866,9 @@
         "key-location"
       ],
       "links": [
+        "location-16th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-16th-Arrondissement"
       ],
       "aliases": [],
@@ -1552,12 +1893,14 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Wry young composer and Rosicrucian chapel master whose poise hides a grief-shaped hunger for the next wave.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Erik-Satie.png"
     },
     {
       "id": "npc-Etienne-Renaud-Valet",
@@ -1576,6 +1919,13 @@
         "npc-Silas-Burke-Head-Butler",
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [
+        "location-House-of-the-North-Star",
+        "unresolved:lucien-de-vauclair",
+        "unresolved:lucien-de-vauclair",
+        "npc-Silas-Burke-Head-Butler",
+        "location-House-of-the-North-Star"
+      ],
       "aliases": [
         "Étienne Renaud",
         "Renaud"
@@ -1586,7 +1936,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Etienne-Renaud-Valet.png"
     },
     {
       "id": "location-Folies-Bergere",
@@ -1598,6 +1949,9 @@
         "key-location"
       ],
       "links": [
+        "location-9th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-9th-Arrondissement"
       ],
       "aliases": [],
@@ -1622,6 +1976,7 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [
         "Mrs. Loveless"
       ],
@@ -1629,7 +1984,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Gail-Loveless.png"
     },
     {
       "id": "creatures-Gawkers",
@@ -1642,12 +1998,14 @@
         "crowds"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Featureless pseudo-people that appear in fascinated crowds and erase isolated witnesses.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Gawkers.png"
     },
     {
       "id": "npc-Georges-Grison",
@@ -1661,12 +2019,14 @@
         "journalist"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Crime journalist who turns Parisian horrors into copy while quietly chasing the pattern underneath them.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves"
+      "parent": "Police-and-Thieves",
+      "cover": "/wiki/media/Georges-Grison.png"
     },
     {
       "id": "creatures-Green-Fairy",
@@ -1679,12 +2039,14 @@
         "absinthe"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "An energy-feeding Carcosan predator exposed by absinthe and hidden behind a human guise.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Green-Fairy.png"
     },
     {
       "id": "npc-Gustave-Moreau",
@@ -1699,12 +2061,14 @@
         "teacher"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Symbolist master and teacher whose mythic paintings make him a natural guide to dangerous images.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Gustave-Moreau.png"
     },
     {
       "id": "npc-Henri-Matisse",
@@ -1719,12 +2083,14 @@
         "student"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Young art student still painting conventionally, useful as a peer rather than a legend.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Henri-Matisse.png"
     },
     {
       "id": "npc-Henri-de-Toulouse-Lautrec",
@@ -1739,6 +2105,7 @@
         "printmaker"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Toulouse-Lautrec"
       ],
@@ -1746,7 +2113,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Henri-de-Toulouse-Lautrec.png"
     },
     {
       "id": "character-Henry-Pirece-Laura",
@@ -1759,11 +2127,13 @@
         "sheet"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "location-Hopital-Cochin",
@@ -1777,12 +2147,16 @@
       "links": [
         "location-14th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-14th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A hospital with sealed eighteenth-century tunnels beneath it.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "14th-Arrondissement"
+      "parent": "14th-Arrondissement",
+      "cover": "/wiki/media/Location-Hopital-Cochin.JPG"
     },
     {
       "id": "location-Hopital-Saint-Louis",
@@ -1794,6 +2168,9 @@
         "key-location"
       ],
       "links": [
+        "location-10th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-10th-Arrondissement"
       ],
       "aliases": [],
@@ -1815,12 +2192,16 @@
       "links": [
         "location-6th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-6th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A hospital for the poor that also houses the National Academy of Medicine.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "6th-Arrondissement"
+      "parent": "6th-Arrondissement",
+      "cover": "/wiki/media/Location-Hopital-de-la-Charite.jpg"
     },
     {
       "id": "location-Hotel-Bonnet",
@@ -1835,6 +2216,17 @@
         "investigation"
       ],
       "links": [
+        "location-17th-Arrondissement",
+        "npc-Dr-Georges-Bonnet",
+        "location-House-of-the-North-Star",
+        "npc-Dr-Ludwig-Weiss",
+        "location-House-of-the-North-Star",
+        "location-17th-Arrondissement",
+        "location-House-of-the-North-Star",
+        "location-Cafe-Guerbois",
+        "location-Chez-le-P-re-Lathuile"
+      ],
+      "playerLinks": [
         "location-17th-Arrondissement",
         "npc-Dr-Georges-Bonnet",
         "location-House-of-the-North-Star",
@@ -1874,6 +2266,9 @@
       "links": [
         "location-1st-Arrondissement"
       ],
+      "playerLinks": [
+        "location-1st-Arrondissement"
+      ],
       "aliases": [],
       "summary": "The ancient, overcrowded city hospital on the Île de la Cité.",
       "visibility": "players",
@@ -1891,6 +2286,9 @@
         "key-location"
       ],
       "links": [
+        "location-9th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-9th-Arrondissement"
       ],
       "aliases": [],
@@ -1912,6 +2310,9 @@
       "links": [
         "location-4th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-4th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "Paris City Hall, rebuilt after burning during the suppression of the Commune.",
       "visibility": "players",
@@ -1928,6 +2329,7 @@
         "npc"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1949,6 +2351,13 @@
         "npc-Etienne-Renaud-Valet",
         "npc-Madame-Eugenie-Voclain-Head-Cook"
       ],
+      "playerLinks": [
+        "location-17th-Arrondissement",
+        "npc-Silas-Burke-Head-Butler",
+        "npc-Elise-Marceau-Maid",
+        "npc-Etienne-Renaud-Valet",
+        "npc-Madame-Eugenie-Voclain-Head-Cook"
+      ],
       "aliases": [],
       "summary": "A secluded artists' retreat opened to the children of America's aristocracy by an heir whose family grief became a legend of guidance.",
       "visibility": "players",
@@ -1956,7 +2365,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "17th-Arrondissement"
+      "parent": "17th-Arrondissement",
+      "cover": "/wiki/media/HotN-Street-View.png"
     },
     {
       "id": "location-Imperial-National-Library",
@@ -1968,6 +2378,9 @@
         "key-location"
       ],
       "links": [
+        "location-1st-Arrondissement"
+      ],
+      "playerLinks": [
         "location-1st-Arrondissement"
       ],
       "aliases": [],
@@ -1989,12 +2402,14 @@
         "art"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Minute Carcosan parasites carried in artistic liquids that drive infected artists into contagious mania.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Inkblot.png"
     },
     {
       "id": "creatures-Inspir",
@@ -2007,12 +2422,14 @@
         "art"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A beautiful Carcosan muse that grants inspiration while hollowing out an artist's will.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Inspir.png"
     },
     {
       "id": "character-Jackson-Jay-Steerman-IV-David",
@@ -2025,11 +2442,13 @@
         "sheet"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-James-McNeill-Whistler",
@@ -2046,6 +2465,7 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [
         "Whistler"
       ],
@@ -2053,7 +2473,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/James-McNeill-Whistler.png"
     },
     {
       "id": "npc-Janine-Du-Bois",
@@ -2079,6 +2500,17 @@
         "location-Palais-Garnier",
         "npc-Louis-Lepine"
       ],
+      "playerLinks": [
+        "npc-Eleanor-Nell-Whitcomb",
+        "location-House-of-the-North-Star",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Louis-Lepine",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Eleanor-Nell-Whitcomb",
+        "location-House-of-the-North-Star",
+        "location-Palais-Garnier",
+        "npc-Louis-Lepine"
+      ],
       "aliases": [
         "Mademoiselle Du Bois"
       ],
@@ -2092,7 +2524,8 @@
         "Palais Garnier",
         "Louis Lépine"
       ],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Janine-Du-Bois.png"
     },
     {
       "id": "location-Jardin-des-Plantes",
@@ -2104,6 +2537,9 @@
         "key-location"
       ],
       "links": [
+        "location-5th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-5th-Arrondissement"
       ],
       "aliases": [],
@@ -2126,12 +2562,14 @@
         "occult"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Young Belgian Symbolist painter and occult initiate whose art stands dangerously near Carcosa.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Jean-Delville.png"
     },
     {
       "id": "npc-Jean-Leon-Gerome",
@@ -2148,6 +2586,7 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [
         "Jean-Leon Gerome"
       ],
@@ -2155,7 +2594,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Jean-Leon-Gerome.png"
     },
     {
       "id": "npc-Joris-Karl-Huysmans",
@@ -2170,6 +2610,7 @@
         "occult"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Charles-Marie-Georges Huysmans"
       ],
@@ -2177,7 +2618,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Joris-Karl-Huysmans.png"
     },
     {
       "id": "npc-Josephin-Peladan",
@@ -2191,6 +2633,7 @@
         "salons"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Sar Merodack",
         "Sar Péladan"
@@ -2199,7 +2642,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Josephin-Peladan.png"
     },
     {
       "id": "npc-Jules-Doinel",
@@ -2213,6 +2657,7 @@
         "gnostic"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Jules-Benoît Stanislas Doinel du Val-Michel",
         "Jean Kostka"
@@ -2221,7 +2666,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Jules-Doinel.png"
     },
     {
       "id": "npc-Julien-Alerte",
@@ -2237,6 +2683,7 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Young tracer of lost persons whose private detective work keeps pulling him toward disappearances too strange for police ledgers.",
       "visibility": "players",
@@ -2256,6 +2703,7 @@
         "performer"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Louise Weber",
         "La Goulue"
@@ -2264,7 +2712,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/La-Goulue-Louise-Weber.png"
     },
     {
       "id": "location-La-Grande-Roquette",
@@ -2276,6 +2725,9 @@
         "key-location"
       ],
       "links": [
+        "location-11th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-11th-Arrondissement"
       ],
       "aliases": [],
@@ -2297,6 +2749,9 @@
       "links": [
         "location-8th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-8th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A church whose neoclassical exterior resembles a pagan temple.",
       "visibility": "players",
@@ -2314,6 +2769,9 @@
         "key-location"
       ],
       "links": [
+        "location-11th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-11th-Arrondissement"
       ],
       "aliases": [],
@@ -2335,6 +2793,9 @@
       "links": [
         "location-14th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-14th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A prison for short sentences, appeals, and solitary confinement.",
       "visibility": "players",
@@ -2354,12 +2815,16 @@
       "links": [
         "location-18th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-18th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A Montmartre cabaret shared by artists, pimps, criminals, and anarchists.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "18th-Arrondissement"
+      "parent": "18th-Arrondissement",
+      "cover": "/wiki/media/Location-Lapin-Agile.jpg"
     },
     {
       "id": "location-Lariboisiere-Hospital",
@@ -2373,12 +2838,16 @@
       "links": [
         "location-10th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-10th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A large hospital founded after a cholera epidemic.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "10th-Arrondissement"
+      "parent": "10th-Arrondissement",
+      "cover": "/wiki/media/Location-Lariboisiere-Hospital.JPG"
     },
     {
       "id": "character-Laurie-Shelby",
@@ -2391,11 +2860,13 @@
         "sheet"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "location-Le-Bon-Marche",
@@ -2409,12 +2880,16 @@
       "links": [
         "location-7th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-7th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A vast department store employing thousands and reaching customers through advertising and mail-order catalogues.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "7th-Arrondissement"
+      "parent": "7th-Arrondissement",
+      "cover": "/wiki/media/Location-Le-Bon-Marche.png"
     },
     {
       "id": "location-Le-Chat-Noir",
@@ -2428,12 +2903,16 @@
       "links": [
         "location-18th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-18th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "Rodolphe Salis’s celebrated Montmartre cabaret of music, poetry, comedy, and shadow theater.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "18th-Arrondissement"
+      "parent": "18th-Arrondissement",
+      "cover": "/wiki/media/Location-Le-Chat-Noir.jpg"
     },
     {
       "id": "location-Le-Mirliton",
@@ -2445,6 +2924,9 @@
         "key-location"
       ],
       "links": [
+        "location-18th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-18th-Arrondissement"
       ],
       "aliases": [],
@@ -2466,6 +2948,9 @@
       "links": [
         "location-6th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-6th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A cheap student tavern at 17 Rue Bonaparte, close to the École des Beaux-Arts.",
       "visibility": "players",
@@ -2485,6 +2970,7 @@
         "scandal"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Gabriel Jogand-Pagès"
       ],
@@ -2492,7 +2978,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Leo-Taxil.png"
     },
     {
       "id": "location-Les-Deux-Magots",
@@ -2506,12 +2993,16 @@
       "links": [
         "location-6th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-6th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A Saint-Germain-des-Prés café watched over by two carved Chinese mandarins.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "6th-Arrondissement"
+      "parent": "6th-Arrondissement",
+      "cover": "/wiki/media/Location-Les-Deux-Magots.jpg"
     },
     {
       "id": "creatures-Liberty-Vintners",
@@ -2525,6 +3016,7 @@
         "wine"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Vin de la Liberté"
       ],
@@ -2532,7 +3024,8 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Liberty-Vintners.png"
     },
     {
       "id": "location-Librairie-de-lArt-Independant",
@@ -2544,6 +3037,9 @@
         "key-location"
       ],
       "links": [
+        "location-9th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-9th-Arrondissement"
       ],
       "aliases": [],
@@ -2565,6 +3061,9 @@
       "links": [
         "location-9th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-9th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "Lucien Chamuel’s occult bookshop and alchemical supply house.",
       "visibility": "players",
@@ -2583,6 +3082,7 @@
         "art"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Clement Medin's Portraits"
       ],
@@ -2590,7 +3090,8 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Living-Portrait.png"
     },
     {
       "id": "npc-Loie-Fuller",
@@ -2606,12 +3107,14 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [],
       "summary": "American dancer and lighting innovator whose stage effects brush against visions of black stars.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Loie-Fuller.png"
     },
     {
       "id": "npc-Louis-Lepine",
@@ -2625,6 +3128,7 @@
         "police"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Louis Jean-Baptiste Lépine"
       ],
@@ -2632,7 +3136,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves"
+      "parent": "Police-and-Thieves",
+      "cover": "/wiki/media/Louis-Lepine.png"
     },
     {
       "id": "npc-Luigi-Parmeggiani",
@@ -2646,6 +3151,7 @@
         "criminal"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Luigi Giovanni Francesco Parmeggiani"
       ],
@@ -2653,7 +3159,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves"
+      "parent": "Police-and-Thieves",
+      "cover": "/wiki/media/Luigi-Parmeggiani.png"
     },
     {
       "id": "location-Luxembourg-Gallery",
@@ -2665,6 +3172,9 @@
         "key-location"
       ],
       "links": [
+        "location-6th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-6th-Arrondissement"
       ],
       "aliases": [],
@@ -2686,6 +3196,7 @@
         "occultist"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Cleo Verlaque"
       ],
@@ -2693,7 +3204,8 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Madame-Cleo-Verlaque.png"
     },
     {
       "id": "npc-Madame-Eugenie-Voclain-Head-Cook",
@@ -2711,6 +3223,12 @@
         "npc-Elise-Marceau-Maid",
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [
+        "location-House-of-the-North-Star",
+        "npc-Silas-Burke-Head-Butler",
+        "npc-Elise-Marceau-Maid",
+        "location-House-of-the-North-Star"
+      ],
       "aliases": [
         "Madame Voclain",
         "Eugénie Voclain"
@@ -2721,7 +3239,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Madame-Eugenie-Voclain-Head-Cook.png"
     },
     {
       "id": "location-Maison-Fournaise",
@@ -2735,12 +3254,16 @@
       "links": [
         "location-Paris-Outskirts"
       ],
+      "playerLinks": [
+        "location-Paris-Outskirts"
+      ],
       "aliases": [],
       "summary": "A bright riverside restaurant at Chatou, on an island in the Seine.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Paris-Outskirts"
+      "parent": "Paris-Outskirts",
+      "cover": "/wiki/media/Location-Maison-Fournaise.jpg"
     },
     {
       "id": "creatures-Marble-Dancer",
@@ -2753,12 +3276,14 @@
         "art"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "An animated statue that dances at night and drains a lover's life in pursuit of humanity.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Marble-Dancer.png"
     },
     {
       "id": "npc-Marcel-Proust",
@@ -2774,12 +3299,14 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Young society columnist with a gift for gossip and a future too large for one book.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Marcel-Proust.png"
     },
     {
       "id": "character-Marcus-J-rn-Jensen-Yoshi",
@@ -2792,11 +3319,13 @@
         "sheet"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A ready-to-fill Paris character sheet for The Yellow King RPG.",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [],
+      "cover": "/wiki/media/REPLACE.jpg"
     },
     {
       "id": "npc-Marie-Curie",
@@ -2810,6 +3339,7 @@
         "paris"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Maria Skłodowska-Curie"
       ],
@@ -2817,7 +3347,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Scientists-and-Inventors"
+      "parent": "Scientists-and-Inventors",
+      "cover": "/wiki/media/Marie-Curie.png"
     },
     {
       "id": "npc-Marie-Francois-Goron",
@@ -2831,6 +3362,7 @@
         "police"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Marie François Goron"
       ],
@@ -2838,7 +3370,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves"
+      "parent": "Police-and-Thieves",
+      "cover": "/wiki/media/Marie-Francois-Goron.png"
     },
     {
       "id": "creatures-Marie-Rowdon",
@@ -2852,12 +3385,14 @@
         "king-in-yellow"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A fashionable painter whose private intoxication salons implant fragments of The King in Yellow.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Marie-Rowdon.png"
     },
     {
       "id": "npc-Mary-Cassatt",
@@ -2873,12 +3408,14 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [],
       "summary": "American Impressionist painter whose social independence and cool eye make her a useful ally for art-world investigations.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Mary-Cassatt.jpg"
     },
     {
       "id": "npc-Maurice-Maeterlinck",
@@ -2893,12 +3430,14 @@
         "symbolist"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Belgian Symbolist playwright newly arrived in Paris with melancholy mysticism and dangerous dramatic instincts.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Maurice-Maeterlinck.png"
     },
     {
       "id": "location-Mazas-Prison",
@@ -2912,12 +3451,16 @@
       "links": [
         "location-12th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-12th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A brutal prison holding roughly twelve hundred inmates shortly before its closure.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "12th-Arrondissement"
+      "parent": "12th-Arrondissement",
+      "cover": "/wiki/media/Location-Mazas-Prison.jpg"
     },
     {
       "id": "creatures-Micar",
@@ -2930,12 +3473,14 @@
         "carcosa"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "An obsidian-skinned Carcosan predator whose dead hide becomes a bloody mirror of the past.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Micar.png"
     },
     {
       "id": "npc-Moina-Mathers",
@@ -2949,6 +3494,7 @@
         "golden-dawn"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Moina Bergson Mathers"
       ],
@@ -2956,7 +3502,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Moina-Mathers.png"
     },
     {
       "id": "location-Mont-de-Piete",
@@ -2970,12 +3517,16 @@
       "links": [
         "location-4th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-4th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "The municipal pawnshop network and its central warehouse.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "4th-Arrondissement"
+      "parent": "4th-Arrondissement",
+      "cover": "/wiki/media/Location-Mont-de-Piete.jpg"
     },
     {
       "id": "location-Moulin-Rouge",
@@ -2989,12 +3540,16 @@
       "links": [
         "location-18th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-18th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "The windmill-fronted pleasure palace where every social class gathers for spectacle and the can-can.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "18th-Arrondissement"
+      "parent": "18th-Arrondissement",
+      "cover": "/wiki/media/Location-Moulin-Rouge.jpg"
     },
     {
       "id": "location-Musee-du-Louvre",
@@ -3006,6 +3561,9 @@
         "key-location"
       ],
       "links": [
+        "location-1st-Arrondissement"
+      ],
+      "playerLinks": [
         "location-1st-Arrondissement"
       ],
       "aliases": [],
@@ -3027,6 +3585,7 @@
         "scientists"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Gaspard-Félix Tournachon"
       ],
@@ -3034,7 +3593,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Scientists-and-Inventors"
+      "parent": "Scientists-and-Inventors",
+      "cover": "/wiki/media/Nadar.png"
     },
     {
       "id": "creatures-Nokk",
@@ -3049,6 +3609,9 @@
       "links": [
         "location-Jardin-des-Plantes"
       ],
+      "playerLinks": [
+        "location-Jardin-des-Plantes"
+      ],
       "aliases": [],
       "summary": "An aquatic mutant whose spine-song disguises a fishlike hunter as a compelling human presence.",
       "visibility": "gm",
@@ -3056,7 +3619,8 @@
       "keyLinks": [
         "Jardin-des-Plantes"
       ],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Nokk.png"
     },
     {
       "id": "location-Notre-Dame-de-Paris",
@@ -3068,6 +3632,9 @@
         "key-location"
       ],
       "links": [
+        "location-1st-Arrondissement"
+      ],
+      "playerLinks": [
         "location-1st-Arrondissement"
       ],
       "aliases": [],
@@ -3089,6 +3656,9 @@
       "links": [
         "location-9th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-9th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A Pigalle café associated with Degas and the painters of modern Paris.",
       "visibility": "players",
@@ -3106,6 +3676,23 @@
         "occultists"
       ],
       "links": [
+        "npc-Albert-de-Rochas",
+        "npc-Alexandre-Saint-Yves",
+        "npc-Antonio-Herrera",
+        "npc-Camille-Flammarion",
+        "npc-Charles-Richet",
+        "npc-Edmond-Bailly",
+        "npc-Ely-Star",
+        "npc-Josephin-Peladan",
+        "npc-Jules-Doinel",
+        "npc-Leo-Taxil",
+        "npc-Moina-Mathers",
+        "npc-Oswald-Wirth",
+        "npc-Papus-Gerard-Encausse",
+        "npc-Samuel-Liddell-MacGregor-Mathers",
+        "npc-Stanislas-de-Guaita"
+      ],
+      "playerLinks": [
         "npc-Albert-de-Rochas",
         "npc-Alexandre-Saint-Yves",
         "npc-Antonio-Herrera",
@@ -3143,12 +3730,14 @@
         "symbolist"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Symbolist painter whose grotesque visions can look uncomfortably like reports from Carcosa.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Odilon-Redon.png"
     },
     {
       "id": "location-Olympia-Music-Hall",
@@ -3160,6 +3749,9 @@
         "key-location"
       ],
       "links": [
+        "location-9th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-9th-Arrondissement"
       ],
       "aliases": [],
@@ -3183,12 +3775,14 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Cartomancer and occult illustrator whose tarot images can become clues, keys, or traps.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Oswald-Wirth.png"
     },
     {
       "id": "creatures-Our-Lady-of-Bones",
@@ -3203,6 +3797,9 @@
       "links": [
         "location-Notre-Dame-de-Paris"
       ],
+      "playerLinks": [
+        "location-Notre-Dame-de-Paris"
+      ],
       "aliases": [
         "Notre Dame des Os"
       ],
@@ -3212,7 +3809,8 @@
       "keyLinks": [
         "Notre-Dame-de-Paris"
       ],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Our-Lady-of-Bones.png"
     },
     {
       "id": "location-Palais-Garnier",
@@ -3224,6 +3822,9 @@
         "key-location"
       ],
       "links": [
+        "location-9th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-9th-Arrondissement"
       ],
       "aliases": [],
@@ -3245,6 +3846,9 @@
       "links": [
         "location-1st-Arrondissement"
       ],
+      "playerLinks": [
+        "location-1st-Arrondissement"
+      ],
       "aliases": [],
       "summary": "The great court complex on the Île de la Cité.",
       "visibility": "players",
@@ -3264,12 +3868,14 @@
         "content-warning"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A Carcosan reality has made the myth of Pan and Syrinx brutally real in Paris.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Pan.png"
     },
     {
       "id": "npc-Papus-Gerard-Encausse",
@@ -3283,6 +3889,7 @@
         "martinist"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Gérard Encausse",
         "Gerard Encausse",
@@ -3292,7 +3899,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Papus-Gerard-Encausse.png"
     },
     {
       "id": "location-Paris-Catacombs",
@@ -3306,12 +3914,16 @@
       "links": [
         "location-14th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-14th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "The regulated ossuary beneath Paris, assembled from displaced cemeteries and quarry tunnels.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "14th-Arrondissement"
+      "parent": "14th-Arrondissement",
+      "cover": "/wiki/media/Location-Paris-Catacombs.jpg"
     },
     {
       "id": "location-Paris-Morgue",
@@ -3323,6 +3935,9 @@
         "key-location"
       ],
       "links": [
+        "location-1st-Arrondissement"
+      ],
+      "playerLinks": [
         "location-1st-Arrondissement"
       ],
       "aliases": [],
@@ -3342,6 +3957,14 @@
         "arrondissement"
       ],
       "links": [
+        "location-Maison-Fournaise",
+        "location-Basilica-of-Saint-Denis",
+        "location-Saint-Ouen-Cemetery",
+        "location-Depot-de-Mendicite",
+        "location-Charenton-Asylum",
+        "location-Bicetre-Hospital"
+      ],
+      "playerLinks": [
         "location-Maison-Fournaise",
         "location-Basilica-of-Saint-Denis",
         "location-Saint-Ouen-Cemetery",
@@ -3376,6 +3999,7 @@
         "painter"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Paul Cezanne"
       ],
@@ -3383,7 +4007,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Paul-Cezanne.png"
     },
     {
       "id": "npc-Paul-Gauguin",
@@ -3397,12 +4022,14 @@
         "painter"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Hard-living Symbolist painter carrying Brittany folklore, anger, and the shadow of van Gogh.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Paul-Gauguin.png"
     },
     {
       "id": "npc-Paul-Verlaine",
@@ -3417,12 +4044,14 @@
         "symbolist"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Revered Symbolist poet in ruin, still treated as holy by those who drink beside him.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Paul-Verlaine.png"
     },
     {
       "id": "location-Pere-Lachaise-Cemetery",
@@ -3434,6 +4063,9 @@
         "key-location"
       ],
       "links": [
+        "location-20th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-20th-Arrondissement"
       ],
       "aliases": [],
@@ -3455,12 +4087,16 @@
       "links": [
         "location-12th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-12th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "Paris’s only private cemetery, founded around a mass grave of Revolutionary victims.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "12th-Arrondissement"
+      "parent": "12th-Arrondissement",
+      "cover": "/wiki/media/Location-Picpus-Cemetery.JPG"
     },
     {
       "id": "creatures-Picture-Perfect",
@@ -3474,12 +4110,14 @@
         "ghost"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Collective artistic belief manifests a dead master's shade, which grows more real with every new devotee.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Picture-Perfect.png"
     },
     {
       "id": "npc-Pierre-Auguste-Renoir",
@@ -3493,6 +4131,7 @@
         "painter"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Auguste Renoir"
       ],
@@ -3500,7 +4139,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Pierre-Auguste-Renoir.png"
     },
     {
       "id": "creatures-Pigment",
@@ -3514,12 +4154,14 @@
         "conspiracy"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Paint manufacturers mix Carcosan materials into oils that induce nightmares, frenzy, or unnatural sleep.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Pigment.png"
     },
     {
       "id": "npc-Police-and-Thieves",
@@ -3531,6 +4173,16 @@
         "police-and-thieves"
       ],
       "links": [
+        "npc-Alphonse-Bertillon",
+        "npc-Colonel-Caoutchouc",
+        "npc-Georges-Grison",
+        "npc-Julien-Alerte",
+        "npc-Louis-Lepine",
+        "npc-Luigi-Parmeggiani",
+        "npc-Marie-Francois-Goron",
+        "npc-Pyotr-Rachkovsky"
+      ],
+      "playerLinks": [
         "npc-Alphonse-Bertillon",
         "npc-Colonel-Caoutchouc",
         "npc-Georges-Grison",
@@ -3561,12 +4213,16 @@
       "links": [
         "location-9th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-9th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A modern department store whose flagship popularizes Art Nouveau design.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "9th-Arrondissement"
+      "parent": "9th-Arrondissement",
+      "cover": "/wiki/media/Location-Printemps.jpg"
     },
     {
       "id": "location-Prison-Saint-Lazare",
@@ -3578,6 +4234,9 @@
         "key-location"
       ],
       "links": [
+        "location-10th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-10th-Arrondissement"
       ],
       "aliases": [],
@@ -3599,6 +4258,9 @@
       "links": [
         "location-8th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-8th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A network of Anglican, Episcopal, Wesleyan, Congregationalist, and Baptist congregations serving foreign residents.",
       "visibility": "players",
@@ -3618,6 +4280,7 @@
         "espionage"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Piotr Rachkovsky"
       ],
@@ -3625,7 +4288,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Police-and-Thieves"
+      "parent": "Police-and-Thieves",
+      "cover": "/wiki/media/Pyotr-Rachkovsky.png"
     },
     {
       "id": "location-Sacre-C-ur",
@@ -3639,12 +4303,16 @@
       "links": [
         "location-18th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-18th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "The unfinished basilica rising over Montmartre as a rebuke to the Commune.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "18th-Arrondissement"
+      "parent": "18th-Arrondissement",
+      "cover": "/wiki/media/Location-Sacre-C-ur.jpg"
     },
     {
       "id": "location-Saint-Ouen-Cemetery",
@@ -3658,12 +4326,16 @@
       "links": [
         "location-Paris-Outskirts"
       ],
+      "playerLinks": [
+        "location-Paris-Outskirts"
+      ],
       "aliases": [],
       "summary": "A small cemetery near Montmartre used for criminals and the otherwise unwanted dead.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Paris-Outskirts"
+      "parent": "Paris-Outskirts",
+      "cover": "/wiki/media/Location-Saint-Ouen-Cemetery.jpg"
     },
     {
       "id": "location-Saint-Sulpice",
@@ -3677,12 +4349,16 @@
       "links": [
         "location-6th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-6th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "Paris’s second-largest church and home to one of the era’s great organs.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "6th-Arrondissement"
+      "parent": "6th-Arrondissement",
+      "cover": "/wiki/media/Location-Saint-Sulpice.jpg"
     },
     {
       "id": "location-Sainte-Chapelle",
@@ -3696,12 +4372,16 @@
       "links": [
         "location-1st-Arrondissement"
       ],
+      "playerLinks": [
+        "location-1st-Arrondissement"
+      ],
       "aliases": [],
       "summary": "The restored royal chapel famed for soaring vaults and walls of stained glass.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "1st-Arrondissement"
+      "parent": "1st-Arrondissement",
+      "cover": "/wiki/media/Location-Sainte-Chapelle.jpg"
     },
     {
       "id": "location-Sainte-Genevieve-Library",
@@ -3713,6 +4393,9 @@
         "key-location"
       ],
       "links": [
+        "location-5th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-5th-Arrondissement"
       ],
       "aliases": [],
@@ -3734,6 +4417,9 @@
       "links": [
         "location-5th-Arrondissement"
       ],
+      "playerLinks": [
+        "location-5th-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A small but prestigious prison for writers, artists, and political offenders.",
       "visibility": "players",
@@ -3751,6 +4437,9 @@
         "key-location"
       ],
       "links": [
+        "location-13th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-13th-Arrondissement"
       ],
       "aliases": [],
@@ -3772,6 +4461,7 @@
         "golden-dawn"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Samuel Mathers",
         "MacGregor Mathers"
@@ -3780,7 +4470,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Samuel-Liddell-MacGregor-Mathers.png"
     },
     {
       "id": "npc-Sarah-Bernhardt",
@@ -3796,6 +4487,7 @@
       "links": [
         "location-House-of-the-North-Star"
       ],
+      "playerLinks": [],
       "aliases": [
         "The Divine Sarah"
       ],
@@ -3803,7 +4495,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Sarah-Bernhardt.png"
     },
     {
       "id": "npc-Sarah-Brown",
@@ -3817,6 +4510,7 @@
         "model"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Marie-Florentine Royer"
       ],
@@ -3824,7 +4518,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Sarah-Brown.png"
     },
     {
       "id": "npc-Scientists-and-Inventors",
@@ -3836,6 +4531,11 @@
         "scientists"
       ],
       "links": [
+        "npc-Dr-Georges-Bonnet",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Marie-Curie"
+      ],
+      "playerLinks": [
         "npc-Dr-Georges-Bonnet",
         "npc-Dr-Ludwig-Weiss",
         "npc-Marie-Curie"
@@ -3859,6 +4559,37 @@
         "bonnet-affair"
       ],
       "links": [
+        "character-Marcus-J-rn-Jensen-Yoshi",
+        "character-Edward-Vine-Jarod",
+        "character-Jackson-Jay-Steerman-IV-David",
+        "character-Henry-Pirece-Laura",
+        "location-House-of-the-North-Star",
+        "npc-Silas-Burke-Head-Butler",
+        "character-Marcus-J-rn-Jensen-Yoshi",
+        "character-Edward-Vine-Jarod",
+        "character-Jackson-Jay-Steerman-IV-David",
+        "npc-Silas-Burke-Head-Butler",
+        "npc-Elise-Marceau-Maid",
+        "npc-Madame-Eugenie-Voclain-Head-Cook",
+        "npc-Etienne-Renaud-Valet",
+        "location-Hotel-Bonnet",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Janine-Du-Bois",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Louis-Lepine",
+        "npc-Louis-Lepine",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Janine-Du-Bois",
+        "npc-Louis-Lepine",
+        "npc-Adrien-Mercier",
+        "npc-Theo-Marchand",
+        "npc-Camille-Roussel",
+        "npc-Louis-Lepine"
+      ],
+      "playerLinks": [
         "character-Marcus-J-rn-Jensen-Yoshi",
         "character-Edward-Vine-Jarod",
         "character-Jackson-Jay-Steerman-IV-David",
@@ -3946,6 +4677,25 @@
         "npc-Dr-Georges-Bonnet",
         "npc-Henri-de-Toulouse-Lautrec"
       ],
+      "playerLinks": [
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Louis-Lepine",
+        "location-House-of-the-North-Star",
+        "character-Jackson-Jay-Steerman-IV-David",
+        "character-Laurie-Shelby",
+        "character-Jackson-Jay-Steerman-IV-David",
+        "location-7th-Arrondissement",
+        "npc-Janine-Du-Bois",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Marie-Curie",
+        "character-Edward-Vine-Jarod",
+        "location-House-of-the-North-Star",
+        "character-Henry-Pirece-Laura",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Dr-Georges-Bonnet",
+        "npc-Henri-de-Toulouse-Lautrec"
+      ],
       "aliases": [
         "Session 2",
         "Game 2 Notes"
@@ -3985,6 +4735,12 @@
         "location-House-of-the-North-Star",
         "unresolved:lucien-de-vauclair"
       ],
+      "playerLinks": [
+        "location-House-of-the-North-Star",
+        "unresolved:lucien-de-vauclair",
+        "location-House-of-the-North-Star",
+        "unresolved:lucien-de-vauclair"
+      ],
       "aliases": [
         "Burke"
       ],
@@ -3994,7 +4750,8 @@
       "keyLinks": [
         "House of the North Star"
       ],
-      "parent": "House-Staff"
+      "parent": "House-Staff",
+      "cover": "/wiki/media/Silas-Burke.png"
     },
     {
       "id": "creatures-Silver-Sirens",
@@ -4008,12 +4765,14 @@
         "seine"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Seine predators that become women by night and hunt men guilty of violence.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Silver-Sirens.png"
     },
     {
       "id": "location-Sorbonne-Library",
@@ -4025,6 +4784,9 @@
         "key-location"
       ],
       "links": [
+        "location-5th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-5th-Arrondissement"
       ],
       "aliases": [],
@@ -4046,12 +4808,14 @@
         "rosicrucian"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "Aristocratic Rosicrucian crusader against black magic, romantic enough to be brave and wrong.",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Occultists"
+      "parent": "Occultists",
+      "cover": "/wiki/media/Stanislas-de-Guaita.png"
     },
     {
       "id": "npc-Stephane-Mallarme",
@@ -4066,6 +4830,7 @@
         "symbolist"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Stephane Mallarme"
       ],
@@ -4073,7 +4838,8 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Stephane-Mallarme.png"
     },
     {
       "id": "location-Surete-Headquarters",
@@ -4085,6 +4851,9 @@
         "key-location"
       ],
       "links": [
+        "location-1st-Arrondissement"
+      ],
+      "playerLinks": [
         "location-1st-Arrondissement"
       ],
       "aliases": [],
@@ -4106,6 +4875,9 @@
       "links": [
         "location-3rd-Arrondissement"
       ],
+      "playerLinks": [
+        "location-3rd-Arrondissement"
+      ],
       "aliases": [],
       "summary": "A botanical square occupying the demolished site of the Knights Templar fortress.",
       "visibility": "players",
@@ -4124,6 +4896,7 @@
         "occultist"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Evelyn Royer"
       ],
@@ -4131,7 +4904,8 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-The-Dollmaker.png"
     },
     {
       "id": "creatures-The-Doombringers",
@@ -4145,12 +4919,14 @@
         "police"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A secret fraternity of Paris gendarmes serving the King in Yellow and the end of ordinary reality.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-The-Doombringers.png"
     },
     {
       "id": "creatures-The-Dressmaker",
@@ -4164,6 +4940,7 @@
         "fashion"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Claudia Martin"
       ],
@@ -4171,7 +4948,8 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-The-Dressmaker.png"
     },
     {
       "id": "location-Theatre-Lyrique",
@@ -4183,6 +4961,9 @@
         "key-location"
       ],
       "links": [
+        "location-1st-Arrondissement"
+      ],
+      "playerLinks": [
         "location-1st-Arrondissement"
       ],
       "aliases": [],
@@ -4202,6 +4983,9 @@
         "key-location"
       ],
       "links": [
+        "location-10th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-10th-Arrondissement"
       ],
       "aliases": [],
@@ -4230,6 +5014,13 @@
         "npc-Camille-Roussel",
         "npc-Adrien-Mercier"
       ],
+      "playerLinks": [
+        "npc-Dr-Georges-Bonnet",
+        "location-Hotel-Bonnet",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Camille-Roussel",
+        "npc-Adrien-Mercier"
+      ],
       "aliases": [
         "Theo Marchand"
       ],
@@ -4242,7 +5033,8 @@
         "Eleanor “Nell” Whitcomb",
         "Session One Notes"
       ],
-      "parent": "Artists-and-Bohemians"
+      "parent": "Artists-and-Bohemians",
+      "cover": "/wiki/media/Theo-Marchand.png"
     },
     {
       "id": "location-Tour-Saint-Jacques",
@@ -4254,6 +5046,9 @@
         "key-location"
       ],
       "links": [
+        "location-4th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-4th-Arrondissement"
       ],
       "aliases": [],
@@ -4275,6 +5070,7 @@
         "death-mask"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "L'Inconnue de la Seine",
         "The Unknown Woman of the Seine"
@@ -4283,7 +5079,8 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Unknown-of-the-Seine.png"
     },
     {
       "id": "location-Val-de-Grace",
@@ -4295,6 +5092,9 @@
         "key-location"
       ],
       "links": [
+        "location-5th-Arrondissement"
+      ],
+      "playerLinks": [
         "location-5th-Arrondissement"
       ],
       "aliases": [],
@@ -4315,12 +5115,14 @@
         "flaneur"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A transformed flâneur who talks victims into a labyrinthine imitation of Paris.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Wanderer.png"
     },
     {
       "id": "creatures-Widowmaker",
@@ -4334,6 +5136,7 @@
         "murderer"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [
         "Sebastian Beaumont"
       ],
@@ -4341,7 +5144,8 @@
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Widowmaker.png"
     },
     {
       "id": "creatures-Winter-Worm",
@@ -4355,12 +5159,14 @@
         "cult"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A parasitic false healer that suppresses pain while its euphoric hosts waste away.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Winter-Worm.png"
     },
     {
       "id": "creatures-Yellow-Carnation",
@@ -4374,12 +5180,14 @@
         "carcosa"
       ],
       "links": [],
+      "playerLinks": [],
       "aliases": [],
       "summary": "A fashionable Carcosan flower that roots inside decadent wearers and turns them into infectious hosts.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [],
-      "parent": "Creatures"
+      "parent": "Creatures",
+      "cover": "/wiki/media/Creature-Yellow-Carnation.png"
     }
   ]
 }
