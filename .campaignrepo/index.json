@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T15:22:52.264Z",
+  "generatedAt": "2026-11-10T16:40:58.815Z",
   "pages": [
     {
       "id": "location-10th-Arrondissement",
@@ -4646,6 +4646,67 @@
         "Adrien Mercier",
         "Théo Marchand",
         "Camille Roussel"
+      ]
+    },
+    {
+      "id": "game-Session-Three-Notes",
+      "title": "Session Three Notes",
+      "path": "wiki/pages/Session-Three-Notes.md",
+      "type": "game",
+      "tags": [
+        "game",
+        "session-notes",
+        "bonnet-affair"
+      ],
+      "links": [
+        "game-Session-Two-Notes",
+        "character-Marcus-J-rn-Jensen-Yoshi",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Dr-Georges-Bonnet",
+        "location-House-of-the-North-Star",
+        "npc-Silas-Burke-Head-Butler",
+        "character-Henry-Pirece-Laura",
+        "game-Session-One-Notes",
+        "npc-Madame-Eugenie-Voclain-Head-Cook",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Louis-Lepine",
+        "npc-Adrien-Mercier",
+        "npc-Theo-Marchand",
+        "npc-Camille-Roussel"
+      ],
+      "playerLinks": [
+        "game-Session-Two-Notes",
+        "character-Marcus-J-rn-Jensen-Yoshi",
+        "npc-Eleanor-Nell-Whitcomb",
+        "npc-Dr-Georges-Bonnet",
+        "location-House-of-the-North-Star",
+        "npc-Silas-Burke-Head-Butler",
+        "character-Henry-Pirece-Laura",
+        "game-Session-One-Notes",
+        "npc-Madame-Eugenie-Voclain-Head-Cook",
+        "npc-Dr-Ludwig-Weiss",
+        "npc-Louis-Lepine",
+        "npc-Adrien-Mercier",
+        "npc-Theo-Marchand",
+        "npc-Camille-Roussel"
+      ],
+      "aliases": [
+        "Session 3",
+        "Game 3 Notes"
+      ],
+      "summary": "The investigators bring an unknown liquid to a pharmacist, stop the North Star pig from being slaughtered, and follow leads through Weiss and the police before a shared dream takes them to Carcosa.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "Session-Two-Notes",
+        "House-of-the-North-Star",
+        "Marcus-J-rn-Jensen-Yoshi",
+        "Henry-Pirece-Laura",
+        "Silas-Burke-Head-Butler",
+        "Eleanor-Nell-Whitcomb",
+        "Dr-Georges-Bonnet",
+        "Dr-Ludwig-Weiss",
+        "Louis-Lepine"
       ]
     },
     {
