@@ -2,14 +2,29 @@
 category: game
 type: game
 name: Session Three Notes
-summary: ""
+summary: The investigators bring an unknown liquid to a pharmacist, stop the
+  North Star pig from being slaughtered, and follow leads through Weiss and the
+  police before a shared dream takes them to Carcosa.
 tags:
   - game
-visibility: gm
+  - session-notes
+  - bonnet-affair
+visibility: players
 approvalStatus: unapproved
-knownToPlayers: false
-keyLinks: []
-aliases: []
+knownToPlayers: true
+keyLinks:
+  - Session-Two-Notes
+  - House-of-the-North-Star
+  - Marcus-J-rn-Jensen-Yoshi
+  - Henry-Pirece-Laura
+  - Silas-Burke-Head-Butler
+  - Eleanor-Nell-Whitcomb
+  - Dr-Georges-Bonnet
+  - Dr-Ludwig-Weiss
+  - Louis-Lepine
+aliases:
+  - Session 3
+  - Game 3 Notes
 lastEditedBy: AI via MCP
 ---
 
