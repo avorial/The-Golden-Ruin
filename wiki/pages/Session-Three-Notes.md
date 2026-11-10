@@ -10,7 +10,7 @@ tags:
   - session-notes
   - bonnet-affair
 visibility: players
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: true
 keyLinks:
   - Session-Two-Notes
@@ -25,7 +25,7 @@ keyLinks:
 aliases:
   - Session 3
   - Game 3 Notes
-lastEditedBy: AI via MCP
+lastEditedBy: GM review via MCP
 ---
 
 # Session Three Notes
